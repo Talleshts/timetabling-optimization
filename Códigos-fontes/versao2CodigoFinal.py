@@ -86,7 +86,6 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                 terms_out = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
                 
                 # Determinar o valor de b_v
-                # PERGUNTAR GERALDO SOBRE ESSE PONTO
                 if time["id"].endswith("_1"):  # Supondo que o primeiro período do dia seja a origem
                     b_v = 1
                 elif time["id"].endswith("_5"):  # Supondo que o último período do dia seja o destino
@@ -163,12 +162,17 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
 
         lp_file.write("Binary\n")
         binary_vars = set()
+        continuous_vars = set()
         for event in events:
             for time in times:
                 binary_vars.add(f"x_{event['teacher']}_{event['class']}_{time['id']}")
             binary_vars.add(f"y_{event['teacher']}")
-            binary_vars.add(f"g_{event['teacher']}_{event['class']}")
+            continuous_vars.add(f"g_{event['teacher']}_{event['class']}")
         for var in binary_vars:
+            lp_file.write(f"  {var}\n")
+
+        lp_file.write("General\n")
+        for var in continuous_vars:
             lp_file.write(f"  {var}\n")
 
         lp_file.write("End\n")
