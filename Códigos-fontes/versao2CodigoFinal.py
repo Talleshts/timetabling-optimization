@@ -45,8 +45,8 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
 
         resources = [res.attrib.get("Reference") for res in event.findall(".//Resource") if res.attrib.get("Reference") is not None]
         print(f"Recursos do evento {event_id}: {resources}")
-        teacher = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType").attrib.get("Reference") == "Teacher"), None)
-        class_group = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType").attrib.get("Reference") == "Class"), None)
+        teacher = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType") is not None and res.find("ResourceType").attrib.get("Reference") == "Teacher"), None)
+        class_group = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType") is not None and res.find("ResourceType").attrib.get("Reference") == "Class"), None)
         max_daily_elem = event.find("MaxDaily")
         max_daily = int(max_daily_elem.text) if max_daily_elem is not None and max_daily_elem.text.isdigit() else 2
         print(f"Professor: {teacher}, Classe: {class_group}, MaxDaily: {max_daily}")
@@ -185,4 +185,4 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     print(f"Arquivo LP gerado em {output_file}")
 
 # Exemplo de chamada da função
-read_xml_and_generate_lp_with_weights("Instâncias/ArtificialSudoku4x4.xml", "./outputs/lps/ArtificialSudoku4x4.lp")
+read_xml_and_generate_lp_with_weights("Instâncias/BrazilInstance1.xml", "./outputs/lps/BrazilInstance1.lp")
