@@ -14,6 +14,7 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     times = []
     events = []
     time_groups = {}
+    max_daily_lessons = {}
 
     print("Lendo os tempos...")
     for time in instances.findall(".//Time"):
@@ -46,7 +47,9 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
         print(f"Recursos do evento {event_id}: {resources}")
         teacher = next((res for res in resources if res.startswith("T")), None)
         class_group = next((res for res in resources if res.startswith("S")), None)
-        print(f"Professor: {teacher}, Classe: {class_group}")
+        max_daily_elem = event.find("MaxDaily")
+        max_daily = int(max_daily_elem.text) if max_daily_elem is not None and max_daily_elem.text.isdigit() else 2
+        print(f"Professor: {teacher}, Classe: {class_group}, MaxDaily: {max_daily}")
 
         if not teacher:
             print(f"Aviso: Evento {event_id} ignorado. Professor ausente.")
@@ -58,8 +61,10 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                 "id": event_id,
                 "duration": duration,
                 "teacher": teacher,
-                "class": class_group
+                "class": class_group,
+                "max_daily": max_daily
             })
+            max_daily_lessons[(teacher, class_group)] = max_daily
     print(f"Eventos lidos: {events}")
 
     print("Gerando arquivo LP...")
@@ -79,25 +84,23 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
         lp_file.write(" + ".join(objective_terms) + "\n")
         lp_file.write("Subject To\n")
 
-        # Restrição 2: Conservação de Fluxo
+        # Restrição 1: Conservação de Fluxo
+        # PERGUNTAR PARA O GERALDO SOBRE ESSA RESTRIÇÃO
         for teacher in {e["teacher"] for e in events if e["teacher"]}:
             for time in times:
                 terms_in = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
                 terms_out = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
-                
-                # Determinar o valor de b_v
-                if time["id"].endswith("_1"):  # Supondo que o primeiro período do dia seja a origem
+                if time["id"].endswith("_1"):
                     b_v = 1
-                elif time["id"].endswith("_5"):  # Supondo que o último período do dia seja o destino
+                elif time["id"].endswith("_5"):
                     b_v = -1
                 else:
                     b_v = 0
-                
                 if terms_in or terms_out:
                     constraint_name = f"flow_{teacher}_{time['id']}"
                     lp_file.write(f" {constraint_name}: " + " + ".join(terms_in) + " - " + " - ".join(terms_out) + f" = {b_v}\n")
 
-        # Restrição 3: Capacidade unitária dos arcos de aula
+        # Restrição 2: Capacidade unitária dos arcos de aula
         for cls in {e["class"] for e in events if e["class"]}:
             for time in times:
                 terms = [f"x_{event['teacher']}_{cls}_{time['id']}" for event in events if event["class"] == cls and event["teacher"]]
@@ -105,7 +108,7 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                     constraint_name = f"capacity_{cls}_{time['id']}"
                     lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 1\n")
 
-        # Restrição 4: Número de aulas obrigatórias
+        # Restrição 3: Número de aulas obrigatórias
         for event in events:
             if event["teacher"] and event["class"]:
                 terms = [f"x_{event['teacher']}_{event['class']}_{time['id']}" for time in times]
@@ -113,9 +116,9 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                     constraint_name = f"workload_{event['teacher']}_{event['class']}"
                     lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" = {event['duration']}\n")
 
-        # Restrição 5: Máximo de aulas diárias
+        # Restrição 4: Máximo de aulas diárias
         for event in events:
-            if event["teacher"] and event["class"]:
+            if event["teacher"] and event["class"] and event.get("max_daily"):
                 daily_terms = {}
                 for time in times:
                     group = time_groups.get(time["group"], time["group"])
@@ -124,41 +127,43 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                     daily_terms[group].append(f"x_{event['teacher']}_{event['class']}_{time['id']}")
                 for group, terms in daily_terms.items():
                     if terms:
+                        max_daily = max_daily_lessons.get((event["teacher"], event["class"]), 2)
                         constraint_name = f"max_daily_{event['teacher']}_{event['class']}_{group}"
-                        lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 2\n")
+                        lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" <= {max_daily}\n")
 
-        # Restrição 6: Aulas no primeiro período do dia
+        # Restrição 5: Aulas no primeiro período do dia
         for cls in {e["class"] for e in events if e["class"]}:
             for time in times:
-                if time["id"].endswith("_1"):  # Primeiro período do dia
+                if time["id"].endswith("_1"):
                     terms = [f"x_{event['teacher']}_{cls}_{time['id']}" for event in events if event["class"] == cls and event["teacher"]]
                     if terms:
                         constraint_name = f"first_period_{cls}_{time['id']}"
                         lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 1\n")
 
-        # Restrição 7: Aulas duplas não atendidas
+        # Restrição 6: Aulas duplas não atendidas
         for event in events:
             if event["teacher"] and event["class"]:
+                ## PERGUNTAR PARA O GERALDO SOBRE ESSA RESTRIÇÃO
+                double_lessons_needed = 2  # VOU SUPOR QUE o número mínimo necessário de aulas duplas é 2
+                terms = []
                 for i, time in enumerate(times[:-1]):
                     current_time = time["id"]
                     next_time = times[i + 1]["id"]
                     if time["group"] == times[i + 1]["group"]:
-                        double_var = f"double_{event['id']}_{current_time}"
-                        terms = [
-                            f"x_{event['teacher']}_{event['class']}_{current_time}",
-                            f"x_{event['teacher']}_{event['class']}_{next_time}"
-                        ]
-                        if terms:
-                            constraint_name = f"double_lessons_{event['teacher']}_{event['class']}_{current_time}"
-                            lp_file.write(f" {constraint_name}: " + double_var + " - " + " - ".join(terms) + " >= -1\n")
-
-        # Restrição 8: Mínimo de dias de trabalho
-        for teacher in {e["teacher"] for e in events if e["teacher"]}:
-            for group in time_groups.values():
-                terms = [f"x_{teacher}_{time['id']}" for time in times if time_groups.get(time["group"], time["group"]) == group]
+                        terms.append(f"x_{event['teacher']}_{event['class']}_{current_time}")
+                        terms.append(f"x_{event['teacher']}_{event['class']}_{next_time}")
                 if terms:
-                    constraint_name = f"working_days_{teacher}_{group}"
-                    lp_file.write(f" {constraint_name}: " + f"days_{teacher}" + " - " + " - ".join(terms) + " >= 0\n")
+                    constraint_name = f"double_lessons_{event['teacher']}_{event['class']}"
+                    lp_file.write(f" {constraint_name}: g_{event['teacher']}_{event['class']} >= {double_lessons_needed} - " + " - ".join(terms) + "\n")
+
+        # Restrição 7: Mínimo de dias de trabalho
+        for teacher in {e["teacher"] for e in events if e["teacher"]}:
+            ## PERGUNTAR PARA O GERALDO SOBRE ESSA RESTRIÇÃO
+            min_working_days = 3  # VOU SUPOR QUE o número mínimo de dias de trabalho é 3
+            terms = [f"x_{teacher}_{time['id']}" for time in times]
+            if terms:
+                constraint_name = f"working_days_{teacher}"
+                lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" >= {min_working_days}\n")
 
         lp_file.write("Binary\n")
         binary_vars = set()
@@ -180,4 +185,4 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     print(f"Arquivo LP gerado em {output_file}")
 
 # Exemplo de chamada da função
-read_xml_and_generate_lp_with_weights("Instâncias/BrazilInstance2.xml", "./outputs/lps/BrazilInstance2.lp")
+read_xml_and_generate_lp_with_weights("Instâncias/BrazilInstance7.xml", "./outputs/lps/BrazilInstance7.lp")

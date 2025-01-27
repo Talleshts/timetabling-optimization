@@ -1,242 +1,1005 @@
 Minimize
- obj: 1 x1 + 1 x2 + 1 x3 + 1 x4 + 1 x5 + 1 x6 + 1 x7 + 1 x8 + 1 x9 + 1 x10 + 1 x11 + 1 x12 + 1 x13 + 1 x14 + 1 x15 + 1 x16 + 1 x17 + 1 x18 + 1 x19 + 1 x20 + 1 x21 + 3 x22 + 9 x23 + 3 x24 + 9 x25 + 3 x26 + 9 x27 + 3 x28 + 9 x29 + 3 x30 + 9 x31 + 3 x32 + 9 x33 + 3 x34 + 9 x35 + 3 x36 + 9 x37
-
+3 x_T4_S1_Mo_3 + 3 x_T1_S3_We_2 + 3 x_T2_S1_Tu_5 + 3 x_T7_S3_Fr_4 + 3 x_T3_S1_Mo_4 + 1 g_T1_S1 + 3 x_T1_S3_Fr_2 + 3 x_T8_S2_We_3 + 3 x_T6_S1_Fr_1 + 3 x_T4_S3_We_3 + 3 x_T4_S3_Th_2 + 3 x_T8_S1_Tu_4 + 3 x_T5_S3_Th_2 + 3 x_T1_S2_Th_5 + 3 x_T7_S1_Mo_2 + 3 x_T3_S1_Fr_4 + 3 x_T8_S3_Mo_1 + 3 x_T1_S1_We_1 + 3 x_T3_S1_Mo_5 + 3 x_T1_S1_Fr_1 + 3 x_T7_S1_Mo_5 + 3 x_T2_S2_We_3 + 3 x_T4_S3_Th_4 + 3 x_T7_S3_Tu_4 + 3 x_T7_S1_Tu_1 + 3 x_T1_S1_Th_4 + 3 x_T4_S3_Mo_5 + 3 x_T3_S2_Fr_1 + 3 x_T1_S3_Fr_1 + 3 x_T1_S3_Mo_3 + 3 x_T6_S1_Fr_4 + 3 x_T3_S3_We_4 + 3 x_T8_S3_We_2 + 3 x_T8_S3_Tu_5 + 9 y_T6 + 3 x_T7_S1_Th_1 + 3 x_T6_S3_We_4 + 3 x_T5_S2_We_2 + 9 y_T1 + 3 x_T6_S1_We_3 + 3 x_T1_S1_Mo_1 + 3 x_T3_S2_Th_1 + 3 x_T1_S1_Fr_2 + 3 x_T4_S3_Mo_1 + 3 x_T1_S2_We_4 + 3 x_T4_S3_Fr_5 + 3 x_T6_S1_Th_4 + 3 x_T7_S1_Tu_5 + 3 x_T3_S1_Tu_5 + 3 x_T2_S2_Mo_5 + 3 x_T3_S3_We_5 + 3 x_T6_S3_Tu_4 + 3 x_T3_S1_Th_2 + 3 x_T8_S2_We_1 + 3 x_T5_S2_Mo_2 + 3 x_T1_S1_We_5 + 3 x_T4_S1_Fr_5 + 3 x_T6_S3_Mo_4 + 3 x_T6_S1_We_2 + 3 x_T7_S3_Mo_1 + 3 x_T5_S3_Mo_3 + 3 x_T3_S1_Fr_3 + 3 x_T2_S1_Mo_2 + 3 x_T3_S3_Tu_2 + 3 x_T3_S1_Tu_4 + 3 x_T3_S2_Fr_5 + 3 x_T1_S2_Th_4 + 3 x_T4_S3_We_4 + 3 x_T4_S1_Tu_5 + 3 x_T6_S1_Fr_2 + 3 x_T8_S2_We_5 + 3 x_T1_S3_Th_1 + 3 x_T8_S3_We_5 + 3 x_T8_S1_Fr_5 + 3 x_T8_S3_We_3 + 3 x_T2_S2_We_2 + 3 x_T6_S3_Th_4 + 3 x_T3_S3_Th_1 + 1 g_T7_S3 + 3 x_T3_S2_Th_5 + 3 x_T8_S2_Th_4 + 3 x_T6_S2_Mo_2 + 3 x_T3_S3_Mo_1 + 1 g_T6_S3 + 3 x_T6_S2_Mo_5 + 3 x_T7_S3_We_5 + 3 x_T3_S3_Th_2 + 3 x_T3_S3_Fr_5 + 3 x_T8_S2_Mo_5 + 3 x_T8_S3_Th_5 + 3 x_T5_S3_Th_3 + 3 x_T3_S3_Tu_4 + 3 x_T8_S1_Th_2 + 3 x_T8_S1_Mo_2 + 3 x_T4_S3_We_1 + 3 x_T5_S2_Mo_3 + 3 x_T8_S1_Fr_2 + 1 g_T6_S2 + 3 x_T4_S2_Fr_2 + 3 x_T4_S3_Th_1 + 3 x_T3_S3_Th_3 + 3 x_T8_S1_Mo_3 + 3 x_T1_S3_We_5 + 3 x_T6_S3_Fr_1 + 3 x_T7_S1_Tu_2 + 3 x_T8_S3_Mo_4 + 3 x_T4_S1_Fr_1 + 3 x_T5_S3_Th_5 + 3 x_T8_S2_Tu_5 + 3 x_T6_S3_Fr_3 + 3 x_T8_S3_Tu_4 + 3 x_T3_S3_Mo_4 + 1 g_T1_S2 + 3 x_T3_S3_Tu_3 + 3 x_T5_S3_Mo_2 + 3 x_T1_S3_Mo_5 + 3 x_T8_S1_Fr_1 + 3 x_T6_S2_We_3 + 3 x_T3_S3_We_3 + 3 x_T6_S1_Fr_5 + 3 x_T1_S1_We_2 + 3 x_T6_S3_Fr_2 + 3 x_T3_S2_Tu_5 + 3 x_T3_S3_Mo_5 + 3 x_T2_S1_Mo_1 + 3 x_T7_S1_Th_4 + 3 x_T6_S2_Mo_3 + 3 x_T5_S2_We_1 + 3 x_T1_S1_Mo_3 + 3 x_T1_S3_Th_2 + 3 x_T1_S3_Mo_2 + 3 x_T2_S2_Th_3 + 3 x_T1_S1_Th_1 + 3 x_T4_S2_We_1 + 3 x_T6_S2_Tu_5 + 3 x_T1_S1_Th_5 + 9 y_T7 + 3 x_T7_S3_Th_3 + 3 x_T3_S1_Fr_2 + 3 x_T1_S2_We_3 + 3 x_T7_S3_Fr_5 + 3 x_T7_S1_Tu_3 + 3 x_T4_S1_Tu_3 + 3 x_T4_S1_We_2 + 3 x_T1_S2_Mo_3 + 3 x_T6_S2_Fr_5 + 3 x_T2_S1_We_2 + 3 x_T2_S1_Th_1 + 3 x_T7_S3_Fr_1 + 3 x_T3_S1_We_2 + 3 x_T5_S2_Mo_4 + 3 x_T1_S1_Tu_2 + 3 x_T6_S2_Th_1 + 3 x_T5_S3_Tu_4 + 3 x_T6_S1_Th_2 + 3 x_T7_S1_Mo_4 + 3 x_T7_S1_Mo_1 + 3 x_T5_S2_We_3 + 3 x_T2_S1_Th_2 + 3 x_T3_S2_We_4 + 3 x_T4_S2_Th_5 + 3 x_T2_S2_Th_2 + 3 x_T8_S2_Th_1 + 3 x_T4_S3_Fr_2 + 3 x_T7_S3_Mo_5 + 3 x_T2_S2_Fr_4 + 3 x_T1_S1_Mo_2 + 3 x_T6_S2_We_1 + 3 x_T1_S2_We_1 + 3 x_T4_S3_Tu_5 + 3 x_T2_S2_We_5 + 3 x_T1_S3_Tu_3 + 3 x_T6_S1_Th_5 + 3 x_T8_S1_We_5 + 3 x_T8_S3_Fr_4 + 3 x_T8_S3_We_1 + 3 x_T3_S2_We_1 + 3 x_T2_S1_We_3 + 3 x_T2_S1_Tu_4 + 3 x_T5_S2_Fr_4 + 3 x_T8_S3_Mo_3 + 3 x_T5_S3_Mo_1 + 3 x_T5_S3_Fr_2 + 3 x_T7_S3_Th_1 + 3 x_T1_S3_Tu_4 + 3 x_T4_S3_We_2 + 3 x_T2_S2_Tu_2 + 3 x_T6_S3_Tu_5 + 3 x_T1_S2_Mo_4 + 3 x_T4_S1_Mo_5 + 3 x_T6_S3_We_5 + 3 x_T8_S2_Mo_1 + 3 x_T4_S1_We_5 + 3 x_T5_S3_Fr_1 + 3 x_T8_S1_Mo_5 + 3 x_T3_S1_Th_4 + 3 x_T6_S3_Th_3 + 3 x_T4_S2_Th_4 + 3 x_T5_S2_Tu_3 + 3 x_T8_S1_Th_3 + 3 x_T6_S2_Fr_2 + 3 x_T3_S1_Th_5 + 3 x_T7_S1_Th_5 + 3 x_T4_S2_Tu_4 + 3 x_T1_S1_Mo_5 + 3 x_T6_S1_Fr_3 + 3 x_T1_S2_Th_1 + 3 x_T6_S2_Tu_3 + 3 x_T8_S2_Tu_4 + 3 x_T8_S1_Mo_4 + 3 x_T1_S2_Tu_5 + 3 x_T4_S3_Fr_4 + 3 x_T4_S1_Mo_2 + 3 x_T1_S2_Tu_1 + 3 x_T6_S3_We_1 + 3 x_T5_S3_Tu_3 + 3 x_T5_S2_Tu_4 + 3 x_T5_S2_Tu_1 + 3 x_T4_S2_Mo_1 + 3 x_T4_S2_Fr_4 + 3 x_T7_S3_Th_5 + 3 x_T8_S2_Fr_3 + 3 x_T7_S3_Mo_4 + 3 x_T4_S2_Th_2 + 3 x_T2_S2_Fr_2 + 3 x_T3_S1_Tu_1 + 3 x_T7_S1_Mo_3 + 3 x_T1_S1_Tu_1 + 3 x_T3_S2_Fr_4 + 3 x_T3_S1_Fr_5 + 1 g_T3_S3 + 3 x_T8_S3_Fr_5 + 3 x_T6_S2_Tu_4 + 3 x_T7_S1_Fr_2 + 3 x_T3_S3_Fr_4 + 9 y_T2 + 3 x_T6_S1_We_1 + 3 x_T5_S2_Fr_1 + 3 x_T4_S1_Th_2 + 3 x_T2_S2_Tu_5 + 3 x_T4_S1_Fr_4 + 3 x_T7_S1_We_3 + 3 x_T6_S2_Mo_4 + 3 x_T8_S1_Fr_4 + 3 x_T6_S1_Tu_4 + 3 x_T2_S1_Fr_5 + 3 x_T5_S2_Th_2 + 3 x_T8_S1_Tu_2 + 3 x_T8_S3_Th_1 + 3 x_T8_S3_Mo_2 + 3 x_T6_S2_Fr_1 + 3 x_T2_S1_Mo_5 + 3 x_T8_S1_Tu_3 + 3 x_T4_S1_Mo_4 + 3 x_T2_S2_Th_5 + 3 x_T5_S3_Mo_5 + 3 x_T8_S1_We_1 + 3 x_T4_S1_Fr_2 + 3 x_T3_S2_Tu_2 + 3 x_T4_S2_Tu_5 + 3 x_T6_S3_We_2 + 3 x_T3_S2_Mo_1 + 3 x_T4_S3_Fr_1 + 3 x_T3_S3_Th_4 + 3 x_T5_S3_Tu_1 + 3 x_T2_S1_Mo_3 + 3 x_T5_S3_Tu_2 + 3 x_T8_S1_Tu_1 + 3 x_T1_S3_Th_3 + 3 x_T5_S2_Th_1 + 1 g_T8_S1 + 3 x_T4_S2_Th_1 + 3 x_T1_S1_Tu_3 + 3 x_T4_S1_Tu_2 + 3 x_T5_S3_Mo_4 + 3 x_T5_S2_Fr_5 + 3 x_T1_S2_Tu_4 + 3 x_T7_S1_Fr_5 + 3 x_T8_S3_Fr_1 + 3 x_T4_S2_Tu_3 + 3 x_T1_S3_We_1 + 3 x_T8_S3_Tu_3 + 3 x_T7_S1_Th_3 + 3 x_T6_S3_Fr_5 + 3 x_T4_S3_Th_5 + 3 x_T5_S3_We_1 + 3 x_T8_S1_Th_5 + 3 x_T2_S1_We_4 + 3 x_T5_S3_Th_4 + 3 x_T3_S3_Mo_2 + 3 x_T6_S1_Tu_3 + 3 x_T7_S3_Mo_3 + 3 x_T8_S2_Tu_2 + 3 x_T6_S1_Tu_2 + 3 x_T1_S2_Mo_2 + 3 x_T4_S2_Mo_5 + 3 x_T2_S2_Fr_3 + 3 x_T1_S3_We_4 + 3 x_T5_S3_Tu_5 + 3 x_T3_S3_Th_5 + 3 x_T1_S2_Fr_5 + 3 x_T1_S1_Th_2 + 3 x_T3_S3_Fr_3 + 3 x_T6_S2_Fr_4 + 3 x_T2_S1_Fr_4 + 3 x_T2_S2_Mo_1 + 3 x_T7_S3_We_4 + 3 x_T2_S2_Mo_3 + 3 x_T3_S2_We_3 + 3 x_T6_S1_Mo_1 + 3 x_T4_S3_Tu_4 + 3 x_T8_S2_Fr_2 + 3 x_T4_S3_We_5 + 3 x_T3_S1_Th_3 + 3 x_T8_S3_Th_4 + 3 x_T7_S3_Mo_2 + 3 x_T6_S2_We_4 + 3 x_T4_S1_Fr_3 + 3 x_T6_S3_Tu_2 + 3 x_T8_S1_Tu_5 + 3 x_T4_S1_Th_4 + 3 x_T5_S3_Fr_4 + 3 x_T1_S3_Tu_2 + 3 x_T4_S3_Mo_3 + 3 x_T4_S3_Tu_3 + 3 x_T5_S3_Fr_5 + 3 x_T6_S1_Mo_5 + 3 x_T6_S1_We_4 + 3 x_T5_S2_Mo_5 + 3 x_T1_S2_Tu_3 + 3 x_T2_S1_Tu_1 + 3 x_T6_S3_We_3 + 3 x_T6_S1_Mo_2 + 1 g_T2_S1 + 9 y_T4 + 3 x_T3_S3_Tu_5 + 3 x_T8_S1_Mo_1 + 3 x_T1_S2_Fr_2 + 3 x_T8_S3_Fr_3 + 3 x_T6_S2_Tu_2 + 3 x_T1_S1_Th_3 + 3 x_T2_S2_Th_4 + 3 x_T1_S2_Tu_2 + 3 x_T3_S3_Fr_1 + 3 x_T8_S2_Mo_4 + 3 x_T2_S1_Fr_3 + 3 x_T8_S3_Th_2 + 3 x_T2_S2_Fr_1 + 3 x_T2_S2_Tu_1 + 3 x_T8_S2_Fr_5 + 3 x_T4_S2_We_2 + 3 x_T7_S1_We_2 + 3 x_T8_S2_Fr_4 + 3 x_T1_S1_Fr_3 + 3 x_T2_S2_Tu_4 + 3 x_T1_S2_Th_2 + 3 x_T1_S2_Fr_1 + 3 x_T3_S1_Fr_1 + 3 x_T8_S2_Fr_1 + 3 x_T5_S2_Fr_2 + 1 g_T7_S1 + 3 x_T8_S1_We_4 + 3 x_T4_S2_Tu_2 + 3 x_T5_S2_Tu_5 + 3 x_T1_S3_Tu_1 + 3 x_T4_S1_We_1 + 1 g_T4_S3 + 3 x_T7_S3_Fr_2 + 3 x_T1_S1_Fr_5 + 3 x_T6_S2_We_2 + 1 g_T6_S1 + 3 x_T3_S2_Tu_3 + 3 x_T8_S3_Th_3 + 3 x_T8_S2_Tu_1 + 3 x_T4_S3_Mo_4 + 3 x_T2_S1_Th_3 + 3 x_T4_S2_Fr_5 + 3 x_T3_S2_Tu_4 + 3 x_T4_S2_We_4 + 3 x_T1_S3_Mo_4 + 1 g_T5_S3 + 3 x_T7_S3_We_3 + 3 x_T8_S3_Tu_1 + 3 x_T5_S2_Th_3 + 3 x_T3_S1_Mo_2 + 3 x_T5_S3_We_5 + 3 x_T8_S2_Tu_3 + 3 x_T3_S1_Tu_2 + 3 x_T3_S1_Tu_3 + 3 x_T3_S1_We_5 + 9 y_T3 + 3 x_T1_S2_We_5 + 3 x_T2_S1_Th_5 + 1 g_T4_S1 + 3 x_T4_S2_Fr_1 + 3 x_T1_S1_We_4 + 3 x_T1_S1_Tu_4 + 3 x_T4_S3_Mo_2 + 3 x_T3_S3_Fr_2 + 3 x_T8_S1_Th_1 + 3 x_T1_S2_Mo_5 + 1 g_T2_S2 + 3 x_T7_S1_Fr_1 + 3 x_T2_S2_We_1 + 3 x_T6_S2_Mo_1 + 3 x_T6_S2_Th_5 + 3 x_T8_S2_Mo_3 + 3 x_T1_S1_We_3 + 3 x_T6_S3_Mo_1 + 3 x_T7_S3_Fr_3 + 3 x_T6_S1_Tu_1 + 1 g_T8_S2 + 3 x_T7_S3_Th_4 + 3 x_T6_S1_We_5 + 1 g_T4_S2 + 3 x_T4_S2_Th_3 + 3 x_T6_S3_Tu_1 + 3 x_T1_S2_Mo_1 + 3 x_T4_S1_Th_1 + 3 x_T7_S3_We_1 + 3 x_T1_S3_Tu_5 + 3 x_T8_S3_Tu_2 + 3 x_T3_S2_Th_2 + 3 x_T4_S2_Mo_2 + 3 x_T7_S3_Tu_3 + 3 x_T6_S2_We_5 + 3 x_T2_S1_We_1 + 3 x_T5_S3_We_2 + 3 x_T8_S1_We_3 + 3 x_T2_S1_Tu_3 + 3 x_T6_S3_Th_2 + 3 x_T6_S1_Th_1 + 3 x_T3_S3_Tu_1 + 3 x_T5_S3_Th_1 + 3 x_T3_S2_Tu_1 + 3 x_T4_S3_Th_3 + 3 x_T1_S1_Tu_5 + 3 x_T7_S1_Fr_3 + 3 x_T3_S1_Th_1 + 3 x_T1_S3_We_3 + 3 x_T6_S2_Th_4 + 3 x_T3_S2_Mo_3 + 3 x_T4_S1_Tu_1 + 3 x_T2_S1_Mo_4 + 3 x_T6_S3_Mo_5 + 3 x_T6_S3_Tu_3 + 3 x_T6_S3_Fr_4 + 3 x_T1_S3_Th_4 + 3 x_T6_S1_Mo_4 + 1 g_T5_S2 + 3 x_T5_S2_Tu_2 + 1 g_T3_S2 + 3 x_T5_S2_Fr_3 + 3 x_T1_S2_Fr_4 + 3 x_T2_S1_We_5 + 3 x_T7_S3_We_2 + 3 x_T1_S2_We_2 + 3 x_T4_S1_Th_3 + 3 x_T7_S1_We_5 + 3 x_T7_S3_Tu_5 + 3 x_T2_S2_Tu_3 + 3 x_T4_S2_Mo_3 + 3 x_T1_S2_Th_3 + 3 x_T2_S1_Fr_1 + 3 x_T6_S3_Th_1 + 3 x_T5_S2_Th_4 + 3 x_T7_S3_Tu_2 + 3 x_T4_S1_Th_5 + 3 x_T4_S2_Mo_4 + 3 x_T5_S2_Mo_1 + 3 x_T7_S3_Tu_1 + 3 x_T4_S1_Mo_1 + 3 x_T8_S1_Fr_3 + 3 x_T3_S1_We_3 + 3 x_T2_S2_Th_1 + 3 x_T3_S2_We_2 + 3 x_T6_S3_Mo_3 + 3 x_T3_S2_Mo_2 + 3 x_T6_S2_Tu_1 + 3 x_T5_S3_Fr_3 + 3 x_T6_S2_Fr_3 + 3 x_T7_S3_Th_2 + 3 x_T8_S2_We_2 + 3 x_T8_S2_Th_3 + 3 x_T3_S1_We_1 + 3 x_T3_S3_We_2 + 3 x_T8_S1_Th_4 + 3 x_T1_S3_Fr_3 + 3 x_T8_S2_We_4 + 3 x_T2_S1_Tu_2 + 3 x_T6_S2_Th_2 + 3 x_T7_S1_Fr_4 + 3 x_T5_S2_We_4 + 3 x_T7_S1_Tu_4 + 3 x_T6_S3_Mo_2 + 3 x_T7_S1_We_1 + 3 x_T3_S2_Mo_4 + 3 x_T3_S1_Mo_1 + 3 x_T4_S1_We_4 + 9 y_T5 + 3 x_T5_S3_We_3 + 1 g_T8_S3 + 3 x_T4_S2_We_5 + 3 x_T4_S1_We_3 + 3 x_T1_S3_Mo_1 + 3 x_T3_S2_Fr_3 + 9 y_T8 + 3 x_T4_S3_Fr_3 + 3 x_T8_S2_Th_2 + 3 x_T2_S2_Mo_4 + 3 x_T4_S2_Tu_1 + 3 x_T2_S2_Fr_5 + 3 x_T3_S3_Mo_3 + 3 x_T3_S3_We_1 + 3 x_T6_S1_Th_3 + 3 x_T6_S2_Th_3 + 3 x_T1_S1_Fr_4 + 3 x_T4_S2_We_3 + 3 x_T8_S3_Mo_5 + 1 g_T1_S3 + 3 x_T7_S1_We_4 + 3 x_T7_S1_Th_2 + 3 x_T8_S2_Th_5 + 3 x_T6_S3_Th_5 + 3 x_T2_S2_We_4 + 3 x_T2_S1_Th_4 + 3 x_T3_S2_Mo_5 + 3 x_T3_S2_We_5 + 3 x_T1_S3_Fr_4 + 3 x_T1_S2_Fr_3 + 3 x_T8_S3_Fr_2 + 3 x_T2_S1_Fr_2 + 3 x_T5_S2_Th_5 + 3 x_T3_S1_Mo_3 + 3 x_T4_S3_Tu_1 + 1 g_T3_S1 + 3 x_T3_S2_Fr_2 + 3 x_T5_S3_We_4 + 3 x_T2_S2_Mo_2 + 3 x_T8_S2_Mo_2 + 3 x_T4_S1_Tu_4 + 3 x_T8_S1_We_2 + 3 x_T1_S1_Mo_4 + 3 x_T3_S2_Th_3 + 3 x_T6_S1_Tu_5 + 3 x_T3_S2_Th_4 + 3 x_T1_S3_Th_5 + 3 x_T6_S1_Mo_3 + 3 x_T4_S3_Tu_2 + 3 x_T1_S3_Fr_5 + 3 x_T4_S2_Fr_3 + 3 x_T8_S3_We_4 + 3 x_T3_S1_We_4 + 3 x_T5_S2_We_5
 Subject To
- c1: x38 - x39 + x40 >= 0
- c2: x41 - x40 + x42 >= 0
- c3: x43 - x42 + x44 >= 0
- c4: x45 - x44 + x46 >= 0
- c5: x47 - x48 + x49 >= 0
- c6: x50 - x49 + x51 >= 0
- c7: x52 - x51 + x53 >= 0
- c8: x54 - x53 + x55 >= 0
- c9: x56 - x57 + x58 >= 0
- c10: x59 - x58 + x60 >= 0
- c11: x61 - x60 + x62 >= 0
- c12: x63 - x62 + x64 >= 0
- c13: x65 - x66 + x67 >= 0
- c14: x68 - x67 + x69 >= 0
- c15: x70 - x69 + x71 >= 0
- c16: x72 - x71 + x73 >= 0
- c17: x74 - x75 + x76 >= 0
- c18: x77 - x76 + x78 >= 0
- c19: x79 - x78 + x80 >= 0
- c20: x81 - x80 + x82 >= 0
- c21: x83 - x84 + x85 >= 0
- c22: x86 - x85 + x87 >= 0
- c23: x88 - x87 + x89 >= 0
- c24: x90 - x89 + x91 >= 0
- c25: x92 - x93 + x94 >= 0
- c26: x95 - x94 + x96 >= 0
- c27: x97 - x96 + x98 >= 0
- c28: x99 - x98 + x100 >= 0
- c29: x101 - x102 + x103 >= 0
- c30: x104 - x103 + x105 >= 0
- c31: x106 - x105 + x107 >= 0
- c32: x108 - x107 + x109 >= 0
- c33: x110 - x111 + x112 >= 0
- c34: x113 - x112 + x114 >= 0
- c35: x115 - x114 + x116 >= 0
- c36: x117 - x116 + x118 >= 0
- c37: x119 - x120 + x121 >= 0
- c38: x122 - x121 + x123 >= 0
- c39: x124 - x123 + x125 >= 0
- c40: x126 - x125 + x127 >= 0
- c41: x128 - x129 + x130 >= 0
- c42: x131 - x130 + x132 >= 0
- c43: x133 - x132 + x134 >= 0
- c44: x135 - x134 + x136 >= 0
- c45: x137 - x138 + x139 >= 0
- c46: x140 - x139 + x141 >= 0
- c47: x142 - x141 + x143 >= 0
- c48: x144 - x143 + x145 >= 0
- c49: x146 - x147 + x148 >= 0
- c50: x149 - x148 + x150 >= 0
- c51: x151 - x150 + x152 >= 0
- c52: x153 - x152 + x154 >= 0
- c53: x155 - x156 + x157 >= 0
- c54: x158 - x157 + x159 >= 0
- c55: x160 - x159 + x161 >= 0
- c56: x162 - x161 + x163 >= 0
- c57: x164 - x165 + x166 >= 0
- c58: x167 - x166 + x168 >= 0
- c59: x169 - x168 + x170 >= 0
- c60: x171 - x170 + x172 >= 0
- c61: x173 - x174 + x175 >= 0
- c62: x176 - x175 + x177 >= 0
- c63: x178 - x177 + x179 >= 0
- c64: x180 - x179 + x181 >= 0
- c65: x182 - x183 + x184 >= 0
- c66: x185 - x184 + x186 >= 0
- c67: x187 - x186 + x188 >= 0
- c68: x189 - x188 + x190 >= 0
- c69: x191 - x192 + x193 >= 0
- c70: x194 - x193 + x195 >= 0
- c71: x196 - x195 + x197 >= 0
- c72: x198 - x197 + x199 >= 0
- c73: x200 - x201 + x202 >= 0
- c74: x203 - x202 + x204 >= 0
- c75: x205 - x204 + x206 >= 0
- c76: x207 - x206 + x208 >= 0
- c77: x209 - x210 + x211 >= 0
- c78: x212 - x211 + x213 >= 0
- c79: x214 - x213 + x215 >= 0
- c80: x216 - x215 + x217 >= 0
- c81: x218 - x219 + x220 >= 0
- c82: x221 - x220 + x222 >= 0
- c83: x223 - x222 + x224 >= 0
- c84: x225 - x224 + x226 >= 0
- c85: x227 - x228 + x229 >= 0
- c86: x230 - x229 + x231 >= 0
- c87: x232 - x231 + x233 >= 0
- c88: x234 - x233 + x235 >= 0
- c89: x236 - x237 + x238 >= 0
- c90: x239 - x238 + x240 >= 0
- c91: x241 - x240 + x242 >= 0
- c92: x243 - x242 + x244 >= 0
- c93: x245 - x246 + x247 >= 0
- c94: x248 - x247 + x249 >= 0
- c95: x250 - x249 + x251 >= 0
- c96: x252 - x251 + x253 >= 0
- c97: x254 - x255 + x256 >= 0
- c98: x257 - x256 + x258 >= 0
- c99: x259 - x258 + x260 >= 0
- c100: x261 - x260 + x262 >= 0
- c101: x263 - x264 + x265 >= 0
- c102: x266 - x265 + x267 >= 0
- c103: x268 - x267 + x269 >= 0
- c104: x270 - x269 + x271 >= 0
- c105: x272 - x273 + x274 >= 0
- c106: x275 - x274 + x276 >= 0
- c107: x277 - x276 + x278 >= 0
- c108: x279 - x278 + x280 >= 0
- c109: x281 - x282 + x283 >= 0
- c110: x284 - x283 + x285 >= 0
- c111: x286 - x285 + x287 >= 0
- c112: x288 - x287 + x289 >= 0
- c113: x290 - x291 + x292 >= 0
- c114: x293 - x292 + x294 >= 0
- c115: x295 - x294 + x296 >= 0
- c116: x297 - x296 + x298 >= 0
- c117: x299 - x300 + x301 >= 0
- c118: x302 - x301 + x303 >= 0
- c119: x304 - x303 + x305 >= 0
- c120: x306 - x305 + x307 >= 0
- c121: x308 - x309 + x310 >= 0
- c122: x311 - x310 + x312 >= 0
- c123: x313 - x312 + x314 >= 0
- c124: x315 - x314 + x316 >= 0
- c125: x317 - x318 + x319 >= 0
- c126: x320 - x319 + x321 >= 0
- c127: x322 - x321 + x323 >= 0
- c128: x324 - x323 + x325 >= 0
- c129: x326 - x327 + x328 >= 0
- c130: x329 - x328 + x330 >= 0
- c131: x331 - x330 + x332 >= 0
- c132: x333 - x332 + x334 >= 0
- c133: x335 - x336 + x337 >= 0
- c134: x338 - x337 + x339 >= 0
- c135: x340 - x339 + x341 >= 0
- c136: x342 - x341 + x343 >= 0
- c137: x344 - x345 + x346 >= 0
- c138: x347 - x346 + x348 >= 0
- c139: x349 - x348 + x350 >= 0
- c140: x351 - x350 + x352 >= 0
- c141: x353 - x354 + x355 >= 0
- c142: x356 - x355 + x357 >= 0
- c143: x358 - x357 + x359 >= 0
- c144: x360 - x359 + x361 >= 0
- c145: x362 - x363 + x364 >= 0
- c146: x365 - x364 + x366 >= 0
- c147: x367 - x366 + x368 >= 0
- c148: x369 - x368 + x370 >= 0
- c149: x371 - x372 + x373 >= 0
- c150: x374 - x373 + x375 >= 0
- c151: x376 - x375 + x377 >= 0
- c152: x378 - x377 + x379 >= 0
- c153: x380 - x381 + x382 >= 0
- c154: x383 - x382 + x384 >= 0
- c155: x385 - x384 + x386 >= 0
- c156: x387 - x386 + x388 >= 0
- c157: x389 - x390 + x391 >= 0
- c158: x392 - x391 + x393 >= 0
- c159: x394 - x393 + x395 >= 0
- c160: x396 - x395 + x397 >= 0
- c161: x23 - x398 - x399 - x400 - x401 - x402 >= 0
- c162: x23 - x403 - x404 - x405 - x406 - x407 >= 0
- c163: x23 - x408 - x409 - x410 - x411 - x412 >= 0
- c164: x23 - x413 - x414 - x415 - x416 - x417 >= 0
- c165: x23 - x418 - x419 - x420 - x421 - x422 >= 0
- c166: x25 - x423 - x424 - x425 - x426 - x427 >= 0
- c167: x25 - x428 - x429 - x430 - x431 - x432 >= 0
- c168: x25 - x433 - x434 - x435 - x436 - x437 >= 0
- c169: x25 - x438 - x439 - x440 - x441 - x442 >= 0
- c170: x25 - x443 - x444 - x445 - x446 - x447 >= 0
- c171: x27 - x448 - x449 - x450 - x451 - x452 >= 0
- c172: x27 - x453 - x454 - x455 - x456 - x457 >= 0
- c173: x27 - x458 - x459 - x460 - x461 - x462 >= 0
- c174: x27 - x463 - x464 - x465 - x466 - x467 >= 0
- c175: x27 - x468 - x469 - x470 - x471 - x472 >= 0
- c176: x29 - x473 - x474 - x475 - x476 - x477 >= 0
- c177: x29 - x478 - x479 - x480 - x481 - x482 >= 0
- c178: x29 - x483 - x484 - x485 - x486 - x487 >= 0
- c179: x29 - x488 - x489 - x490 - x491 - x492 >= 0
- c180: x29 - x493 - x494 - x495 - x496 - x497 >= 0
- c181: x31 - x498 - x499 - x500 - x501 - x502 >= 0
- c182: x31 - x503 - x504 - x505 - x506 - x507 >= 0
- c183: x31 - x508 - x509 - x510 - x511 - x512 >= 0
- c184: x31 - x513 - x514 - x515 - x516 - x517 >= 0
- c185: x31 - x518 - x519 - x520 - x521 - x522 >= 0
- c186: x33 - x523 - x524 - x525 - x526 - x527 >= 0
- c187: x33 - x528 - x529 - x530 - x531 - x532 >= 0
- c188: x33 - x533 - x534 - x535 - x536 - x537 >= 0
- c189: x33 - x538 - x539 - x540 - x541 - x542 >= 0
- c190: x33 - x543 - x544 - x545 - x546 - x547 >= 0
- c191: x35 - x548 - x549 - x550 - x551 - x552 >= 0
- c192: x35 - x553 - x554 - x555 - x556 - x557 >= 0
- c193: x35 - x558 - x559 - x560 - x561 - x562 >= 0
- c194: x35 - x563 - x564 - x565 - x566 - x567 >= 0
- c195: x35 - x568 - x569 - x570 - x571 - x572 >= 0
- c196: x37 - x573 - x574 - x575 - x576 - x577 >= 0
- c197: x37 - x578 - x579 - x580 - x581 - x582 >= 0
- c198: x37 - x583 - x584 - x585 - x586 - x587 >= 0
- c199: x37 - x588 - x589 - x590 - x591 - x592 >= 0
- c200: x37 - x593 - x594 - x595 - x596 - x597 >= 0
- c201: x23 >= 0
- c202: x22 >= 0
- c203: x25 >= 0
- c204: x24 >= 0
- c205: x27 >= 0
- c206: x26 >= 0
- c207: x29 >= 0
- c208: x28 >= 0
- c209: x31 >= 0
- c210: x30 >= 0
- c211: x33 >= 0
- c212: x32 >= 0
- c213: x35 >= 0
- c214: x34 >= 0
- c215: x37 >= 0
- c216: x36 >= 0
- c217: x1 >= 0
- c218: x2 >= 0
- c219: x3 >= 0
- c220: x4 >= 0
- c221: x5 >= 0
- c222: x6 >= 0
- c223: x7 >= 0
- c224: x8 >= 0
- c225: x9 >= 0
- c226: x10 >= 0
- c227: x11 >= 0
- c228: x12 >= 0
- c229: x13 >= 0
- c230: x14 >= 0
- c231: x15 >= 0
- c232: x16 >= 0
- c233: x17 >= 0
- c234: x18 >= 0
- c235: x19 >= 0
- c236: x20 >= 0
- c237: x21 >= 0
+ flow_T4_Mo_1: x_T4_S1_Mo_1 + x_T4_S2_Mo_1 + x_T4_S3_Mo_1 - x_T4_S1_Mo_1 - x_T4_S2_Mo_1 - x_T4_S3_Mo_1 = 1
+ flow_T4_Mo_2: x_T4_S1_Mo_2 + x_T4_S2_Mo_2 + x_T4_S3_Mo_2 - x_T4_S1_Mo_2 - x_T4_S2_Mo_2 - x_T4_S3_Mo_2 = 0
+ flow_T4_Mo_3: x_T4_S1_Mo_3 + x_T4_S2_Mo_3 + x_T4_S3_Mo_3 - x_T4_S1_Mo_3 - x_T4_S2_Mo_3 - x_T4_S3_Mo_3 = 0
+ flow_T4_Mo_4: x_T4_S1_Mo_4 + x_T4_S2_Mo_4 + x_T4_S3_Mo_4 - x_T4_S1_Mo_4 - x_T4_S2_Mo_4 - x_T4_S3_Mo_4 = 0
+ flow_T4_Mo_5: x_T4_S1_Mo_5 + x_T4_S2_Mo_5 + x_T4_S3_Mo_5 - x_T4_S1_Mo_5 - x_T4_S2_Mo_5 - x_T4_S3_Mo_5 = -1
+ flow_T4_Tu_1: x_T4_S1_Tu_1 + x_T4_S2_Tu_1 + x_T4_S3_Tu_1 - x_T4_S1_Tu_1 - x_T4_S2_Tu_1 - x_T4_S3_Tu_1 = 1
+ flow_T4_Tu_2: x_T4_S1_Tu_2 + x_T4_S2_Tu_2 + x_T4_S3_Tu_2 - x_T4_S1_Tu_2 - x_T4_S2_Tu_2 - x_T4_S3_Tu_2 = 0
+ flow_T4_Tu_3: x_T4_S1_Tu_3 + x_T4_S2_Tu_3 + x_T4_S3_Tu_3 - x_T4_S1_Tu_3 - x_T4_S2_Tu_3 - x_T4_S3_Tu_3 = 0
+ flow_T4_Tu_4: x_T4_S1_Tu_4 + x_T4_S2_Tu_4 + x_T4_S3_Tu_4 - x_T4_S1_Tu_4 - x_T4_S2_Tu_4 - x_T4_S3_Tu_4 = 0
+ flow_T4_Tu_5: x_T4_S1_Tu_5 + x_T4_S2_Tu_5 + x_T4_S3_Tu_5 - x_T4_S1_Tu_5 - x_T4_S2_Tu_5 - x_T4_S3_Tu_5 = -1
+ flow_T4_We_1: x_T4_S1_We_1 + x_T4_S2_We_1 + x_T4_S3_We_1 - x_T4_S1_We_1 - x_T4_S2_We_1 - x_T4_S3_We_1 = 1
+ flow_T4_We_2: x_T4_S1_We_2 + x_T4_S2_We_2 + x_T4_S3_We_2 - x_T4_S1_We_2 - x_T4_S2_We_2 - x_T4_S3_We_2 = 0
+ flow_T4_We_3: x_T4_S1_We_3 + x_T4_S2_We_3 + x_T4_S3_We_3 - x_T4_S1_We_3 - x_T4_S2_We_3 - x_T4_S3_We_3 = 0
+ flow_T4_We_4: x_T4_S1_We_4 + x_T4_S2_We_4 + x_T4_S3_We_4 - x_T4_S1_We_4 - x_T4_S2_We_4 - x_T4_S3_We_4 = 0
+ flow_T4_We_5: x_T4_S1_We_5 + x_T4_S2_We_5 + x_T4_S3_We_5 - x_T4_S1_We_5 - x_T4_S2_We_5 - x_T4_S3_We_5 = -1
+ flow_T4_Th_1: x_T4_S1_Th_1 + x_T4_S2_Th_1 + x_T4_S3_Th_1 - x_T4_S1_Th_1 - x_T4_S2_Th_1 - x_T4_S3_Th_1 = 1
+ flow_T4_Th_2: x_T4_S1_Th_2 + x_T4_S2_Th_2 + x_T4_S3_Th_2 - x_T4_S1_Th_2 - x_T4_S2_Th_2 - x_T4_S3_Th_2 = 0
+ flow_T4_Th_3: x_T4_S1_Th_3 + x_T4_S2_Th_3 + x_T4_S3_Th_3 - x_T4_S1_Th_3 - x_T4_S2_Th_3 - x_T4_S3_Th_3 = 0
+ flow_T4_Th_4: x_T4_S1_Th_4 + x_T4_S2_Th_4 + x_T4_S3_Th_4 - x_T4_S1_Th_4 - x_T4_S2_Th_4 - x_T4_S3_Th_4 = 0
+ flow_T4_Th_5: x_T4_S1_Th_5 + x_T4_S2_Th_5 + x_T4_S3_Th_5 - x_T4_S1_Th_5 - x_T4_S2_Th_5 - x_T4_S3_Th_5 = -1
+ flow_T4_Fr_1: x_T4_S1_Fr_1 + x_T4_S2_Fr_1 + x_T4_S3_Fr_1 - x_T4_S1_Fr_1 - x_T4_S2_Fr_1 - x_T4_S3_Fr_1 = 1
+ flow_T4_Fr_2: x_T4_S1_Fr_2 + x_T4_S2_Fr_2 + x_T4_S3_Fr_2 - x_T4_S1_Fr_2 - x_T4_S2_Fr_2 - x_T4_S3_Fr_2 = 0
+ flow_T4_Fr_3: x_T4_S1_Fr_3 + x_T4_S2_Fr_3 + x_T4_S3_Fr_3 - x_T4_S1_Fr_3 - x_T4_S2_Fr_3 - x_T4_S3_Fr_3 = 0
+ flow_T4_Fr_4: x_T4_S1_Fr_4 + x_T4_S2_Fr_4 + x_T4_S3_Fr_4 - x_T4_S1_Fr_4 - x_T4_S2_Fr_4 - x_T4_S3_Fr_4 = 0
+ flow_T4_Fr_5: x_T4_S1_Fr_5 + x_T4_S2_Fr_5 + x_T4_S3_Fr_5 - x_T4_S1_Fr_5 - x_T4_S2_Fr_5 - x_T4_S3_Fr_5 = -1
+ flow_T6_Mo_1: x_T6_S1_Mo_1 + x_T6_S2_Mo_1 + x_T6_S3_Mo_1 - x_T6_S1_Mo_1 - x_T6_S2_Mo_1 - x_T6_S3_Mo_1 = 1
+ flow_T6_Mo_2: x_T6_S1_Mo_2 + x_T6_S2_Mo_2 + x_T6_S3_Mo_2 - x_T6_S1_Mo_2 - x_T6_S2_Mo_2 - x_T6_S3_Mo_2 = 0
+ flow_T6_Mo_3: x_T6_S1_Mo_3 + x_T6_S2_Mo_3 + x_T6_S3_Mo_3 - x_T6_S1_Mo_3 - x_T6_S2_Mo_3 - x_T6_S3_Mo_3 = 0
+ flow_T6_Mo_4: x_T6_S1_Mo_4 + x_T6_S2_Mo_4 + x_T6_S3_Mo_4 - x_T6_S1_Mo_4 - x_T6_S2_Mo_4 - x_T6_S3_Mo_4 = 0
+ flow_T6_Mo_5: x_T6_S1_Mo_5 + x_T6_S2_Mo_5 + x_T6_S3_Mo_5 - x_T6_S1_Mo_5 - x_T6_S2_Mo_5 - x_T6_S3_Mo_5 = -1
+ flow_T6_Tu_1: x_T6_S1_Tu_1 + x_T6_S2_Tu_1 + x_T6_S3_Tu_1 - x_T6_S1_Tu_1 - x_T6_S2_Tu_1 - x_T6_S3_Tu_1 = 1
+ flow_T6_Tu_2: x_T6_S1_Tu_2 + x_T6_S2_Tu_2 + x_T6_S3_Tu_2 - x_T6_S1_Tu_2 - x_T6_S2_Tu_2 - x_T6_S3_Tu_2 = 0
+ flow_T6_Tu_3: x_T6_S1_Tu_3 + x_T6_S2_Tu_3 + x_T6_S3_Tu_3 - x_T6_S1_Tu_3 - x_T6_S2_Tu_3 - x_T6_S3_Tu_3 = 0
+ flow_T6_Tu_4: x_T6_S1_Tu_4 + x_T6_S2_Tu_4 + x_T6_S3_Tu_4 - x_T6_S1_Tu_4 - x_T6_S2_Tu_4 - x_T6_S3_Tu_4 = 0
+ flow_T6_Tu_5: x_T6_S1_Tu_5 + x_T6_S2_Tu_5 + x_T6_S3_Tu_5 - x_T6_S1_Tu_5 - x_T6_S2_Tu_5 - x_T6_S3_Tu_5 = -1
+ flow_T6_We_1: x_T6_S1_We_1 + x_T6_S2_We_1 + x_T6_S3_We_1 - x_T6_S1_We_1 - x_T6_S2_We_1 - x_T6_S3_We_1 = 1
+ flow_T6_We_2: x_T6_S1_We_2 + x_T6_S2_We_2 + x_T6_S3_We_2 - x_T6_S1_We_2 - x_T6_S2_We_2 - x_T6_S3_We_2 = 0
+ flow_T6_We_3: x_T6_S1_We_3 + x_T6_S2_We_3 + x_T6_S3_We_3 - x_T6_S1_We_3 - x_T6_S2_We_3 - x_T6_S3_We_3 = 0
+ flow_T6_We_4: x_T6_S1_We_4 + x_T6_S2_We_4 + x_T6_S3_We_4 - x_T6_S1_We_4 - x_T6_S2_We_4 - x_T6_S3_We_4 = 0
+ flow_T6_We_5: x_T6_S1_We_5 + x_T6_S2_We_5 + x_T6_S3_We_5 - x_T6_S1_We_5 - x_T6_S2_We_5 - x_T6_S3_We_5 = -1
+ flow_T6_Th_1: x_T6_S1_Th_1 + x_T6_S2_Th_1 + x_T6_S3_Th_1 - x_T6_S1_Th_1 - x_T6_S2_Th_1 - x_T6_S3_Th_1 = 1
+ flow_T6_Th_2: x_T6_S1_Th_2 + x_T6_S2_Th_2 + x_T6_S3_Th_2 - x_T6_S1_Th_2 - x_T6_S2_Th_2 - x_T6_S3_Th_2 = 0
+ flow_T6_Th_3: x_T6_S1_Th_3 + x_T6_S2_Th_3 + x_T6_S3_Th_3 - x_T6_S1_Th_3 - x_T6_S2_Th_3 - x_T6_S3_Th_3 = 0
+ flow_T6_Th_4: x_T6_S1_Th_4 + x_T6_S2_Th_4 + x_T6_S3_Th_4 - x_T6_S1_Th_4 - x_T6_S2_Th_4 - x_T6_S3_Th_4 = 0
+ flow_T6_Th_5: x_T6_S1_Th_5 + x_T6_S2_Th_5 + x_T6_S3_Th_5 - x_T6_S1_Th_5 - x_T6_S2_Th_5 - x_T6_S3_Th_5 = -1
+ flow_T6_Fr_1: x_T6_S1_Fr_1 + x_T6_S2_Fr_1 + x_T6_S3_Fr_1 - x_T6_S1_Fr_1 - x_T6_S2_Fr_1 - x_T6_S3_Fr_1 = 1
+ flow_T6_Fr_2: x_T6_S1_Fr_2 + x_T6_S2_Fr_2 + x_T6_S3_Fr_2 - x_T6_S1_Fr_2 - x_T6_S2_Fr_2 - x_T6_S3_Fr_2 = 0
+ flow_T6_Fr_3: x_T6_S1_Fr_3 + x_T6_S2_Fr_3 + x_T6_S3_Fr_3 - x_T6_S1_Fr_3 - x_T6_S2_Fr_3 - x_T6_S3_Fr_3 = 0
+ flow_T6_Fr_4: x_T6_S1_Fr_4 + x_T6_S2_Fr_4 + x_T6_S3_Fr_4 - x_T6_S1_Fr_4 - x_T6_S2_Fr_4 - x_T6_S3_Fr_4 = 0
+ flow_T6_Fr_5: x_T6_S1_Fr_5 + x_T6_S2_Fr_5 + x_T6_S3_Fr_5 - x_T6_S1_Fr_5 - x_T6_S2_Fr_5 - x_T6_S3_Fr_5 = -1
+ flow_T8_Mo_1: x_T8_S1_Mo_1 + x_T8_S2_Mo_1 + x_T8_S3_Mo_1 - x_T8_S1_Mo_1 - x_T8_S2_Mo_1 - x_T8_S3_Mo_1 = 1
+ flow_T8_Mo_2: x_T8_S1_Mo_2 + x_T8_S2_Mo_2 + x_T8_S3_Mo_2 - x_T8_S1_Mo_2 - x_T8_S2_Mo_2 - x_T8_S3_Mo_2 = 0
+ flow_T8_Mo_3: x_T8_S1_Mo_3 + x_T8_S2_Mo_3 + x_T8_S3_Mo_3 - x_T8_S1_Mo_3 - x_T8_S2_Mo_3 - x_T8_S3_Mo_3 = 0
+ flow_T8_Mo_4: x_T8_S1_Mo_4 + x_T8_S2_Mo_4 + x_T8_S3_Mo_4 - x_T8_S1_Mo_4 - x_T8_S2_Mo_4 - x_T8_S3_Mo_4 = 0
+ flow_T8_Mo_5: x_T8_S1_Mo_5 + x_T8_S2_Mo_5 + x_T8_S3_Mo_5 - x_T8_S1_Mo_5 - x_T8_S2_Mo_5 - x_T8_S3_Mo_5 = -1
+ flow_T8_Tu_1: x_T8_S1_Tu_1 + x_T8_S2_Tu_1 + x_T8_S3_Tu_1 - x_T8_S1_Tu_1 - x_T8_S2_Tu_1 - x_T8_S3_Tu_1 = 1
+ flow_T8_Tu_2: x_T8_S1_Tu_2 + x_T8_S2_Tu_2 + x_T8_S3_Tu_2 - x_T8_S1_Tu_2 - x_T8_S2_Tu_2 - x_T8_S3_Tu_2 = 0
+ flow_T8_Tu_3: x_T8_S1_Tu_3 + x_T8_S2_Tu_3 + x_T8_S3_Tu_3 - x_T8_S1_Tu_3 - x_T8_S2_Tu_3 - x_T8_S3_Tu_3 = 0
+ flow_T8_Tu_4: x_T8_S1_Tu_4 + x_T8_S2_Tu_4 + x_T8_S3_Tu_4 - x_T8_S1_Tu_4 - x_T8_S2_Tu_4 - x_T8_S3_Tu_4 = 0
+ flow_T8_Tu_5: x_T8_S1_Tu_5 + x_T8_S2_Tu_5 + x_T8_S3_Tu_5 - x_T8_S1_Tu_5 - x_T8_S2_Tu_5 - x_T8_S3_Tu_5 = -1
+ flow_T8_We_1: x_T8_S1_We_1 + x_T8_S2_We_1 + x_T8_S3_We_1 - x_T8_S1_We_1 - x_T8_S2_We_1 - x_T8_S3_We_1 = 1
+ flow_T8_We_2: x_T8_S1_We_2 + x_T8_S2_We_2 + x_T8_S3_We_2 - x_T8_S1_We_2 - x_T8_S2_We_2 - x_T8_S3_We_2 = 0
+ flow_T8_We_3: x_T8_S1_We_3 + x_T8_S2_We_3 + x_T8_S3_We_3 - x_T8_S1_We_3 - x_T8_S2_We_3 - x_T8_S3_We_3 = 0
+ flow_T8_We_4: x_T8_S1_We_4 + x_T8_S2_We_4 + x_T8_S3_We_4 - x_T8_S1_We_4 - x_T8_S2_We_4 - x_T8_S3_We_4 = 0
+ flow_T8_We_5: x_T8_S1_We_5 + x_T8_S2_We_5 + x_T8_S3_We_5 - x_T8_S1_We_5 - x_T8_S2_We_5 - x_T8_S3_We_5 = -1
+ flow_T8_Th_1: x_T8_S1_Th_1 + x_T8_S2_Th_1 + x_T8_S3_Th_1 - x_T8_S1_Th_1 - x_T8_S2_Th_1 - x_T8_S3_Th_1 = 1
+ flow_T8_Th_2: x_T8_S1_Th_2 + x_T8_S2_Th_2 + x_T8_S3_Th_2 - x_T8_S1_Th_2 - x_T8_S2_Th_2 - x_T8_S3_Th_2 = 0
+ flow_T8_Th_3: x_T8_S1_Th_3 + x_T8_S2_Th_3 + x_T8_S3_Th_3 - x_T8_S1_Th_3 - x_T8_S2_Th_3 - x_T8_S3_Th_3 = 0
+ flow_T8_Th_4: x_T8_S1_Th_4 + x_T8_S2_Th_4 + x_T8_S3_Th_4 - x_T8_S1_Th_4 - x_T8_S2_Th_4 - x_T8_S3_Th_4 = 0
+ flow_T8_Th_5: x_T8_S1_Th_5 + x_T8_S2_Th_5 + x_T8_S3_Th_5 - x_T8_S1_Th_5 - x_T8_S2_Th_5 - x_T8_S3_Th_5 = -1
+ flow_T8_Fr_1: x_T8_S1_Fr_1 + x_T8_S2_Fr_1 + x_T8_S3_Fr_1 - x_T8_S1_Fr_1 - x_T8_S2_Fr_1 - x_T8_S3_Fr_1 = 1
+ flow_T8_Fr_2: x_T8_S1_Fr_2 + x_T8_S2_Fr_2 + x_T8_S3_Fr_2 - x_T8_S1_Fr_2 - x_T8_S2_Fr_2 - x_T8_S3_Fr_2 = 0
+ flow_T8_Fr_3: x_T8_S1_Fr_3 + x_T8_S2_Fr_3 + x_T8_S3_Fr_3 - x_T8_S1_Fr_3 - x_T8_S2_Fr_3 - x_T8_S3_Fr_3 = 0
+ flow_T8_Fr_4: x_T8_S1_Fr_4 + x_T8_S2_Fr_4 + x_T8_S3_Fr_4 - x_T8_S1_Fr_4 - x_T8_S2_Fr_4 - x_T8_S3_Fr_4 = 0
+ flow_T8_Fr_5: x_T8_S1_Fr_5 + x_T8_S2_Fr_5 + x_T8_S3_Fr_5 - x_T8_S1_Fr_5 - x_T8_S2_Fr_5 - x_T8_S3_Fr_5 = -1
+ flow_T1_Mo_1: x_T1_S1_Mo_1 + x_T1_S2_Mo_1 + x_T1_S3_Mo_1 - x_T1_S1_Mo_1 - x_T1_S2_Mo_1 - x_T1_S3_Mo_1 = 1
+ flow_T1_Mo_2: x_T1_S1_Mo_2 + x_T1_S2_Mo_2 + x_T1_S3_Mo_2 - x_T1_S1_Mo_2 - x_T1_S2_Mo_2 - x_T1_S3_Mo_2 = 0
+ flow_T1_Mo_3: x_T1_S1_Mo_3 + x_T1_S2_Mo_3 + x_T1_S3_Mo_3 - x_T1_S1_Mo_3 - x_T1_S2_Mo_3 - x_T1_S3_Mo_3 = 0
+ flow_T1_Mo_4: x_T1_S1_Mo_4 + x_T1_S2_Mo_4 + x_T1_S3_Mo_4 - x_T1_S1_Mo_4 - x_T1_S2_Mo_4 - x_T1_S3_Mo_4 = 0
+ flow_T1_Mo_5: x_T1_S1_Mo_5 + x_T1_S2_Mo_5 + x_T1_S3_Mo_5 - x_T1_S1_Mo_5 - x_T1_S2_Mo_5 - x_T1_S3_Mo_5 = -1
+ flow_T1_Tu_1: x_T1_S1_Tu_1 + x_T1_S2_Tu_1 + x_T1_S3_Tu_1 - x_T1_S1_Tu_1 - x_T1_S2_Tu_1 - x_T1_S3_Tu_1 = 1
+ flow_T1_Tu_2: x_T1_S1_Tu_2 + x_T1_S2_Tu_2 + x_T1_S3_Tu_2 - x_T1_S1_Tu_2 - x_T1_S2_Tu_2 - x_T1_S3_Tu_2 = 0
+ flow_T1_Tu_3: x_T1_S1_Tu_3 + x_T1_S2_Tu_3 + x_T1_S3_Tu_3 - x_T1_S1_Tu_3 - x_T1_S2_Tu_3 - x_T1_S3_Tu_3 = 0
+ flow_T1_Tu_4: x_T1_S1_Tu_4 + x_T1_S2_Tu_4 + x_T1_S3_Tu_4 - x_T1_S1_Tu_4 - x_T1_S2_Tu_4 - x_T1_S3_Tu_4 = 0
+ flow_T1_Tu_5: x_T1_S1_Tu_5 + x_T1_S2_Tu_5 + x_T1_S3_Tu_5 - x_T1_S1_Tu_5 - x_T1_S2_Tu_5 - x_T1_S3_Tu_5 = -1
+ flow_T1_We_1: x_T1_S1_We_1 + x_T1_S2_We_1 + x_T1_S3_We_1 - x_T1_S1_We_1 - x_T1_S2_We_1 - x_T1_S3_We_1 = 1
+ flow_T1_We_2: x_T1_S1_We_2 + x_T1_S2_We_2 + x_T1_S3_We_2 - x_T1_S1_We_2 - x_T1_S2_We_2 - x_T1_S3_We_2 = 0
+ flow_T1_We_3: x_T1_S1_We_3 + x_T1_S2_We_3 + x_T1_S3_We_3 - x_T1_S1_We_3 - x_T1_S2_We_3 - x_T1_S3_We_3 = 0
+ flow_T1_We_4: x_T1_S1_We_4 + x_T1_S2_We_4 + x_T1_S3_We_4 - x_T1_S1_We_4 - x_T1_S2_We_4 - x_T1_S3_We_4 = 0
+ flow_T1_We_5: x_T1_S1_We_5 + x_T1_S2_We_5 + x_T1_S3_We_5 - x_T1_S1_We_5 - x_T1_S2_We_5 - x_T1_S3_We_5 = -1
+ flow_T1_Th_1: x_T1_S1_Th_1 + x_T1_S2_Th_1 + x_T1_S3_Th_1 - x_T1_S1_Th_1 - x_T1_S2_Th_1 - x_T1_S3_Th_1 = 1
+ flow_T1_Th_2: x_T1_S1_Th_2 + x_T1_S2_Th_2 + x_T1_S3_Th_2 - x_T1_S1_Th_2 - x_T1_S2_Th_2 - x_T1_S3_Th_2 = 0
+ flow_T1_Th_3: x_T1_S1_Th_3 + x_T1_S2_Th_3 + x_T1_S3_Th_3 - x_T1_S1_Th_3 - x_T1_S2_Th_3 - x_T1_S3_Th_3 = 0
+ flow_T1_Th_4: x_T1_S1_Th_4 + x_T1_S2_Th_4 + x_T1_S3_Th_4 - x_T1_S1_Th_4 - x_T1_S2_Th_4 - x_T1_S3_Th_4 = 0
+ flow_T1_Th_5: x_T1_S1_Th_5 + x_T1_S2_Th_5 + x_T1_S3_Th_5 - x_T1_S1_Th_5 - x_T1_S2_Th_5 - x_T1_S3_Th_5 = -1
+ flow_T1_Fr_1: x_T1_S1_Fr_1 + x_T1_S2_Fr_1 + x_T1_S3_Fr_1 - x_T1_S1_Fr_1 - x_T1_S2_Fr_1 - x_T1_S3_Fr_1 = 1
+ flow_T1_Fr_2: x_T1_S1_Fr_2 + x_T1_S2_Fr_2 + x_T1_S3_Fr_2 - x_T1_S1_Fr_2 - x_T1_S2_Fr_2 - x_T1_S3_Fr_2 = 0
+ flow_T1_Fr_3: x_T1_S1_Fr_3 + x_T1_S2_Fr_3 + x_T1_S3_Fr_3 - x_T1_S1_Fr_3 - x_T1_S2_Fr_3 - x_T1_S3_Fr_3 = 0
+ flow_T1_Fr_4: x_T1_S1_Fr_4 + x_T1_S2_Fr_4 + x_T1_S3_Fr_4 - x_T1_S1_Fr_4 - x_T1_S2_Fr_4 - x_T1_S3_Fr_4 = 0
+ flow_T1_Fr_5: x_T1_S1_Fr_5 + x_T1_S2_Fr_5 + x_T1_S3_Fr_5 - x_T1_S1_Fr_5 - x_T1_S2_Fr_5 - x_T1_S3_Fr_5 = -1
+ flow_T7_Mo_1: x_T7_S1_Mo_1 + x_T7_S3_Mo_1 - x_T7_S1_Mo_1 - x_T7_S3_Mo_1 = 1
+ flow_T7_Mo_2: x_T7_S1_Mo_2 + x_T7_S3_Mo_2 - x_T7_S1_Mo_2 - x_T7_S3_Mo_2 = 0
+ flow_T7_Mo_3: x_T7_S1_Mo_3 + x_T7_S3_Mo_3 - x_T7_S1_Mo_3 - x_T7_S3_Mo_3 = 0
+ flow_T7_Mo_4: x_T7_S1_Mo_4 + x_T7_S3_Mo_4 - x_T7_S1_Mo_4 - x_T7_S3_Mo_4 = 0
+ flow_T7_Mo_5: x_T7_S1_Mo_5 + x_T7_S3_Mo_5 - x_T7_S1_Mo_5 - x_T7_S3_Mo_5 = -1
+ flow_T7_Tu_1: x_T7_S1_Tu_1 + x_T7_S3_Tu_1 - x_T7_S1_Tu_1 - x_T7_S3_Tu_1 = 1
+ flow_T7_Tu_2: x_T7_S1_Tu_2 + x_T7_S3_Tu_2 - x_T7_S1_Tu_2 - x_T7_S3_Tu_2 = 0
+ flow_T7_Tu_3: x_T7_S1_Tu_3 + x_T7_S3_Tu_3 - x_T7_S1_Tu_3 - x_T7_S3_Tu_3 = 0
+ flow_T7_Tu_4: x_T7_S1_Tu_4 + x_T7_S3_Tu_4 - x_T7_S1_Tu_4 - x_T7_S3_Tu_4 = 0
+ flow_T7_Tu_5: x_T7_S1_Tu_5 + x_T7_S3_Tu_5 - x_T7_S1_Tu_5 - x_T7_S3_Tu_5 = -1
+ flow_T7_We_1: x_T7_S1_We_1 + x_T7_S3_We_1 - x_T7_S1_We_1 - x_T7_S3_We_1 = 1
+ flow_T7_We_2: x_T7_S1_We_2 + x_T7_S3_We_2 - x_T7_S1_We_2 - x_T7_S3_We_2 = 0
+ flow_T7_We_3: x_T7_S1_We_3 + x_T7_S3_We_3 - x_T7_S1_We_3 - x_T7_S3_We_3 = 0
+ flow_T7_We_4: x_T7_S1_We_4 + x_T7_S3_We_4 - x_T7_S1_We_4 - x_T7_S3_We_4 = 0
+ flow_T7_We_5: x_T7_S1_We_5 + x_T7_S3_We_5 - x_T7_S1_We_5 - x_T7_S3_We_5 = -1
+ flow_T7_Th_1: x_T7_S1_Th_1 + x_T7_S3_Th_1 - x_T7_S1_Th_1 - x_T7_S3_Th_1 = 1
+ flow_T7_Th_2: x_T7_S1_Th_2 + x_T7_S3_Th_2 - x_T7_S1_Th_2 - x_T7_S3_Th_2 = 0
+ flow_T7_Th_3: x_T7_S1_Th_3 + x_T7_S3_Th_3 - x_T7_S1_Th_3 - x_T7_S3_Th_3 = 0
+ flow_T7_Th_4: x_T7_S1_Th_4 + x_T7_S3_Th_4 - x_T7_S1_Th_4 - x_T7_S3_Th_4 = 0
+ flow_T7_Th_5: x_T7_S1_Th_5 + x_T7_S3_Th_5 - x_T7_S1_Th_5 - x_T7_S3_Th_5 = -1
+ flow_T7_Fr_1: x_T7_S1_Fr_1 + x_T7_S3_Fr_1 - x_T7_S1_Fr_1 - x_T7_S3_Fr_1 = 1
+ flow_T7_Fr_2: x_T7_S1_Fr_2 + x_T7_S3_Fr_2 - x_T7_S1_Fr_2 - x_T7_S3_Fr_2 = 0
+ flow_T7_Fr_3: x_T7_S1_Fr_3 + x_T7_S3_Fr_3 - x_T7_S1_Fr_3 - x_T7_S3_Fr_3 = 0
+ flow_T7_Fr_4: x_T7_S1_Fr_4 + x_T7_S3_Fr_4 - x_T7_S1_Fr_4 - x_T7_S3_Fr_4 = 0
+ flow_T7_Fr_5: x_T7_S1_Fr_5 + x_T7_S3_Fr_5 - x_T7_S1_Fr_5 - x_T7_S3_Fr_5 = -1
+ flow_T5_Mo_1: x_T5_S2_Mo_1 + x_T5_S3_Mo_1 - x_T5_S2_Mo_1 - x_T5_S3_Mo_1 = 1
+ flow_T5_Mo_2: x_T5_S2_Mo_2 + x_T5_S3_Mo_2 - x_T5_S2_Mo_2 - x_T5_S3_Mo_2 = 0
+ flow_T5_Mo_3: x_T5_S2_Mo_3 + x_T5_S3_Mo_3 - x_T5_S2_Mo_3 - x_T5_S3_Mo_3 = 0
+ flow_T5_Mo_4: x_T5_S2_Mo_4 + x_T5_S3_Mo_4 - x_T5_S2_Mo_4 - x_T5_S3_Mo_4 = 0
+ flow_T5_Mo_5: x_T5_S2_Mo_5 + x_T5_S3_Mo_5 - x_T5_S2_Mo_5 - x_T5_S3_Mo_5 = -1
+ flow_T5_Tu_1: x_T5_S2_Tu_1 + x_T5_S3_Tu_1 - x_T5_S2_Tu_1 - x_T5_S3_Tu_1 = 1
+ flow_T5_Tu_2: x_T5_S2_Tu_2 + x_T5_S3_Tu_2 - x_T5_S2_Tu_2 - x_T5_S3_Tu_2 = 0
+ flow_T5_Tu_3: x_T5_S2_Tu_3 + x_T5_S3_Tu_3 - x_T5_S2_Tu_3 - x_T5_S3_Tu_3 = 0
+ flow_T5_Tu_4: x_T5_S2_Tu_4 + x_T5_S3_Tu_4 - x_T5_S2_Tu_4 - x_T5_S3_Tu_4 = 0
+ flow_T5_Tu_5: x_T5_S2_Tu_5 + x_T5_S3_Tu_5 - x_T5_S2_Tu_5 - x_T5_S3_Tu_5 = -1
+ flow_T5_We_1: x_T5_S2_We_1 + x_T5_S3_We_1 - x_T5_S2_We_1 - x_T5_S3_We_1 = 1
+ flow_T5_We_2: x_T5_S2_We_2 + x_T5_S3_We_2 - x_T5_S2_We_2 - x_T5_S3_We_2 = 0
+ flow_T5_We_3: x_T5_S2_We_3 + x_T5_S3_We_3 - x_T5_S2_We_3 - x_T5_S3_We_3 = 0
+ flow_T5_We_4: x_T5_S2_We_4 + x_T5_S3_We_4 - x_T5_S2_We_4 - x_T5_S3_We_4 = 0
+ flow_T5_We_5: x_T5_S2_We_5 + x_T5_S3_We_5 - x_T5_S2_We_5 - x_T5_S3_We_5 = -1
+ flow_T5_Th_1: x_T5_S2_Th_1 + x_T5_S3_Th_1 - x_T5_S2_Th_1 - x_T5_S3_Th_1 = 1
+ flow_T5_Th_2: x_T5_S2_Th_2 + x_T5_S3_Th_2 - x_T5_S2_Th_2 - x_T5_S3_Th_2 = 0
+ flow_T5_Th_3: x_T5_S2_Th_3 + x_T5_S3_Th_3 - x_T5_S2_Th_3 - x_T5_S3_Th_3 = 0
+ flow_T5_Th_4: x_T5_S2_Th_4 + x_T5_S3_Th_4 - x_T5_S2_Th_4 - x_T5_S3_Th_4 = 0
+ flow_T5_Th_5: x_T5_S2_Th_5 + x_T5_S3_Th_5 - x_T5_S2_Th_5 - x_T5_S3_Th_5 = -1
+ flow_T5_Fr_1: x_T5_S2_Fr_1 + x_T5_S3_Fr_1 - x_T5_S2_Fr_1 - x_T5_S3_Fr_1 = 1
+ flow_T5_Fr_2: x_T5_S2_Fr_2 + x_T5_S3_Fr_2 - x_T5_S2_Fr_2 - x_T5_S3_Fr_2 = 0
+ flow_T5_Fr_3: x_T5_S2_Fr_3 + x_T5_S3_Fr_3 - x_T5_S2_Fr_3 - x_T5_S3_Fr_3 = 0
+ flow_T5_Fr_4: x_T5_S2_Fr_4 + x_T5_S3_Fr_4 - x_T5_S2_Fr_4 - x_T5_S3_Fr_4 = 0
+ flow_T5_Fr_5: x_T5_S2_Fr_5 + x_T5_S3_Fr_5 - x_T5_S2_Fr_5 - x_T5_S3_Fr_5 = -1
+ flow_T2_Mo_1: x_T2_S1_Mo_1 + x_T2_S2_Mo_1 - x_T2_S1_Mo_1 - x_T2_S2_Mo_1 = 1
+ flow_T2_Mo_2: x_T2_S1_Mo_2 + x_T2_S2_Mo_2 - x_T2_S1_Mo_2 - x_T2_S2_Mo_2 = 0
+ flow_T2_Mo_3: x_T2_S1_Mo_3 + x_T2_S2_Mo_3 - x_T2_S1_Mo_3 - x_T2_S2_Mo_3 = 0
+ flow_T2_Mo_4: x_T2_S1_Mo_4 + x_T2_S2_Mo_4 - x_T2_S1_Mo_4 - x_T2_S2_Mo_4 = 0
+ flow_T2_Mo_5: x_T2_S1_Mo_5 + x_T2_S2_Mo_5 - x_T2_S1_Mo_5 - x_T2_S2_Mo_5 = -1
+ flow_T2_Tu_1: x_T2_S1_Tu_1 + x_T2_S2_Tu_1 - x_T2_S1_Tu_1 - x_T2_S2_Tu_1 = 1
+ flow_T2_Tu_2: x_T2_S1_Tu_2 + x_T2_S2_Tu_2 - x_T2_S1_Tu_2 - x_T2_S2_Tu_2 = 0
+ flow_T2_Tu_3: x_T2_S1_Tu_3 + x_T2_S2_Tu_3 - x_T2_S1_Tu_3 - x_T2_S2_Tu_3 = 0
+ flow_T2_Tu_4: x_T2_S1_Tu_4 + x_T2_S2_Tu_4 - x_T2_S1_Tu_4 - x_T2_S2_Tu_4 = 0
+ flow_T2_Tu_5: x_T2_S1_Tu_5 + x_T2_S2_Tu_5 - x_T2_S1_Tu_5 - x_T2_S2_Tu_5 = -1
+ flow_T2_We_1: x_T2_S1_We_1 + x_T2_S2_We_1 - x_T2_S1_We_1 - x_T2_S2_We_1 = 1
+ flow_T2_We_2: x_T2_S1_We_2 + x_T2_S2_We_2 - x_T2_S1_We_2 - x_T2_S2_We_2 = 0
+ flow_T2_We_3: x_T2_S1_We_3 + x_T2_S2_We_3 - x_T2_S1_We_3 - x_T2_S2_We_3 = 0
+ flow_T2_We_4: x_T2_S1_We_4 + x_T2_S2_We_4 - x_T2_S1_We_4 - x_T2_S2_We_4 = 0
+ flow_T2_We_5: x_T2_S1_We_5 + x_T2_S2_We_5 - x_T2_S1_We_5 - x_T2_S2_We_5 = -1
+ flow_T2_Th_1: x_T2_S1_Th_1 + x_T2_S2_Th_1 - x_T2_S1_Th_1 - x_T2_S2_Th_1 = 1
+ flow_T2_Th_2: x_T2_S1_Th_2 + x_T2_S2_Th_2 - x_T2_S1_Th_2 - x_T2_S2_Th_2 = 0
+ flow_T2_Th_3: x_T2_S1_Th_3 + x_T2_S2_Th_3 - x_T2_S1_Th_3 - x_T2_S2_Th_3 = 0
+ flow_T2_Th_4: x_T2_S1_Th_4 + x_T2_S2_Th_4 - x_T2_S1_Th_4 - x_T2_S2_Th_4 = 0
+ flow_T2_Th_5: x_T2_S1_Th_5 + x_T2_S2_Th_5 - x_T2_S1_Th_5 - x_T2_S2_Th_5 = -1
+ flow_T2_Fr_1: x_T2_S1_Fr_1 + x_T2_S2_Fr_1 - x_T2_S1_Fr_1 - x_T2_S2_Fr_1 = 1
+ flow_T2_Fr_2: x_T2_S1_Fr_2 + x_T2_S2_Fr_2 - x_T2_S1_Fr_2 - x_T2_S2_Fr_2 = 0
+ flow_T2_Fr_3: x_T2_S1_Fr_3 + x_T2_S2_Fr_3 - x_T2_S1_Fr_3 - x_T2_S2_Fr_3 = 0
+ flow_T2_Fr_4: x_T2_S1_Fr_4 + x_T2_S2_Fr_4 - x_T2_S1_Fr_4 - x_T2_S2_Fr_4 = 0
+ flow_T2_Fr_5: x_T2_S1_Fr_5 + x_T2_S2_Fr_5 - x_T2_S1_Fr_5 - x_T2_S2_Fr_5 = -1
+ flow_T3_Mo_1: x_T3_S1_Mo_1 + x_T3_S2_Mo_1 + x_T3_S3_Mo_1 - x_T3_S1_Mo_1 - x_T3_S2_Mo_1 - x_T3_S3_Mo_1 = 1
+ flow_T3_Mo_2: x_T3_S1_Mo_2 + x_T3_S2_Mo_2 + x_T3_S3_Mo_2 - x_T3_S1_Mo_2 - x_T3_S2_Mo_2 - x_T3_S3_Mo_2 = 0
+ flow_T3_Mo_3: x_T3_S1_Mo_3 + x_T3_S2_Mo_3 + x_T3_S3_Mo_3 - x_T3_S1_Mo_3 - x_T3_S2_Mo_3 - x_T3_S3_Mo_3 = 0
+ flow_T3_Mo_4: x_T3_S1_Mo_4 + x_T3_S2_Mo_4 + x_T3_S3_Mo_4 - x_T3_S1_Mo_4 - x_T3_S2_Mo_4 - x_T3_S3_Mo_4 = 0
+ flow_T3_Mo_5: x_T3_S1_Mo_5 + x_T3_S2_Mo_5 + x_T3_S3_Mo_5 - x_T3_S1_Mo_5 - x_T3_S2_Mo_5 - x_T3_S3_Mo_5 = -1
+ flow_T3_Tu_1: x_T3_S1_Tu_1 + x_T3_S2_Tu_1 + x_T3_S3_Tu_1 - x_T3_S1_Tu_1 - x_T3_S2_Tu_1 - x_T3_S3_Tu_1 = 1
+ flow_T3_Tu_2: x_T3_S1_Tu_2 + x_T3_S2_Tu_2 + x_T3_S3_Tu_2 - x_T3_S1_Tu_2 - x_T3_S2_Tu_2 - x_T3_S3_Tu_2 = 0
+ flow_T3_Tu_3: x_T3_S1_Tu_3 + x_T3_S2_Tu_3 + x_T3_S3_Tu_3 - x_T3_S1_Tu_3 - x_T3_S2_Tu_3 - x_T3_S3_Tu_3 = 0
+ flow_T3_Tu_4: x_T3_S1_Tu_4 + x_T3_S2_Tu_4 + x_T3_S3_Tu_4 - x_T3_S1_Tu_4 - x_T3_S2_Tu_4 - x_T3_S3_Tu_4 = 0
+ flow_T3_Tu_5: x_T3_S1_Tu_5 + x_T3_S2_Tu_5 + x_T3_S3_Tu_5 - x_T3_S1_Tu_5 - x_T3_S2_Tu_5 - x_T3_S3_Tu_5 = -1
+ flow_T3_We_1: x_T3_S1_We_1 + x_T3_S2_We_1 + x_T3_S3_We_1 - x_T3_S1_We_1 - x_T3_S2_We_1 - x_T3_S3_We_1 = 1
+ flow_T3_We_2: x_T3_S1_We_2 + x_T3_S2_We_2 + x_T3_S3_We_2 - x_T3_S1_We_2 - x_T3_S2_We_2 - x_T3_S3_We_2 = 0
+ flow_T3_We_3: x_T3_S1_We_3 + x_T3_S2_We_3 + x_T3_S3_We_3 - x_T3_S1_We_3 - x_T3_S2_We_3 - x_T3_S3_We_3 = 0
+ flow_T3_We_4: x_T3_S1_We_4 + x_T3_S2_We_4 + x_T3_S3_We_4 - x_T3_S1_We_4 - x_T3_S2_We_4 - x_T3_S3_We_4 = 0
+ flow_T3_We_5: x_T3_S1_We_5 + x_T3_S2_We_5 + x_T3_S3_We_5 - x_T3_S1_We_5 - x_T3_S2_We_5 - x_T3_S3_We_5 = -1
+ flow_T3_Th_1: x_T3_S1_Th_1 + x_T3_S2_Th_1 + x_T3_S3_Th_1 - x_T3_S1_Th_1 - x_T3_S2_Th_1 - x_T3_S3_Th_1 = 1
+ flow_T3_Th_2: x_T3_S1_Th_2 + x_T3_S2_Th_2 + x_T3_S3_Th_2 - x_T3_S1_Th_2 - x_T3_S2_Th_2 - x_T3_S3_Th_2 = 0
+ flow_T3_Th_3: x_T3_S1_Th_3 + x_T3_S2_Th_3 + x_T3_S3_Th_3 - x_T3_S1_Th_3 - x_T3_S2_Th_3 - x_T3_S3_Th_3 = 0
+ flow_T3_Th_4: x_T3_S1_Th_4 + x_T3_S2_Th_4 + x_T3_S3_Th_4 - x_T3_S1_Th_4 - x_T3_S2_Th_4 - x_T3_S3_Th_4 = 0
+ flow_T3_Th_5: x_T3_S1_Th_5 + x_T3_S2_Th_5 + x_T3_S3_Th_5 - x_T3_S1_Th_5 - x_T3_S2_Th_5 - x_T3_S3_Th_5 = -1
+ flow_T3_Fr_1: x_T3_S1_Fr_1 + x_T3_S2_Fr_1 + x_T3_S3_Fr_1 - x_T3_S1_Fr_1 - x_T3_S2_Fr_1 - x_T3_S3_Fr_1 = 1
+ flow_T3_Fr_2: x_T3_S1_Fr_2 + x_T3_S2_Fr_2 + x_T3_S3_Fr_2 - x_T3_S1_Fr_2 - x_T3_S2_Fr_2 - x_T3_S3_Fr_2 = 0
+ flow_T3_Fr_3: x_T3_S1_Fr_3 + x_T3_S2_Fr_3 + x_T3_S3_Fr_3 - x_T3_S1_Fr_3 - x_T3_S2_Fr_3 - x_T3_S3_Fr_3 = 0
+ flow_T3_Fr_4: x_T3_S1_Fr_4 + x_T3_S2_Fr_4 + x_T3_S3_Fr_4 - x_T3_S1_Fr_4 - x_T3_S2_Fr_4 - x_T3_S3_Fr_4 = 0
+ flow_T3_Fr_5: x_T3_S1_Fr_5 + x_T3_S2_Fr_5 + x_T3_S3_Fr_5 - x_T3_S1_Fr_5 - x_T3_S2_Fr_5 - x_T3_S3_Fr_5 = -1
+ capacity_S3_Mo_1: x_T1_S3_Mo_1 + x_T3_S3_Mo_1 + x_T4_S3_Mo_1 + x_T5_S3_Mo_1 + x_T6_S3_Mo_1 + x_T7_S3_Mo_1 + x_T8_S3_Mo_1 <= 1
+ capacity_S3_Mo_2: x_T1_S3_Mo_2 + x_T3_S3_Mo_2 + x_T4_S3_Mo_2 + x_T5_S3_Mo_2 + x_T6_S3_Mo_2 + x_T7_S3_Mo_2 + x_T8_S3_Mo_2 <= 1
+ capacity_S3_Mo_3: x_T1_S3_Mo_3 + x_T3_S3_Mo_3 + x_T4_S3_Mo_3 + x_T5_S3_Mo_3 + x_T6_S3_Mo_3 + x_T7_S3_Mo_3 + x_T8_S3_Mo_3 <= 1
+ capacity_S3_Mo_4: x_T1_S3_Mo_4 + x_T3_S3_Mo_4 + x_T4_S3_Mo_4 + x_T5_S3_Mo_4 + x_T6_S3_Mo_4 + x_T7_S3_Mo_4 + x_T8_S3_Mo_4 <= 1
+ capacity_S3_Mo_5: x_T1_S3_Mo_5 + x_T3_S3_Mo_5 + x_T4_S3_Mo_5 + x_T5_S3_Mo_5 + x_T6_S3_Mo_5 + x_T7_S3_Mo_5 + x_T8_S3_Mo_5 <= 1
+ capacity_S3_Tu_1: x_T1_S3_Tu_1 + x_T3_S3_Tu_1 + x_T4_S3_Tu_1 + x_T5_S3_Tu_1 + x_T6_S3_Tu_1 + x_T7_S3_Tu_1 + x_T8_S3_Tu_1 <= 1
+ capacity_S3_Tu_2: x_T1_S3_Tu_2 + x_T3_S3_Tu_2 + x_T4_S3_Tu_2 + x_T5_S3_Tu_2 + x_T6_S3_Tu_2 + x_T7_S3_Tu_2 + x_T8_S3_Tu_2 <= 1
+ capacity_S3_Tu_3: x_T1_S3_Tu_3 + x_T3_S3_Tu_3 + x_T4_S3_Tu_3 + x_T5_S3_Tu_3 + x_T6_S3_Tu_3 + x_T7_S3_Tu_3 + x_T8_S3_Tu_3 <= 1
+ capacity_S3_Tu_4: x_T1_S3_Tu_4 + x_T3_S3_Tu_4 + x_T4_S3_Tu_4 + x_T5_S3_Tu_4 + x_T6_S3_Tu_4 + x_T7_S3_Tu_4 + x_T8_S3_Tu_4 <= 1
+ capacity_S3_Tu_5: x_T1_S3_Tu_5 + x_T3_S3_Tu_5 + x_T4_S3_Tu_5 + x_T5_S3_Tu_5 + x_T6_S3_Tu_5 + x_T7_S3_Tu_5 + x_T8_S3_Tu_5 <= 1
+ capacity_S3_We_1: x_T1_S3_We_1 + x_T3_S3_We_1 + x_T4_S3_We_1 + x_T5_S3_We_1 + x_T6_S3_We_1 + x_T7_S3_We_1 + x_T8_S3_We_1 <= 1
+ capacity_S3_We_2: x_T1_S3_We_2 + x_T3_S3_We_2 + x_T4_S3_We_2 + x_T5_S3_We_2 + x_T6_S3_We_2 + x_T7_S3_We_2 + x_T8_S3_We_2 <= 1
+ capacity_S3_We_3: x_T1_S3_We_3 + x_T3_S3_We_3 + x_T4_S3_We_3 + x_T5_S3_We_3 + x_T6_S3_We_3 + x_T7_S3_We_3 + x_T8_S3_We_3 <= 1
+ capacity_S3_We_4: x_T1_S3_We_4 + x_T3_S3_We_4 + x_T4_S3_We_4 + x_T5_S3_We_4 + x_T6_S3_We_4 + x_T7_S3_We_4 + x_T8_S3_We_4 <= 1
+ capacity_S3_We_5: x_T1_S3_We_5 + x_T3_S3_We_5 + x_T4_S3_We_5 + x_T5_S3_We_5 + x_T6_S3_We_5 + x_T7_S3_We_5 + x_T8_S3_We_5 <= 1
+ capacity_S3_Th_1: x_T1_S3_Th_1 + x_T3_S3_Th_1 + x_T4_S3_Th_1 + x_T5_S3_Th_1 + x_T6_S3_Th_1 + x_T7_S3_Th_1 + x_T8_S3_Th_1 <= 1
+ capacity_S3_Th_2: x_T1_S3_Th_2 + x_T3_S3_Th_2 + x_T4_S3_Th_2 + x_T5_S3_Th_2 + x_T6_S3_Th_2 + x_T7_S3_Th_2 + x_T8_S3_Th_2 <= 1
+ capacity_S3_Th_3: x_T1_S3_Th_3 + x_T3_S3_Th_3 + x_T4_S3_Th_3 + x_T5_S3_Th_3 + x_T6_S3_Th_3 + x_T7_S3_Th_3 + x_T8_S3_Th_3 <= 1
+ capacity_S3_Th_4: x_T1_S3_Th_4 + x_T3_S3_Th_4 + x_T4_S3_Th_4 + x_T5_S3_Th_4 + x_T6_S3_Th_4 + x_T7_S3_Th_4 + x_T8_S3_Th_4 <= 1
+ capacity_S3_Th_5: x_T1_S3_Th_5 + x_T3_S3_Th_5 + x_T4_S3_Th_5 + x_T5_S3_Th_5 + x_T6_S3_Th_5 + x_T7_S3_Th_5 + x_T8_S3_Th_5 <= 1
+ capacity_S3_Fr_1: x_T1_S3_Fr_1 + x_T3_S3_Fr_1 + x_T4_S3_Fr_1 + x_T5_S3_Fr_1 + x_T6_S3_Fr_1 + x_T7_S3_Fr_1 + x_T8_S3_Fr_1 <= 1
+ capacity_S3_Fr_2: x_T1_S3_Fr_2 + x_T3_S3_Fr_2 + x_T4_S3_Fr_2 + x_T5_S3_Fr_2 + x_T6_S3_Fr_2 + x_T7_S3_Fr_2 + x_T8_S3_Fr_2 <= 1
+ capacity_S3_Fr_3: x_T1_S3_Fr_3 + x_T3_S3_Fr_3 + x_T4_S3_Fr_3 + x_T5_S3_Fr_3 + x_T6_S3_Fr_3 + x_T7_S3_Fr_3 + x_T8_S3_Fr_3 <= 1
+ capacity_S3_Fr_4: x_T1_S3_Fr_4 + x_T3_S3_Fr_4 + x_T4_S3_Fr_4 + x_T5_S3_Fr_4 + x_T6_S3_Fr_4 + x_T7_S3_Fr_4 + x_T8_S3_Fr_4 <= 1
+ capacity_S3_Fr_5: x_T1_S3_Fr_5 + x_T3_S3_Fr_5 + x_T4_S3_Fr_5 + x_T5_S3_Fr_5 + x_T6_S3_Fr_5 + x_T7_S3_Fr_5 + x_T8_S3_Fr_5 <= 1
+ capacity_S2_Mo_1: x_T1_S2_Mo_1 + x_T2_S2_Mo_1 + x_T3_S2_Mo_1 + x_T4_S2_Mo_1 + x_T5_S2_Mo_1 + x_T6_S2_Mo_1 + x_T8_S2_Mo_1 <= 1
+ capacity_S2_Mo_2: x_T1_S2_Mo_2 + x_T2_S2_Mo_2 + x_T3_S2_Mo_2 + x_T4_S2_Mo_2 + x_T5_S2_Mo_2 + x_T6_S2_Mo_2 + x_T8_S2_Mo_2 <= 1
+ capacity_S2_Mo_3: x_T1_S2_Mo_3 + x_T2_S2_Mo_3 + x_T3_S2_Mo_3 + x_T4_S2_Mo_3 + x_T5_S2_Mo_3 + x_T6_S2_Mo_3 + x_T8_S2_Mo_3 <= 1
+ capacity_S2_Mo_4: x_T1_S2_Mo_4 + x_T2_S2_Mo_4 + x_T3_S2_Mo_4 + x_T4_S2_Mo_4 + x_T5_S2_Mo_4 + x_T6_S2_Mo_4 + x_T8_S2_Mo_4 <= 1
+ capacity_S2_Mo_5: x_T1_S2_Mo_5 + x_T2_S2_Mo_5 + x_T3_S2_Mo_5 + x_T4_S2_Mo_5 + x_T5_S2_Mo_5 + x_T6_S2_Mo_5 + x_T8_S2_Mo_5 <= 1
+ capacity_S2_Tu_1: x_T1_S2_Tu_1 + x_T2_S2_Tu_1 + x_T3_S2_Tu_1 + x_T4_S2_Tu_1 + x_T5_S2_Tu_1 + x_T6_S2_Tu_1 + x_T8_S2_Tu_1 <= 1
+ capacity_S2_Tu_2: x_T1_S2_Tu_2 + x_T2_S2_Tu_2 + x_T3_S2_Tu_2 + x_T4_S2_Tu_2 + x_T5_S2_Tu_2 + x_T6_S2_Tu_2 + x_T8_S2_Tu_2 <= 1
+ capacity_S2_Tu_3: x_T1_S2_Tu_3 + x_T2_S2_Tu_3 + x_T3_S2_Tu_3 + x_T4_S2_Tu_3 + x_T5_S2_Tu_3 + x_T6_S2_Tu_3 + x_T8_S2_Tu_3 <= 1
+ capacity_S2_Tu_4: x_T1_S2_Tu_4 + x_T2_S2_Tu_4 + x_T3_S2_Tu_4 + x_T4_S2_Tu_4 + x_T5_S2_Tu_4 + x_T6_S2_Tu_4 + x_T8_S2_Tu_4 <= 1
+ capacity_S2_Tu_5: x_T1_S2_Tu_5 + x_T2_S2_Tu_5 + x_T3_S2_Tu_5 + x_T4_S2_Tu_5 + x_T5_S2_Tu_5 + x_T6_S2_Tu_5 + x_T8_S2_Tu_5 <= 1
+ capacity_S2_We_1: x_T1_S2_We_1 + x_T2_S2_We_1 + x_T3_S2_We_1 + x_T4_S2_We_1 + x_T5_S2_We_1 + x_T6_S2_We_1 + x_T8_S2_We_1 <= 1
+ capacity_S2_We_2: x_T1_S2_We_2 + x_T2_S2_We_2 + x_T3_S2_We_2 + x_T4_S2_We_2 + x_T5_S2_We_2 + x_T6_S2_We_2 + x_T8_S2_We_2 <= 1
+ capacity_S2_We_3: x_T1_S2_We_3 + x_T2_S2_We_3 + x_T3_S2_We_3 + x_T4_S2_We_3 + x_T5_S2_We_3 + x_T6_S2_We_3 + x_T8_S2_We_3 <= 1
+ capacity_S2_We_4: x_T1_S2_We_4 + x_T2_S2_We_4 + x_T3_S2_We_4 + x_T4_S2_We_4 + x_T5_S2_We_4 + x_T6_S2_We_4 + x_T8_S2_We_4 <= 1
+ capacity_S2_We_5: x_T1_S2_We_5 + x_T2_S2_We_5 + x_T3_S2_We_5 + x_T4_S2_We_5 + x_T5_S2_We_5 + x_T6_S2_We_5 + x_T8_S2_We_5 <= 1
+ capacity_S2_Th_1: x_T1_S2_Th_1 + x_T2_S2_Th_1 + x_T3_S2_Th_1 + x_T4_S2_Th_1 + x_T5_S2_Th_1 + x_T6_S2_Th_1 + x_T8_S2_Th_1 <= 1
+ capacity_S2_Th_2: x_T1_S2_Th_2 + x_T2_S2_Th_2 + x_T3_S2_Th_2 + x_T4_S2_Th_2 + x_T5_S2_Th_2 + x_T6_S2_Th_2 + x_T8_S2_Th_2 <= 1
+ capacity_S2_Th_3: x_T1_S2_Th_3 + x_T2_S2_Th_3 + x_T3_S2_Th_3 + x_T4_S2_Th_3 + x_T5_S2_Th_3 + x_T6_S2_Th_3 + x_T8_S2_Th_3 <= 1
+ capacity_S2_Th_4: x_T1_S2_Th_4 + x_T2_S2_Th_4 + x_T3_S2_Th_4 + x_T4_S2_Th_4 + x_T5_S2_Th_4 + x_T6_S2_Th_4 + x_T8_S2_Th_4 <= 1
+ capacity_S2_Th_5: x_T1_S2_Th_5 + x_T2_S2_Th_5 + x_T3_S2_Th_5 + x_T4_S2_Th_5 + x_T5_S2_Th_5 + x_T6_S2_Th_5 + x_T8_S2_Th_5 <= 1
+ capacity_S2_Fr_1: x_T1_S2_Fr_1 + x_T2_S2_Fr_1 + x_T3_S2_Fr_1 + x_T4_S2_Fr_1 + x_T5_S2_Fr_1 + x_T6_S2_Fr_1 + x_T8_S2_Fr_1 <= 1
+ capacity_S2_Fr_2: x_T1_S2_Fr_2 + x_T2_S2_Fr_2 + x_T3_S2_Fr_2 + x_T4_S2_Fr_2 + x_T5_S2_Fr_2 + x_T6_S2_Fr_2 + x_T8_S2_Fr_2 <= 1
+ capacity_S2_Fr_3: x_T1_S2_Fr_3 + x_T2_S2_Fr_3 + x_T3_S2_Fr_3 + x_T4_S2_Fr_3 + x_T5_S2_Fr_3 + x_T6_S2_Fr_3 + x_T8_S2_Fr_3 <= 1
+ capacity_S2_Fr_4: x_T1_S2_Fr_4 + x_T2_S2_Fr_4 + x_T3_S2_Fr_4 + x_T4_S2_Fr_4 + x_T5_S2_Fr_4 + x_T6_S2_Fr_4 + x_T8_S2_Fr_4 <= 1
+ capacity_S2_Fr_5: x_T1_S2_Fr_5 + x_T2_S2_Fr_5 + x_T3_S2_Fr_5 + x_T4_S2_Fr_5 + x_T5_S2_Fr_5 + x_T6_S2_Fr_5 + x_T8_S2_Fr_5 <= 1
+ capacity_S1_Mo_1: x_T1_S1_Mo_1 + x_T2_S1_Mo_1 + x_T3_S1_Mo_1 + x_T4_S1_Mo_1 + x_T6_S1_Mo_1 + x_T7_S1_Mo_1 + x_T8_S1_Mo_1 <= 1
+ capacity_S1_Mo_2: x_T1_S1_Mo_2 + x_T2_S1_Mo_2 + x_T3_S1_Mo_2 + x_T4_S1_Mo_2 + x_T6_S1_Mo_2 + x_T7_S1_Mo_2 + x_T8_S1_Mo_2 <= 1
+ capacity_S1_Mo_3: x_T1_S1_Mo_3 + x_T2_S1_Mo_3 + x_T3_S1_Mo_3 + x_T4_S1_Mo_3 + x_T6_S1_Mo_3 + x_T7_S1_Mo_3 + x_T8_S1_Mo_3 <= 1
+ capacity_S1_Mo_4: x_T1_S1_Mo_4 + x_T2_S1_Mo_4 + x_T3_S1_Mo_4 + x_T4_S1_Mo_4 + x_T6_S1_Mo_4 + x_T7_S1_Mo_4 + x_T8_S1_Mo_4 <= 1
+ capacity_S1_Mo_5: x_T1_S1_Mo_5 + x_T2_S1_Mo_5 + x_T3_S1_Mo_5 + x_T4_S1_Mo_5 + x_T6_S1_Mo_5 + x_T7_S1_Mo_5 + x_T8_S1_Mo_5 <= 1
+ capacity_S1_Tu_1: x_T1_S1_Tu_1 + x_T2_S1_Tu_1 + x_T3_S1_Tu_1 + x_T4_S1_Tu_1 + x_T6_S1_Tu_1 + x_T7_S1_Tu_1 + x_T8_S1_Tu_1 <= 1
+ capacity_S1_Tu_2: x_T1_S1_Tu_2 + x_T2_S1_Tu_2 + x_T3_S1_Tu_2 + x_T4_S1_Tu_2 + x_T6_S1_Tu_2 + x_T7_S1_Tu_2 + x_T8_S1_Tu_2 <= 1
+ capacity_S1_Tu_3: x_T1_S1_Tu_3 + x_T2_S1_Tu_3 + x_T3_S1_Tu_3 + x_T4_S1_Tu_3 + x_T6_S1_Tu_3 + x_T7_S1_Tu_3 + x_T8_S1_Tu_3 <= 1
+ capacity_S1_Tu_4: x_T1_S1_Tu_4 + x_T2_S1_Tu_4 + x_T3_S1_Tu_4 + x_T4_S1_Tu_4 + x_T6_S1_Tu_4 + x_T7_S1_Tu_4 + x_T8_S1_Tu_4 <= 1
+ capacity_S1_Tu_5: x_T1_S1_Tu_5 + x_T2_S1_Tu_5 + x_T3_S1_Tu_5 + x_T4_S1_Tu_5 + x_T6_S1_Tu_5 + x_T7_S1_Tu_5 + x_T8_S1_Tu_5 <= 1
+ capacity_S1_We_1: x_T1_S1_We_1 + x_T2_S1_We_1 + x_T3_S1_We_1 + x_T4_S1_We_1 + x_T6_S1_We_1 + x_T7_S1_We_1 + x_T8_S1_We_1 <= 1
+ capacity_S1_We_2: x_T1_S1_We_2 + x_T2_S1_We_2 + x_T3_S1_We_2 + x_T4_S1_We_2 + x_T6_S1_We_2 + x_T7_S1_We_2 + x_T8_S1_We_2 <= 1
+ capacity_S1_We_3: x_T1_S1_We_3 + x_T2_S1_We_3 + x_T3_S1_We_3 + x_T4_S1_We_3 + x_T6_S1_We_3 + x_T7_S1_We_3 + x_T8_S1_We_3 <= 1
+ capacity_S1_We_4: x_T1_S1_We_4 + x_T2_S1_We_4 + x_T3_S1_We_4 + x_T4_S1_We_4 + x_T6_S1_We_4 + x_T7_S1_We_4 + x_T8_S1_We_4 <= 1
+ capacity_S1_We_5: x_T1_S1_We_5 + x_T2_S1_We_5 + x_T3_S1_We_5 + x_T4_S1_We_5 + x_T6_S1_We_5 + x_T7_S1_We_5 + x_T8_S1_We_5 <= 1
+ capacity_S1_Th_1: x_T1_S1_Th_1 + x_T2_S1_Th_1 + x_T3_S1_Th_1 + x_T4_S1_Th_1 + x_T6_S1_Th_1 + x_T7_S1_Th_1 + x_T8_S1_Th_1 <= 1
+ capacity_S1_Th_2: x_T1_S1_Th_2 + x_T2_S1_Th_2 + x_T3_S1_Th_2 + x_T4_S1_Th_2 + x_T6_S1_Th_2 + x_T7_S1_Th_2 + x_T8_S1_Th_2 <= 1
+ capacity_S1_Th_3: x_T1_S1_Th_3 + x_T2_S1_Th_3 + x_T3_S1_Th_3 + x_T4_S1_Th_3 + x_T6_S1_Th_3 + x_T7_S1_Th_3 + x_T8_S1_Th_3 <= 1
+ capacity_S1_Th_4: x_T1_S1_Th_4 + x_T2_S1_Th_4 + x_T3_S1_Th_4 + x_T4_S1_Th_4 + x_T6_S1_Th_4 + x_T7_S1_Th_4 + x_T8_S1_Th_4 <= 1
+ capacity_S1_Th_5: x_T1_S1_Th_5 + x_T2_S1_Th_5 + x_T3_S1_Th_5 + x_T4_S1_Th_5 + x_T6_S1_Th_5 + x_T7_S1_Th_5 + x_T8_S1_Th_5 <= 1
+ capacity_S1_Fr_1: x_T1_S1_Fr_1 + x_T2_S1_Fr_1 + x_T3_S1_Fr_1 + x_T4_S1_Fr_1 + x_T6_S1_Fr_1 + x_T7_S1_Fr_1 + x_T8_S1_Fr_1 <= 1
+ capacity_S1_Fr_2: x_T1_S1_Fr_2 + x_T2_S1_Fr_2 + x_T3_S1_Fr_2 + x_T4_S1_Fr_2 + x_T6_S1_Fr_2 + x_T7_S1_Fr_2 + x_T8_S1_Fr_2 <= 1
+ capacity_S1_Fr_3: x_T1_S1_Fr_3 + x_T2_S1_Fr_3 + x_T3_S1_Fr_3 + x_T4_S1_Fr_3 + x_T6_S1_Fr_3 + x_T7_S1_Fr_3 + x_T8_S1_Fr_3 <= 1
+ capacity_S1_Fr_4: x_T1_S1_Fr_4 + x_T2_S1_Fr_4 + x_T3_S1_Fr_4 + x_T4_S1_Fr_4 + x_T6_S1_Fr_4 + x_T7_S1_Fr_4 + x_T8_S1_Fr_4 <= 1
+ capacity_S1_Fr_5: x_T1_S1_Fr_5 + x_T2_S1_Fr_5 + x_T3_S1_Fr_5 + x_T4_S1_Fr_5 + x_T6_S1_Fr_5 + x_T7_S1_Fr_5 + x_T8_S1_Fr_5 <= 1
+ workload_T1_S1: x_T1_S1_Mo_1 + x_T1_S1_Mo_2 + x_T1_S1_Mo_3 + x_T1_S1_Mo_4 + x_T1_S1_Mo_5 + x_T1_S1_Tu_1 + x_T1_S1_Tu_2 + x_T1_S1_Tu_3 + x_T1_S1_Tu_4 + x_T1_S1_Tu_5 + x_T1_S1_We_1 + x_T1_S1_We_2 + x_T1_S1_We_3 + x_T1_S1_We_4 + x_T1_S1_We_5 + x_T1_S1_Th_1 + x_T1_S1_Th_2 + x_T1_S1_Th_3 + x_T1_S1_Th_4 + x_T1_S1_Th_5 + x_T1_S1_Fr_1 + x_T1_S1_Fr_2 + x_T1_S1_Fr_3 + x_T1_S1_Fr_4 + x_T1_S1_Fr_5 = 3
+ workload_T1_S2: x_T1_S2_Mo_1 + x_T1_S2_Mo_2 + x_T1_S2_Mo_3 + x_T1_S2_Mo_4 + x_T1_S2_Mo_5 + x_T1_S2_Tu_1 + x_T1_S2_Tu_2 + x_T1_S2_Tu_3 + x_T1_S2_Tu_4 + x_T1_S2_Tu_5 + x_T1_S2_We_1 + x_T1_S2_We_2 + x_T1_S2_We_3 + x_T1_S2_We_4 + x_T1_S2_We_5 + x_T1_S2_Th_1 + x_T1_S2_Th_2 + x_T1_S2_Th_3 + x_T1_S2_Th_4 + x_T1_S2_Th_5 + x_T1_S2_Fr_1 + x_T1_S2_Fr_2 + x_T1_S2_Fr_3 + x_T1_S2_Fr_4 + x_T1_S2_Fr_5 = 3
+ workload_T1_S3: x_T1_S3_Mo_1 + x_T1_S3_Mo_2 + x_T1_S3_Mo_3 + x_T1_S3_Mo_4 + x_T1_S3_Mo_5 + x_T1_S3_Tu_1 + x_T1_S3_Tu_2 + x_T1_S3_Tu_3 + x_T1_S3_Tu_4 + x_T1_S3_Tu_5 + x_T1_S3_We_1 + x_T1_S3_We_2 + x_T1_S3_We_3 + x_T1_S3_We_4 + x_T1_S3_We_5 + x_T1_S3_Th_1 + x_T1_S3_Th_2 + x_T1_S3_Th_3 + x_T1_S3_Th_4 + x_T1_S3_Th_5 + x_T1_S3_Fr_1 + x_T1_S3_Fr_2 + x_T1_S3_Fr_3 + x_T1_S3_Fr_4 + x_T1_S3_Fr_5 = 3
+ workload_T2_S1: x_T2_S1_Mo_1 + x_T2_S1_Mo_2 + x_T2_S1_Mo_3 + x_T2_S1_Mo_4 + x_T2_S1_Mo_5 + x_T2_S1_Tu_1 + x_T2_S1_Tu_2 + x_T2_S1_Tu_3 + x_T2_S1_Tu_4 + x_T2_S1_Tu_5 + x_T2_S1_We_1 + x_T2_S1_We_2 + x_T2_S1_We_3 + x_T2_S1_We_4 + x_T2_S1_We_5 + x_T2_S1_Th_1 + x_T2_S1_Th_2 + x_T2_S1_Th_3 + x_T2_S1_Th_4 + x_T2_S1_Th_5 + x_T2_S1_Fr_1 + x_T2_S1_Fr_2 + x_T2_S1_Fr_3 + x_T2_S1_Fr_4 + x_T2_S1_Fr_5 = 5
+ workload_T2_S2: x_T2_S2_Mo_1 + x_T2_S2_Mo_2 + x_T2_S2_Mo_3 + x_T2_S2_Mo_4 + x_T2_S2_Mo_5 + x_T2_S2_Tu_1 + x_T2_S2_Tu_2 + x_T2_S2_Tu_3 + x_T2_S2_Tu_4 + x_T2_S2_Tu_5 + x_T2_S2_We_1 + x_T2_S2_We_2 + x_T2_S2_We_3 + x_T2_S2_We_4 + x_T2_S2_We_5 + x_T2_S2_Th_1 + x_T2_S2_Th_2 + x_T2_S2_Th_3 + x_T2_S2_Th_4 + x_T2_S2_Th_5 + x_T2_S2_Fr_1 + x_T2_S2_Fr_2 + x_T2_S2_Fr_3 + x_T2_S2_Fr_4 + x_T2_S2_Fr_5 = 5
+ workload_T3_S1: x_T3_S1_Mo_1 + x_T3_S1_Mo_2 + x_T3_S1_Mo_3 + x_T3_S1_Mo_4 + x_T3_S1_Mo_5 + x_T3_S1_Tu_1 + x_T3_S1_Tu_2 + x_T3_S1_Tu_3 + x_T3_S1_Tu_4 + x_T3_S1_Tu_5 + x_T3_S1_We_1 + x_T3_S1_We_2 + x_T3_S1_We_3 + x_T3_S1_We_4 + x_T3_S1_We_5 + x_T3_S1_Th_1 + x_T3_S1_Th_2 + x_T3_S1_Th_3 + x_T3_S1_Th_4 + x_T3_S1_Th_5 + x_T3_S1_Fr_1 + x_T3_S1_Fr_2 + x_T3_S1_Fr_3 + x_T3_S1_Fr_4 + x_T3_S1_Fr_5 = 3
+ workload_T3_S2: x_T3_S2_Mo_1 + x_T3_S2_Mo_2 + x_T3_S2_Mo_3 + x_T3_S2_Mo_4 + x_T3_S2_Mo_5 + x_T3_S2_Tu_1 + x_T3_S2_Tu_2 + x_T3_S2_Tu_3 + x_T3_S2_Tu_4 + x_T3_S2_Tu_5 + x_T3_S2_We_1 + x_T3_S2_We_2 + x_T3_S2_We_3 + x_T3_S2_We_4 + x_T3_S2_We_5 + x_T3_S2_Th_1 + x_T3_S2_Th_2 + x_T3_S2_Th_3 + x_T3_S2_Th_4 + x_T3_S2_Th_5 + x_T3_S2_Fr_1 + x_T3_S2_Fr_2 + x_T3_S2_Fr_3 + x_T3_S2_Fr_4 + x_T3_S2_Fr_5 = 3
+ workload_T3_S3: x_T3_S3_Mo_1 + x_T3_S3_Mo_2 + x_T3_S3_Mo_3 + x_T3_S3_Mo_4 + x_T3_S3_Mo_5 + x_T3_S3_Tu_1 + x_T3_S3_Tu_2 + x_T3_S3_Tu_3 + x_T3_S3_Tu_4 + x_T3_S3_Tu_5 + x_T3_S3_We_1 + x_T3_S3_We_2 + x_T3_S3_We_3 + x_T3_S3_We_4 + x_T3_S3_We_5 + x_T3_S3_Th_1 + x_T3_S3_Th_2 + x_T3_S3_Th_3 + x_T3_S3_Th_4 + x_T3_S3_Th_5 + x_T3_S3_Fr_1 + x_T3_S3_Fr_2 + x_T3_S3_Fr_3 + x_T3_S3_Fr_4 + x_T3_S3_Fr_5 = 3
+ workload_T4_S1: x_T4_S1_Mo_1 + x_T4_S1_Mo_2 + x_T4_S1_Mo_3 + x_T4_S1_Mo_4 + x_T4_S1_Mo_5 + x_T4_S1_Tu_1 + x_T4_S1_Tu_2 + x_T4_S1_Tu_3 + x_T4_S1_Tu_4 + x_T4_S1_Tu_5 + x_T4_S1_We_1 + x_T4_S1_We_2 + x_T4_S1_We_3 + x_T4_S1_We_4 + x_T4_S1_We_5 + x_T4_S1_Th_1 + x_T4_S1_Th_2 + x_T4_S1_Th_3 + x_T4_S1_Th_4 + x_T4_S1_Th_5 + x_T4_S1_Fr_1 + x_T4_S1_Fr_2 + x_T4_S1_Fr_3 + x_T4_S1_Fr_4 + x_T4_S1_Fr_5 = 3
+ workload_T4_S2: x_T4_S2_Mo_1 + x_T4_S2_Mo_2 + x_T4_S2_Mo_3 + x_T4_S2_Mo_4 + x_T4_S2_Mo_5 + x_T4_S2_Tu_1 + x_T4_S2_Tu_2 + x_T4_S2_Tu_3 + x_T4_S2_Tu_4 + x_T4_S2_Tu_5 + x_T4_S2_We_1 + x_T4_S2_We_2 + x_T4_S2_We_3 + x_T4_S2_We_4 + x_T4_S2_We_5 + x_T4_S2_Th_1 + x_T4_S2_Th_2 + x_T4_S2_Th_3 + x_T4_S2_Th_4 + x_T4_S2_Th_5 + x_T4_S2_Fr_1 + x_T4_S2_Fr_2 + x_T4_S2_Fr_3 + x_T4_S2_Fr_4 + x_T4_S2_Fr_5 = 3
+ workload_T4_S3: x_T4_S3_Mo_1 + x_T4_S3_Mo_2 + x_T4_S3_Mo_3 + x_T4_S3_Mo_4 + x_T4_S3_Mo_5 + x_T4_S3_Tu_1 + x_T4_S3_Tu_2 + x_T4_S3_Tu_3 + x_T4_S3_Tu_4 + x_T4_S3_Tu_5 + x_T4_S3_We_1 + x_T4_S3_We_2 + x_T4_S3_We_3 + x_T4_S3_We_4 + x_T4_S3_We_5 + x_T4_S3_Th_1 + x_T4_S3_Th_2 + x_T4_S3_Th_3 + x_T4_S3_Th_4 + x_T4_S3_Th_5 + x_T4_S3_Fr_1 + x_T4_S3_Fr_2 + x_T4_S3_Fr_3 + x_T4_S3_Fr_4 + x_T4_S3_Fr_5 = 3
+ workload_T5_S2: x_T5_S2_Mo_1 + x_T5_S2_Mo_2 + x_T5_S2_Mo_3 + x_T5_S2_Mo_4 + x_T5_S2_Mo_5 + x_T5_S2_Tu_1 + x_T5_S2_Tu_2 + x_T5_S2_Tu_3 + x_T5_S2_Tu_4 + x_T5_S2_Tu_5 + x_T5_S2_We_1 + x_T5_S2_We_2 + x_T5_S2_We_3 + x_T5_S2_We_4 + x_T5_S2_We_5 + x_T5_S2_Th_1 + x_T5_S2_Th_2 + x_T5_S2_Th_3 + x_T5_S2_Th_4 + x_T5_S2_Th_5 + x_T5_S2_Fr_1 + x_T5_S2_Fr_2 + x_T5_S2_Fr_3 + x_T5_S2_Fr_4 + x_T5_S2_Fr_5 = 5
+ workload_T5_S3: x_T5_S3_Mo_1 + x_T5_S3_Mo_2 + x_T5_S3_Mo_3 + x_T5_S3_Mo_4 + x_T5_S3_Mo_5 + x_T5_S3_Tu_1 + x_T5_S3_Tu_2 + x_T5_S3_Tu_3 + x_T5_S3_Tu_4 + x_T5_S3_Tu_5 + x_T5_S3_We_1 + x_T5_S3_We_2 + x_T5_S3_We_3 + x_T5_S3_We_4 + x_T5_S3_We_5 + x_T5_S3_Th_1 + x_T5_S3_Th_2 + x_T5_S3_Th_3 + x_T5_S3_Th_4 + x_T5_S3_Th_5 + x_T5_S3_Fr_1 + x_T5_S3_Fr_2 + x_T5_S3_Fr_3 + x_T5_S3_Fr_4 + x_T5_S3_Fr_5 = 5
+ workload_T6_S1: x_T6_S1_Mo_1 + x_T6_S1_Mo_2 + x_T6_S1_Mo_3 + x_T6_S1_Mo_4 + x_T6_S1_Mo_5 + x_T6_S1_Tu_1 + x_T6_S1_Tu_2 + x_T6_S1_Tu_3 + x_T6_S1_Tu_4 + x_T6_S1_Tu_5 + x_T6_S1_We_1 + x_T6_S1_We_2 + x_T6_S1_We_3 + x_T6_S1_We_4 + x_T6_S1_We_5 + x_T6_S1_Th_1 + x_T6_S1_Th_2 + x_T6_S1_Th_3 + x_T6_S1_Th_4 + x_T6_S1_Th_5 + x_T6_S1_Fr_1 + x_T6_S1_Fr_2 + x_T6_S1_Fr_3 + x_T6_S1_Fr_4 + x_T6_S1_Fr_5 = 4
+ workload_T6_S2: x_T6_S2_Mo_1 + x_T6_S2_Mo_2 + x_T6_S2_Mo_3 + x_T6_S2_Mo_4 + x_T6_S2_Mo_5 + x_T6_S2_Tu_1 + x_T6_S2_Tu_2 + x_T6_S2_Tu_3 + x_T6_S2_Tu_4 + x_T6_S2_Tu_5 + x_T6_S2_We_1 + x_T6_S2_We_2 + x_T6_S2_We_3 + x_T6_S2_We_4 + x_T6_S2_We_5 + x_T6_S2_Th_1 + x_T6_S2_Th_2 + x_T6_S2_Th_3 + x_T6_S2_Th_4 + x_T6_S2_Th_5 + x_T6_S2_Fr_1 + x_T6_S2_Fr_2 + x_T6_S2_Fr_3 + x_T6_S2_Fr_4 + x_T6_S2_Fr_5 = 4
+ workload_T6_S3: x_T6_S3_Mo_1 + x_T6_S3_Mo_2 + x_T6_S3_Mo_3 + x_T6_S3_Mo_4 + x_T6_S3_Mo_5 + x_T6_S3_Tu_1 + x_T6_S3_Tu_2 + x_T6_S3_Tu_3 + x_T6_S3_Tu_4 + x_T6_S3_Tu_5 + x_T6_S3_We_1 + x_T6_S3_We_2 + x_T6_S3_We_3 + x_T6_S3_We_4 + x_T6_S3_We_5 + x_T6_S3_Th_1 + x_T6_S3_Th_2 + x_T6_S3_Th_3 + x_T6_S3_Th_4 + x_T6_S3_Th_5 + x_T6_S3_Fr_1 + x_T6_S3_Fr_2 + x_T6_S3_Fr_3 + x_T6_S3_Fr_4 + x_T6_S3_Fr_5 = 4
+ workload_T7_S1: x_T7_S1_Mo_1 + x_T7_S1_Mo_2 + x_T7_S1_Mo_3 + x_T7_S1_Mo_4 + x_T7_S1_Mo_5 + x_T7_S1_Tu_1 + x_T7_S1_Tu_2 + x_T7_S1_Tu_3 + x_T7_S1_Tu_4 + x_T7_S1_Tu_5 + x_T7_S1_We_1 + x_T7_S1_We_2 + x_T7_S1_We_3 + x_T7_S1_We_4 + x_T7_S1_We_5 + x_T7_S1_Th_1 + x_T7_S1_Th_2 + x_T7_S1_Th_3 + x_T7_S1_Th_4 + x_T7_S1_Th_5 + x_T7_S1_Fr_1 + x_T7_S1_Fr_2 + x_T7_S1_Fr_3 + x_T7_S1_Fr_4 + x_T7_S1_Fr_5 = 5
+ workload_T7_S3: x_T7_S3_Mo_1 + x_T7_S3_Mo_2 + x_T7_S3_Mo_3 + x_T7_S3_Mo_4 + x_T7_S3_Mo_5 + x_T7_S3_Tu_1 + x_T7_S3_Tu_2 + x_T7_S3_Tu_3 + x_T7_S3_Tu_4 + x_T7_S3_Tu_5 + x_T7_S3_We_1 + x_T7_S3_We_2 + x_T7_S3_We_3 + x_T7_S3_We_4 + x_T7_S3_We_5 + x_T7_S3_Th_1 + x_T7_S3_Th_2 + x_T7_S3_Th_3 + x_T7_S3_Th_4 + x_T7_S3_Th_5 + x_T7_S3_Fr_1 + x_T7_S3_Fr_2 + x_T7_S3_Fr_3 + x_T7_S3_Fr_4 + x_T7_S3_Fr_5 = 5
+ workload_T8_S1: x_T8_S1_Mo_1 + x_T8_S1_Mo_2 + x_T8_S1_Mo_3 + x_T8_S1_Mo_4 + x_T8_S1_Mo_5 + x_T8_S1_Tu_1 + x_T8_S1_Tu_2 + x_T8_S1_Tu_3 + x_T8_S1_Tu_4 + x_T8_S1_Tu_5 + x_T8_S1_We_1 + x_T8_S1_We_2 + x_T8_S1_We_3 + x_T8_S1_We_4 + x_T8_S1_We_5 + x_T8_S1_Th_1 + x_T8_S1_Th_2 + x_T8_S1_Th_3 + x_T8_S1_Th_4 + x_T8_S1_Th_5 + x_T8_S1_Fr_1 + x_T8_S1_Fr_2 + x_T8_S1_Fr_3 + x_T8_S1_Fr_4 + x_T8_S1_Fr_5 = 2
+ workload_T8_S2: x_T8_S2_Mo_1 + x_T8_S2_Mo_2 + x_T8_S2_Mo_3 + x_T8_S2_Mo_4 + x_T8_S2_Mo_5 + x_T8_S2_Tu_1 + x_T8_S2_Tu_2 + x_T8_S2_Tu_3 + x_T8_S2_Tu_4 + x_T8_S2_Tu_5 + x_T8_S2_We_1 + x_T8_S2_We_2 + x_T8_S2_We_3 + x_T8_S2_We_4 + x_T8_S2_We_5 + x_T8_S2_Th_1 + x_T8_S2_Th_2 + x_T8_S2_Th_3 + x_T8_S2_Th_4 + x_T8_S2_Th_5 + x_T8_S2_Fr_1 + x_T8_S2_Fr_2 + x_T8_S2_Fr_3 + x_T8_S2_Fr_4 + x_T8_S2_Fr_5 = 2
+ workload_T8_S3: x_T8_S3_Mo_1 + x_T8_S3_Mo_2 + x_T8_S3_Mo_3 + x_T8_S3_Mo_4 + x_T8_S3_Mo_5 + x_T8_S3_Tu_1 + x_T8_S3_Tu_2 + x_T8_S3_Tu_3 + x_T8_S3_Tu_4 + x_T8_S3_Tu_5 + x_T8_S3_We_1 + x_T8_S3_We_2 + x_T8_S3_We_3 + x_T8_S3_We_4 + x_T8_S3_We_5 + x_T8_S3_Th_1 + x_T8_S3_Th_2 + x_T8_S3_Th_3 + x_T8_S3_Th_4 + x_T8_S3_Th_5 + x_T8_S3_Fr_1 + x_T8_S3_Fr_2 + x_T8_S3_Fr_3 + x_T8_S3_Fr_4 + x_T8_S3_Fr_5 = 2
+ max_daily_T1_S1_Mo: x_T1_S1_Mo_1 + x_T1_S1_Mo_2 + x_T1_S1_Mo_3 + x_T1_S1_Mo_4 + x_T1_S1_Mo_5 <= 2
+ max_daily_T1_S1_Tu: x_T1_S1_Tu_1 + x_T1_S1_Tu_2 + x_T1_S1_Tu_3 + x_T1_S1_Tu_4 + x_T1_S1_Tu_5 <= 2
+ max_daily_T1_S1_We: x_T1_S1_We_1 + x_T1_S1_We_2 + x_T1_S1_We_3 + x_T1_S1_We_4 + x_T1_S1_We_5 <= 2
+ max_daily_T1_S1_Th: x_T1_S1_Th_1 + x_T1_S1_Th_2 + x_T1_S1_Th_3 + x_T1_S1_Th_4 + x_T1_S1_Th_5 <= 2
+ max_daily_T1_S1_Fr: x_T1_S1_Fr_1 + x_T1_S1_Fr_2 + x_T1_S1_Fr_3 + x_T1_S1_Fr_4 + x_T1_S1_Fr_5 <= 2
+ max_daily_T1_S2_Mo: x_T1_S2_Mo_1 + x_T1_S2_Mo_2 + x_T1_S2_Mo_3 + x_T1_S2_Mo_4 + x_T1_S2_Mo_5 <= 2
+ max_daily_T1_S2_Tu: x_T1_S2_Tu_1 + x_T1_S2_Tu_2 + x_T1_S2_Tu_3 + x_T1_S2_Tu_4 + x_T1_S2_Tu_5 <= 2
+ max_daily_T1_S2_We: x_T1_S2_We_1 + x_T1_S2_We_2 + x_T1_S2_We_3 + x_T1_S2_We_4 + x_T1_S2_We_5 <= 2
+ max_daily_T1_S2_Th: x_T1_S2_Th_1 + x_T1_S2_Th_2 + x_T1_S2_Th_3 + x_T1_S2_Th_4 + x_T1_S2_Th_5 <= 2
+ max_daily_T1_S2_Fr: x_T1_S2_Fr_1 + x_T1_S2_Fr_2 + x_T1_S2_Fr_3 + x_T1_S2_Fr_4 + x_T1_S2_Fr_5 <= 2
+ max_daily_T1_S3_Mo: x_T1_S3_Mo_1 + x_T1_S3_Mo_2 + x_T1_S3_Mo_3 + x_T1_S3_Mo_4 + x_T1_S3_Mo_5 <= 2
+ max_daily_T1_S3_Tu: x_T1_S3_Tu_1 + x_T1_S3_Tu_2 + x_T1_S3_Tu_3 + x_T1_S3_Tu_4 + x_T1_S3_Tu_5 <= 2
+ max_daily_T1_S3_We: x_T1_S3_We_1 + x_T1_S3_We_2 + x_T1_S3_We_3 + x_T1_S3_We_4 + x_T1_S3_We_5 <= 2
+ max_daily_T1_S3_Th: x_T1_S3_Th_1 + x_T1_S3_Th_2 + x_T1_S3_Th_3 + x_T1_S3_Th_4 + x_T1_S3_Th_5 <= 2
+ max_daily_T1_S3_Fr: x_T1_S3_Fr_1 + x_T1_S3_Fr_2 + x_T1_S3_Fr_3 + x_T1_S3_Fr_4 + x_T1_S3_Fr_5 <= 2
+ max_daily_T2_S1_Mo: x_T2_S1_Mo_1 + x_T2_S1_Mo_2 + x_T2_S1_Mo_3 + x_T2_S1_Mo_4 + x_T2_S1_Mo_5 <= 2
+ max_daily_T2_S1_Tu: x_T2_S1_Tu_1 + x_T2_S1_Tu_2 + x_T2_S1_Tu_3 + x_T2_S1_Tu_4 + x_T2_S1_Tu_5 <= 2
+ max_daily_T2_S1_We: x_T2_S1_We_1 + x_T2_S1_We_2 + x_T2_S1_We_3 + x_T2_S1_We_4 + x_T2_S1_We_5 <= 2
+ max_daily_T2_S1_Th: x_T2_S1_Th_1 + x_T2_S1_Th_2 + x_T2_S1_Th_3 + x_T2_S1_Th_4 + x_T2_S1_Th_5 <= 2
+ max_daily_T2_S1_Fr: x_T2_S1_Fr_1 + x_T2_S1_Fr_2 + x_T2_S1_Fr_3 + x_T2_S1_Fr_4 + x_T2_S1_Fr_5 <= 2
+ max_daily_T2_S2_Mo: x_T2_S2_Mo_1 + x_T2_S2_Mo_2 + x_T2_S2_Mo_3 + x_T2_S2_Mo_4 + x_T2_S2_Mo_5 <= 2
+ max_daily_T2_S2_Tu: x_T2_S2_Tu_1 + x_T2_S2_Tu_2 + x_T2_S2_Tu_3 + x_T2_S2_Tu_4 + x_T2_S2_Tu_5 <= 2
+ max_daily_T2_S2_We: x_T2_S2_We_1 + x_T2_S2_We_2 + x_T2_S2_We_3 + x_T2_S2_We_4 + x_T2_S2_We_5 <= 2
+ max_daily_T2_S2_Th: x_T2_S2_Th_1 + x_T2_S2_Th_2 + x_T2_S2_Th_3 + x_T2_S2_Th_4 + x_T2_S2_Th_5 <= 2
+ max_daily_T2_S2_Fr: x_T2_S2_Fr_1 + x_T2_S2_Fr_2 + x_T2_S2_Fr_3 + x_T2_S2_Fr_4 + x_T2_S2_Fr_5 <= 2
+ max_daily_T3_S1_Mo: x_T3_S1_Mo_1 + x_T3_S1_Mo_2 + x_T3_S1_Mo_3 + x_T3_S1_Mo_4 + x_T3_S1_Mo_5 <= 2
+ max_daily_T3_S1_Tu: x_T3_S1_Tu_1 + x_T3_S1_Tu_2 + x_T3_S1_Tu_3 + x_T3_S1_Tu_4 + x_T3_S1_Tu_5 <= 2
+ max_daily_T3_S1_We: x_T3_S1_We_1 + x_T3_S1_We_2 + x_T3_S1_We_3 + x_T3_S1_We_4 + x_T3_S1_We_5 <= 2
+ max_daily_T3_S1_Th: x_T3_S1_Th_1 + x_T3_S1_Th_2 + x_T3_S1_Th_3 + x_T3_S1_Th_4 + x_T3_S1_Th_5 <= 2
+ max_daily_T3_S1_Fr: x_T3_S1_Fr_1 + x_T3_S1_Fr_2 + x_T3_S1_Fr_3 + x_T3_S1_Fr_4 + x_T3_S1_Fr_5 <= 2
+ max_daily_T3_S2_Mo: x_T3_S2_Mo_1 + x_T3_S2_Mo_2 + x_T3_S2_Mo_3 + x_T3_S2_Mo_4 + x_T3_S2_Mo_5 <= 2
+ max_daily_T3_S2_Tu: x_T3_S2_Tu_1 + x_T3_S2_Tu_2 + x_T3_S2_Tu_3 + x_T3_S2_Tu_4 + x_T3_S2_Tu_5 <= 2
+ max_daily_T3_S2_We: x_T3_S2_We_1 + x_T3_S2_We_2 + x_T3_S2_We_3 + x_T3_S2_We_4 + x_T3_S2_We_5 <= 2
+ max_daily_T3_S2_Th: x_T3_S2_Th_1 + x_T3_S2_Th_2 + x_T3_S2_Th_3 + x_T3_S2_Th_4 + x_T3_S2_Th_5 <= 2
+ max_daily_T3_S2_Fr: x_T3_S2_Fr_1 + x_T3_S2_Fr_2 + x_T3_S2_Fr_3 + x_T3_S2_Fr_4 + x_T3_S2_Fr_5 <= 2
+ max_daily_T3_S3_Mo: x_T3_S3_Mo_1 + x_T3_S3_Mo_2 + x_T3_S3_Mo_3 + x_T3_S3_Mo_4 + x_T3_S3_Mo_5 <= 2
+ max_daily_T3_S3_Tu: x_T3_S3_Tu_1 + x_T3_S3_Tu_2 + x_T3_S3_Tu_3 + x_T3_S3_Tu_4 + x_T3_S3_Tu_5 <= 2
+ max_daily_T3_S3_We: x_T3_S3_We_1 + x_T3_S3_We_2 + x_T3_S3_We_3 + x_T3_S3_We_4 + x_T3_S3_We_5 <= 2
+ max_daily_T3_S3_Th: x_T3_S3_Th_1 + x_T3_S3_Th_2 + x_T3_S3_Th_3 + x_T3_S3_Th_4 + x_T3_S3_Th_5 <= 2
+ max_daily_T3_S3_Fr: x_T3_S3_Fr_1 + x_T3_S3_Fr_2 + x_T3_S3_Fr_3 + x_T3_S3_Fr_4 + x_T3_S3_Fr_5 <= 2
+ max_daily_T4_S1_Mo: x_T4_S1_Mo_1 + x_T4_S1_Mo_2 + x_T4_S1_Mo_3 + x_T4_S1_Mo_4 + x_T4_S1_Mo_5 <= 2
+ max_daily_T4_S1_Tu: x_T4_S1_Tu_1 + x_T4_S1_Tu_2 + x_T4_S1_Tu_3 + x_T4_S1_Tu_4 + x_T4_S1_Tu_5 <= 2
+ max_daily_T4_S1_We: x_T4_S1_We_1 + x_T4_S1_We_2 + x_T4_S1_We_3 + x_T4_S1_We_4 + x_T4_S1_We_5 <= 2
+ max_daily_T4_S1_Th: x_T4_S1_Th_1 + x_T4_S1_Th_2 + x_T4_S1_Th_3 + x_T4_S1_Th_4 + x_T4_S1_Th_5 <= 2
+ max_daily_T4_S1_Fr: x_T4_S1_Fr_1 + x_T4_S1_Fr_2 + x_T4_S1_Fr_3 + x_T4_S1_Fr_4 + x_T4_S1_Fr_5 <= 2
+ max_daily_T4_S2_Mo: x_T4_S2_Mo_1 + x_T4_S2_Mo_2 + x_T4_S2_Mo_3 + x_T4_S2_Mo_4 + x_T4_S2_Mo_5 <= 2
+ max_daily_T4_S2_Tu: x_T4_S2_Tu_1 + x_T4_S2_Tu_2 + x_T4_S2_Tu_3 + x_T4_S2_Tu_4 + x_T4_S2_Tu_5 <= 2
+ max_daily_T4_S2_We: x_T4_S2_We_1 + x_T4_S2_We_2 + x_T4_S2_We_3 + x_T4_S2_We_4 + x_T4_S2_We_5 <= 2
+ max_daily_T4_S2_Th: x_T4_S2_Th_1 + x_T4_S2_Th_2 + x_T4_S2_Th_3 + x_T4_S2_Th_4 + x_T4_S2_Th_5 <= 2
+ max_daily_T4_S2_Fr: x_T4_S2_Fr_1 + x_T4_S2_Fr_2 + x_T4_S2_Fr_3 + x_T4_S2_Fr_4 + x_T4_S2_Fr_5 <= 2
+ max_daily_T4_S3_Mo: x_T4_S3_Mo_1 + x_T4_S3_Mo_2 + x_T4_S3_Mo_3 + x_T4_S3_Mo_4 + x_T4_S3_Mo_5 <= 2
+ max_daily_T4_S3_Tu: x_T4_S3_Tu_1 + x_T4_S3_Tu_2 + x_T4_S3_Tu_3 + x_T4_S3_Tu_4 + x_T4_S3_Tu_5 <= 2
+ max_daily_T4_S3_We: x_T4_S3_We_1 + x_T4_S3_We_2 + x_T4_S3_We_3 + x_T4_S3_We_4 + x_T4_S3_We_5 <= 2
+ max_daily_T4_S3_Th: x_T4_S3_Th_1 + x_T4_S3_Th_2 + x_T4_S3_Th_3 + x_T4_S3_Th_4 + x_T4_S3_Th_5 <= 2
+ max_daily_T4_S3_Fr: x_T4_S3_Fr_1 + x_T4_S3_Fr_2 + x_T4_S3_Fr_3 + x_T4_S3_Fr_4 + x_T4_S3_Fr_5 <= 2
+ max_daily_T5_S2_Mo: x_T5_S2_Mo_1 + x_T5_S2_Mo_2 + x_T5_S2_Mo_3 + x_T5_S2_Mo_4 + x_T5_S2_Mo_5 <= 2
+ max_daily_T5_S2_Tu: x_T5_S2_Tu_1 + x_T5_S2_Tu_2 + x_T5_S2_Tu_3 + x_T5_S2_Tu_4 + x_T5_S2_Tu_5 <= 2
+ max_daily_T5_S2_We: x_T5_S2_We_1 + x_T5_S2_We_2 + x_T5_S2_We_3 + x_T5_S2_We_4 + x_T5_S2_We_5 <= 2
+ max_daily_T5_S2_Th: x_T5_S2_Th_1 + x_T5_S2_Th_2 + x_T5_S2_Th_3 + x_T5_S2_Th_4 + x_T5_S2_Th_5 <= 2
+ max_daily_T5_S2_Fr: x_T5_S2_Fr_1 + x_T5_S2_Fr_2 + x_T5_S2_Fr_3 + x_T5_S2_Fr_4 + x_T5_S2_Fr_5 <= 2
+ max_daily_T5_S3_Mo: x_T5_S3_Mo_1 + x_T5_S3_Mo_2 + x_T5_S3_Mo_3 + x_T5_S3_Mo_4 + x_T5_S3_Mo_5 <= 2
+ max_daily_T5_S3_Tu: x_T5_S3_Tu_1 + x_T5_S3_Tu_2 + x_T5_S3_Tu_3 + x_T5_S3_Tu_4 + x_T5_S3_Tu_5 <= 2
+ max_daily_T5_S3_We: x_T5_S3_We_1 + x_T5_S3_We_2 + x_T5_S3_We_3 + x_T5_S3_We_4 + x_T5_S3_We_5 <= 2
+ max_daily_T5_S3_Th: x_T5_S3_Th_1 + x_T5_S3_Th_2 + x_T5_S3_Th_3 + x_T5_S3_Th_4 + x_T5_S3_Th_5 <= 2
+ max_daily_T5_S3_Fr: x_T5_S3_Fr_1 + x_T5_S3_Fr_2 + x_T5_S3_Fr_3 + x_T5_S3_Fr_4 + x_T5_S3_Fr_5 <= 2
+ max_daily_T6_S1_Mo: x_T6_S1_Mo_1 + x_T6_S1_Mo_2 + x_T6_S1_Mo_3 + x_T6_S1_Mo_4 + x_T6_S1_Mo_5 <= 2
+ max_daily_T6_S1_Tu: x_T6_S1_Tu_1 + x_T6_S1_Tu_2 + x_T6_S1_Tu_3 + x_T6_S1_Tu_4 + x_T6_S1_Tu_5 <= 2
+ max_daily_T6_S1_We: x_T6_S1_We_1 + x_T6_S1_We_2 + x_T6_S1_We_3 + x_T6_S1_We_4 + x_T6_S1_We_5 <= 2
+ max_daily_T6_S1_Th: x_T6_S1_Th_1 + x_T6_S1_Th_2 + x_T6_S1_Th_3 + x_T6_S1_Th_4 + x_T6_S1_Th_5 <= 2
+ max_daily_T6_S1_Fr: x_T6_S1_Fr_1 + x_T6_S1_Fr_2 + x_T6_S1_Fr_3 + x_T6_S1_Fr_4 + x_T6_S1_Fr_5 <= 2
+ max_daily_T6_S2_Mo: x_T6_S2_Mo_1 + x_T6_S2_Mo_2 + x_T6_S2_Mo_3 + x_T6_S2_Mo_4 + x_T6_S2_Mo_5 <= 2
+ max_daily_T6_S2_Tu: x_T6_S2_Tu_1 + x_T6_S2_Tu_2 + x_T6_S2_Tu_3 + x_T6_S2_Tu_4 + x_T6_S2_Tu_5 <= 2
+ max_daily_T6_S2_We: x_T6_S2_We_1 + x_T6_S2_We_2 + x_T6_S2_We_3 + x_T6_S2_We_4 + x_T6_S2_We_5 <= 2
+ max_daily_T6_S2_Th: x_T6_S2_Th_1 + x_T6_S2_Th_2 + x_T6_S2_Th_3 + x_T6_S2_Th_4 + x_T6_S2_Th_5 <= 2
+ max_daily_T6_S2_Fr: x_T6_S2_Fr_1 + x_T6_S2_Fr_2 + x_T6_S2_Fr_3 + x_T6_S2_Fr_4 + x_T6_S2_Fr_5 <= 2
+ max_daily_T6_S3_Mo: x_T6_S3_Mo_1 + x_T6_S3_Mo_2 + x_T6_S3_Mo_3 + x_T6_S3_Mo_4 + x_T6_S3_Mo_5 <= 2
+ max_daily_T6_S3_Tu: x_T6_S3_Tu_1 + x_T6_S3_Tu_2 + x_T6_S3_Tu_3 + x_T6_S3_Tu_4 + x_T6_S3_Tu_5 <= 2
+ max_daily_T6_S3_We: x_T6_S3_We_1 + x_T6_S3_We_2 + x_T6_S3_We_3 + x_T6_S3_We_4 + x_T6_S3_We_5 <= 2
+ max_daily_T6_S3_Th: x_T6_S3_Th_1 + x_T6_S3_Th_2 + x_T6_S3_Th_3 + x_T6_S3_Th_4 + x_T6_S3_Th_5 <= 2
+ max_daily_T6_S3_Fr: x_T6_S3_Fr_1 + x_T6_S3_Fr_2 + x_T6_S3_Fr_3 + x_T6_S3_Fr_4 + x_T6_S3_Fr_5 <= 2
+ max_daily_T7_S1_Mo: x_T7_S1_Mo_1 + x_T7_S1_Mo_2 + x_T7_S1_Mo_3 + x_T7_S1_Mo_4 + x_T7_S1_Mo_5 <= 2
+ max_daily_T7_S1_Tu: x_T7_S1_Tu_1 + x_T7_S1_Tu_2 + x_T7_S1_Tu_3 + x_T7_S1_Tu_4 + x_T7_S1_Tu_5 <= 2
+ max_daily_T7_S1_We: x_T7_S1_We_1 + x_T7_S1_We_2 + x_T7_S1_We_3 + x_T7_S1_We_4 + x_T7_S1_We_5 <= 2
+ max_daily_T7_S1_Th: x_T7_S1_Th_1 + x_T7_S1_Th_2 + x_T7_S1_Th_3 + x_T7_S1_Th_4 + x_T7_S1_Th_5 <= 2
+ max_daily_T7_S1_Fr: x_T7_S1_Fr_1 + x_T7_S1_Fr_2 + x_T7_S1_Fr_3 + x_T7_S1_Fr_4 + x_T7_S1_Fr_5 <= 2
+ max_daily_T7_S3_Mo: x_T7_S3_Mo_1 + x_T7_S3_Mo_2 + x_T7_S3_Mo_3 + x_T7_S3_Mo_4 + x_T7_S3_Mo_5 <= 2
+ max_daily_T7_S3_Tu: x_T7_S3_Tu_1 + x_T7_S3_Tu_2 + x_T7_S3_Tu_3 + x_T7_S3_Tu_4 + x_T7_S3_Tu_5 <= 2
+ max_daily_T7_S3_We: x_T7_S3_We_1 + x_T7_S3_We_2 + x_T7_S3_We_3 + x_T7_S3_We_4 + x_T7_S3_We_5 <= 2
+ max_daily_T7_S3_Th: x_T7_S3_Th_1 + x_T7_S3_Th_2 + x_T7_S3_Th_3 + x_T7_S3_Th_4 + x_T7_S3_Th_5 <= 2
+ max_daily_T7_S3_Fr: x_T7_S3_Fr_1 + x_T7_S3_Fr_2 + x_T7_S3_Fr_3 + x_T7_S3_Fr_4 + x_T7_S3_Fr_5 <= 2
+ max_daily_T8_S1_Mo: x_T8_S1_Mo_1 + x_T8_S1_Mo_2 + x_T8_S1_Mo_3 + x_T8_S1_Mo_4 + x_T8_S1_Mo_5 <= 2
+ max_daily_T8_S1_Tu: x_T8_S1_Tu_1 + x_T8_S1_Tu_2 + x_T8_S1_Tu_3 + x_T8_S1_Tu_4 + x_T8_S1_Tu_5 <= 2
+ max_daily_T8_S1_We: x_T8_S1_We_1 + x_T8_S1_We_2 + x_T8_S1_We_3 + x_T8_S1_We_4 + x_T8_S1_We_5 <= 2
+ max_daily_T8_S1_Th: x_T8_S1_Th_1 + x_T8_S1_Th_2 + x_T8_S1_Th_3 + x_T8_S1_Th_4 + x_T8_S1_Th_5 <= 2
+ max_daily_T8_S1_Fr: x_T8_S1_Fr_1 + x_T8_S1_Fr_2 + x_T8_S1_Fr_3 + x_T8_S1_Fr_4 + x_T8_S1_Fr_5 <= 2
+ max_daily_T8_S2_Mo: x_T8_S2_Mo_1 + x_T8_S2_Mo_2 + x_T8_S2_Mo_3 + x_T8_S2_Mo_4 + x_T8_S2_Mo_5 <= 2
+ max_daily_T8_S2_Tu: x_T8_S2_Tu_1 + x_T8_S2_Tu_2 + x_T8_S2_Tu_3 + x_T8_S2_Tu_4 + x_T8_S2_Tu_5 <= 2
+ max_daily_T8_S2_We: x_T8_S2_We_1 + x_T8_S2_We_2 + x_T8_S2_We_3 + x_T8_S2_We_4 + x_T8_S2_We_5 <= 2
+ max_daily_T8_S2_Th: x_T8_S2_Th_1 + x_T8_S2_Th_2 + x_T8_S2_Th_3 + x_T8_S2_Th_4 + x_T8_S2_Th_5 <= 2
+ max_daily_T8_S2_Fr: x_T8_S2_Fr_1 + x_T8_S2_Fr_2 + x_T8_S2_Fr_3 + x_T8_S2_Fr_4 + x_T8_S2_Fr_5 <= 2
+ max_daily_T8_S3_Mo: x_T8_S3_Mo_1 + x_T8_S3_Mo_2 + x_T8_S3_Mo_3 + x_T8_S3_Mo_4 + x_T8_S3_Mo_5 <= 2
+ max_daily_T8_S3_Tu: x_T8_S3_Tu_1 + x_T8_S3_Tu_2 + x_T8_S3_Tu_3 + x_T8_S3_Tu_4 + x_T8_S3_Tu_5 <= 2
+ max_daily_T8_S3_We: x_T8_S3_We_1 + x_T8_S3_We_2 + x_T8_S3_We_3 + x_T8_S3_We_4 + x_T8_S3_We_5 <= 2
+ max_daily_T8_S3_Th: x_T8_S3_Th_1 + x_T8_S3_Th_2 + x_T8_S3_Th_3 + x_T8_S3_Th_4 + x_T8_S3_Th_5 <= 2
+ max_daily_T8_S3_Fr: x_T8_S3_Fr_1 + x_T8_S3_Fr_2 + x_T8_S3_Fr_3 + x_T8_S3_Fr_4 + x_T8_S3_Fr_5 <= 2
+ first_period_S3_Mo_1: x_T1_S3_Mo_1 + x_T3_S3_Mo_1 + x_T4_S3_Mo_1 + x_T5_S3_Mo_1 + x_T6_S3_Mo_1 + x_T7_S3_Mo_1 + x_T8_S3_Mo_1 <= 1
+ first_period_S3_Tu_1: x_T1_S3_Tu_1 + x_T3_S3_Tu_1 + x_T4_S3_Tu_1 + x_T5_S3_Tu_1 + x_T6_S3_Tu_1 + x_T7_S3_Tu_1 + x_T8_S3_Tu_1 <= 1
+ first_period_S3_We_1: x_T1_S3_We_1 + x_T3_S3_We_1 + x_T4_S3_We_1 + x_T5_S3_We_1 + x_T6_S3_We_1 + x_T7_S3_We_1 + x_T8_S3_We_1 <= 1
+ first_period_S3_Th_1: x_T1_S3_Th_1 + x_T3_S3_Th_1 + x_T4_S3_Th_1 + x_T5_S3_Th_1 + x_T6_S3_Th_1 + x_T7_S3_Th_1 + x_T8_S3_Th_1 <= 1
+ first_period_S3_Fr_1: x_T1_S3_Fr_1 + x_T3_S3_Fr_1 + x_T4_S3_Fr_1 + x_T5_S3_Fr_1 + x_T6_S3_Fr_1 + x_T7_S3_Fr_1 + x_T8_S3_Fr_1 <= 1
+ first_period_S2_Mo_1: x_T1_S2_Mo_1 + x_T2_S2_Mo_1 + x_T3_S2_Mo_1 + x_T4_S2_Mo_1 + x_T5_S2_Mo_1 + x_T6_S2_Mo_1 + x_T8_S2_Mo_1 <= 1
+ first_period_S2_Tu_1: x_T1_S2_Tu_1 + x_T2_S2_Tu_1 + x_T3_S2_Tu_1 + x_T4_S2_Tu_1 + x_T5_S2_Tu_1 + x_T6_S2_Tu_1 + x_T8_S2_Tu_1 <= 1
+ first_period_S2_We_1: x_T1_S2_We_1 + x_T2_S2_We_1 + x_T3_S2_We_1 + x_T4_S2_We_1 + x_T5_S2_We_1 + x_T6_S2_We_1 + x_T8_S2_We_1 <= 1
+ first_period_S2_Th_1: x_T1_S2_Th_1 + x_T2_S2_Th_1 + x_T3_S2_Th_1 + x_T4_S2_Th_1 + x_T5_S2_Th_1 + x_T6_S2_Th_1 + x_T8_S2_Th_1 <= 1
+ first_period_S2_Fr_1: x_T1_S2_Fr_1 + x_T2_S2_Fr_1 + x_T3_S2_Fr_1 + x_T4_S2_Fr_1 + x_T5_S2_Fr_1 + x_T6_S2_Fr_1 + x_T8_S2_Fr_1 <= 1
+ first_period_S1_Mo_1: x_T1_S1_Mo_1 + x_T2_S1_Mo_1 + x_T3_S1_Mo_1 + x_T4_S1_Mo_1 + x_T6_S1_Mo_1 + x_T7_S1_Mo_1 + x_T8_S1_Mo_1 <= 1
+ first_period_S1_Tu_1: x_T1_S1_Tu_1 + x_T2_S1_Tu_1 + x_T3_S1_Tu_1 + x_T4_S1_Tu_1 + x_T6_S1_Tu_1 + x_T7_S1_Tu_1 + x_T8_S1_Tu_1 <= 1
+ first_period_S1_We_1: x_T1_S1_We_1 + x_T2_S1_We_1 + x_T3_S1_We_1 + x_T4_S1_We_1 + x_T6_S1_We_1 + x_T7_S1_We_1 + x_T8_S1_We_1 <= 1
+ first_period_S1_Th_1: x_T1_S1_Th_1 + x_T2_S1_Th_1 + x_T3_S1_Th_1 + x_T4_S1_Th_1 + x_T6_S1_Th_1 + x_T7_S1_Th_1 + x_T8_S1_Th_1 <= 1
+ first_period_S1_Fr_1: x_T1_S1_Fr_1 + x_T2_S1_Fr_1 + x_T3_S1_Fr_1 + x_T4_S1_Fr_1 + x_T6_S1_Fr_1 + x_T7_S1_Fr_1 + x_T8_S1_Fr_1 <= 1
+ double_lessons_T1_S1: g_T1_S1 >= 2 - x_T1_S1_Mo_1 - x_T1_S1_Mo_2 - x_T1_S1_Mo_2 - x_T1_S1_Mo_3 - x_T1_S1_Mo_3 - x_T1_S1_Mo_4 - x_T1_S1_Mo_4 - x_T1_S1_Mo_5 - x_T1_S1_Tu_1 - x_T1_S1_Tu_2 - x_T1_S1_Tu_2 - x_T1_S1_Tu_3 - x_T1_S1_Tu_3 - x_T1_S1_Tu_4 - x_T1_S1_Tu_4 - x_T1_S1_Tu_5 - x_T1_S1_We_1 - x_T1_S1_We_2 - x_T1_S1_We_2 - x_T1_S1_We_3 - x_T1_S1_We_3 - x_T1_S1_We_4 - x_T1_S1_We_4 - x_T1_S1_We_5 - x_T1_S1_Th_1 - x_T1_S1_Th_2 - x_T1_S1_Th_2 - x_T1_S1_Th_3 - x_T1_S1_Th_3 - x_T1_S1_Th_4 - x_T1_S1_Th_4 - x_T1_S1_Th_5 - x_T1_S1_Fr_1 - x_T1_S1_Fr_2 - x_T1_S1_Fr_2 - x_T1_S1_Fr_3 - x_T1_S1_Fr_3 - x_T1_S1_Fr_4 - x_T1_S1_Fr_4 - x_T1_S1_Fr_5
+ double_lessons_T1_S2: g_T1_S2 >= 2 - x_T1_S2_Mo_1 - x_T1_S2_Mo_2 - x_T1_S2_Mo_2 - x_T1_S2_Mo_3 - x_T1_S2_Mo_3 - x_T1_S2_Mo_4 - x_T1_S2_Mo_4 - x_T1_S2_Mo_5 - x_T1_S2_Tu_1 - x_T1_S2_Tu_2 - x_T1_S2_Tu_2 - x_T1_S2_Tu_3 - x_T1_S2_Tu_3 - x_T1_S2_Tu_4 - x_T1_S2_Tu_4 - x_T1_S2_Tu_5 - x_T1_S2_We_1 - x_T1_S2_We_2 - x_T1_S2_We_2 - x_T1_S2_We_3 - x_T1_S2_We_3 - x_T1_S2_We_4 - x_T1_S2_We_4 - x_T1_S2_We_5 - x_T1_S2_Th_1 - x_T1_S2_Th_2 - x_T1_S2_Th_2 - x_T1_S2_Th_3 - x_T1_S2_Th_3 - x_T1_S2_Th_4 - x_T1_S2_Th_4 - x_T1_S2_Th_5 - x_T1_S2_Fr_1 - x_T1_S2_Fr_2 - x_T1_S2_Fr_2 - x_T1_S2_Fr_3 - x_T1_S2_Fr_3 - x_T1_S2_Fr_4 - x_T1_S2_Fr_4 - x_T1_S2_Fr_5
+ double_lessons_T1_S3: g_T1_S3 >= 2 - x_T1_S3_Mo_1 - x_T1_S3_Mo_2 - x_T1_S3_Mo_2 - x_T1_S3_Mo_3 - x_T1_S3_Mo_3 - x_T1_S3_Mo_4 - x_T1_S3_Mo_4 - x_T1_S3_Mo_5 - x_T1_S3_Tu_1 - x_T1_S3_Tu_2 - x_T1_S3_Tu_2 - x_T1_S3_Tu_3 - x_T1_S3_Tu_3 - x_T1_S3_Tu_4 - x_T1_S3_Tu_4 - x_T1_S3_Tu_5 - x_T1_S3_We_1 - x_T1_S3_We_2 - x_T1_S3_We_2 - x_T1_S3_We_3 - x_T1_S3_We_3 - x_T1_S3_We_4 - x_T1_S3_We_4 - x_T1_S3_We_5 - x_T1_S3_Th_1 - x_T1_S3_Th_2 - x_T1_S3_Th_2 - x_T1_S3_Th_3 - x_T1_S3_Th_3 - x_T1_S3_Th_4 - x_T1_S3_Th_4 - x_T1_S3_Th_5 - x_T1_S3_Fr_1 - x_T1_S3_Fr_2 - x_T1_S3_Fr_2 - x_T1_S3_Fr_3 - x_T1_S3_Fr_3 - x_T1_S3_Fr_4 - x_T1_S3_Fr_4 - x_T1_S3_Fr_5
+ double_lessons_T2_S1: g_T2_S1 >= 2 - x_T2_S1_Mo_1 - x_T2_S1_Mo_2 - x_T2_S1_Mo_2 - x_T2_S1_Mo_3 - x_T2_S1_Mo_3 - x_T2_S1_Mo_4 - x_T2_S1_Mo_4 - x_T2_S1_Mo_5 - x_T2_S1_Tu_1 - x_T2_S1_Tu_2 - x_T2_S1_Tu_2 - x_T2_S1_Tu_3 - x_T2_S1_Tu_3 - x_T2_S1_Tu_4 - x_T2_S1_Tu_4 - x_T2_S1_Tu_5 - x_T2_S1_We_1 - x_T2_S1_We_2 - x_T2_S1_We_2 - x_T2_S1_We_3 - x_T2_S1_We_3 - x_T2_S1_We_4 - x_T2_S1_We_4 - x_T2_S1_We_5 - x_T2_S1_Th_1 - x_T2_S1_Th_2 - x_T2_S1_Th_2 - x_T2_S1_Th_3 - x_T2_S1_Th_3 - x_T2_S1_Th_4 - x_T2_S1_Th_4 - x_T2_S1_Th_5 - x_T2_S1_Fr_1 - x_T2_S1_Fr_2 - x_T2_S1_Fr_2 - x_T2_S1_Fr_3 - x_T2_S1_Fr_3 - x_T2_S1_Fr_4 - x_T2_S1_Fr_4 - x_T2_S1_Fr_5
+ double_lessons_T2_S2: g_T2_S2 >= 2 - x_T2_S2_Mo_1 - x_T2_S2_Mo_2 - x_T2_S2_Mo_2 - x_T2_S2_Mo_3 - x_T2_S2_Mo_3 - x_T2_S2_Mo_4 - x_T2_S2_Mo_4 - x_T2_S2_Mo_5 - x_T2_S2_Tu_1 - x_T2_S2_Tu_2 - x_T2_S2_Tu_2 - x_T2_S2_Tu_3 - x_T2_S2_Tu_3 - x_T2_S2_Tu_4 - x_T2_S2_Tu_4 - x_T2_S2_Tu_5 - x_T2_S2_We_1 - x_T2_S2_We_2 - x_T2_S2_We_2 - x_T2_S2_We_3 - x_T2_S2_We_3 - x_T2_S2_We_4 - x_T2_S2_We_4 - x_T2_S2_We_5 - x_T2_S2_Th_1 - x_T2_S2_Th_2 - x_T2_S2_Th_2 - x_T2_S2_Th_3 - x_T2_S2_Th_3 - x_T2_S2_Th_4 - x_T2_S2_Th_4 - x_T2_S2_Th_5 - x_T2_S2_Fr_1 - x_T2_S2_Fr_2 - x_T2_S2_Fr_2 - x_T2_S2_Fr_3 - x_T2_S2_Fr_3 - x_T2_S2_Fr_4 - x_T2_S2_Fr_4 - x_T2_S2_Fr_5
+ double_lessons_T3_S1: g_T3_S1 >= 2 - x_T3_S1_Mo_1 - x_T3_S1_Mo_2 - x_T3_S1_Mo_2 - x_T3_S1_Mo_3 - x_T3_S1_Mo_3 - x_T3_S1_Mo_4 - x_T3_S1_Mo_4 - x_T3_S1_Mo_5 - x_T3_S1_Tu_1 - x_T3_S1_Tu_2 - x_T3_S1_Tu_2 - x_T3_S1_Tu_3 - x_T3_S1_Tu_3 - x_T3_S1_Tu_4 - x_T3_S1_Tu_4 - x_T3_S1_Tu_5 - x_T3_S1_We_1 - x_T3_S1_We_2 - x_T3_S1_We_2 - x_T3_S1_We_3 - x_T3_S1_We_3 - x_T3_S1_We_4 - x_T3_S1_We_4 - x_T3_S1_We_5 - x_T3_S1_Th_1 - x_T3_S1_Th_2 - x_T3_S1_Th_2 - x_T3_S1_Th_3 - x_T3_S1_Th_3 - x_T3_S1_Th_4 - x_T3_S1_Th_4 - x_T3_S1_Th_5 - x_T3_S1_Fr_1 - x_T3_S1_Fr_2 - x_T3_S1_Fr_2 - x_T3_S1_Fr_3 - x_T3_S1_Fr_3 - x_T3_S1_Fr_4 - x_T3_S1_Fr_4 - x_T3_S1_Fr_5
+ double_lessons_T3_S2: g_T3_S2 >= 2 - x_T3_S2_Mo_1 - x_T3_S2_Mo_2 - x_T3_S2_Mo_2 - x_T3_S2_Mo_3 - x_T3_S2_Mo_3 - x_T3_S2_Mo_4 - x_T3_S2_Mo_4 - x_T3_S2_Mo_5 - x_T3_S2_Tu_1 - x_T3_S2_Tu_2 - x_T3_S2_Tu_2 - x_T3_S2_Tu_3 - x_T3_S2_Tu_3 - x_T3_S2_Tu_4 - x_T3_S2_Tu_4 - x_T3_S2_Tu_5 - x_T3_S2_We_1 - x_T3_S2_We_2 - x_T3_S2_We_2 - x_T3_S2_We_3 - x_T3_S2_We_3 - x_T3_S2_We_4 - x_T3_S2_We_4 - x_T3_S2_We_5 - x_T3_S2_Th_1 - x_T3_S2_Th_2 - x_T3_S2_Th_2 - x_T3_S2_Th_3 - x_T3_S2_Th_3 - x_T3_S2_Th_4 - x_T3_S2_Th_4 - x_T3_S2_Th_5 - x_T3_S2_Fr_1 - x_T3_S2_Fr_2 - x_T3_S2_Fr_2 - x_T3_S2_Fr_3 - x_T3_S2_Fr_3 - x_T3_S2_Fr_4 - x_T3_S2_Fr_4 - x_T3_S2_Fr_5
+ double_lessons_T3_S3: g_T3_S3 >= 2 - x_T3_S3_Mo_1 - x_T3_S3_Mo_2 - x_T3_S3_Mo_2 - x_T3_S3_Mo_3 - x_T3_S3_Mo_3 - x_T3_S3_Mo_4 - x_T3_S3_Mo_4 - x_T3_S3_Mo_5 - x_T3_S3_Tu_1 - x_T3_S3_Tu_2 - x_T3_S3_Tu_2 - x_T3_S3_Tu_3 - x_T3_S3_Tu_3 - x_T3_S3_Tu_4 - x_T3_S3_Tu_4 - x_T3_S3_Tu_5 - x_T3_S3_We_1 - x_T3_S3_We_2 - x_T3_S3_We_2 - x_T3_S3_We_3 - x_T3_S3_We_3 - x_T3_S3_We_4 - x_T3_S3_We_4 - x_T3_S3_We_5 - x_T3_S3_Th_1 - x_T3_S3_Th_2 - x_T3_S3_Th_2 - x_T3_S3_Th_3 - x_T3_S3_Th_3 - x_T3_S3_Th_4 - x_T3_S3_Th_4 - x_T3_S3_Th_5 - x_T3_S3_Fr_1 - x_T3_S3_Fr_2 - x_T3_S3_Fr_2 - x_T3_S3_Fr_3 - x_T3_S3_Fr_3 - x_T3_S3_Fr_4 - x_T3_S3_Fr_4 - x_T3_S3_Fr_5
+ double_lessons_T4_S1: g_T4_S1 >= 2 - x_T4_S1_Mo_1 - x_T4_S1_Mo_2 - x_T4_S1_Mo_2 - x_T4_S1_Mo_3 - x_T4_S1_Mo_3 - x_T4_S1_Mo_4 - x_T4_S1_Mo_4 - x_T4_S1_Mo_5 - x_T4_S1_Tu_1 - x_T4_S1_Tu_2 - x_T4_S1_Tu_2 - x_T4_S1_Tu_3 - x_T4_S1_Tu_3 - x_T4_S1_Tu_4 - x_T4_S1_Tu_4 - x_T4_S1_Tu_5 - x_T4_S1_We_1 - x_T4_S1_We_2 - x_T4_S1_We_2 - x_T4_S1_We_3 - x_T4_S1_We_3 - x_T4_S1_We_4 - x_T4_S1_We_4 - x_T4_S1_We_5 - x_T4_S1_Th_1 - x_T4_S1_Th_2 - x_T4_S1_Th_2 - x_T4_S1_Th_3 - x_T4_S1_Th_3 - x_T4_S1_Th_4 - x_T4_S1_Th_4 - x_T4_S1_Th_5 - x_T4_S1_Fr_1 - x_T4_S1_Fr_2 - x_T4_S1_Fr_2 - x_T4_S1_Fr_3 - x_T4_S1_Fr_3 - x_T4_S1_Fr_4 - x_T4_S1_Fr_4 - x_T4_S1_Fr_5
+ double_lessons_T4_S2: g_T4_S2 >= 2 - x_T4_S2_Mo_1 - x_T4_S2_Mo_2 - x_T4_S2_Mo_2 - x_T4_S2_Mo_3 - x_T4_S2_Mo_3 - x_T4_S2_Mo_4 - x_T4_S2_Mo_4 - x_T4_S2_Mo_5 - x_T4_S2_Tu_1 - x_T4_S2_Tu_2 - x_T4_S2_Tu_2 - x_T4_S2_Tu_3 - x_T4_S2_Tu_3 - x_T4_S2_Tu_4 - x_T4_S2_Tu_4 - x_T4_S2_Tu_5 - x_T4_S2_We_1 - x_T4_S2_We_2 - x_T4_S2_We_2 - x_T4_S2_We_3 - x_T4_S2_We_3 - x_T4_S2_We_4 - x_T4_S2_We_4 - x_T4_S2_We_5 - x_T4_S2_Th_1 - x_T4_S2_Th_2 - x_T4_S2_Th_2 - x_T4_S2_Th_3 - x_T4_S2_Th_3 - x_T4_S2_Th_4 - x_T4_S2_Th_4 - x_T4_S2_Th_5 - x_T4_S2_Fr_1 - x_T4_S2_Fr_2 - x_T4_S2_Fr_2 - x_T4_S2_Fr_3 - x_T4_S2_Fr_3 - x_T4_S2_Fr_4 - x_T4_S2_Fr_4 - x_T4_S2_Fr_5
+ double_lessons_T4_S3: g_T4_S3 >= 2 - x_T4_S3_Mo_1 - x_T4_S3_Mo_2 - x_T4_S3_Mo_2 - x_T4_S3_Mo_3 - x_T4_S3_Mo_3 - x_T4_S3_Mo_4 - x_T4_S3_Mo_4 - x_T4_S3_Mo_5 - x_T4_S3_Tu_1 - x_T4_S3_Tu_2 - x_T4_S3_Tu_2 - x_T4_S3_Tu_3 - x_T4_S3_Tu_3 - x_T4_S3_Tu_4 - x_T4_S3_Tu_4 - x_T4_S3_Tu_5 - x_T4_S3_We_1 - x_T4_S3_We_2 - x_T4_S3_We_2 - x_T4_S3_We_3 - x_T4_S3_We_3 - x_T4_S3_We_4 - x_T4_S3_We_4 - x_T4_S3_We_5 - x_T4_S3_Th_1 - x_T4_S3_Th_2 - x_T4_S3_Th_2 - x_T4_S3_Th_3 - x_T4_S3_Th_3 - x_T4_S3_Th_4 - x_T4_S3_Th_4 - x_T4_S3_Th_5 - x_T4_S3_Fr_1 - x_T4_S3_Fr_2 - x_T4_S3_Fr_2 - x_T4_S3_Fr_3 - x_T4_S3_Fr_3 - x_T4_S3_Fr_4 - x_T4_S3_Fr_4 - x_T4_S3_Fr_5
+ double_lessons_T5_S2: g_T5_S2 >= 2 - x_T5_S2_Mo_1 - x_T5_S2_Mo_2 - x_T5_S2_Mo_2 - x_T5_S2_Mo_3 - x_T5_S2_Mo_3 - x_T5_S2_Mo_4 - x_T5_S2_Mo_4 - x_T5_S2_Mo_5 - x_T5_S2_Tu_1 - x_T5_S2_Tu_2 - x_T5_S2_Tu_2 - x_T5_S2_Tu_3 - x_T5_S2_Tu_3 - x_T5_S2_Tu_4 - x_T5_S2_Tu_4 - x_T5_S2_Tu_5 - x_T5_S2_We_1 - x_T5_S2_We_2 - x_T5_S2_We_2 - x_T5_S2_We_3 - x_T5_S2_We_3 - x_T5_S2_We_4 - x_T5_S2_We_4 - x_T5_S2_We_5 - x_T5_S2_Th_1 - x_T5_S2_Th_2 - x_T5_S2_Th_2 - x_T5_S2_Th_3 - x_T5_S2_Th_3 - x_T5_S2_Th_4 - x_T5_S2_Th_4 - x_T5_S2_Th_5 - x_T5_S2_Fr_1 - x_T5_S2_Fr_2 - x_T5_S2_Fr_2 - x_T5_S2_Fr_3 - x_T5_S2_Fr_3 - x_T5_S2_Fr_4 - x_T5_S2_Fr_4 - x_T5_S2_Fr_5
+ double_lessons_T5_S3: g_T5_S3 >= 2 - x_T5_S3_Mo_1 - x_T5_S3_Mo_2 - x_T5_S3_Mo_2 - x_T5_S3_Mo_3 - x_T5_S3_Mo_3 - x_T5_S3_Mo_4 - x_T5_S3_Mo_4 - x_T5_S3_Mo_5 - x_T5_S3_Tu_1 - x_T5_S3_Tu_2 - x_T5_S3_Tu_2 - x_T5_S3_Tu_3 - x_T5_S3_Tu_3 - x_T5_S3_Tu_4 - x_T5_S3_Tu_4 - x_T5_S3_Tu_5 - x_T5_S3_We_1 - x_T5_S3_We_2 - x_T5_S3_We_2 - x_T5_S3_We_3 - x_T5_S3_We_3 - x_T5_S3_We_4 - x_T5_S3_We_4 - x_T5_S3_We_5 - x_T5_S3_Th_1 - x_T5_S3_Th_2 - x_T5_S3_Th_2 - x_T5_S3_Th_3 - x_T5_S3_Th_3 - x_T5_S3_Th_4 - x_T5_S3_Th_4 - x_T5_S3_Th_5 - x_T5_S3_Fr_1 - x_T5_S3_Fr_2 - x_T5_S3_Fr_2 - x_T5_S3_Fr_3 - x_T5_S3_Fr_3 - x_T5_S3_Fr_4 - x_T5_S3_Fr_4 - x_T5_S3_Fr_5
+ double_lessons_T6_S1: g_T6_S1 >= 2 - x_T6_S1_Mo_1 - x_T6_S1_Mo_2 - x_T6_S1_Mo_2 - x_T6_S1_Mo_3 - x_T6_S1_Mo_3 - x_T6_S1_Mo_4 - x_T6_S1_Mo_4 - x_T6_S1_Mo_5 - x_T6_S1_Tu_1 - x_T6_S1_Tu_2 - x_T6_S1_Tu_2 - x_T6_S1_Tu_3 - x_T6_S1_Tu_3 - x_T6_S1_Tu_4 - x_T6_S1_Tu_4 - x_T6_S1_Tu_5 - x_T6_S1_We_1 - x_T6_S1_We_2 - x_T6_S1_We_2 - x_T6_S1_We_3 - x_T6_S1_We_3 - x_T6_S1_We_4 - x_T6_S1_We_4 - x_T6_S1_We_5 - x_T6_S1_Th_1 - x_T6_S1_Th_2 - x_T6_S1_Th_2 - x_T6_S1_Th_3 - x_T6_S1_Th_3 - x_T6_S1_Th_4 - x_T6_S1_Th_4 - x_T6_S1_Th_5 - x_T6_S1_Fr_1 - x_T6_S1_Fr_2 - x_T6_S1_Fr_2 - x_T6_S1_Fr_3 - x_T6_S1_Fr_3 - x_T6_S1_Fr_4 - x_T6_S1_Fr_4 - x_T6_S1_Fr_5
+ double_lessons_T6_S2: g_T6_S2 >= 2 - x_T6_S2_Mo_1 - x_T6_S2_Mo_2 - x_T6_S2_Mo_2 - x_T6_S2_Mo_3 - x_T6_S2_Mo_3 - x_T6_S2_Mo_4 - x_T6_S2_Mo_4 - x_T6_S2_Mo_5 - x_T6_S2_Tu_1 - x_T6_S2_Tu_2 - x_T6_S2_Tu_2 - x_T6_S2_Tu_3 - x_T6_S2_Tu_3 - x_T6_S2_Tu_4 - x_T6_S2_Tu_4 - x_T6_S2_Tu_5 - x_T6_S2_We_1 - x_T6_S2_We_2 - x_T6_S2_We_2 - x_T6_S2_We_3 - x_T6_S2_We_3 - x_T6_S2_We_4 - x_T6_S2_We_4 - x_T6_S2_We_5 - x_T6_S2_Th_1 - x_T6_S2_Th_2 - x_T6_S2_Th_2 - x_T6_S2_Th_3 - x_T6_S2_Th_3 - x_T6_S2_Th_4 - x_T6_S2_Th_4 - x_T6_S2_Th_5 - x_T6_S2_Fr_1 - x_T6_S2_Fr_2 - x_T6_S2_Fr_2 - x_T6_S2_Fr_3 - x_T6_S2_Fr_3 - x_T6_S2_Fr_4 - x_T6_S2_Fr_4 - x_T6_S2_Fr_5
+ double_lessons_T6_S3: g_T6_S3 >= 2 - x_T6_S3_Mo_1 - x_T6_S3_Mo_2 - x_T6_S3_Mo_2 - x_T6_S3_Mo_3 - x_T6_S3_Mo_3 - x_T6_S3_Mo_4 - x_T6_S3_Mo_4 - x_T6_S3_Mo_5 - x_T6_S3_Tu_1 - x_T6_S3_Tu_2 - x_T6_S3_Tu_2 - x_T6_S3_Tu_3 - x_T6_S3_Tu_3 - x_T6_S3_Tu_4 - x_T6_S3_Tu_4 - x_T6_S3_Tu_5 - x_T6_S3_We_1 - x_T6_S3_We_2 - x_T6_S3_We_2 - x_T6_S3_We_3 - x_T6_S3_We_3 - x_T6_S3_We_4 - x_T6_S3_We_4 - x_T6_S3_We_5 - x_T6_S3_Th_1 - x_T6_S3_Th_2 - x_T6_S3_Th_2 - x_T6_S3_Th_3 - x_T6_S3_Th_3 - x_T6_S3_Th_4 - x_T6_S3_Th_4 - x_T6_S3_Th_5 - x_T6_S3_Fr_1 - x_T6_S3_Fr_2 - x_T6_S3_Fr_2 - x_T6_S3_Fr_3 - x_T6_S3_Fr_3 - x_T6_S3_Fr_4 - x_T6_S3_Fr_4 - x_T6_S3_Fr_5
+ double_lessons_T7_S1: g_T7_S1 >= 2 - x_T7_S1_Mo_1 - x_T7_S1_Mo_2 - x_T7_S1_Mo_2 - x_T7_S1_Mo_3 - x_T7_S1_Mo_3 - x_T7_S1_Mo_4 - x_T7_S1_Mo_4 - x_T7_S1_Mo_5 - x_T7_S1_Tu_1 - x_T7_S1_Tu_2 - x_T7_S1_Tu_2 - x_T7_S1_Tu_3 - x_T7_S1_Tu_3 - x_T7_S1_Tu_4 - x_T7_S1_Tu_4 - x_T7_S1_Tu_5 - x_T7_S1_We_1 - x_T7_S1_We_2 - x_T7_S1_We_2 - x_T7_S1_We_3 - x_T7_S1_We_3 - x_T7_S1_We_4 - x_T7_S1_We_4 - x_T7_S1_We_5 - x_T7_S1_Th_1 - x_T7_S1_Th_2 - x_T7_S1_Th_2 - x_T7_S1_Th_3 - x_T7_S1_Th_3 - x_T7_S1_Th_4 - x_T7_S1_Th_4 - x_T7_S1_Th_5 - x_T7_S1_Fr_1 - x_T7_S1_Fr_2 - x_T7_S1_Fr_2 - x_T7_S1_Fr_3 - x_T7_S1_Fr_3 - x_T7_S1_Fr_4 - x_T7_S1_Fr_4 - x_T7_S1_Fr_5
+ double_lessons_T7_S3: g_T7_S3 >= 2 - x_T7_S3_Mo_1 - x_T7_S3_Mo_2 - x_T7_S3_Mo_2 - x_T7_S3_Mo_3 - x_T7_S3_Mo_3 - x_T7_S3_Mo_4 - x_T7_S3_Mo_4 - x_T7_S3_Mo_5 - x_T7_S3_Tu_1 - x_T7_S3_Tu_2 - x_T7_S3_Tu_2 - x_T7_S3_Tu_3 - x_T7_S3_Tu_3 - x_T7_S3_Tu_4 - x_T7_S3_Tu_4 - x_T7_S3_Tu_5 - x_T7_S3_We_1 - x_T7_S3_We_2 - x_T7_S3_We_2 - x_T7_S3_We_3 - x_T7_S3_We_3 - x_T7_S3_We_4 - x_T7_S3_We_4 - x_T7_S3_We_5 - x_T7_S3_Th_1 - x_T7_S3_Th_2 - x_T7_S3_Th_2 - x_T7_S3_Th_3 - x_T7_S3_Th_3 - x_T7_S3_Th_4 - x_T7_S3_Th_4 - x_T7_S3_Th_5 - x_T7_S3_Fr_1 - x_T7_S3_Fr_2 - x_T7_S3_Fr_2 - x_T7_S3_Fr_3 - x_T7_S3_Fr_3 - x_T7_S3_Fr_4 - x_T7_S3_Fr_4 - x_T7_S3_Fr_5
+ double_lessons_T8_S1: g_T8_S1 >= 2 - x_T8_S1_Mo_1 - x_T8_S1_Mo_2 - x_T8_S1_Mo_2 - x_T8_S1_Mo_3 - x_T8_S1_Mo_3 - x_T8_S1_Mo_4 - x_T8_S1_Mo_4 - x_T8_S1_Mo_5 - x_T8_S1_Tu_1 - x_T8_S1_Tu_2 - x_T8_S1_Tu_2 - x_T8_S1_Tu_3 - x_T8_S1_Tu_3 - x_T8_S1_Tu_4 - x_T8_S1_Tu_4 - x_T8_S1_Tu_5 - x_T8_S1_We_1 - x_T8_S1_We_2 - x_T8_S1_We_2 - x_T8_S1_We_3 - x_T8_S1_We_3 - x_T8_S1_We_4 - x_T8_S1_We_4 - x_T8_S1_We_5 - x_T8_S1_Th_1 - x_T8_S1_Th_2 - x_T8_S1_Th_2 - x_T8_S1_Th_3 - x_T8_S1_Th_3 - x_T8_S1_Th_4 - x_T8_S1_Th_4 - x_T8_S1_Th_5 - x_T8_S1_Fr_1 - x_T8_S1_Fr_2 - x_T8_S1_Fr_2 - x_T8_S1_Fr_3 - x_T8_S1_Fr_3 - x_T8_S1_Fr_4 - x_T8_S1_Fr_4 - x_T8_S1_Fr_5
+ double_lessons_T8_S2: g_T8_S2 >= 2 - x_T8_S2_Mo_1 - x_T8_S2_Mo_2 - x_T8_S2_Mo_2 - x_T8_S2_Mo_3 - x_T8_S2_Mo_3 - x_T8_S2_Mo_4 - x_T8_S2_Mo_4 - x_T8_S2_Mo_5 - x_T8_S2_Tu_1 - x_T8_S2_Tu_2 - x_T8_S2_Tu_2 - x_T8_S2_Tu_3 - x_T8_S2_Tu_3 - x_T8_S2_Tu_4 - x_T8_S2_Tu_4 - x_T8_S2_Tu_5 - x_T8_S2_We_1 - x_T8_S2_We_2 - x_T8_S2_We_2 - x_T8_S2_We_3 - x_T8_S2_We_3 - x_T8_S2_We_4 - x_T8_S2_We_4 - x_T8_S2_We_5 - x_T8_S2_Th_1 - x_T8_S2_Th_2 - x_T8_S2_Th_2 - x_T8_S2_Th_3 - x_T8_S2_Th_3 - x_T8_S2_Th_4 - x_T8_S2_Th_4 - x_T8_S2_Th_5 - x_T8_S2_Fr_1 - x_T8_S2_Fr_2 - x_T8_S2_Fr_2 - x_T8_S2_Fr_3 - x_T8_S2_Fr_3 - x_T8_S2_Fr_4 - x_T8_S2_Fr_4 - x_T8_S2_Fr_5
+ double_lessons_T8_S3: g_T8_S3 >= 2 - x_T8_S3_Mo_1 - x_T8_S3_Mo_2 - x_T8_S3_Mo_2 - x_T8_S3_Mo_3 - x_T8_S3_Mo_3 - x_T8_S3_Mo_4 - x_T8_S3_Mo_4 - x_T8_S3_Mo_5 - x_T8_S3_Tu_1 - x_T8_S3_Tu_2 - x_T8_S3_Tu_2 - x_T8_S3_Tu_3 - x_T8_S3_Tu_3 - x_T8_S3_Tu_4 - x_T8_S3_Tu_4 - x_T8_S3_Tu_5 - x_T8_S3_We_1 - x_T8_S3_We_2 - x_T8_S3_We_2 - x_T8_S3_We_3 - x_T8_S3_We_3 - x_T8_S3_We_4 - x_T8_S3_We_4 - x_T8_S3_We_5 - x_T8_S3_Th_1 - x_T8_S3_Th_2 - x_T8_S3_Th_2 - x_T8_S3_Th_3 - x_T8_S3_Th_3 - x_T8_S3_Th_4 - x_T8_S3_Th_4 - x_T8_S3_Th_5 - x_T8_S3_Fr_1 - x_T8_S3_Fr_2 - x_T8_S3_Fr_2 - x_T8_S3_Fr_3 - x_T8_S3_Fr_3 - x_T8_S3_Fr_4 - x_T8_S3_Fr_4 - x_T8_S3_Fr_5
+ working_days_T4: x_T4_Mo_1 + x_T4_Mo_2 + x_T4_Mo_3 + x_T4_Mo_4 + x_T4_Mo_5 + x_T4_Tu_1 + x_T4_Tu_2 + x_T4_Tu_3 + x_T4_Tu_4 + x_T4_Tu_5 + x_T4_We_1 + x_T4_We_2 + x_T4_We_3 + x_T4_We_4 + x_T4_We_5 + x_T4_Th_1 + x_T4_Th_2 + x_T4_Th_3 + x_T4_Th_4 + x_T4_Th_5 + x_T4_Fr_1 + x_T4_Fr_2 + x_T4_Fr_3 + x_T4_Fr_4 + x_T4_Fr_5 >= 3
+ working_days_T6: x_T6_Mo_1 + x_T6_Mo_2 + x_T6_Mo_3 + x_T6_Mo_4 + x_T6_Mo_5 + x_T6_Tu_1 + x_T6_Tu_2 + x_T6_Tu_3 + x_T6_Tu_4 + x_T6_Tu_5 + x_T6_We_1 + x_T6_We_2 + x_T6_We_3 + x_T6_We_4 + x_T6_We_5 + x_T6_Th_1 + x_T6_Th_2 + x_T6_Th_3 + x_T6_Th_4 + x_T6_Th_5 + x_T6_Fr_1 + x_T6_Fr_2 + x_T6_Fr_3 + x_T6_Fr_4 + x_T6_Fr_5 >= 3
+ working_days_T8: x_T8_Mo_1 + x_T8_Mo_2 + x_T8_Mo_3 + x_T8_Mo_4 + x_T8_Mo_5 + x_T8_Tu_1 + x_T8_Tu_2 + x_T8_Tu_3 + x_T8_Tu_4 + x_T8_Tu_5 + x_T8_We_1 + x_T8_We_2 + x_T8_We_3 + x_T8_We_4 + x_T8_We_5 + x_T8_Th_1 + x_T8_Th_2 + x_T8_Th_3 + x_T8_Th_4 + x_T8_Th_5 + x_T8_Fr_1 + x_T8_Fr_2 + x_T8_Fr_3 + x_T8_Fr_4 + x_T8_Fr_5 >= 3
+ working_days_T1: x_T1_Mo_1 + x_T1_Mo_2 + x_T1_Mo_3 + x_T1_Mo_4 + x_T1_Mo_5 + x_T1_Tu_1 + x_T1_Tu_2 + x_T1_Tu_3 + x_T1_Tu_4 + x_T1_Tu_5 + x_T1_We_1 + x_T1_We_2 + x_T1_We_3 + x_T1_We_4 + x_T1_We_5 + x_T1_Th_1 + x_T1_Th_2 + x_T1_Th_3 + x_T1_Th_4 + x_T1_Th_5 + x_T1_Fr_1 + x_T1_Fr_2 + x_T1_Fr_3 + x_T1_Fr_4 + x_T1_Fr_5 >= 3
+ working_days_T7: x_T7_Mo_1 + x_T7_Mo_2 + x_T7_Mo_3 + x_T7_Mo_4 + x_T7_Mo_5 + x_T7_Tu_1 + x_T7_Tu_2 + x_T7_Tu_3 + x_T7_Tu_4 + x_T7_Tu_5 + x_T7_We_1 + x_T7_We_2 + x_T7_We_3 + x_T7_We_4 + x_T7_We_5 + x_T7_Th_1 + x_T7_Th_2 + x_T7_Th_3 + x_T7_Th_4 + x_T7_Th_5 + x_T7_Fr_1 + x_T7_Fr_2 + x_T7_Fr_3 + x_T7_Fr_4 + x_T7_Fr_5 >= 3
+ working_days_T5: x_T5_Mo_1 + x_T5_Mo_2 + x_T5_Mo_3 + x_T5_Mo_4 + x_T5_Mo_5 + x_T5_Tu_1 + x_T5_Tu_2 + x_T5_Tu_3 + x_T5_Tu_4 + x_T5_Tu_5 + x_T5_We_1 + x_T5_We_2 + x_T5_We_3 + x_T5_We_4 + x_T5_We_5 + x_T5_Th_1 + x_T5_Th_2 + x_T5_Th_3 + x_T5_Th_4 + x_T5_Th_5 + x_T5_Fr_1 + x_T5_Fr_2 + x_T5_Fr_3 + x_T5_Fr_4 + x_T5_Fr_5 >= 3
+ working_days_T2: x_T2_Mo_1 + x_T2_Mo_2 + x_T2_Mo_3 + x_T2_Mo_4 + x_T2_Mo_5 + x_T2_Tu_1 + x_T2_Tu_2 + x_T2_Tu_3 + x_T2_Tu_4 + x_T2_Tu_5 + x_T2_We_1 + x_T2_We_2 + x_T2_We_3 + x_T2_We_4 + x_T2_We_5 + x_T2_Th_1 + x_T2_Th_2 + x_T2_Th_3 + x_T2_Th_4 + x_T2_Th_5 + x_T2_Fr_1 + x_T2_Fr_2 + x_T2_Fr_3 + x_T2_Fr_4 + x_T2_Fr_5 >= 3
+ working_days_T3: x_T3_Mo_1 + x_T3_Mo_2 + x_T3_Mo_3 + x_T3_Mo_4 + x_T3_Mo_5 + x_T3_Tu_1 + x_T3_Tu_2 + x_T3_Tu_3 + x_T3_Tu_4 + x_T3_Tu_5 + x_T3_We_1 + x_T3_We_2 + x_T3_We_3 + x_T3_We_4 + x_T3_We_5 + x_T3_Th_1 + x_T3_Th_2 + x_T3_Th_3 + x_T3_Th_4 + x_T3_Th_5 + x_T3_Fr_1 + x_T3_Fr_2 + x_T3_Fr_3 + x_T3_Fr_4 + x_T3_Fr_5 >= 3
+Binary
+  x_T3_S2_Fr_2
+  x_T1_S1_Tu_2
+  x_T6_S1_Tu_2
+  x_T6_S3_Fr_5
+  y_T5
+  x_T4_S3_Mo_5
+  x_T4_S1_Fr_3
+  x_T4_S2_Tu_3
+  x_T8_S3_Fr_4
+  x_T8_S2_Mo_5
+  x_T3_S1_We_1
+  x_T5_S3_Tu_3
+  x_T3_S3_Th_1
+  x_T8_S3_Tu_3
+  x_T6_S2_Th_5
+  x_T4_S2_Th_3
+  x_T1_S3_Fr_5
+  x_T8_S3_Mo_3
+  x_T3_S3_Tu_3
+  y_T1
+  x_T2_S1_Mo_2
+  x_T7_S3_Th_5
+  x_T8_S2_Mo_4
+  x_T1_S2_Fr_3
+  x_T4_S3_We_4
+  x_T5_S2_Mo_1
+  x_T8_S3_Tu_2
+  x_T1_S2_Tu_2
+  x_T5_S2_We_5
+  x_T4_S1_Tu_1
+  x_T1_S1_Mo_3
+  y_T6
+  x_T6_S1_Th_4
+  x_T1_S3_Mo_4
+  x_T2_S1_Fr_2
+  x_T2_S1_We_3
+  x_T4_S1_Fr_1
+  x_T8_S1_Th_4
+  x_T4_S3_Tu_2
+  x_T6_S1_Mo_2
+  x_T2_S1_Fr_3
+  x_T2_S1_Tu_2
+  x_T7_S3_Mo_2
+  x_T1_S2_Th_4
+  x_T2_S2_Tu_5
+  x_T2_S2_Mo_5
+  x_T2_S1_Tu_4
+  x_T5_S3_Tu_2
+  x_T8_S2_Mo_2
+  x_T1_S1_Th_5
+  x_T8_S1_Th_5
+  x_T1_S2_Fr_1
+  x_T4_S3_Th_2
+  x_T1_S3_We_4
+  x_T7_S1_Tu_4
+  x_T6_S1_Mo_4
+  x_T5_S3_Tu_1
+  x_T6_S2_Fr_1
+  y_T4
+  x_T1_S3_Tu_2
+  x_T5_S3_Fr_4
+  x_T3_S3_Th_5
+  x_T4_S1_Th_4
+  x_T8_S3_Th_2
+  x_T3_S2_Mo_2
+  x_T5_S2_Tu_4
+  x_T6_S2_Fr_5
+  x_T8_S1_Fr_3
+  x_T8_S3_Mo_2
+  x_T3_S3_We_4
+  x_T1_S1_Fr_3
+  x_T4_S2_Tu_2
+  x_T2_S1_Mo_1
+  x_T1_S2_Th_1
+  x_T4_S1_Tu_2
+  x_T5_S3_We_3
+  x_T5_S3_Th_2
+  x_T8_S2_Tu_2
+  x_T2_S1_Fr_4
+  x_T7_S1_Th_5
+  x_T8_S1_We_2
+  x_T8_S3_Fr_5
+  x_T2_S2_Fr_3
+  x_T3_S3_We_1
+  x_T6_S2_Fr_4
+  x_T6_S3_Th_4
+  x_T2_S1_We_4
+  x_T3_S2_Mo_3
+  x_T1_S1_We_4
+  x_T6_S2_Tu_1
+  x_T6_S2_We_4
+  x_T3_S1_We_2
+  x_T2_S2_Tu_3
+  x_T8_S3_Th_4
+  x_T8_S2_Th_1
+  x_T2_S1_Th_2
+  x_T2_S1_We_2
+  x_T6_S3_We_3
+  x_T5_S2_Mo_3
+  x_T4_S3_Mo_2
+  x_T3_S2_Fr_4
+  x_T3_S3_Mo_4
+  x_T8_S2_We_5
+  x_T4_S1_Mo_2
+  x_T3_S3_Fr_3
+  x_T4_S3_We_1
+  x_T7_S3_Fr_3
+  x_T6_S1_Tu_5
+  x_T3_S2_Th_4
+  x_T5_S2_Mo_2
+  x_T7_S1_Th_3
+  x_T6_S1_Fr_5
+  x_T1_S3_Tu_5
+  x_T8_S2_Mo_3
+  x_T7_S1_Th_2
+  x_T1_S3_Mo_5
+  x_T5_S3_Th_5
+  x_T5_S2_Th_1
+  x_T1_S2_Tu_5
+  x_T6_S1_Th_2
+  x_T6_S1_Fr_1
+  x_T2_S2_We_1
+  x_T8_S1_Mo_2
+  x_T1_S1_Fr_5
+  x_T5_S3_Th_1
+  x_T6_S1_We_5
+  x_T3_S3_Mo_3
+  x_T5_S2_Th_3
+  x_T8_S2_Tu_5
+  x_T1_S2_Tu_3
+  x_T1_S2_We_5
+  x_T6_S2_Tu_3
+  x_T4_S2_Fr_4
+  x_T1_S3_We_2
+  x_T3_S2_Th_5
+  x_T4_S1_Mo_3
+  x_T8_S1_We_5
+  x_T4_S3_Fr_4
+  x_T8_S3_Mo_1
+  x_T3_S1_Tu_5
+  x_T1_S2_We_2
+  x_T4_S1_Mo_1
+  x_T2_S1_Tu_5
+  x_T5_S3_Mo_1
+  x_T6_S2_Tu_2
+  x_T6_S3_Fr_3
+  x_T7_S1_We_5
+  x_T1_S3_Fr_1
+  x_T1_S1_Tu_1
+  x_T2_S2_Th_1
+  x_T6_S2_Th_3
+  x_T8_S2_Fr_3
+  x_T1_S3_Th_2
+  x_T6_S3_Fr_1
+  x_T6_S3_Mo_2
+  x_T7_S1_Mo_5
+  x_T8_S2_Fr_2
+  x_T1_S2_Th_2
+  x_T5_S3_Fr_2
+  x_T6_S2_Th_4
+  x_T8_S2_Fr_1
+  x_T1_S2_We_3
+  x_T8_S1_Fr_1
+  x_T6_S3_Mo_5
+  x_T6_S3_We_1
+  x_T4_S1_Tu_5
+  x_T3_S3_Fr_4
+  x_T4_S2_Th_5
+  x_T5_S2_Fr_1
+  x_T4_S3_We_5
+  x_T3_S2_Th_1
+  x_T4_S2_Tu_4
+  x_T3_S2_Mo_5
+  x_T4_S3_Mo_3
+  x_T4_S2_Fr_5
+  x_T5_S2_We_3
+  x_T1_S3_Fr_3
+  x_T7_S1_Tu_5
+  x_T4_S2_We_4
+  x_T3_S2_Tu_4
+  x_T5_S3_We_5
+  x_T8_S3_We_2
+  x_T6_S2_Mo_2
+  x_T8_S2_Th_4
+  x_T1_S2_Tu_1
+  x_T8_S1_Mo_4
+  x_T1_S1_Fr_4
+  x_T6_S3_Tu_2
+  x_T8_S1_Tu_5
+  x_T1_S3_Fr_4
+  x_T1_S1_We_5
+  x_T6_S1_We_4
+  x_T2_S1_Mo_4
+  x_T5_S3_Tu_5
+  x_T1_S1_Tu_3
+  x_T3_S3_Tu_5
+  y_T7
+  x_T7_S3_Tu_5
+  x_T2_S1_Fr_1
+  x_T8_S3_We_3
+  x_T8_S2_Tu_1
+  x_T5_S3_Mo_4
+  x_T3_S1_Mo_5
+  x_T2_S1_We_1
+  x_T8_S1_Tu_3
+  x_T3_S1_Mo_1
+  x_T2_S2_Mo_2
+  x_T1_S3_Th_5
+  x_T3_S1_Th_1
+  x_T7_S3_Fr_1
+  x_T8_S3_Tu_4
+  x_T2_S2_We_3
+  x_T7_S1_Fr_2
+  x_T5_S2_Fr_3
+  x_T3_S1_Th_4
+  x_T6_S1_Fr_3
+  x_T1_S2_We_1
+  x_T1_S1_Tu_5
+  x_T2_S2_Tu_1
+  x_T7_S3_Th_1
+  x_T4_S3_Fr_2
+  x_T4_S2_Tu_5
+  x_T8_S2_Mo_1
+  x_T3_S3_We_2
+  x_T1_S1_Th_1
+  x_T4_S1_Fr_4
+  x_T8_S1_Mo_3
+  x_T1_S3_We_3
+  x_T4_S3_Th_3
+  x_T7_S3_We_4
+  x_T3_S1_Fr_2
+  x_T6_S2_Mo_1
+  x_T7_S1_Th_1
+  x_T1_S3_Th_1
+  x_T7_S1_Mo_2
+  y_T8
+  x_T8_S2_Th_3
+  x_T6_S1_Th_5
+  x_T8_S1_Th_2
+  x_T7_S1_Mo_1
+  x_T3_S1_Tu_1
+  x_T7_S3_We_2
+  x_T4_S2_Th_4
+  x_T8_S3_Tu_5
+  x_T6_S1_Th_3
+  x_T1_S1_Fr_1
+  x_T8_S1_Fr_4
+  x_T7_S3_We_3
+  x_T3_S2_Th_3
+  x_T1_S3_Tu_3
+  x_T4_S2_Mo_3
+  x_T6_S2_Mo_4
+  x_T1_S1_Mo_2
+  x_T1_S1_Th_3
+  x_T4_S3_Mo_1
+  x_T4_S2_Mo_1
+  x_T1_S3_Tu_4
+  x_T3_S1_Mo_2
+  x_T7_S3_Tu_4
+  x_T8_S3_We_4
+  x_T3_S1_Fr_1
+  x_T7_S1_We_4
+  x_T5_S2_Tu_5
+  x_T5_S3_We_4
+  x_T3_S1_Tu_4
+  x_T8_S2_We_1
+  x_T6_S3_Th_5
+  x_T7_S3_Mo_5
+  x_T3_S1_Tu_2
+  x_T7_S3_Th_4
+  x_T5_S3_Th_4
+  x_T1_S2_Fr_4
+  x_T3_S2_We_3
+  x_T7_S1_Tu_3
+  x_T6_S3_Th_1
+  x_T8_S2_We_4
+  x_T1_S2_Th_3
+  x_T5_S3_Mo_3
+  x_T4_S2_Th_1
+  x_T6_S2_We_3
+  x_T8_S2_We_3
+  x_T6_S1_Tu_1
+  x_T8_S3_We_5
+  x_T1_S1_Fr_2
+  x_T5_S2_Tu_3
+  x_T7_S1_We_2
+  x_T8_S3_Fr_3
+  x_T8_S3_Fr_1
+  x_T8_S1_Mo_1
+  x_T2_S2_Tu_2
+  y_T2
+  x_T6_S3_Th_2
+  x_T5_S2_Th_4
+  x_T6_S1_Mo_5
+  x_T4_S1_Mo_5
+  x_T1_S2_Th_5
+  x_T7_S3_We_1
+  x_T7_S3_Th_2
+  x_T8_S1_Tu_2
+  x_T8_S2_Th_2
+  x_T6_S3_Tu_3
+  x_T4_S1_We_2
+  x_T2_S2_We_5
+  x_T6_S3_We_4
+  x_T3_S2_We_1
+  x_T7_S3_Tu_1
+  x_T3_S1_Th_5
+  x_T2_S1_Tu_3
+  x_T7_S1_We_3
+  x_T3_S2_Fr_1
+  x_T2_S2_Tu_4
+  x_T2_S1_Tu_1
+  x_T5_S3_Th_3
+  x_T7_S3_Fr_4
+  x_T8_S3_Th_3
+  x_T5_S2_Th_2
+  x_T3_S3_Tu_1
+  x_T5_S2_We_2
+  x_T6_S2_Mo_3
+  x_T2_S2_Mo_3
+  x_T8_S2_Tu_4
+  x_T3_S1_Fr_4
+  x_T3_S1_Th_3
+  x_T1_S3_Mo_1
+  x_T3_S1_We_4
+  x_T1_S1_Mo_4
+  x_T4_S1_We_3
+  x_T4_S3_We_3
+  x_T6_S1_Mo_3
+  x_T4_S3_Th_5
+  x_T6_S3_Mo_1
+  x_T4_S1_Th_5
+  x_T5_S2_We_1
+  x_T6_S2_Tu_4
+  x_T4_S3_Tu_1
+  x_T3_S3_Mo_1
+  x_T7_S3_Mo_1
+  x_T3_S2_Tu_3
+  x_T6_S2_We_5
+  x_T8_S2_Th_5
+  x_T6_S2_Tu_5
+  x_T3_S3_Tu_2
+  x_T6_S3_Fr_4
+  x_T8_S3_Fr_2
+  x_T3_S3_Th_2
+  x_T7_S1_Fr_5
+  x_T2_S1_Th_3
+  x_T4_S3_Fr_1
+  x_T1_S2_We_4
+  x_T8_S1_We_3
+  x_T3_S2_Mo_4
+  x_T3_S1_We_5
+  x_T6_S2_Th_1
+  x_T7_S1_Fr_1
+  x_T6_S1_Tu_3
+  x_T4_S1_We_5
+  x_T3_S2_Th_2
+  x_T2_S2_Fr_4
+  x_T4_S2_Fr_2
+  x_T3_S2_We_4
+  x_T5_S3_Fr_5
+  x_T1_S3_Mo_2
+  x_T8_S1_Tu_4
+  x_T6_S2_Fr_3
+  x_T7_S1_Mo_4
+  x_T8_S1_We_4
+  x_T3_S1_Mo_4
+  x_T2_S2_Th_3
+  x_T6_S1_Fr_2
+  x_T6_S3_Fr_2
+  x_T2_S1_Th_1
+  x_T3_S3_We_3
+  x_T1_S1_Th_2
+  x_T2_S2_We_2
+  x_T4_S1_Tu_3
+  x_T6_S1_We_2
+  x_T2_S2_Th_5
+  x_T6_S1_Fr_4
+  x_T6_S1_Mo_1
+  x_T5_S2_Tu_1
+  x_T5_S2_Mo_5
+  x_T7_S1_Tu_1
+  x_T1_S2_Mo_3
+  x_T3_S2_Tu_5
+  x_T7_S3_Tu_2
+  x_T6_S2_Th_2
+  x_T5_S2_We_4
+  x_T7_S3_Fr_5
+  x_T1_S3_Th_3
+  x_T3_S1_Fr_5
+  x_T8_S1_We_1
+  x_T1_S2_Mo_1
+  x_T6_S2_Fr_2
+  x_T3_S3_We_5
+  x_T7_S1_Fr_3
+  x_T1_S3_Tu_1
+  x_T4_S1_We_4
+  x_T6_S1_We_3
+  x_T1_S2_Tu_4
+  x_T1_S3_Mo_3
+  x_T6_S3_Tu_4
+  x_T2_S1_Th_4
+  x_T4_S3_Th_4
+  x_T4_S1_Fr_5
+  x_T5_S3_Tu_4
+  x_T6_S3_Mo_4
+  x_T5_S2_Th_5
+  x_T6_S1_Th_1
+  x_T8_S2_We_2
+  x_T7_S1_Tu_2
+  x_T3_S1_Th_2
+  x_T4_S3_Mo_4
+  x_T1_S1_Th_4
+  x_T4_S3_Tu_4
+  x_T6_S2_Mo_5
+  x_T1_S1_Tu_4
+  x_T7_S3_Fr_2
+  x_T8_S1_Th_3
+  x_T1_S3_We_1
+  x_T7_S1_We_1
+  x_T3_S1_Fr_3
+  x_T3_S3_Fr_5
+  x_T8_S1_Tu_1
+  x_T4_S1_Mo_4
+  x_T4_S3_Tu_5
+  x_T4_S1_Fr_2
+  x_T8_S2_Fr_5
+  x_T1_S1_We_3
+  x_T7_S3_We_5
+  x_T8_S3_We_1
+  x_T4_S3_We_2
+  x_T2_S2_Mo_1
+  y_T3
+  x_T1_S1_Mo_1
+  x_T8_S2_Tu_3
+  x_T4_S2_Fr_1
+  x_T6_S3_Th_3
+  x_T8_S1_Th_1
+  x_T2_S2_Fr_1
+  x_T5_S2_Fr_5
+  x_T3_S3_Th_3
+  x_T3_S2_Fr_3
+  x_T4_S2_We_2
+  x_T7_S3_Mo_4
+  x_T3_S2_We_5
+  x_T5_S2_Fr_2
+  x_T2_S1_We_5
+  x_T3_S1_Tu_3
+  x_T4_S2_Fr_3
+  x_T3_S1_We_3
+  x_T4_S3_Fr_5
+  x_T5_S2_Fr_4
+  x_T8_S1_Mo_5
+  x_T3_S3_Tu_4
+  x_T8_S3_Th_1
+  x_T1_S2_Mo_2
+  x_T2_S2_We_4
+  x_T7_S3_Mo_3
+  x_T7_S1_Mo_3
+  x_T4_S3_Tu_3
+  x_T3_S2_Fr_5
+  x_T4_S2_Mo_4
+  x_T8_S3_Th_5
+  x_T3_S3_Th_4
+  x_T5_S3_Fr_1
+  x_T1_S1_We_2
+  x_T4_S2_We_3
+  x_T4_S3_Th_1
+  x_T3_S3_Fr_1
+  x_T3_S1_Mo_3
+  x_T3_S3_Fr_2
+  x_T3_S2_Tu_1
+  x_T4_S1_We_1
+  x_T1_S3_Fr_2
+  x_T5_S3_We_2
+  x_T3_S2_Mo_1
+  x_T3_S3_Mo_2
+  x_T4_S2_Th_2
+  x_T1_S1_We_1
+  x_T1_S2_Fr_2
+  x_T3_S2_We_2
+  x_T4_S1_Th_1
+  x_T8_S3_Mo_4
+  x_T3_S2_Tu_2
+  x_T6_S3_Tu_1
+  x_T4_S2_Mo_2
+  x_T5_S3_Mo_2
+  x_T8_S1_Fr_5
+  x_T2_S1_Th_5
+  x_T6_S2_We_1
+  x_T6_S1_We_1
+  x_T4_S1_Tu_4
+  x_T1_S3_Th_4
+  x_T2_S2_Th_2
+  x_T6_S1_Tu_4
+  x_T2_S1_Mo_3
+  x_T7_S3_Th_3
+  x_T2_S2_Fr_2
+  x_T2_S2_Mo_4
+  x_T4_S2_We_1
+  x_T7_S1_Fr_4
+  x_T1_S3_We_5
+  x_T5_S2_Tu_2
+  x_T4_S3_Fr_3
+  x_T7_S3_Tu_3
+  x_T5_S3_Fr_3
+  x_T6_S3_We_5
+  x_T6_S3_Mo_3
+  x_T3_S3_Mo_5
+  x_T6_S3_We_2
+  x_T2_S1_Mo_5
+  x_T1_S2_Fr_5
+  x_T6_S2_We_2
+  x_T6_S3_Tu_5
+  x_T2_S1_Fr_5
+  x_T8_S3_Tu_1
+  x_T7_S1_Th_4
+  x_T1_S1_Mo_5
+  x_T8_S3_Mo_5
+  x_T1_S2_Mo_4
+  x_T5_S2_Mo_4
+  x_T5_S3_We_1
+  x_T4_S1_Th_3
+  x_T8_S2_Fr_4
+  x_T4_S2_We_5
+  x_T4_S2_Tu_1
+  x_T2_S2_Fr_5
+  x_T8_S1_Fr_2
+  x_T4_S1_Th_2
+  x_T2_S2_Th_4
+  x_T1_S2_Mo_5
+  x_T5_S3_Mo_5
+  x_T4_S2_Mo_5
+General
+  g_T2_S2
+  g_T8_S2
+  g_T3_S3
+  g_T8_S3
+  g_T6_S2
+  g_T1_S3
+  g_T4_S3
+  g_T8_S1
+  g_T6_S3
+  g_T3_S1
+  g_T7_S1
+  g_T4_S1
+  g_T1_S2
+  g_T1_S1
+  g_T5_S3
+  g_T6_S1
+  g_T5_S2
+  g_T4_S2
+  g_T2_S1
+  g_T3_S2
+  g_T7_S3
 End

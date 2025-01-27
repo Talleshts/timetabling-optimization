@@ -1,830 +1,8262 @@
 Minimize
- obj: 9 v0 + 3 v1 + 9 v2 + 3 v3 + 9 v4 + 3 v5 + 9 v6 + 3 v7 + 9 v8 + 3 v9 + 9 v10 + 3 v11 + 9 v12 + 3 v13 + 9 v14 + 3 v15 + 9 v16 + 3 v17 + 9 v18 + 3 v19 + 9 v20 + 3 v21 + 9 v22 + 3 v23 + 9 v24 + 3 v25 + 9 v26 + 3 v27 + 9 v28 + 3 v29 + 9 v30 + 3 v31 + 9 v32 + 3 v33 + 9 v34 + 3 v35 + 9 v36 + 3 v37 + 9 v38 + 3 v39 + 9 v40 + 3 v41 + 9 v42 + 3 v43 + 9 v44 + 3 v45 + 9 v46 + 3 v47 + 9 v48 + 3 v49 + 9 v50 + 3 v51 + 9 v52 + 3 v53 + 9 v54 + 3 v55 + 9 v56 + 3 v57 + 9 v58 + 3 v59 + 9 v60 + 3 v61 + 9 v62 + 3 v63 + 9 v64 + 3 v65 + 1 v66 + 1 v67 + 1 v68 + 1 v69 + 1 v70 + 1 v71 + 1 v72 + 1 v73 + 1 v74 + 1 v75 + 1 v76 + 1 v77 + 1 v78 + 1 v79 + 1 v80 + 1 v81 + 1 v82 + 1 v83 + 1 v84 + 1 v85 + 1 v86 + 1 v87 + 1 v88 + 1 v89 + 1 v90 + 1 v91 + 1 v92 + 1 v93 + 1 v94 + 1 v95 + 1 v96 + 1 v97 + 1 v98 + 1 v99 + 1 v100 + 1 v101 + 1 v102 + 1 v103 + 1 v104 + 1 v105 + 1 v106 + 1 v107 + 1 v108 + 1 v109 + 1 v110 + 1 v111 + 1 v112 + 1 v113 + 1 v114 + 1 v115 + 1 v116 + 1 v117 + 1 v118 + 1 v119 + 1 v120 + 1 v121 + 1 v122 + 1 v123 + 1 v124 + 1 v125 + 1 v126 + 1 v127 + 1 v128 + 1 v129 + 1 v130 + 1 v131 + 1 v132 + 1 v133 + 1 v134 + 1 v135 + 1 v136 + 1 v137 + 1 v138 + 1 v139 + 1 v140 + 1 v141 + 1 v142 + 1 v143 + 1 v144 + 1 v145 + 1 v146 + 1 v147 + 1 v148 + 1 v149 + 1 v150 + 1 v151 + 1 v152 + 1 v153 + 1 v154 + 1 v155 + 1 v156 + 1 v157 + 1 v158 + 1 v159 + 1 v160 + 1 v161 + 1 v162 + 1 v163 + 1 v164 + 1 v165 + 1 v166 + 1 v167 + 1 v168 + 1 v169 + 1 v170 + 1 v171 + 1 v172 + 1 v173 + 1 v174 + 1 v175 + 1 v176 + 1 v177 + 1 v178 + 1 v179 + 1 v180 + 1 v181 + 1 v182 + 1 v183 + 1 v184 + 1 v185 + 1 v186 + 1 v187 + 1 v188 + 1 v189 + 1 v190 + 1 v191 + 1 v192 + 1 v193 + 1 v194 + 1 v195 + 1 v196 + 1 v197 + 1 v198 + 1 v199 + 1 v200 + 1 v201 + 1 v202 + 1 v203 + 1 v204 + 1 v205 + 1 v206 + 1 v207 + 1 v208 + 1 v209 + 1 v210 + 1 v211 + 1 v212 + 1 v213 + 1 v214 + 1 v215 + 1 v216 + 1 v217 + 1 v218 + 1 v219 + 1 v220 + 1 v221 + 1 v222 + 1 v223 + 1 v224 + 1 v225 + 1 v226 + 1 v227 + 1 v228 + 1 v229 + 1 v230 + 1 v231 + 1 v232 + 1 v233 + 1 v234 + 1 v235 + 1 v236 + 1 v237 + 1 v238 + 1 v239 + 1 v240 + 1 v241 + 1 v242 + 1 v243 + 1 v244 + 1 v245 + 1 v246 + 1 v247 + 1 v248 + 1 v249 + 1 v250 + 1 v251 + 1 v252 + 1 v253 + 1 v254 + 1 v255 + 1 v256 + 1 v257 + 1 v258 + 1 v259 + 1 v260 + 1 v261 + 1 v262 + 1 v263 + 1 v264 + 1 v265 + 1 v266 + 1 v267 + 1 v268 + 1 v269 + 1 v270
-
+3 x_T17_S10_Mo_4 + 1 g_T11_S6 + 3 x_T17_S13_We_2 + 3 x_T20_S3_Tu_4 + 3 x_T10_S4_Fr_4 + 3 x_T28_S6_We_5 + 3 x_T29_S7_Tu_3 + 3 x_T15_S18_We_1 + 3 x_T26_S16_Mo_5 + 3 x_T6_S5_Fr_5 + 3 x_T26_S4_Tu_4 + 3 x_T26_S10_We_5 + 3 x_T16_S15_We_1 + 3 x_T16_S8_Mo_4 + 3 x_T19_S15_Mo_2 + 3 x_T8_S15_We_4 + 3 x_T20_S5_Fr_5 + 3 x_T17_S10_We_1 + 3 x_T12_S13_Fr_4 + 3 x_T11_S7_We_3 + 3 x_T31_S6_We_3 + 3 x_T21_S8_Mo_4 + 3 x_T8_S13_We_3 + 3 x_T30_S8_Fr_1 + 3 x_T15_S5_We_4 + 3 x_T32_S8_Fr_3 + 3 x_T16_S15_Fr_5 + 3 x_T13_S17_Mo_2 + 3 x_T1_S3_Fr_1 + 3 x_T31_S9_Tu_1 + 3 x_T20_S6_Th_5 + 3 x_T22_S18_Tu_5 + 3 x_T4_S6_Mo_1 + 3 x_T3_S15_Mo_2 + 3 x_T28_S12_Mo_3 + 1 g_T22_S16 + 3 x_T14_S17_Mo_2 + 3 x_T17_S3_Th_2 + 3 x_T13_S19_Fr_2 + 3 x_T24_S13_Fr_1 + 3 x_T26_S13_Fr_3 + 3 x_T24_S5_Mo_5 + 3 x_T28_S6_Th_5 + 3 x_T6_S8_Mo_3 + 3 x_T29_S13_Mo_1 + 3 x_T31_S20_Tu_2 + 3 x_T31_S6_We_5 + 3 x_T16_S20_Th_1 + 3 x_T27_S2_Tu_4 + 3 x_T25_S16_Fr_4 + 3 x_T11_S6_Mo_5 + 3 x_T17_S10_Fr_3 + 3 x_T20_S6_Mo_3 + 3 x_T19_S9_Th_4 + 3 x_T32_S17_Fr_5 + 3 x_T8_S13_Mo_1 + 3 x_T10_S2_We_4 + 3 x_T4_S18_Mo_4 + 3 x_T6_S8_We_5 + 3 x_T20_S2_Tu_1 + 3 x_T23_S19_Th_5 + 3 x_T7_S10_Tu_1 + 3 x_T2_S7_Fr_3 + 9 y_T31 + 3 x_T23_S1_We_5 + 3 x_T18_S11_We_5 + 3 x_T6_S10_Mo_5 + 3 x_T16_S8_Tu_5 + 3 x_T14_S3_Th_4 + 3 x_T8_S14_Th_5 + 3 x_T32_S18_Tu_2 + 3 x_T25_S7_Th_3 + 3 x_T28_S15_We_3 + 3 x_T23_S12_Mo_1 + 3 x_T7_S12_Mo_3 + 3 x_T9_S15_We_2 + 3 x_T11_S9_Th_5 + 3 x_T23_S19_Fr_3 + 3 x_T24_S5_Th_4 + 3 x_T21_S11_Fr_5 + 1 g_T24_S15 + 3 x_T29_S4_We_1 + 3 x_T23_S2_Th_5 + 3 x_T28_S15_We_2 + 3 x_T1_S2_Th_3 + 3 x_T29_S1_Fr_1 + 3 x_T1_S4_Th_2 + 3 x_T13_S16_Th_4 + 3 x_T32_S9_We_3 + 3 x_T26_S13_We_2 + 3 x_T26_S13_Th_3 + 3 x_T6_S5_Tu_3 + 3 x_T26_S19_Fr_2 + 3 x_T14_S10_We_2 + 3 x_T29_S7_Mo_4 + 3 x_T28_S6_We_1 + 3 x_T29_S19_Th_3 + 3 x_T32_S17_Th_3 + 3 x_T13_S19_We_3 + 3 x_T22_S16_Th_4 + 3 x_T13_S16_Mo_3 + 3 x_T14_S13_Tu_2 + 3 x_T29_S19_Fr_4 + 9 y_T2 + 3 x_T24_S4_We_5 + 3 x_T21_S8_Mo_5 + 3 x_T6_S6_We_1 + 3 x_T4_S5_Th_2 + 9 y_T27 + 3 x_T1_S2_Mo_1 + 3 x_T26_S16_Th_5 + 3 x_T31_S15_Th_3 + 3 x_T21_S10_Th_3 + 3 x_T26_S19_Fr_3 + 1 g_T21_S14 + 3 x_T27_S11_Mo_1 + 3 x_T23_S11_Mo_2 + 3 x_T11_S7_Mo_2 + 3 x_T27_S2_Mo_1 + 3 x_T32_S3_Tu_1 + 3 x_T32_S18_We_4 + 3 x_T4_S5_Fr_3 + 3 x_T7_S13_Mo_3 + 3 x_T15_S5_Fr_3 + 3 x_T20_S4_Mo_1 + 3 x_T7_S11_Fr_1 + 3 x_T32_S19_Mo_3 + 3 x_T12_S12_Fr_4 + 3 x_T15_S14_Th_2 + 3 x_T24_S4_Tu_4 + 3 x_T28_S15_Tu_1 + 3 x_T11_S8_We_2 + 3 x_T19_S7_Mo_2 + 3 x_T28_S18_Tu_3 + 3 x_T2_S9_Mo_2 + 3 x_T20_S7_We_3 + 3 x_T12_S14_Th_1 + 3 x_T15_S6_Fr_3 + 3 x_T5_S2_Th_1 + 3 x_T2_S7_Mo_1 + 3 x_T28_S3_Mo_4 + 3 x_T24_S6_Fr_2 + 1 g_T15_S14 + 3 x_T27_S2_Tu_1 + 3 x_T3_S12_Mo_5 + 3 x_T26_S4_Mo_2 + 3 x_T26_S1_Fr_5 + 3 x_T22_S19_Fr_5 + 3 x_T12_S15_Th_4 + 3 x_T11_S9_Tu_5 + 3 x_T17_S17_Tu_3 + 3 x_T16_S7_We_4 + 3 x_T2_S9_Tu_4 + 3 x_T13_S19_Tu_2 + 3 x_T23_S19_We_4 + 3 x_T33_S18_Mo_3 + 3 x_T27_S8_Mo_4 + 3 x_T4_S20_Fr_5 + 3 x_T1_S3_Mo_2 + 3 x_T24_S13_Tu_5 + 3 x_T4_S5_We_3 + 3 x_T4_S6_Th_3 + 3 x_T32_S20_Th_2 + 3 x_T32_S18_Th_5 + 3 x_T20_S6_Fr_2 + 9 y_T11 + 3 x_T18_S19_We_3 + 3 x_T32_S17_Fr_1 + 3 x_T26_S19_Fr_1 + 3 x_T32_S16_We_2 + 3 x_T11_S9_We_3 + 3 x_T29_S4_We_5 + 3 x_T1_S16_We_5 + 3 x_T23_S10_We_1 + 3 x_T21_S10_We_3 + 3 x_T7_S9_We_1 + 3 x_T6_S10_Tu_3 + 3 x_T31_S3_Tu_2 + 3 x_T25_S9_Th_4 + 3 x_T11_S10_Th_5 + 3 x_T8_S15_We_5 + 3 x_T24_S13_Mo_3 + 1 g_T23_S1 + 3 x_T9_S15_Tu_2 + 3 x_T24_S15_Tu_2 + 3 x_T25_S9_Mo_5 + 3 x_T3_S15_We_2 + 3 x_T1_S1_Fr_3 + 3 x_T30_S8_Th_4 + 3 x_T21_S13_We_3 + 3 x_T23_S11_Th_3 + 3 x_T16_S9_We_5 + 3 x_T31_S15_Mo_2 + 3 x_T13_S17_Th_5 + 3 x_T24_S15_Mo_4 + 3 x_T11_S9_Th_3 + 3 x_T33_S20_Tu_2 + 3 x_T8_S13_Fr_5 + 3 x_T6_S10_Mo_4 + 3 x_T30_S5_Fr_5 + 3 x_T11_S9_Mo_3 + 3 x_T1_S2_Tu_3 + 3 x_T8_S14_Fr_3 + 3 x_T12_S15_Mo_4 + 3 x_T27_S20_Th_5 + 3 x_T21_S11_Tu_1 + 3 x_T1_S3_Fr_4 + 3 x_T15_S18_Mo_2 + 3 x_T2_S8_Tu_5 + 3 x_T17_S3_Th_4 + 3 x_T14_S16_Th_5 + 3 x_T20_S1_Th_2 + 3 x_T3_S13_Th_3 + 3 x_T30_S5_Th_5 + 3 x_T32_S2_Mo_1 + 3 x_T21_S12_Fr_4 + 3 x_T9_S19_Fr_2 + 3 x_T24_S4_Fr_3 + 3 x_T32_S19_Th_4 + 3 x_T29_S19_Th_1 + 1 g_T21_S10 + 3 x_T31_S9_We_1 + 3 x_T7_S11_Fr_4 + 3 x_T15_S4_We_2 + 3 x_T12_S11_Th_1 + 3 x_T3_S15_Mo_4 + 3 x_T5_S3_Th_4 + 3 x_T13_S17_Fr_2 + 3 x_T16_S20_Mo_2 + 3 x_T29_S7_Tu_2 + 3 x_T17_S17_Mo_2 + 3 x_T2_S10_Mo_1 + 3 x_T1_S1_Tu_4 + 3 x_T17_S1_Tu_1 + 3 x_T16_S7_Tu_4 + 3 x_T31_S12_We_5 + 3 x_T26_S7_Tu_1 + 3 x_T11_S10_We_4 + 3 x_T31_S6_Mo_3 + 3 x_T15_S6_We_3 + 3 x_T28_S12_Fr_3 + 3 x_T28_S18_Mo_5 + 3 x_T27_S20_Th_1 + 3 x_T19_S9_Fr_1 + 3 x_T21_S11_Mo_4 + 3 x_T15_S4_Tu_3 + 3 x_T18_S18_We_4 + 3 x_T24_S20_We_3 + 1 g_T14_S13 + 3 x_T26_S10_Fr_1 + 3 x_T9_S17_Tu_4 + 3 x_T28_S12_Mo_2 + 3 x_T1_S3_Mo_3 + 1 g_T17_S3 + 3 x_T15_S18_Fr_2 + 3 x_T15_S11_Fr_1 + 3 x_T9_S20_We_3 + 3 x_T23_S2_Mo_4 + 3 x_T4_S18_Tu_5 + 3 x_T32_S6_Th_2 + 1 g_T13_S17 + 3 x_T10_S4_Th_4 + 3 x_T20_S1_Tu_3 + 1 g_T1_S16 + 3 x_T22_S18_Mo_3 + 3 x_T4_S20_Fr_3 + 3 x_T6_S5_Mo_5 + 3 x_T19_S12_Mo_5 + 3 x_T8_S14_Th_3 + 3 x_T25_S9_Tu_2 + 3 x_T19_S8_Fr_1 + 3 x_T20_S7_Mo_2 + 3 x_T11_S6_Th_1 + 3 x_T7_S11_Mo_2 + 3 x_T9_S19_Tu_3 + 3 x_T10_S3_Th_4 + 3 x_T30_S11_Th_1 + 3 x_T5_S2_Tu_4 + 3 x_T30_S17_Tu_1 + 3 x_T21_S14_Mo_1 + 1 g_T7_S9 + 3 x_T28_S3_Tu_5 + 3 x_T29_S1_We_2 + 3 x_T29_S7_Mo_1 + 3 x_T17_S10_Th_5 + 3 x_T10_S3_Th_3 + 3 x_T24_S4_Mo_2 + 3 x_T16_S9_Th_5 + 3 x_T13_S20_We_5 + 3 x_T18_S14_Fr_4 + 3 x_T23_S19_Mo_3 + 3 x_T14_S16_Th_1 + 3 x_T27_S20_Tu_4 + 1 g_T6_S8 + 3 x_T28_S15_Tu_5 + 3 x_T5_S1_We_1 + 1 g_T14_S10 + 3 x_T7_S9_Mo_3 + 3 x_T14_S17_Mo_4 + 3 x_T32_S6_Fr_1 + 3 x_T4_S20_Mo_5 + 3 x_T8_S13_Th_2 + 3 x_T21_S11_Fr_1 + 3 x_T6_S5_Fr_3 + 3 x_T30_S17_Mo_5 + 3 x_T2_S11_Mo_2 + 3 x_T17_S10_We_3 + 3 x_T32_S2_Mo_2 + 3 x_T20_S4_We_4 + 3 x_T2_S7_Th_3 + 3 x_T19_S9_Mo_2 + 3 x_T5_S2_Th_4 + 3 x_T25_S16_Mo_2 + 3 x_T11_S10_Tu_3 + 3 x_T20_S5_Th_1 + 3 x_T18_S19_We_5 + 3 x_T16_S20_Th_4 + 3 x_T3_S13_We_5 + 3 x_T5_S3_Tu_3 + 3 x_T17_S16_We_2 + 3 x_T28_S6_Fr_3 + 3 x_T12_S14_Tu_4 + 3 x_T18_S6_Mo_1 + 3 x_T22_S17_Mo_4 + 3 x_T21_S14_Fr_2 + 3 x_T32_S20_Fr_3 + 3 x_T2_S10_Tu_2 + 3 x_T9_S15_We_5 + 3 x_T22_S18_Th_2 + 3 x_T16_S15_Th_1 + 3 x_T14_S2_Fr_5 + 3 x_T26_S13_Th_4 + 3 x_T26_S7_Fr_3 + 3 x_T18_S19_Fr_1 + 3 x_T2_S10_Fr_5 + 3 x_T31_S9_We_4 + 3 x_T27_S20_Mo_5 + 3 x_T26_S7_Th_3 + 3 x_T29_S16_Th_5 + 3 x_T4_S18_Fr_1 + 3 x_T23_S12_We_1 + 3 x_T32_S4_Th_2 + 3 x_T3_S14_We_3 + 1 g_T18_S19 + 3 x_T31_S9_Mo_1 + 3 x_T32_S4_Tu_5 + 3 x_T29_S4_Mo_1 + 3 x_T27_S17_Tu_5 + 3 x_T30_S17_Fr_4 + 3 x_T13_S18_Fr_4 + 3 x_T12_S12_Fr_3 + 3 x_T21_S11_Mo_1 + 3 x_T4_S6_We_4 + 3 x_T5_S1_Th_2 + 3 x_T19_S15_Fr_5 + 3 x_T11_S7_Fr_5 + 3 x_T20_S5_Th_5 + 3 x_T1_S3_Fr_5 + 3 x_T6_S6_We_2 + 3 x_T8_S16_Tu_4 + 3 x_T5_S1_Tu_5 + 3 x_T24_S5_Fr_3 + 3 x_T22_S16_Fr_4 + 3 x_T25_S8_Th_5 + 3 x_T15_S14_Th_4 + 3 x_T14_S17_Fr_4 + 3 x_T29_S4_Fr_1 + 3 x_T22_S15_Fr_3 + 3 x_T16_S12_We_5 + 3 x_T28_S15_Th_1 + 3 x_T17_S13_We_3 + 3 x_T26_S1_Th_2 + 3 x_T2_S8_We_3 + 3 x_T31_S12_Mo_2 + 3 x_T29_S16_Mo_3 + 3 x_T11_S9_Mo_2 + 3 x_T16_S12_Fr_4 + 3 x_T11_S7_Mo_4 + 3 x_T23_S1_Th_5 + 3 x_T7_S13_Fr_4 + 1 g_T28_S15 + 3 x_T7_S9_Mo_1 + 3 x_T32_S4_Tu_2 + 3 x_T27_S14_Th_3 + 3 x_T32_S7_Fr_4 + 3 x_T21_S12_Mo_1 + 3 x_T13_S19_Mo_1 + 3 x_T13_S17_We_2 + 3 x_T6_S12_Tu_2 + 3 x_T19_S8_Th_5 + 3 x_T32_S5_Mo_1 + 3 x_T21_S9_Mo_1 + 3 x_T32_S18_Fr_1 + 3 x_T13_S20_Th_4 + 3 x_T12_S14_Th_3 + 3 x_T24_S5_We_3 + 3 x_T33_S16_Tu_5 + 3 x_T3_S12_Th_1 + 3 x_T7_S11_Fr_3 + 3 x_T9_S18_Tu_3 + 3 x_T3_S14_Fr_2 + 3 x_T21_S11_We_4 + 3 x_T20_S3_Tu_3 + 3 x_T11_S9_Th_1 + 3 x_T9_S19_Mo_5 + 1 g_T19_S12 + 3 x_T18_S5_Tu_2 + 3 x_T24_S15_Tu_3 + 3 x_T16_S7_Mo_1 + 3 x_T6_S7_Fr_1 + 3 x_T24_S4_We_1 + 3 x_T32_S2_We_3 + 1 g_T29_S4 + 3 x_T24_S4_Mo_5 + 3 x_T13_S18_Fr_3 + 3 x_T25_S18_Fr_3 + 3 x_T32_S4_Fr_2 + 3 x_T1_S4_Tu_5 + 3 x_T30_S2_Mo_3 + 3 x_T29_S16_We_3 + 3 x_T6_S10_We_3 + 3 x_T21_S8_Fr_4 + 3 x_T25_S18_Th_1 + 3 x_T12_S12_Th_3 + 3 x_T15_S4_We_3 + 3 x_T27_S8_Tu_3 + 3 x_T4_S18_Mo_2 + 3 x_T31_S15_Th_5 + 3 x_T33_S18_Tu_4 + 3 x_T27_S2_Mo_4 + 3 x_T18_S5_Fr_2 + 3 x_T30_S5_Mo_5 + 3 x_T14_S17_Th_4 + 3 x_T7_S12_Th_3 + 3 x_T26_S4_Fr_1 + 3 x_T32_S1_Tu_1 + 3 x_T32_S2_Th_1 + 3 x_T17_S16_Mo_2 + 3 x_T9_S20_Fr_1 + 3 x_T24_S14_We_2 + 3 x_T1_S16_Mo_3 + 3 x_T5_S14_Mo_1 + 3 x_T32_S1_Fr_4 + 3 x_T19_S20_We_5 + 3 x_T19_S20_We_1 + 3 x_T24_S13_Th_1 + 3 x_T8_S15_Tu_5 + 3 x_T19_S12_Fr_1 + 3 x_T18_S18_Fr_5 + 3 x_T29_S7_Th_5 + 3 x_T32_S8_We_1 + 3 x_T18_S18_We_5 + 3 x_T14_S16_Th_4 + 3 x_T5_S14_Th_4 + 3 x_T15_S18_Fr_3 + 3 x_T18_S5_Mo_2 + 3 x_T12_S12_We_1 + 3 x_T25_S7_Mo_2 + 3 x_T4_S6_Tu_1 + 3 x_T11_S9_Tu_2 + 9 y_T4 + 3 x_T23_S1_Mo_4 + 3 x_T22_S17_Tu_2 + 3 x_T26_S16_Th_1 + 3 x_T22_S19_We_3 + 3 x_T20_S4_Fr_1 + 3 x_T17_S16_Th_4 + 1 g_T18_S6 + 3 x_T32_S9_Fr_5 + 3 x_T8_S11_Mo_1 + 3 x_T30_S2_Th_1 + 3 x_T18_S6_Th_5 + 3 x_T25_S17_Fr_2 + 3 x_T11_S6_Fr_1 + 3 x_T3_S14_We_4 + 3 x_T25_S9_Th_5 + 3 x_T31_S20_We_2 + 3 x_T12_S15_Mo_5 + 3 x_T7_S9_Th_1 + 3 x_T18_S19_Fr_2 + 3 x_T22_S15_Tu_4 + 9 y_T1 + 3 x_T24_S5_We_5 + 3 x_T20_S1_We_4 + 3 x_T31_S3_Mo_3 + 3 x_T8_S13_Tu_3 + 3 x_T32_S18_Mo_2 + 3 x_T18_S4_Mo_4 + 3 x_T23_S2_Mo_5 + 3 x_T1_S2_We_1 + 3 x_T32_S4_We_5 + 3 x_T3_S13_Mo_1 + 3 x_T16_S12_Tu_4 + 3 x_T14_S16_Fr_3 + 3 x_T12_S15_Mo_2 + 3 x_T3_S12_Th_3 + 3 x_T28_S12_Tu_2 + 3 x_T1_S4_Tu_1 + 3 x_T21_S8_Mo_2 + 3 x_T21_S11_Mo_2 + 3 x_T4_S5_Mo_2 + 3 x_T17_S16_Fr_3 + 3 x_T31_S3_We_4 + 3 x_T20_S3_Mo_1 + 3 x_T19_S15_We_2 + 3 x_T23_S11_We_4 + 3 x_T23_S10_Mo_3 + 3 x_T1_S2_Fr_5 + 3 x_T21_S12_Fr_5 + 3 x_T11_S8_We_5 + 3 x_T28_S9_Mo_5 + 3 x_T16_S8_Th_5 + 3 x_T30_S17_Fr_5 + 3 x_T3_S12_Th_2 + 3 x_T14_S2_Th_5 + 3 x_T6_S8_Mo_5 + 1 g_T30_S14 + 3 x_T20_S3_Th_2 + 3 x_T24_S20_Th_1 + 3 x_T6_S7_Tu_1 + 3 x_T32_S8_Th_2 + 3 x_T11_S9_Fr_4 + 3 x_T9_S19_Mo_2 + 3 x_T12_S14_Fr_2 + 3 x_T25_S18_Th_5 + 3 x_T29_S13_We_2 + 3 x_T14_S13_Th_4 + 3 x_T19_S20_Fr_4 + 3 x_T28_S9_We_4 + 3 x_T2_S11_Mo_5 + 3 x_T21_S12_Th_2 + 3 x_T22_S17_Th_5 + 3 x_T24_S13_Th_4 + 3 x_T2_S7_We_2 + 3 x_T1_S1_Fr_5 + 3 x_T19_S12_Th_2 + 3 x_T8_S14_Tu_2 + 3 x_T10_S5_Fr_5 + 3 x_T21_S8_Tu_4 + 3 x_T29_S7_Tu_1 + 3 x_T32_S4_Mo_2 + 3 x_T18_S4_We_2 + 3 x_T17_S13_Fr_2 + 3 x_T2_S9_Mo_4 + 3 x_T29_S7_Mo_2 + 3 x_T19_S9_Tu_3 + 3 x_T29_S4_Fr_3 + 3 x_T11_S8_We_4 + 3 x_T2_S11_Fr_4 + 3 x_T4_S5_Th_1 + 3 x_T23_S10_Th_2 + 3 x_T25_S16_Tu_2 + 3 x_T28_S12_Fr_1 + 3 x_T19_S9_Fr_2 + 3 x_T27_S11_We_3 + 3 x_T9_S18_Tu_4 + 3 x_T16_S12_Tu_5 + 3 x_T1_S17_We_3 + 3 x_T3_S15_Tu_1 + 3 x_T12_S15_Mo_3 + 3 x_T22_S18_Mo_4 + 3 x_T1_S17_Fr_3 + 3 x_T1_S2_Th_5 + 3 x_T2_S10_Fr_3 + 3 x_T12_S12_Fr_2 + 3 x_T24_S20_Mo_2 + 3 x_T4_S6_We_3 + 3 x_T1_S16_Fr_1 + 3 x_T2_S10_Fr_4 + 3 x_T9_S18_Fr_5 + 3 x_T27_S5_Th_1 + 3 x_T22_S15_We_5 + 3 x_T29_S4_We_4 + 3 x_T27_S5_We_5 + 3 x_T29_S10_Fr_5 + 3 x_T18_S19_Tu_3 + 3 x_T10_S1_We_3 + 3 x_T24_S14_Th_5 + 1 g_T32_S3 + 3 x_T8_S14_Fr_4 + 3 x_T32_S1_We_5 + 3 x_T4_S20_Th_4 + 3 x_T11_S8_Fr_1 + 3 x_T18_S14_Fr_5 + 3 x_T5_S3_Mo_5 + 3 x_T3_S15_Th_5 + 3 x_T22_S18_Fr_1 + 3 x_T33_S16_Fr_5 + 3 x_T10_S3_Fr_2 + 3 x_T5_S14_Mo_4 + 3 x_T18_S19_Fr_3 + 3 x_T12_S11_We_3 + 3 x_T4_S19_Tu_4 + 3 x_T32_S7_Tu_2 + 3 x_T26_S4_Th_3 + 3 x_T17_S16_Mo_1 + 3 x_T4_S19_We_1 + 3 x_T31_S12_Fr_2 + 3 x_T32_S1_Fr_5 + 3 x_T14_S1_Mo_5 + 3 x_T22_S16_We_2 + 3 x_T28_S12_Th_4 + 3 x_T20_S1_Fr_1 + 3 x_T7_S10_Fr_4 + 1 g_T9_S19 + 3 x_T19_S12_Mo_1 + 3 x_T25_S17_Tu_2 + 3 x_T25_S7_Fr_4 + 3 x_T6_S6_Th_2 + 3 x_T9_S15_Tu_4 + 3 x_T21_S10_Mo_3 + 3 x_T28_S15_Th_4 + 1 g_T26_S4 + 3 x_T15_S11_Th_4 + 3 x_T1_S3_Mo_4 + 3 x_T9_S17_Mo_2 + 3 x_T9_S15_Fr_5 + 3 x_T28_S6_Mo_3 + 3 x_T5_S1_Mo_1 + 3 x_T9_S18_Fr_1 + 3 x_T15_S14_Th_1 + 3 x_T33_S20_We_2 + 3 x_T28_S15_We_4 + 3 x_T1_S17_Mo_2 + 3 x_T22_S20_We_5 + 1 g_T11_S9 + 3 x_T4_S20_Tu_5 + 3 x_T6_S7_Mo_1 + 3 x_T17_S3_We_5 + 3 x_T24_S6_Th_2 + 3 x_T2_S7_Tu_4 + 3 x_T12_S12_Th_4 + 3 x_T24_S13_Fr_2 + 3 x_T31_S18_Tu_4 + 3 x_T22_S20_We_1 + 3 x_T17_S2_Mo_2 + 3 x_T32_S4_Mo_3 + 3 x_T18_S14_Mo_5 + 3 x_T23_S1_We_3 + 3 x_T29_S4_We_3 + 3 x_T21_S14_Th_5 + 3 x_T9_S15_Th_1 + 3 x_T20_S1_Fr_3 + 3 x_T25_S16_Tu_1 + 3 x_T18_S11_Th_4 + 3 x_T26_S16_Mo_1 + 3 x_T12_S11_Th_5 + 1 g_T31_S3 + 3 x_T23_S19_Mo_2 + 3 x_T15_S18_Th_3 + 3 x_T23_S2_Mo_2 + 3 x_T12_S14_Tu_3 + 3 x_T32_S9_We_1 + 3 x_T10_S2_Mo_5 + 3 x_T17_S17_Th_4 + 3 x_T19_S12_Mo_2 + 3 x_T1_S3_Th_1 + 3 x_T1_S3_Tu_4 + 3 x_T30_S14_Th_5 + 3 x_T27_S17_Th_1 + 3 x_T12_S11_We_4 + 1 g_T15_S4 + 3 x_T16_S8_Mo_2 + 3 x_T12_S15_Fr_5 + 3 x_T18_S5_Mo_4 + 3 x_T23_S1_Mo_5 + 3 x_T6_S8_Mo_2 + 3 x_T22_S17_Mo_2 + 3 x_T33_S16_We_5 + 3 x_T20_S6_Tu_3 + 3 x_T11_S9_Fr_2 + 3 x_T27_S8_We_4 + 3 x_T20_S2_Tu_3 + 3 x_T25_S17_We_4 + 3 x_T27_S17_Tu_2 + 3 x_T23_S12_We_2 + 3 x_T14_S2_We_1 + 3 x_T1_S17_Fr_1 + 3 x_T16_S9_Fr_5 + 3 x_T14_S3_Fr_2 + 3 x_T24_S6_Fr_1 + 3 x_T7_S10_Tu_5 + 3 x_T33_S19_Fr_2 + 3 x_T5_S4_Fr_3 + 3 x_T32_S2_We_5 + 3 x_T8_S11_Tu_1 + 3 x_T17_S17_We_3 + 3 x_T17_S13_Th_3 + 3 x_T31_S3_Fr_4 + 3 x_T20_S1_Th_3 + 3 x_T6_S8_Fr_4 + 3 x_T3_S12_We_3 + 3 x_T5_S14_Th_3 + 3 x_T8_S14_Mo_3 + 3 x_T8_S15_Th_4 + 3 x_T32_S9_Tu_1 + 3 x_T20_S7_Fr_3 + 3 x_T27_S8_Fr_3 + 3 x_T29_S1_Tu_3 + 3 x_T11_S9_Tu_4 + 3 x_T9_S15_Fr_3 + 3 x_T16_S7_Th_3 + 3 x_T17_S17_We_2 + 3 x_T1_S3_Th_5 + 3 x_T21_S12_Mo_2 + 3 x_T20_S4_Th_4 + 3 x_T17_S17_Mo_4 + 3 x_T21_S12_Tu_2 + 1 g_T4_S6 + 3 x_T29_S7_Tu_4 + 3 x_T26_S13_Tu_2 + 3 x_T16_S7_We_2 + 3 x_T19_S12_We_2 + 3 x_T1_S3_Mo_1 + 3 x_T18_S6_Th_3 + 3 x_T10_S5_Th_5 + 3 x_T23_S2_Th_3 + 3 x_T27_S17_We_2 + 3 x_T32_S18_Th_2 + 3 x_T23_S10_Tu_5 + 3 x_T31_S20_Tu_3 + 3 x_T28_S9_Tu_3 + 3 x_T31_S12_We_2 + 3 x_T1_S16_Mo_5 + 3 x_T25_S17_Fr_4 + 3 x_T11_S8_Tu_2 + 3 x_T4_S18_Th_1 + 3 x_T31_S9_We_5 + 3 x_T21_S10_Mo_1 + 3 x_T12_S11_Mo_2 + 3 x_T32_S5_Th_2 + 3 x_T27_S5_Mo_3 + 3 x_T6_S6_Mo_4 + 3 x_T25_S8_We_4 + 3 x_T24_S13_Fr_4 + 3 x_T26_S4_Th_4 + 1 g_T1_S17 + 3 x_T5_S1_Tu_1 + 3 x_T32_S17_Fr_3 + 3 x_T6_S6_We_3 + 3 x_T32_S7_Mo_1 + 3 x_T31_S15_Th_4 + 3 x_T1_S3_Th_2 + 3 x_T26_S7_Mo_1 + 3 x_T4_S6_Th_4 + 3 x_T1_S1_Fr_1 + 3 x_T29_S7_Tu_5 + 3 x_T1_S4_Mo_5 + 3 x_T20_S5_Tu_3 + 3 x_T19_S15_Th_4 + 3 x_T30_S14_Fr_3 + 3 x_T4_S20_We_3 + 3 x_T32_S17_Mo_4 + 3 x_T19_S7_We_4 + 1 g_T25_S8 + 3 x_T14_S10_We_5 + 3 x_T33_S18_Fr_4 + 3 x_T19_S7_Th_3 + 3 x_T33_S19_Th_1 + 3 x_T29_S16_Th_2 + 3 x_T5_S2_Th_2 + 1 g_T32_S19 + 3 x_T23_S11_Fr_5 + 3 x_T20_S3_Th_3 + 3 x_T31_S20_Tu_5 + 3 x_T23_S10_We_2 + 3 x_T33_S18_We_5 + 3 x_T1_S3_We_4 + 3 x_T22_S16_Tu_1 + 3 x_T31_S9_Mo_3 + 3 x_T13_S16_We_2 + 3 x_T18_S19_We_2 + 3 x_T19_S12_Fr_2 + 3 x_T14_S2_We_4 + 1 g_T21_S9 + 3 x_T14_S2_We_5 + 3 x_T9_S18_Th_3 + 3 x_T3_S12_Mo_3 + 3 x_T26_S16_Fr_4 + 3 x_T32_S18_We_1 + 3 x_T24_S15_We_3 + 3 x_T18_S5_Th_2 + 3 x_T23_S12_Fr_5 + 3 x_T2_S8_We_1 + 3 x_T6_S7_Tu_4 + 3 x_T3_S12_Tu_5 + 3 x_T17_S17_Tu_1 + 3 x_T26_S19_Th_2 + 3 x_T1_S4_Fr_2 + 3 x_T15_S11_Th_1 + 3 x_T19_S8_Tu_3 + 3 x_T22_S20_We_4 + 3 x_T9_S20_Tu_3 + 3 x_T14_S2_We_2 + 3 x_T33_S18_Th_1 + 3 x_T12_S12_Tu_4 + 3 x_T22_S15_Tu_1 + 3 x_T3_S12_Mo_1 + 3 x_T5_S4_Mo_4 + 3 x_T33_S17_Fr_1 + 3 x_T31_S6_We_2 + 3 x_T15_S19_Th_3 + 3 x_T31_S3_We_2 + 3 x_T16_S9_We_1 + 3 x_T23_S1_Th_4 + 3 x_T3_S14_We_2 + 3 x_T2_S10_We_1 + 3 x_T32_S7_Th_4 + 3 x_T22_S17_Fr_3 + 3 x_T2_S9_Mo_3 + 3 x_T20_S4_Th_2 + 3 x_T23_S12_Fr_1 + 3 x_T6_S5_Mo_1 + 3 x_T28_S9_Tu_2 + 3 x_T15_S18_Fr_4 + 3 x_T4_S19_We_5 + 3 x_T7_S9_Fr_4 + 3 x_T19_S15_Fr_1 + 3 x_T20_S7_Mo_4 + 3 x_T1_S4_Th_1 + 3 x_T30_S17_Fr_2 + 3 x_T13_S18_Tu_4 + 3 x_T32_S5_Fr_1 + 3 x_T14_S2_Tu_3 + 3 x_T26_S19_We_2 + 3 x_T5_S1_We_2 + 3 x_T22_S15_Th_1 + 1 g_T9_S18 + 3 x_T7_S9_Tu_3 + 3 x_T22_S19_Th_1 + 3 x_T7_S11_Tu_4 + 3 x_T27_S17_Fr_1 + 3 x_T10_S4_Tu_4 + 3 x_T22_S17_Fr_5 + 3 x_T24_S5_Tu_3 + 3 x_T2_S11_Tu_5 + 3 x_T15_S11_Fr_3 + 3 x_T30_S8_Tu_3 + 3 x_T12_S14_Fr_4 + 3 x_T28_S3_Mo_3 + 3 x_T2_S7_Fr_4 + 3 x_T17_S1_We_5 + 3 x_T23_S10_Tu_3 + 1 g_T23_S3 + 3 x_T7_S11_Mo_1 + 3 x_T29_S13_Tu_5 + 3 x_T15_S4_Th_3 + 3 x_T31_S9_Th_3 + 3 x_T33_S19_Mo_5 + 3 x_T5_S2_Mo_3 + 3 x_T14_S16_Tu_4 + 3 x_T9_S20_We_5 + 3 x_T22_S18_We_1 + 3 x_T12_S11_Fr_4 + 3 x_T24_S15_We_2 + 3 x_T23_S10_Mo_2 + 3 x_T9_S17_Tu_3 + 3 x_T9_S19_Th_5 + 3 x_T25_S9_Th_1 + 3 x_T9_S15_Th_5 + 3 x_T20_S6_We_4 + 3 x_T21_S8_We_3 + 3 x_T31_S3_Tu_5 + 3 x_T31_S9_Tu_2 + 3 x_T24_S5_Mo_4 + 3 x_T6_S5_Mo_4 + 3 x_T20_S7_Fr_2 + 3 x_T32_S20_Mo_1 + 3 x_T12_S14_Fr_5 + 3 x_T32_S5_Th_3 + 3 x_T25_S18_Mo_2 + 3 x_T4_S6_Fr_2 + 3 x_T15_S4_Tu_1 + 3 x_T24_S15_Mo_1 + 3 x_T18_S14_Fr_2 + 1 g_T23_S10 + 3 x_T9_S20_Th_4 + 3 x_T9_S17_Th_4 + 3 x_T21_S8_Fr_2 + 3 x_T24_S5_Mo_2 + 3 x_T27_S20_Th_2 + 3 x_T8_S16_We_5 + 3 x_T26_S1_Mo_3 + 3 x_T9_S15_Th_3 + 3 x_T24_S6_Th_4 + 3 x_T12_S14_Mo_3 + 3 x_T33_S20_Fr_2 + 3 x_T17_S1_Tu_3 + 3 x_T16_S8_Th_2 + 3 x_T27_S20_Mo_2 + 3 x_T1_S1_Tu_3 + 3 x_T6_S5_Tu_5 + 3 x_T7_S13_Th_4 + 3 x_T25_S8_We_2 + 3 x_T14_S1_Tu_1 + 3 x_T29_S1_We_4 + 3 x_T4_S20_Th_1 + 3 x_T1_S3_Fr_2 + 3 x_T13_S17_Mo_1 + 3 x_T30_S5_Th_3 + 3 x_T28_S3_We_1 + 3 x_T7_S11_We_3 + 1 g_T15_S11 + 3 x_T9_S15_Tu_3 + 3 x_T19_S7_We_5 + 3 x_T17_S10_Mo_3 + 3 x_T16_S7_Th_4 + 3 x_T15_S19_Mo_1 + 3 x_T20_S3_Mo_4 + 3 x_T11_S7_Th_3 + 3 x_T16_S8_Tu_2 + 3 x_T30_S2_Tu_4 + 3 x_T6_S8_We_4 + 3 x_T6_S12_Th_3 + 3 x_T22_S16_Fr_5 + 3 x_T22_S16_Fr_1 + 3 x_T5_S3_Fr_2 + 3 x_T15_S5_Fr_5 + 3 x_T9_S20_Tu_4 + 3 x_T7_S11_We_5 + 3 x_T24_S6_Tu_1 + 3 x_T12_S13_Tu_4 + 3 x_T22_S19_Tu_4 + 3 x_T32_S9_We_4 + 3 x_T32_S3_Mo_5 + 3 x_T32_S4_Mo_4 + 3 x_T1_S1_Th_1 + 3 x_T32_S9_Mo_2 + 3 x_T33_S19_Th_5 + 3 x_T10_S1_Fr_5 + 3 x_T31_S3_Tu_3 + 3 x_T8_S16_Mo_3 + 3 x_T1_S4_Fr_1 + 3 x_T7_S12_Mo_2 + 3 x_T14_S17_Fr_2 + 3 x_T32_S17_Th_4 + 3 x_T26_S16_Th_3 + 3 x_T17_S16_We_3 + 3 x_T8_S15_Tu_2 + 3 x_T15_S5_Fr_4 + 3 x_T27_S11_We_5 + 3 x_T14_S13_Mo_1 + 3 x_T14_S1_Tu_2 + 3 x_T12_S11_Tu_1 + 1 g_T32_S20 + 3 x_T32_S19_Th_1 + 3 x_T25_S18_Tu_1 + 3 x_T4_S19_Tu_1 + 3 x_T31_S3_Mo_4 + 3 x_T29_S13_Th_1 + 3 x_T25_S8_Fr_5 + 3 x_T7_S12_Tu_3 + 3 x_T1_S4_Mo_1 + 3 x_T9_S20_Th_1 + 3 x_T1_S2_Tu_1 + 3 x_T29_S19_Fr_1 + 3 x_T19_S8_We_2 + 3 x_T27_S14_Fr_1 + 3 x_T18_S18_Tu_2 + 3 x_T26_S7_Mo_5 + 3 x_T32_S5_We_3 + 3 x_T23_S19_Mo_4 + 3 x_T14_S2_Mo_5 + 3 x_T15_S19_Fr_2 + 3 x_T6_S12_Fr_4 + 3 x_T14_S1_Tu_3 + 3 x_T12_S13_Tu_5 + 3 x_T20_S3_Tu_1 + 3 x_T19_S8_Th_3 + 3 x_T17_S13_Mo_4 + 3 x_T13_S18_We_4 + 3 x_T23_S11_Tu_3 + 3 x_T32_S6_We_2 + 3 x_T24_S5_Mo_1 + 3 x_T33_S16_Th_2 + 3 x_T29_S7_Th_3 + 3 x_T20_S5_Mo_5 + 3 x_T13_S17_Tu_3 + 3 x_T3_S14_Tu_5 + 3 x_T22_S16_Mo_3 + 3 x_T8_S11_Mo_4 + 3 x_T16_S15_Th_2 + 3 x_T16_S9_Th_1 + 3 x_T32_S6_Th_5 + 3 x_T33_S16_Tu_3 + 3 x_T5_S1_We_4 + 3 x_T33_S19_Mo_3 + 3 x_T21_S11_Mo_5 + 3 x_T19_S7_Tu_4 + 3 x_T26_S16_Tu_5 + 3 x_T18_S6_Fr_2 + 3 x_T33_S18_Fr_1 + 3 x_T29_S7_We_4 + 3 x_T32_S16_Th_5 + 3 x_T4_S20_Fr_2 + 3 x_T24_S14_Th_2 + 3 x_T13_S18_Fr_2 + 3 x_T5_S2_Fr_1 + 3 x_T11_S10_Fr_2 + 3 x_T23_S3_Fr_2 + 3 x_T31_S20_We_1 + 3 x_T6_S12_Fr_3 + 3 x_T6_S7_Th_3 + 3 x_T32_S16_We_5 + 3 x_T27_S11_Mo_4 + 1 g_T2_S10 + 3 x_T17_S16_Fr_4 + 3 x_T18_S18_We_1 + 3 x_T14_S1_Th_2 + 1 g_T10_S5 + 3 x_T28_S3_Th_5 + 3 x_T13_S20_We_2 + 3 x_T12_S12_Th_5 + 3 x_T4_S5_Tu_1 + 3 x_T14_S1_We_2 + 3 x_T32_S17_Mo_1 + 3 x_T27_S17_Tu_3 + 3 x_T1_S2_Tu_5 + 3 x_T2_S10_Mo_4 + 3 x_T23_S1_Tu_2 + 3 x_T11_S8_Tu_5 + 3 x_T15_S5_Th_5 + 3 x_T27_S2_Tu_3 + 3 x_T16_S8_We_4 + 3 x_T31_S20_Mo_5 + 3 x_T8_S16_Fr_3 + 3 x_T4_S18_Fr_5 + 3 x_T9_S18_Th_5 + 3 x_T8_S11_We_5 + 3 x_T15_S11_We_4 + 3 x_T29_S4_Mo_4 + 3 x_T17_S1_We_2 + 3 x_T9_S18_Tu_1 + 1 g_T27_S2 + 3 x_T24_S6_We_2 + 3 x_T14_S1_Fr_1 + 3 x_T18_S5_Mo_5 + 3 x_T33_S19_Tu_3 + 3 x_T26_S4_Tu_5 + 3 x_T11_S7_Tu_4 + 3 x_T10_S5_Fr_1 + 3 x_T21_S8_Th_1 + 3 x_T26_S1_We_1 + 9 y_T13 + 3 x_T22_S17_Mo_1 + 3 x_T28_S15_We_5 + 3 x_T25_S16_Fr_5 + 1 g_T12_S11 + 3 x_T32_S9_Mo_1 + 3 x_T22_S16_Tu_3 + 3 x_T25_S9_Th_2 + 3 x_T28_S6_Mo_4 + 3 x_T28_S12_Th_5 + 3 x_T28_S9_Th_1 + 3 x_T15_S14_Mo_2 + 3 x_T19_S20_Mo_4 + 3 x_T21_S11_Th_1 + 3 x_T25_S16_We_1 + 3 x_T13_S19_Mo_4 + 3 x_T21_S8_We_2 + 3 x_T18_S4_Tu_2 + 3 x_T12_S15_We_1 + 3 x_T17_S13_Fr_3 + 3 x_T19_S7_Mo_1 + 1 g_T11_S7 + 3 x_T27_S17_Th_3 + 3 x_T6_S10_Fr_5 + 3 x_T18_S4_Fr_2 + 3 x_T8_S13_Th_1 + 3 x_T15_S4_We_4 + 3 x_T27_S2_Fr_5 + 3 x_T32_S16_Th_4 + 3 x_T16_S15_Th_4 + 3 x_T4_S6_Th_5 + 3 x_T18_S14_Tu_4 + 3 x_T17_S10_Tu_2 + 3 x_T18_S4_Th_1 + 3 x_T17_S17_We_4 + 3 x_T14_S13_Fr_5 + 3 x_T18_S6_Mo_5 + 3 x_T23_S3_Th_1 + 3 x_T24_S15_Fr_3 + 3 x_T15_S11_Tu_2 + 3 x_T6_S7_Mo_5 + 3 x_T32_S20_Mo_5 + 3 x_T5_S3_We_5 + 3 x_T26_S13_Mo_1 + 3 x_T13_S20_Mo_4 + 3 x_T19_S9_Mo_3 + 3 x_T29_S7_We_2 + 3 x_T8_S16_Th_3 + 3 x_T20_S2_Mo_1 + 3 x_T24_S4_We_3 + 3 x_T31_S9_We_3 + 3 x_T30_S2_Fr_4 + 3 x_T32_S6_Mo_3 + 3 x_T30_S17_Tu_3 + 3 x_T20_S6_Fr_1 + 3 x_T2_S11_Mo_1 + 3 x_T28_S18_Tu_2 + 3 x_T18_S18_Mo_1 + 3 x_T33_S20_We_4 + 3 x_T6_S10_Mo_1 + 1 g_T32_S2 + 3 x_T1_S16_Fr_5 + 3 x_T19_S20_Tu_2 + 3 x_T7_S13_We_5 + 3 x_T21_S11_Tu_4 + 3 x_T15_S5_Mo_3 + 3 x_T13_S18_Fr_5 + 1 g_T31_S9 + 1 g_T1_S3 + 3 x_T2_S10_Th_4 + 3 x_T21_S14_Fr_1 + 9 y_T30 + 3 x_T27_S17_Mo_2 + 3 x_T7_S13_Mo_5 + 3 x_T5_S4_Mo_5 + 3 x_T24_S6_Mo_5 + 3 x_T11_S7_Mo_5 + 3 x_T4_S20_We_1 + 3 x_T30_S11_Tu_3 + 3 x_T25_S8_Th_3 + 3 x_T29_S7_Mo_5 + 3 x_T28_S6_Tu_1 + 3 x_T21_S10_Mo_4 + 3 x_T5_S3_Tu_4 + 3 x_T5_S4_We_2 + 3 x_T33_S17_We_2 + 3 x_T24_S15_Th_4 + 3 x_T24_S20_Fr_3 + 3 x_T31_S12_We_1 + 3 x_T5_S14_We_3 + 3 x_T18_S4_Mo_2 + 3 x_T33_S18_Tu_1 + 3 x_T3_S13_Mo_2 + 3 x_T24_S6_Th_1 + 3 x_T27_S17_Fr_3 + 3 x_T12_S13_We_4 + 3 x_T30_S8_Th_5 + 3 x_T3_S14_Mo_3 + 3 x_T32_S9_Fr_3 + 3 x_T6_S5_Fr_4 + 3 x_T12_S11_Fr_3 + 3 x_T31_S6_Mo_4 + 3 x_T16_S7_Tu_3 + 3 x_T32_S18_Fr_4 + 3 x_T13_S18_Tu_2 + 3 x_T5_S1_Mo_4 + 3 x_T23_S2_Fr_4 + 3 x_T27_S20_Tu_5 + 3 x_T2_S10_Th_1 + 3 x_T5_S3_We_2 + 3 x_T7_S10_Th_1 + 3 x_T6_S6_Fr_4 + 1 g_T20_S4 + 1 g_T23_S12 + 3 x_T33_S17_Th_5 + 3 x_T6_S10_Tu_5 + 3 x_T24_S14_Fr_1 + 3 x_T6_S8_Tu_5 + 3 x_T29_S13_Tu_1 + 3 x_T30_S11_Mo_4 + 3 x_T4_S19_Th_3 + 3 x_T29_S16_We_5 + 3 x_T7_S11_Tu_3 + 3 x_T14_S3_Th_5 + 3 x_T19_S8_Th_2 + 3 x_T3_S13_Fr_2 + 3 x_T4_S6_Fr_5 + 3 x_T22_S19_We_2 + 3 x_T33_S18_We_3 + 1 g_T26_S1 + 3 x_T31_S3_We_3 + 3 x_T20_S7_Mo_5 + 3 x_T8_S16_Mo_4 + 3 x_T26_S13_Mo_2 + 3 x_T25_S9_Fr_1 + 3 x_T22_S18_Th_4 + 3 x_T5_S14_We_5 + 3 x_T11_S6_Fr_3 + 3 x_T17_S10_Fr_5 + 3 x_T28_S15_Th_3 + 3 x_T29_S1_Th_5 + 3 x_T12_S13_Tu_2 + 3 x_T24_S5_Fr_4 + 3 x_T8_S15_Mo_2 + 1 g_T5_S2 + 3 x_T32_S2_Tu_1 + 3 x_T14_S10_Fr_2 + 3 x_T17_S1_Fr_1 + 3 x_T5_S1_Th_4 + 3 x_T20_S1_Fr_4 + 3 x_T28_S3_Mo_2 + 3 x_T20_S3_We_1 + 3 x_T12_S15_Tu_3 + 3 x_T16_S7_Th_2 + 3 x_T13_S19_We_5 + 3 x_T30_S14_Mo_4 + 3 x_T27_S20_Fr_1 + 3 x_T25_S7_Mo_3 + 3 x_T6_S5_We_1 + 3 x_T18_S5_We_3 + 3 x_T32_S18_Tu_1 + 3 x_T18_S14_We_4 + 3 x_T29_S19_Tu_5 + 9 y_T20 + 3 x_T24_S6_Tu_3 + 3 x_T7_S13_Tu_4 + 3 x_T15_S19_Th_2 + 3 x_T3_S12_Mo_4 + 3 x_T21_S14_Tu_4 + 3 x_T6_S10_Th_3 + 3 x_T33_S18_We_4 + 3 x_T17_S1_Tu_2 + 1 g_T2_S11 + 3 x_T33_S18_Mo_4 + 3 x_T32_S4_Fr_4 + 3 x_T5_S2_Tu_5 + 3 x_T28_S3_Th_4 + 3 x_T11_S10_We_1 + 3 x_T31_S18_Mo_3 + 3 x_T32_S6_Th_4 + 3 x_T5_S2_We_4 + 3 x_T15_S6_Fr_4 + 3 x_T8_S16_We_2 + 1 g_T8_S13 + 3 x_T32_S17_Tu_4 + 3 x_T33_S16_Fr_3 + 3 x_T28_S18_Fr_5 + 3 x_T30_S8_Fr_3 + 3 x_T2_S11_Th_2 + 3 x_T33_S17_Fr_5 + 3 x_T10_S2_We_3 + 3 x_T29_S19_Fr_2 + 3 x_T18_S18_Fr_3 + 3 x_T22_S16_We_5 + 3 x_T19_S8_Mo_5 + 1 g_T17_S13 + 3 x_T25_S8_Mo_1 + 3 x_T16_S9_Fr_3 + 3 x_T24_S5_Tu_1 + 1 g_T12_S12 + 3 x_T7_S10_We_2 + 3 x_T33_S20_We_3 + 3 x_T3_S12_Tu_2 + 3 x_T17_S17_Th_5 + 3 x_T19_S9_Mo_5 + 3 x_T7_S13_Th_1 + 3 x_T24_S15_Mo_3 + 3 x_T32_S3_Fr_1 + 3 x_T17_S3_We_2 + 3 x_T27_S5_Fr_4 + 3 x_T17_S17_Fr_4 + 3 x_T22_S17_Fr_1 + 3 x_T17_S17_We_1 + 3 x_T25_S9_Tu_5 + 3 x_T29_S4_Th_2 + 3 x_T10_S4_We_3 + 3 x_T17_S2_We_3 + 3 x_T1_S4_We_1 + 3 x_T16_S9_Th_3 + 3 x_T22_S16_Mo_5 + 3 x_T25_S18_We_2 + 3 x_T26_S10_Tu_4 + 3 x_T22_S19_Tu_3 + 3 x_T2_S7_Tu_3 + 3 x_T6_S5_Tu_1 + 3 x_T32_S19_Tu_2 + 3 x_T32_S5_Mo_2 + 3 x_T33_S19_Th_4 + 3 x_T27_S14_Tu_3 + 3 x_T7_S13_We_4 + 3 x_T26_S10_Tu_5 + 3 x_T17_S10_Fr_4 + 3 x_T32_S6_Fr_5 + 3 x_T4_S19_Mo_5 + 3 x_T24_S5_Tu_2 + 3 x_T4_S18_Mo_5 + 3 x_T27_S8_We_1 + 3 x_T9_S18_Fr_4 + 3 x_T21_S13_Th_5 + 3 x_T32_S16_Mo_3 + 3 x_T16_S12_Fr_1 + 3 x_T32_S5_Tu_1 + 3 x_T1_S16_Th_1 + 3 x_T15_S19_We_4 + 3 x_T17_S1_Mo_3 + 3 x_T26_S16_Mo_2 + 3 x_T31_S15_Fr_5 + 3 x_T29_S10_We_1 + 3 x_T17_S10_Tu_4 + 3 x_T31_S6_Tu_4 + 3 x_T18_S19_Fr_5 + 3 x_T13_S17_Fr_3 + 3 x_T7_S9_Th_4 + 3 x_T5_S14_Tu_5 + 3 x_T17_S16_We_4 + 3 x_T18_S5_Tu_4 + 3 x_T16_S9_Tu_3 + 3 x_T21_S9_Tu_1 + 3 x_T32_S4_Th_5 + 3 x_T26_S1_Fr_2 + 3 x_T30_S5_We_4 + 3 x_T6_S12_Mo_4 + 3 x_T29_S13_Fr_4 + 3 x_T24_S20_Fr_1 + 3 x_T13_S16_Tu_5 + 3 x_T4_S18_Fr_2 + 3 x_T27_S2_Mo_3 + 3 x_T29_S4_Tu_1 + 3 x_T6_S12_Mo_3 + 3 x_T18_S11_We_4 + 3 x_T25_S7_Th_2 + 3 x_T6_S5_Tu_4 + 3 x_T21_S11_Tu_5 + 3 x_T6_S10_Tu_1 + 3 x_T11_S10_Mo_3 + 3 x_T9_S19_Fr_5 + 3 x_T3_S13_Th_1 + 3 x_T22_S19_Fr_2 + 3 x_T1_S17_Tu_2 + 3 x_T30_S14_Fr_5 + 3 x_T1_S17_Mo_5 + 3 x_T24_S4_Tu_2 + 3 x_T29_S19_We_4 + 3 x_T6_S12_Tu_5 + 3 x_T19_S15_We_3 + 3 x_T5_S2_Fr_2 + 3 x_T32_S16_Mo_2 + 3 x_T9_S19_Mo_3 + 1 g_T31_S6 + 3 x_T18_S5_We_5 + 3 x_T20_S3_We_4 + 3 x_T7_S11_Mo_4 + 3 x_T4_S5_Fr_1 + 1 g_T22_S15 + 3 x_T11_S10_We_5 + 3 x_T16_S20_Th_2 + 3 x_T15_S5_Fr_2 + 3 x_T25_S7_Tu_1 + 3 x_T5_S3_Fr_5 + 3 x_T29_S7_We_3 + 3 x_T20_S4_Mo_2 + 3 x_T26_S1_Mo_5 + 3 x_T25_S17_Mo_2 + 3 x_T27_S14_We_4 + 3 x_T29_S10_Tu_3 + 3 x_T20_S1_Th_1 + 3 x_T20_S2_Th_1 + 3 x_T23_S3_Tu_1 + 9 y_T25 + 3 x_T28_S18_Fr_2 + 3 x_T16_S20_We_2 + 3 x_T3_S12_We_4 + 3 x_T18_S11_Mo_4 + 3 x_T9_S17_Th_1 + 3 x_T32_S20_We_1 + 3 x_T26_S16_Fr_2 + 3 x_T26_S16_We_1 + 3 x_T2_S11_Fr_5 + 3 x_T32_S16_Mo_1 + 3 x_T8_S14_Mo_1 + 3 x_T8_S11_Fr_2 + 3 x_T1_S2_Th_2 + 3 x_T14_S10_Mo_1 + 3 x_T29_S4_Mo_3 + 3 x_T7_S10_Mo_5 + 3 x_T30_S14_Tu_1 + 3 x_T9_S15_We_3 + 3 x_T17_S17_Th_3 + 3 x_T10_S3_Th_1 + 3 x_T24_S4_Fr_2 + 3 x_T22_S17_We_1 + 3 x_T1_S3_Tu_1 + 3 x_T14_S13_Mo_4 + 3 x_T15_S11_Tu_3 + 3 x_T20_S4_Tu_5 + 3 x_T2_S10_We_3 + 3 x_T12_S15_Mo_1 + 3 x_T9_S17_Fr_3 + 3 x_T30_S17_Th_1 + 1 g_T23_S2 + 3 x_T14_S3_Tu_4 + 3 x_T5_S4_Fr_2 + 3 x_T14_S1_Fr_5 + 3 x_T29_S7_Fr_2 + 3 x_T28_S12_Mo_5 + 3 x_T17_S13_Th_5 + 3 x_T9_S15_Mo_5 + 3 x_T5_S2_We_2 + 3 x_T15_S11_Mo_1 + 3 x_T32_S20_We_4 + 3 x_T25_S16_We_4 + 3 x_T19_S7_Mo_3 + 3 x_T27_S8_Th_1 + 3 x_T16_S15_Th_3 + 3 x_T7_S11_Th_2 + 3 x_T29_S4_Tu_5 + 3 x_T31_S18_We_1 + 3 x_T16_S7_Fr_3 + 3 x_T4_S5_Mo_5 + 3 x_T10_S3_Mo_5 + 3 x_T32_S2_Tu_2 + 3 x_T21_S8_Fr_5 + 3 x_T20_S6_Fr_3 + 3 x_T30_S5_Fr_1 + 3 x_T30_S11_We_5 + 3 x_T12_S15_Tu_1 + 3 x_T17_S2_Th_5 + 3 x_T20_S1_Mo_2 + 3 x_T2_S9_We_3 + 1 g_T31_S18 + 3 x_T20_S5_Fr_2 + 3 x_T15_S18_Tu_1 + 1 g_T19_S9 + 3 x_T9_S19_Th_2 + 3 x_T24_S15_Fr_1 + 3 x_T5_S14_Tu_4 + 3 x_T2_S9_Tu_3 + 3 x_T17_S17_Th_2 + 3 x_T33_S17_Tu_1 + 3 x_T26_S19_Mo_1 + 3 x_T19_S12_Tu_1 + 3 x_T11_S10_We_3 + 3 x_T18_S11_We_1 + 3 x_T14_S16_Mo_5 + 3 x_T26_S4_Fr_4 + 3 x_T9_S20_Tu_5 + 3 x_T23_S12_Tu_2 + 3 x_T10_S4_Mo_5 + 3 x_T17_S16_Fr_5 + 3 x_T26_S1_We_4 + 3 x_T31_S9_Th_2 + 3 x_T15_S14_Th_5 + 3 x_T25_S16_Th_1 + 3 x_T26_S16_Fr_1 + 3 x_T32_S18_Fr_3 + 3 x_T33_S19_Tu_4 + 3 x_T17_S2_Tu_4 + 3 x_T4_S6_Tu_3 + 3 x_T21_S13_Tu_1 + 3 x_T20_S2_We_4 + 3 x_T6_S10_Tu_2 + 3 x_T33_S19_Tu_5 + 3 x_T26_S13_We_1 + 3 x_T2_S7_Tu_2 + 3 x_T7_S10_Tu_3 + 3 x_T14_S17_Th_5 + 3 x_T25_S9_Tu_1 + 3 x_T22_S17_We_3 + 3 x_T2_S11_Th_1 + 3 x_T10_S4_Tu_5 + 3 x_T12_S13_Th_4 + 3 x_T3_S15_We_5 + 3 x_T20_S3_We_2 + 3 x_T29_S19_Mo_2 + 3 x_T7_S10_Fr_5 + 3 x_T17_S16_Th_5 + 3 x_T21_S13_Tu_4 + 3 x_T31_S9_Th_5 + 3 x_T22_S18_Tu_1 + 3 x_T22_S15_We_4 + 3 x_T21_S13_Tu_5 + 3 x_T7_S11_Tu_1 + 3 x_T11_S9_We_5 + 3 x_T28_S6_We_4 + 3 x_T18_S5_Tu_5 + 3 x_T9_S18_Fr_3 + 3 x_T17_S16_Tu_2 + 1 g_T10_S4 + 3 x_T28_S15_Fr_4 + 3 x_T9_S17_Th_2 + 3 x_T31_S3_Mo_2 + 3 x_T1_S17_Tu_1 + 3 x_T22_S17_Tu_1 + 3 x_T7_S12_Mo_5 + 3 x_T4_S18_Th_5 + 3 x_T13_S16_Th_1 + 3 x_T14_S1_We_1 + 3 x_T9_S18_We_1 + 3 x_T7_S12_Th_4 + 3 x_T11_S10_Mo_5 + 3 x_T14_S2_Fr_1 + 3 x_T5_S1_Tu_2 + 3 x_T13_S16_Mo_2 + 3 x_T8_S11_Th_4 + 3 x_T4_S18_Tu_3 + 3 x_T27_S5_Th_5 + 3 x_T29_S10_Mo_2 + 3 x_T21_S14_Tu_1 + 3 x_T19_S12_Th_4 + 3 x_T26_S10_Th_1 + 3 x_T32_S4_Tu_4 + 3 x_T4_S5_Th_3 + 3 x_T29_S7_Th_4 + 3 x_T15_S11_Mo_3 + 3 x_T32_S2_Th_4 + 3 x_T32_S5_Tu_2 + 3 x_T8_S11_Tu_3 + 3 x_T6_S5_We_5 + 3 x_T20_S1_Tu_4 + 3 x_T10_S5_Mo_3 + 3 x_T7_S13_Tu_1 + 1 g_T6_S7 + 3 x_T16_S20_Th_3 + 3 x_T1_S2_Tu_2 + 3 x_T5_S2_Tu_1 + 3 x_T4_S6_Fr_3 + 3 x_T23_S10_Fr_1 + 3 x_T24_S20_Th_4 + 3 x_T2_S11_Fr_3 + 3 x_T32_S8_Th_4 + 3 x_T16_S12_Mo_4 + 3 x_T30_S2_Fr_3 + 3 x_T32_S17_Mo_5 + 3 x_T32_S16_We_3 + 3 x_T12_S12_Tu_2 + 3 x_T6_S6_Mo_2 + 3 x_T29_S7_Mo_3 + 3 x_T18_S19_We_1 + 3 x_T3_S14_Th_4 + 3 x_T18_S5_Tu_1 + 3 x_T22_S15_We_1 + 3 x_T30_S11_Th_5 + 3 x_T32_S17_Fr_2 + 3 x_T26_S16_Tu_4 + 3 x_T11_S7_Mo_3 + 3 x_T32_S7_We_1 + 3 x_T6_S5_We_2 + 3 x_T9_S20_Mo_2 + 3 x_T32_S3_Th_3 + 3 x_T12_S11_Tu_5 + 3 x_T15_S19_Mo_5 + 3 x_T14_S2_Fr_3 + 3 x_T32_S18_Mo_5 + 3 x_T32_S4_We_2 + 3 x_T12_S15_Th_5 + 3 x_T13_S20_We_4 + 3 x_T26_S1_We_2 + 3 x_T10_S4_Fr_5 + 3 x_T18_S4_Tu_3 + 3 x_T22_S19_Fr_4 + 3 x_T33_S17_Mo_3 + 3 x_T22_S15_Th_4 + 3 x_T18_S6_Fr_3 + 3 x_T12_S11_Tu_4 + 3 x_T26_S10_Tu_2 + 3 x_T23_S1_Mo_2 + 3 x_T14_S10_Th_5 + 3 x_T6_S7_Fr_4 + 3 x_T26_S10_Mo_4 + 3 x_T22_S17_Th_3 + 3 x_T27_S14_Fr_3 + 3 x_T17_S13_Tu_5 + 3 x_T33_S16_We_3 + 3 x_T27_S20_Th_4 + 3 x_T12_S12_We_2 + 3 x_T13_S18_We_1 + 3 x_T27_S5_Tu_3 + 3 x_T2_S9_Fr_2 + 3 x_T24_S6_Mo_3 + 3 x_T18_S19_Tu_5 + 3 x_T23_S10_We_4 + 3 x_T14_S3_Tu_3 + 3 x_T31_S15_Th_1 + 3 x_T21_S10_We_4 + 3 x_T32_S18_Fr_5 + 3 x_T17_S3_Tu_3 + 3 x_T14_S17_Th_1 + 3 x_T3_S13_We_2 + 3 x_T20_S5_Fr_4 + 3 x_T24_S14_Th_4 + 3 x_T16_S15_Fr_4 + 3 x_T25_S9_We_2 + 3 x_T10_S4_Th_5 + 3 x_T21_S11_Fr_2 + 3 x_T6_S7_Mo_4 + 3 x_T15_S14_Tu_5 + 3 x_T12_S13_Th_3 + 3 x_T19_S15_Tu_1 + 3 x_T28_S3_Tu_2 + 3 x_T4_S6_Fr_1 + 3 x_T32_S19_Tu_4 + 3 x_T8_S13_Mo_3 + 3 x_T26_S1_Tu_2 + 3 x_T32_S5_Fr_3 + 3 x_T16_S12_We_2 + 3 x_T12_S13_We_3 + 3 x_T25_S7_We_2 + 3 x_T1_S4_Fr_4 + 3 x_T7_S13_Th_3 + 3 x_T6_S6_Tu_2 + 3 x_T13_S19_Fr_1 + 3 x_T30_S17_Th_2 + 3 x_T27_S14_Mo_4 + 3 x_T15_S14_Mo_4 + 3 x_T19_S8_Mo_2 + 3 x_T28_S6_Tu_4 + 3 x_T32_S1_Mo_3 + 1 g_T27_S17 + 3 x_T7_S13_Mo_1 + 3 x_T29_S4_Fr_2 + 3 x_T21_S12_Fr_2 + 3 x_T20_S2_Th_5 + 3 x_T15_S11_We_1 + 3 x_T32_S4_Th_4 + 3 x_T15_S19_Th_5 + 3 x_T18_S19_Tu_4 + 3 x_T18_S18_Th_1 + 3 x_T12_S12_Tu_3 + 3 x_T29_S10_Tu_2 + 3 x_T3_S13_Fr_1 + 3 x_T27_S20_Mo_1 + 3 x_T15_S19_Th_4 + 3 x_T12_S14_Fr_3 + 3 x_T15_S4_Th_5 + 3 x_T22_S16_Fr_2 + 3 x_T12_S11_We_2 + 3 x_T25_S7_Fr_1 + 3 x_T4_S19_Th_4 + 3 x_T25_S7_We_5 + 3 x_T24_S15_Th_5 + 3 x_T15_S4_Th_2 + 3 x_T31_S6_Fr_2 + 3 x_T32_S7_Tu_3 + 3 x_T25_S9_Fr_5 + 3 x_T29_S16_Tu_2 + 3 x_T11_S9_Fr_3 + 3 x_T2_S8_We_4 + 3 x_T29_S16_Mo_4 + 3 x_T33_S16_Tu_1 + 3 x_T24_S6_Tu_2 + 3 x_T31_S3_Tu_4 + 3 x_T5_S14_We_2 + 3 x_T20_S2_Tu_5 + 3 x_T13_S16_Fr_3 + 3 x_T17_S3_Tu_4 + 3 x_T30_S11_Tu_1 + 3 x_T21_S11_We_5 + 3 x_T33_S17_Tu_2 + 3 x_T10_S4_Tu_3 + 3 x_T11_S7_Fr_1 + 3 x_T15_S14_We_2 + 3 x_T20_S2_Th_2 + 3 x_T20_S3_Mo_2 + 3 x_T19_S12_Th_3 + 3 x_T8_S14_Fr_5 + 3 x_T8_S15_Mo_5 + 3 x_T12_S14_Mo_1 + 3 x_T26_S7_Tu_5 + 3 x_T26_S7_Th_4 + 3 x_T32_S3_Fr_3 + 3 x_T30_S8_Mo_2 + 3 x_T30_S14_Fr_1 + 3 x_T30_S17_Mo_4 + 3 x_T20_S7_Fr_5 + 3 x_T22_S15_Fr_5 + 3 x_T8_S16_Th_1 + 3 x_T33_S19_We_5 + 1 g_T7_S12 + 3 x_T26_S7_We_3 + 3 x_T11_S10_Fr_3 + 3 x_T20_S6_Mo_1 + 3 x_T12_S11_Fr_1 + 3 x_T6_S12_Th_2 + 3 x_T11_S10_Tu_2 + 3 x_T16_S20_Tu_4 + 3 x_T23_S3_Tu_3 + 3 x_T26_S16_We_2 + 3 x_T3_S12_Tu_4 + 3 x_T7_S13_Tu_5 + 3 x_T1_S1_Mo_3 + 3 x_T15_S19_Fr_1 + 3 x_T28_S12_Tu_1 + 3 x_T4_S19_Fr_5 + 3 x_T32_S2_Tu_3 + 3 x_T32_S5_We_4 + 3 x_T32_S8_Fr_5 + 3 x_T8_S14_We_4 + 3 x_T15_S6_We_1 + 3 x_T22_S20_Fr_4 + 3 x_T33_S16_Tu_2 + 3 x_T16_S20_We_1 + 3 x_T27_S14_Fr_5 + 3 x_T33_S17_Fr_2 + 3 x_T18_S18_Tu_3 + 3 x_T23_S12_Mo_4 + 3 x_T20_S1_Fr_2 + 3 x_T5_S14_Fr_3 + 1 g_T24_S5 + 3 x_T11_S6_Mo_1 + 3 x_T19_S20_Th_1 + 3 x_T27_S11_Th_2 + 3 x_T8_S13_Th_5 + 3 x_T24_S6_Th_3 + 3 x_T23_S12_We_5 + 3 x_T14_S2_Fr_2 + 3 x_T4_S6_Mo_3 + 3 x_T12_S11_Th_2 + 3 x_T12_S13_Mo_3 + 3 x_T21_S13_Th_1 + 3 x_T12_S12_Fr_1 + 3 x_T27_S20_Fr_5 + 3 x_T28_S18_Th_1 + 3 x_T26_S19_Fr_5 + 3 x_T8_S13_We_4 + 3 x_T1_S1_Th_5 + 3 x_T29_S19_Mo_3 + 3 x_T33_S18_We_2 + 3 x_T13_S18_Th_1 + 3 x_T30_S17_Mo_1 + 3 x_T28_S9_Th_4 + 3 x_T8_S15_Mo_1 + 3 x_T7_S13_Th_5 + 3 x_T14_S2_Th_3 + 3 x_T21_S10_Mo_5 + 3 x_T18_S4_Fr_4 + 3 x_T17_S10_Th_1 + 3 x_T32_S8_Tu_4 + 3 x_T8_S11_Th_2 + 3 x_T32_S2_Mo_4 + 3 x_T16_S15_Mo_1 + 3 x_T29_S4_Tu_3 + 3 x_T32_S20_Fr_5 + 3 x_T13_S19_Fr_5 + 3 x_T24_S4_We_2 + 3 x_T15_S14_Fr_1 + 3 x_T10_S2_Tu_1 + 3 x_T22_S17_Mo_5 + 3 x_T24_S20_We_2 + 3 x_T7_S9_Tu_4 + 3 x_T9_S20_Tu_1 + 3 x_T23_S2_Mo_1 + 3 x_T30_S8_Th_2 + 3 x_T20_S1_Mo_1 + 3 x_T5_S14_Mo_3 + 3 x_T21_S10_Th_4 + 3 x_T29_S7_Th_2 + 3 x_T33_S18_Th_4 + 3 x_T15_S6_Th_1 + 3 x_T32_S19_Tu_1 + 1 g_T17_S17 + 3 x_T12_S12_Tu_5 + 3 x_T21_S13_Tu_3 + 3 x_T33_S18_Fr_3 + 3 x_T22_S15_Tu_2 + 3 x_T25_S18_We_1 + 3 x_T32_S2_Mo_3 + 3 x_T18_S18_Mo_3 + 3 x_T3_S15_Tu_4 + 3 x_T12_S15_Th_2 + 3 x_T7_S12_We_2 + 3 x_T8_S15_We_3 + 3 x_T15_S14_We_5 + 3 x_T32_S5_Tu_5 + 3 x_T30_S8_Mo_1 + 3 x_T20_S5_Tu_2 + 3 x_T27_S5_Fr_3 + 3 x_T21_S10_Th_5 + 3 x_T32_S8_Tu_3 + 3 x_T32_S1_Tu_3 + 3 x_T32_S4_Tu_1 + 3 x_T2_S10_Mo_5 + 1 g_T5_S1 + 3 x_T25_S16_Mo_3 + 1 g_T19_S8 + 3 x_T31_S3_Tu_1 + 3 x_T32_S20_We_2 + 3 x_T32_S1_Mo_1 + 3 x_T10_S4_We_2 + 3 x_T5_S4_Th_4 + 3 x_T26_S19_We_5 + 3 x_T5_S4_Tu_1 + 3 x_T25_S9_Mo_1 + 3 x_T23_S2_We_1 + 3 x_T18_S19_Th_5 + 3 x_T25_S7_Mo_5 + 3 x_T26_S4_We_1 + 3 x_T12_S12_Mo_5 + 3 x_T29_S10_Mo_4 + 3 x_T30_S8_We_4 + 3 x_T1_S2_Mo_3 + 3 x_T8_S15_Fr_5 + 3 x_T4_S18_Th_4 + 3 x_T13_S20_Tu_2 + 3 x_T27_S14_We_5 + 1 g_T3_S14 + 3 x_T32_S20_Fr_2 + 3 x_T28_S12_Tu_5 + 3 x_T9_S20_Th_5 + 3 x_T30_S11_We_1 + 3 x_T23_S19_Mo_5 + 3 x_T15_S11_Mo_4 + 3 x_T24_S13_Mo_4 + 3 x_T17_S13_Fr_4 + 3 x_T30_S5_Th_2 + 3 x_T29_S1_Fr_3 + 3 x_T5_S3_Fr_4 + 3 x_T5_S3_We_3 + 3 x_T18_S14_We_1 + 3 x_T14_S3_Th_1 + 3 x_T18_S18_Tu_4 + 3 x_T17_S2_Th_2 + 3 x_T21_S9_Fr_4 + 3 x_T16_S20_Mo_4 + 3 x_T25_S17_We_2 + 3 x_T20_S4_Tu_3 + 3 x_T21_S13_Mo_5 + 3 x_T32_S6_Tu_3 + 3 x_T28_S15_Fr_3 + 3 x_T20_S2_Mo_3 + 1 g_T9_S15 + 3 x_T5_S14_We_1 + 3 x_T27_S11_Tu_3 + 3 x_T24_S6_We_4 + 3 x_T10_S2_Mo_4 + 3 x_T1_S17_Th_5 + 3 x_T31_S18_Tu_2 + 3 x_T17_S13_Mo_1 + 3 x_T12_S13_Tu_1 + 3 x_T15_S19_We_3 + 3 x_T19_S8_Mo_1 + 3 x_T26_S19_We_3 + 3 x_T27_S8_Fr_1 + 3 x_T21_S10_Fr_3 + 3 x_T30_S2_We_1 + 3 x_T15_S4_Tu_4 + 3 x_T19_S12_Th_5 + 3 x_T13_S19_Th_2 + 3 x_T25_S8_We_3 + 3 x_T20_S4_Fr_4 + 3 x_T26_S13_Th_2 + 3 x_T29_S7_We_5 + 3 x_T29_S1_Tu_2 + 3 x_T26_S7_Th_2 + 3 x_T4_S20_Mo_1 + 3 x_T32_S18_Tu_5 + 3 x_T30_S17_We_1 + 3 x_T8_S11_Mo_3 + 3 x_T32_S4_Fr_5 + 1 g_T4_S20 + 3 x_T7_S13_Fr_3 + 3 x_T14_S2_Th_4 + 3 x_T14_S10_Fr_4 + 3 x_T9_S17_Th_5 + 3 x_T17_S17_Mo_3 + 3 x_T31_S20_Mo_1 + 3 x_T32_S7_Mo_5 + 3 x_T10_S5_Mo_5 + 3 x_T13_S17_We_3 + 3 x_T27_S2_Th_4 + 3 x_T27_S8_Tu_5 + 1 g_T22_S19 + 3 x_T26_S16_Tu_2 + 3 x_T21_S14_We_2 + 3 x_T20_S6_Mo_4 + 3 x_T25_S7_Th_5 + 3 x_T31_S20_We_3 + 3 x_T11_S8_We_3 + 3 x_T25_S8_We_5 + 3 x_T9_S18_Th_1 + 3 x_T28_S9_Mo_2 + 3 x_T25_S9_Tu_3 + 3 x_T19_S9_We_1 + 3 x_T21_S10_Fr_1 + 3 x_T1_S17_We_5 + 3 x_T24_S15_Fr_5 + 3 x_T1_S1_Mo_2 + 3 x_T10_S2_Tu_2 + 3 x_T21_S12_We_3 + 3 x_T11_S7_We_1 + 3 x_T7_S9_Fr_2 + 3 x_T23_S19_We_5 + 3 x_T32_S3_Th_1 + 3 x_T12_S14_Fr_1 + 3 x_T32_S8_Tu_2 + 3 x_T21_S10_Mo_2 + 3 x_T4_S6_Mo_4 + 3 x_T8_S13_Mo_5 + 3 x_T9_S19_We_3 + 3 x_T31_S9_Mo_4 + 3 x_T24_S20_Th_3 + 3 x_T32_S6_Fr_2 + 3 x_T7_S11_Fr_2 + 3 x_T17_S13_Mo_2 + 3 x_T4_S20_Tu_3 + 3 x_T33_S19_Fr_4 + 3 x_T17_S2_Mo_3 + 3 x_T29_S19_Th_2 + 3 x_T24_S20_Tu_5 + 3 x_T14_S1_Th_4 + 3 x_T15_S14_Fr_4 + 3 x_T6_S6_Tu_4 + 1 g_T28_S12 + 3 x_T31_S12_Th_3 + 3 x_T16_S8_We_2 + 3 x_T4_S20_Th_5 + 3 x_T19_S15_Mo_5 + 3 x_T19_S9_Tu_1 + 3 x_T10_S3_We_5 + 3 x_T31_S6_Fr_1 + 3 x_T17_S2_Mo_1 + 1 g_T26_S7 + 1 g_T10_S2 + 3 x_T32_S7_Mo_2 + 3 x_T12_S11_Th_4 + 3 x_T15_S4_Mo_4 + 3 x_T29_S13_We_1 + 3 x_T32_S2_Tu_4 + 3 x_T32_S17_Tu_1 + 3 x_T31_S3_We_5 + 3 x_T18_S11_Fr_4 + 3 x_T27_S11_Fr_1 + 3 x_T21_S9_Mo_4 + 3 x_T24_S6_We_3 + 3 x_T1_S4_Mo_2 + 3 x_T26_S7_Tu_3 + 1 g_T15_S5 + 3 x_T21_S9_Th_3 + 3 x_T28_S6_Mo_5 + 3 x_T18_S5_Tu_3 + 3 x_T9_S20_Mo_1 + 3 x_T24_S4_Mo_3 + 3 x_T24_S20_We_1 + 3 x_T33_S18_Tu_2 + 3 x_T11_S8_Tu_3 + 3 x_T17_S3_Th_5 + 3 x_T10_S4_Mo_1 + 3 x_T21_S14_Th_1 + 3 x_T24_S4_Tu_5 + 3 x_T8_S15_Tu_3 + 3 x_T6_S8_Fr_3 + 3 x_T26_S10_Fr_2 + 1 g_T30_S8 + 3 x_T5_S1_Tu_3 + 3 x_T9_S17_Mo_1 + 3 x_T20_S6_Th_1 + 1 g_T29_S16 + 3 x_T24_S4_Mo_4 + 3 x_T23_S2_Tu_3 + 3 x_T29_S1_Fr_2 + 3 x_T24_S20_Fr_2 + 3 x_T12_S14_Th_5 + 3 x_T17_S16_Th_3 + 3 x_T27_S2_We_1 + 1 g_T10_S3 + 3 x_T30_S2_Th_2 + 3 x_T14_S17_We_1 + 3 x_T24_S13_Tu_3 + 3 x_T28_S15_Fr_1 + 3 x_T14_S1_Mo_1 + 3 x_T23_S12_Tu_1 + 3 x_T23_S10_Fr_2 + 3 x_T6_S10_Th_2 + 3 x_T31_S9_Mo_5 + 3 x_T20_S1_Tu_1 + 3 x_T22_S20_Fr_5 + 3 x_T11_S9_We_1 + 3 x_T15_S14_Tu_3 + 3 x_T26_S13_Mo_3 + 3 x_T10_S4_Mo_4 + 3 x_T24_S15_Fr_2 + 3 x_T16_S12_Tu_3 + 3 x_T33_S20_Fr_5 + 3 x_T31_S15_Tu_2 + 3 x_T26_S1_Mo_4 + 3 x_T29_S10_Mo_3 + 3 x_T3_S13_Tu_4 + 3 x_T8_S11_Th_5 + 3 x_T33_S19_Fr_1 + 3 x_T3_S13_Fr_4 + 3 x_T32_S1_Mo_2 + 1 g_T32_S8 + 3 x_T33_S16_We_4 + 3 x_T1_S3_Fr_3 + 3 x_T20_S2_Th_3 + 3 x_T14_S3_Fr_5 + 3 x_T11_S6_Fr_2 + 3 x_T2_S8_Fr_5 + 3 x_T32_S6_We_4 + 3 x_T16_S7_Tu_5 + 3 x_T33_S18_We_1 + 3 x_T31_S18_We_5 + 3 x_T11_S8_Mo_4 + 3 x_T20_S5_We_3 + 3 x_T9_S18_Mo_1 + 3 x_T13_S18_We_5 + 3 x_T1_S1_We_1 + 3 x_T18_S14_Tu_2 + 3 x_T9_S17_We_2 + 3 x_T28_S6_Fr_1 + 1 g_T30_S11 + 3 x_T29_S7_Fr_3 + 3 x_T27_S2_Th_5 + 3 x_T5_S3_Mo_1 + 3 x_T30_S14_We_5 + 3 x_T17_S1_Tu_4 + 3 x_T32_S19_Th_2 + 3 x_T6_S7_Th_5 + 3 x_T20_S5_Mo_4 + 3 x_T11_S7_Th_5 + 3 x_T25_S8_Fr_1 + 3 x_T19_S8_Th_4 + 3 x_T20_S5_We_4 + 3 x_T30_S8_Fr_5 + 3 x_T28_S9_Mo_4 + 3 x_T21_S10_Th_2 + 3 x_T32_S3_Th_2 + 3 x_T6_S10_Mo_2 + 3 x_T11_S10_Th_3 + 3 x_T7_S9_Fr_3 + 3 x_T20_S6_Th_2 + 3 x_T32_S19_Mo_2 + 3 x_T13_S19_Th_3 + 3 x_T18_S11_Mo_5 + 3 x_T2_S10_We_2 + 3 x_T1_S2_We_3 + 3 x_T22_S20_Tu_1 + 3 x_T11_S9_Tu_1 + 3 x_T11_S8_Mo_1 + 3 x_T5_S1_Th_1 + 3 x_T18_S18_Th_3 + 3 x_T18_S11_Th_5 + 3 x_T25_S9_Mo_4 + 3 x_T15_S6_Th_5 + 3 x_T20_S7_Tu_5 + 3 x_T20_S6_Fr_4 + 3 x_T2_S11_Mo_3 + 3 x_T23_S10_Tu_2 + 3 x_T9_S17_Mo_4 + 3 x_T20_S4_Mo_5 + 3 x_T16_S7_Mo_3 + 3 x_T31_S12_Th_5 + 3 x_T15_S14_Fr_5 + 3 x_T10_S3_Tu_3 + 3 x_T5_S4_Tu_4 + 3 x_T8_S16_Mo_5 + 3 x_T7_S13_Tu_2 + 3 x_T33_S16_We_2 + 3 x_T13_S18_Mo_5 + 3 x_T16_S20_We_4 + 3 x_T27_S14_Mo_3 + 3 x_T11_S6_Tu_2 + 3 x_T29_S16_Th_4 + 3 x_T2_S9_Mo_5 + 3 x_T32_S3_Mo_2 + 3 x_T18_S11_Tu_1 + 3 x_T32_S6_Th_1 + 3 x_T24_S14_Tu_2 + 3 x_T32_S19_We_1 + 3 x_T21_S9_Tu_3 + 3 x_T31_S3_Fr_2 + 3 x_T32_S7_Mo_3 + 3 x_T9_S15_Mo_1 + 3 x_T30_S5_We_1 + 3 x_T21_S8_Fr_1 + 3 x_T8_S11_Fr_1 + 1 g_T23_S19 + 3 x_T1_S4_Tu_3 + 3 x_T32_S9_Mo_4 + 3 x_T26_S4_We_2 + 3 x_T20_S7_Th_5 + 3 x_T22_S20_Th_4 + 3 x_T20_S3_Fr_3 + 3 x_T14_S3_Fr_4 + 3 x_T18_S14_Th_1 + 3 x_T25_S9_Mo_2 + 3 x_T16_S20_We_3 + 1 g_T15_S6 + 3 x_T32_S6_Tu_4 + 3 x_T23_S19_Fr_2 + 3 x_T21_S11_Tu_3 + 3 x_T32_S6_Fr_3 + 3 x_T29_S4_Tu_2 + 3 x_T13_S18_Tu_3 + 3 x_T15_S5_We_3 + 3 x_T22_S16_Tu_2 + 3 x_T12_S11_Mo_4 + 3 x_T26_S10_Fr_4 + 3 x_T13_S18_Th_5 + 1 g_T9_S17 + 3 x_T9_S15_Tu_5 + 3 x_T30_S17_Th_4 + 3 x_T21_S9_Th_5 + 3 x_T30_S14_Th_1 + 3 x_T26_S16_Fr_3 + 3 x_T12_S14_Tu_5 + 3 x_T3_S15_Fr_2 + 3 x_T18_S14_Tu_1 + 3 x_T15_S4_Mo_3 + 3 x_T17_S10_Th_4 + 3 x_T5_S2_We_1 + 3 x_T30_S2_Th_5 + 3 x_T15_S4_Fr_5 + 3 x_T25_S9_Fr_3 + 3 x_T20_S4_Th_5 + 3 x_T32_S16_Tu_4 + 3 x_T29_S16_Mo_2 + 3 x_T15_S18_Fr_5 + 3 x_T3_S14_Th_3 + 3 x_T5_S14_Fr_5 + 3 x_T24_S6_Th_5 + 3 x_T23_S1_We_4 + 3 x_T6_S6_Th_1 + 3 x_T28_S3_We_5 + 3 x_T32_S20_Tu_3 + 3 x_T27_S8_Fr_2 + 3 x_T6_S5_Th_5 + 3 x_T28_S12_We_4 + 3 x_T31_S20_Fr_5 + 3 x_T7_S9_Tu_2 + 3 x_T33_S19_We_4 + 3 x_T23_S3_Mo_3 + 3 x_T6_S5_Mo_2 + 3 x_T15_S11_Fr_5 + 3 x_T2_S9_Th_4 + 3 x_T21_S12_Tu_4 + 3 x_T17_S13_Mo_5 + 3 x_T10_S5_Th_3 + 3 x_T17_S3_We_3 + 3 x_T32_S19_Tu_5 + 3 x_T16_S20_Fr_2 + 3 x_T22_S18_We_2 + 3 x_T19_S15_Mo_1 + 3 x_T14_S16_We_3 + 3 x_T28_S9_Th_2 + 3 x_T15_S14_Fr_3 + 3 x_T24_S4_Fr_4 + 3 x_T18_S18_Fr_1 + 3 x_T21_S14_We_1 + 3 x_T25_S17_Th_2 + 3 x_T25_S16_Fr_2 + 3 x_T11_S6_Th_2 + 3 x_T16_S12_Th_5 + 3 x_T20_S6_Fr_5 + 3 x_T25_S18_Th_4 + 3 x_T22_S18_Fr_4 + 3 x_T18_S11_Mo_1 + 3 x_T32_S6_Tu_2 + 3 x_T31_S18_Tu_5 + 3 x_T27_S14_We_3 + 3 x_T12_S13_Mo_5 + 3 x_T32_S5_Mo_4 + 3 x_T30_S8_We_2 + 3 x_T5_S14_Mo_5 + 3 x_T24_S4_We_4 + 3 x_T7_S10_We_5 + 3 x_T1_S1_Th_3 + 3 x_T15_S19_Tu_5 + 3 x_T31_S20_Tu_1 + 3 x_T29_S1_Mo_2 + 3 x_T24_S5_Th_3 + 3 x_T33_S20_Tu_3 + 9 y_T7 + 3 x_T18_S5_Fr_5 + 3 x_T19_S8_Mo_4 + 3 x_T24_S6_Mo_4 + 1 g_T16_S9 + 3 x_T15_S14_Mo_3 + 3 x_T25_S8_Fr_2 + 3 x_T32_S2_Th_5 + 3 x_T10_S1_Tu_1 + 3 x_T32_S2_Fr_3 + 3 x_T9_S15_Mo_3 + 1 g_T5_S14 + 3 x_T27_S2_Fr_1 + 3 x_T22_S20_Fr_2 + 3 x_T32_S20_Tu_1 + 3 x_T25_S8_Tu_1 + 3 x_T17_S16_Th_1 + 9 y_T23 + 3 x_T28_S3_We_2 + 3 x_T17_S16_We_1 + 1 g_T12_S14 + 3 x_T2_S8_Mo_1 + 3 x_T27_S17_We_5 + 3 x_T10_S4_Tu_1 + 3 x_T15_S11_Th_3 + 3 x_T20_S5_Mo_3 + 3 x_T17_S2_Tu_1 + 3 x_T31_S18_We_4 + 3 x_T15_S19_We_5 + 3 x_T21_S8_We_5 + 3 x_T25_S8_Mo_4 + 3 x_T30_S2_Mo_5 + 3 x_T24_S14_Fr_2 + 3 x_T18_S19_Mo_5 + 3 x_T21_S13_Th_2 + 3 x_T5_S1_We_3 + 3 x_T19_S7_Fr_4 + 3 x_T2_S7_Mo_3 + 3 x_T28_S3_We_3 + 3 x_T31_S15_Tu_3 + 3 x_T23_S10_Fr_5 + 3 x_T32_S3_Fr_4 + 3 x_T28_S18_Tu_5 + 3 x_T32_S7_Th_1 + 1 g_T33_S18 + 3 x_T21_S9_Mo_3 + 9 y_T21 + 3 x_T31_S15_Fr_1 + 3 x_T32_S4_We_4 + 3 x_T3_S15_Tu_3 + 3 x_T21_S12_Th_5 + 3 x_T15_S5_Tu_2 + 3 x_T22_S15_We_2 + 3 x_T3_S14_Mo_1 + 3 x_T30_S8_Mo_5 + 3 x_T32_S6_Tu_1 + 3 x_T4_S19_Fr_2 + 3 x_T17_S10_We_5 + 3 x_T12_S15_Fr_1 + 3 x_T33_S16_Mo_5 + 3 x_T15_S6_We_5 + 3 x_T26_S16_We_4 + 3 x_T28_S15_Th_5 + 3 x_T15_S5_We_1 + 3 x_T16_S8_We_5 + 3 x_T27_S14_Tu_2 + 1 g_T29_S13 + 3 x_T17_S3_Th_1 + 3 x_T16_S9_Mo_2 + 3 x_T30_S5_Tu_4 + 3 x_T15_S11_Tu_1 + 3 x_T11_S10_Fr_4 + 3 x_T30_S5_We_2 + 3 x_T32_S16_Fr_5 + 3 x_T20_S6_We_3 + 3 x_T7_S11_Th_3 + 3 x_T25_S7_Th_4 + 3 x_T22_S18_Fr_5 + 3 x_T17_S1_Th_3 + 3 x_T13_S20_Fr_5 + 3 x_T27_S11_Fr_3 + 3 x_T9_S19_Fr_4 + 3 x_T15_S19_Fr_5 + 3 x_T32_S16_Tu_5 + 3 x_T32_S7_We_5 + 3 x_T29_S7_Fr_5 + 3 x_T23_S1_Tu_4 + 3 x_T6_S6_Mo_1 + 3 x_T32_S16_Fr_1 + 3 x_T27_S14_We_2 + 3 x_T18_S19_Tu_2 + 3 x_T7_S12_We_4 + 3 x_T31_S3_Th_5 + 3 x_T9_S17_Tu_1 + 3 x_T2_S11_Mo_4 + 3 x_T9_S18_We_2 + 3 x_T16_S15_Fr_1 + 3 x_T30_S14_Tu_3 + 3 x_T31_S9_Mo_2 + 3 x_T27_S11_Fr_4 + 1 g_T26_S19 + 3 x_T32_S9_Fr_4 + 3 x_T17_S13_Mo_3 + 3 x_T15_S6_Tu_4 + 3 x_T16_S8_Th_3 + 3 x_T32_S18_We_2 + 3 x_T26_S10_We_1 + 3 x_T21_S13_Th_4 + 3 x_T19_S9_Tu_5 + 3 x_T19_S12_Fr_3 + 3 x_T17_S2_Mo_5 + 1 g_T17_S1 + 3 x_T20_S3_Mo_3 + 3 x_T16_S9_We_3 + 3 x_T25_S7_We_3 + 3 x_T4_S20_We_4 + 3 x_T3_S12_Fr_2 + 1 g_T32_S5 + 3 x_T6_S12_Mo_5 + 3 x_T16_S7_Fr_2 + 3 x_T24_S6_Fr_5 + 1 g_T7_S10 + 3 x_T3_S12_We_2 + 3 x_T5_S14_Tu_3 + 3 x_T17_S13_Tu_2 + 3 x_T19_S8_Fr_5 + 3 x_T9_S19_Mo_1 + 3 x_T23_S11_Fr_4 + 3 x_T6_S6_Th_4 + 3 x_T32_S20_Th_3 + 3 x_T2_S11_Th_4 + 3 x_T18_S14_We_5 + 3 x_T29_S10_Th_2 + 3 x_T10_S1_Mo_2 + 3 x_T29_S16_Tu_5 + 3 x_T6_S10_Th_1 + 3 x_T31_S15_Fr_4 + 3 x_T32_S7_We_4 + 3 x_T15_S4_We_1 + 3 x_T17_S1_Th_5 + 3 x_T32_S20_Tu_4 + 3 x_T5_S3_We_1 + 3 x_T10_S1_Tu_3 + 3 x_T23_S11_Mo_3 + 3 x_T22_S19_Mo_5 + 3 x_T30_S8_Mo_3 + 3 x_T5_S2_Mo_1 + 3 x_T7_S10_Tu_4 + 3 x_T21_S12_We_1 + 3 x_T12_S13_Fr_5 + 3 x_T7_S9_We_2 + 3 x_T19_S9_Fr_3 + 3 x_T13_S17_Tu_1 + 3 x_T18_S4_We_5 + 3 x_T27_S11_We_1 + 3 x_T27_S2_Fr_4 + 3 x_T30_S11_Fr_4 + 3 x_T7_S12_Tu_4 + 3 x_T20_S3_Fr_4 + 3 x_T4_S5_We_5 + 3 x_T32_S3_Mo_1 + 3 x_T4_S19_We_3 + 3 x_T21_S9_We_1 + 3 x_T30_S8_Th_3 + 3 x_T14_S2_Mo_3 + 3 x_T22_S20_Tu_3 + 3 x_T4_S19_Mo_4 + 3 x_T32_S1_We_2 + 3 x_T13_S16_Mo_1 + 3 x_T32_S9_Tu_5 + 1 g_T1_S4 + 3 x_T3_S15_Fr_4 + 3 x_T29_S16_Mo_1 + 3 x_T16_S15_We_3 + 3 x_T13_S17_Fr_5 + 3 x_T25_S7_Tu_3 + 1 g_T20_S1 + 3 x_T20_S2_We_5 + 3 x_T21_S13_Fr_3 + 3 x_T26_S16_Fr_5 + 3 x_T17_S1_Th_2 + 3 x_T30_S11_Th_4 + 3 x_T19_S15_Tu_5 + 3 x_T12_S12_Tu_1 + 3 x_T27_S8_Tu_1 + 3 x_T27_S2_We_4 + 1 g_T32_S17 + 3 x_T14_S16_Mo_3 + 3 x_T12_S12_We_4 + 3 x_T15_S6_Mo_2 + 3 x_T16_S8_Th_4 + 3 x_T31_S6_Fr_4 + 3 x_T22_S17_Th_2 + 3 x_T32_S3_Mo_3 + 3 x_T31_S20_We_5 + 3 x_T14_S13_Mo_2 + 3 x_T24_S15_Mo_5 + 3 x_T32_S3_Fr_5 + 3 x_T16_S15_Tu_1 + 3 x_T22_S15_Th_3 + 3 x_T4_S5_Tu_3 + 3 x_T2_S10_Fr_1 + 3 x_T28_S18_We_3 + 3 x_T13_S17_Tu_2 + 3 x_T13_S19_Th_4 + 3 x_T1_S1_Th_2 + 3 x_T27_S14_Tu_5 + 3 x_T31_S20_Th_1 + 3 x_T30_S17_We_4 + 3 x_T19_S9_We_3 + 3 x_T14_S17_We_5 + 3 x_T6_S10_Th_4 + 3 x_T1_S17_Th_1 + 3 x_T3_S12_We_1 + 3 x_T26_S7_We_1 + 3 x_T27_S2_Tu_2 + 3 x_T23_S10_We_3 + 3 x_T26_S7_We_2 + 3 x_T6_S8_We_2 + 3 x_T33_S20_Tu_5 + 3 x_T27_S5_Tu_5 + 3 x_T13_S16_Th_3 + 3 x_T19_S8_Fr_4 + 3 x_T5_S4_We_3 + 1 g_T20_S5 + 3 x_T17_S3_Tu_2 + 3 x_T18_S5_Fr_3 + 3 x_T20_S3_Fr_2 + 3 x_T19_S20_Mo_2 + 3 x_T19_S20_Fr_1 + 3 x_T21_S8_Fr_3 + 3 x_T26_S10_Mo_5 + 3 x_T24_S13_Th_3 + 3 x_T8_S16_Fr_5 + 3 x_T23_S2_Fr_2 + 3 x_T18_S18_Th_2 + 3 x_T25_S18_Mo_4 + 3 x_T24_S13_Mo_2 + 3 x_T26_S19_Th_5 + 3 x_T27_S20_Mo_4 + 3 x_T26_S10_Mo_2 + 3 x_T2_S8_Tu_1 + 3 x_T33_S18_Mo_2 + 3 x_T15_S4_Fr_1 + 3 x_T26_S7_Mo_2 + 3 x_T27_S17_Mo_1 + 3 x_T27_S17_Mo_4 + 3 x_T32_S9_Tu_3 + 3 x_T28_S18_We_4 + 3 x_T23_S19_Tu_5 + 3 x_T24_S20_Tu_3 + 3 x_T28_S12_Mo_4 + 3 x_T32_S9_We_2 + 3 x_T31_S12_We_3 + 1 g_T6_S10 + 3 x_T20_S7_Th_4 + 3 x_T22_S15_Mo_3 + 3 x_T24_S14_Th_3 + 3 x_T18_S6_Fr_1 + 3 x_T23_S12_Fr_2 + 3 x_T24_S5_Fr_5 + 3 x_T24_S15_Th_3 + 1 g_T27_S14 + 3 x_T17_S3_We_1 + 3 x_T12_S13_We_5 + 3 x_T19_S12_We_5 + 3 x_T15_S6_Th_4 + 3 x_T31_S3_We_1 + 3 x_T15_S6_Mo_3 + 3 x_T11_S6_Fr_4 + 3 x_T14_S13_Th_1 + 3 x_T33_S19_We_3 + 3 x_T17_S2_Th_4 + 3 x_T16_S12_Tu_1 + 3 x_T10_S5_We_4 + 3 x_T20_S7_We_4 + 3 x_T13_S18_Mo_1 + 3 x_T32_S20_Th_4 + 9 y_T18 + 3 x_T28_S18_Mo_1 + 3 x_T13_S16_Tu_1 + 3 x_T24_S14_We_4 + 3 x_T23_S2_Tu_1 + 3 x_T4_S6_Tu_2 + 3 x_T32_S18_Th_1 + 3 x_T18_S11_Th_1 + 3 x_T21_S9_Fr_2 + 3 x_T27_S2_Mo_2 + 3 x_T14_S2_Th_2 + 3 x_T1_S4_Mo_3 + 3 x_T32_S18_We_5 + 3 x_T18_S18_We_2 + 3 x_T14_S13_We_1 + 3 x_T29_S1_We_3 + 3 x_T27_S8_Th_2 + 3 x_T12_S12_Mo_3 + 3 x_T19_S20_Mo_3 + 9 y_T14 + 3 x_T33_S19_Mo_4 + 3 x_T19_S7_Fr_1 + 3 x_T7_S13_Mo_2 + 3 x_T6_S12_Mo_1 + 3 x_T8_S16_Tu_1 + 3 x_T18_S6_Tu_4 + 3 x_T24_S5_Th_2 + 3 x_T28_S6_Tu_5 + 3 x_T13_S20_Th_2 + 3 x_T16_S9_Mo_5 + 3 x_T27_S11_Th_3 + 3 x_T20_S7_Th_3 + 3 x_T26_S1_Tu_4 + 3 x_T6_S7_Tu_3 + 3 x_T14_S1_Tu_4 + 3 x_T32_S1_Th_5 + 3 x_T7_S12_Tu_2 + 1 g_T3_S13 + 3 x_T32_S5_Mo_3 + 3 x_T32_S3_Tu_5 + 3 x_T14_S17_Fr_3 + 3 x_T11_S8_Fr_5 + 3 x_T32_S18_We_3 + 3 x_T20_S2_Fr_5 + 3 x_T17_S1_Mo_2 + 3 x_T12_S12_Mo_2 + 3 x_T8_S11_We_1 + 3 x_T18_S14_Th_2 + 3 x_T31_S9_Tu_4 + 3 x_T2_S10_We_5 + 3 x_T30_S11_We_4 + 3 x_T10_S5_Mo_4 + 1 g_T22_S18 + 3 x_T3_S15_Fr_3 + 3 x_T26_S19_We_4 + 3 x_T19_S8_We_3 + 3 x_T2_S9_Fr_3 + 3 x_T8_S13_Tu_1 + 3 x_T4_S18_Th_3 + 3 x_T27_S5_Th_2 + 1 g_T17_S2 + 3 x_T3_S13_Mo_3 + 3 x_T6_S12_Tu_4 + 3 x_T22_S20_Fr_3 + 3 x_T14_S3_We_2 + 3 x_T22_S19_Mo_3 + 3 x_T32_S2_We_4 + 3 x_T32_S19_We_4 + 3 x_T21_S9_We_4 + 3 x_T13_S20_We_3 + 3 x_T23_S2_Tu_4 + 3 x_T4_S19_Mo_2 + 3 x_T2_S7_Th_2 + 3 x_T14_S13_Tu_5 + 3 x_T3_S15_We_4 + 3 x_T5_S4_Mo_2 + 3 x_T26_S16_Th_4 + 3 x_T18_S11_Tu_4 + 3 x_T13_S18_Th_3 + 3 x_T11_S7_Fr_4 + 3 x_T5_S3_Th_5 + 1 g_T6_S12 + 3 x_T14_S2_Tu_4 + 3 x_T1_S16_Th_4 + 3 x_T11_S8_Th_5 + 3 x_T29_S4_Fr_4 + 3 x_T5_S1_Mo_2 + 3 x_T8_S11_Tu_4 + 3 x_T18_S11_Fr_3 + 3 x_T27_S17_Fr_4 + 3 x_T14_S1_Fr_3 + 3 x_T26_S1_Th_4 + 3 x_T13_S17_We_4 + 3 x_T32_S7_Fr_5 + 3 x_T19_S15_Th_3 + 3 x_T11_S7_We_4 + 1 g_T21_S8 + 3 x_T14_S13_Th_5 + 3 x_T17_S1_Th_1 + 3 x_T30_S8_We_5 + 3 x_T2_S8_Th_2 + 3 x_T18_S14_Tu_5 + 3 x_T24_S13_We_3 + 3 x_T17_S17_Th_1 + 3 x_T21_S10_Fr_4 + 3 x_T24_S13_Th_2 + 3 x_T9_S19_Tu_5 + 3 x_T15_S6_Fr_1 + 3 x_T21_S11_We_3 + 3 x_T6_S6_Tu_3 + 3 x_T24_S6_Tu_4 + 3 x_T32_S9_Th_3 + 3 x_T31_S9_Th_1 + 3 x_T22_S20_Mo_4 + 3 x_T3_S14_Th_2 + 3 x_T32_S1_Mo_5 + 3 x_T32_S8_Fr_1 + 3 x_T6_S7_Fr_3 + 3 x_T5_S1_Fr_1 + 3 x_T19_S15_Tu_4 + 3 x_T33_S18_Fr_2 + 3 x_T31_S15_Tu_1 + 3 x_T20_S5_Tu_4 + 3 x_T8_S13_Mo_2 + 3 x_T10_S1_Mo_5 + 3 x_T6_S6_Th_3 + 3 x_T26_S7_Fr_5 + 3 x_T30_S17_We_5 + 3 x_T11_S6_Tu_4 + 3 x_T17_S10_Fr_2 + 3 x_T18_S18_Mo_5 + 3 x_T27_S2_We_3 + 3 x_T12_S13_Fr_3 + 3 x_T11_S6_Th_5 + 3 x_T29_S1_Tu_5 + 3 x_T15_S6_Tu_2 + 3 x_T5_S14_Tu_2 + 1 g_T24_S4 + 3 x_T16_S15_Fr_2 + 3 x_T21_S10_Fr_5 + 3 x_T31_S3_Fr_1 + 3 x_T15_S5_Th_3 + 3 x_T31_S9_Fr_1 + 3 x_T17_S17_Tu_5 + 3 x_T24_S6_Mo_1 + 3 x_T10_S3_Mo_2 + 3 x_T4_S6_Tu_4 + 3 x_T5_S3_Th_1 + 3 x_T18_S5_Mo_3 + 3 x_T27_S8_We_2 + 3 x_T25_S17_Fr_1 + 3 x_T23_S12_Mo_2 + 3 x_T21_S12_Tu_5 + 3 x_T29_S4_Mo_2 + 3 x_T15_S5_Tu_4 + 3 x_T28_S3_Mo_5 + 3 x_T17_S2_Th_3 + 3 x_T31_S3_Th_4 + 3 x_T21_S8_Th_4 + 3 x_T22_S19_We_1 + 3 x_T22_S15_Fr_4 + 3 x_T25_S16_We_5 + 3 x_T13_S19_Mo_5 + 3 x_T14_S3_Fr_3 + 3 x_T23_S12_Mo_3 + 3 x_T3_S13_Th_2 + 3 x_T11_S10_Th_1 + 3 x_T16_S15_We_2 + 3 x_T32_S16_Fr_3 + 3 x_T31_S15_Th_2 + 3 x_T4_S19_Fr_3 + 3 x_T16_S7_Mo_2 + 3 x_T16_S9_Tu_1 + 3 x_T14_S17_Th_2 + 3 x_T22_S18_We_5 + 3 x_T2_S11_Fr_2 + 3 x_T2_S11_We_5 + 3 x_T26_S7_Tu_4 + 3 x_T17_S3_Mo_2 + 3 x_T14_S13_We_5 + 3 x_T23_S10_Fr_4 + 3 x_T20_S3_Mo_5 + 3 x_T10_S5_Th_1 + 3 x_T2_S9_Fr_1 + 9 y_T28 + 3 x_T12_S13_Mo_2 + 3 x_T33_S16_Mo_1 + 3 x_T17_S2_Fr_5 + 3 x_T21_S13_Mo_4 + 3 x_T24_S14_Mo_2 + 3 x_T2_S7_Th_1 + 3 x_T18_S5_Th_5 + 3 x_T20_S7_Th_1 + 3 x_T27_S17_Mo_5 + 3 x_T9_S20_Tu_2 + 3 x_T20_S5_Mo_2 + 3 x_T33_S17_Tu_5 + 3 x_T15_S18_Tu_5 + 3 x_T28_S3_We_4 + 3 x_T16_S12_Th_2 + 3 x_T21_S9_Th_1 + 3 x_T19_S12_Fr_5 + 3 x_T10_S5_Fr_4 + 3 x_T14_S1_We_5 + 3 x_T32_S9_Tu_2 + 3 x_T13_S17_Th_4 + 3 x_T32_S4_Mo_1 + 3 x_T7_S9_We_5 + 3 x_T7_S12_Fr_1 + 3 x_T10_S1_Fr_1 + 3 x_T13_S20_Fr_3 + 3 x_T17_S2_Fr_1 + 3 x_T7_S9_We_3 + 3 x_T8_S11_Th_3 + 3 x_T30_S5_Tu_2 + 3 x_T25_S16_Tu_4 + 3 x_T12_S15_We_4 + 3 x_T26_S1_Fr_4 + 3 x_T16_S12_Fr_3 + 3 x_T32_S18_Th_3 + 3 x_T14_S10_We_3 + 3 x_T15_S18_Mo_4 + 3 x_T29_S4_Mo_5 + 3 x_T28_S6_We_3 + 3 x_T12_S14_We_4 + 3 x_T29_S16_Th_3 + 3 x_T6_S7_We_5 + 3 x_T32_S20_Mo_4 + 3 x_T17_S3_Fr_3 + 3 x_T20_S5_Tu_1 + 3 x_T17_S2_Fr_4 + 3 x_T2_S9_Fr_5 + 1 g_T18_S11 + 3 x_T18_S5_Th_3 + 3 x_T25_S17_Fr_5 + 3 x_T15_S4_Tu_5 + 3 x_T32_S2_Th_2 + 3 x_T14_S13_Tu_4 + 3 x_T16_S15_We_5 + 3 x_T32_S3_We_4 + 1 g_T22_S17 + 3 x_T8_S14_Tu_3 + 3 x_T22_S15_Th_2 + 1 g_T18_S18 + 3 x_T32_S6_Mo_4 + 3 x_T29_S13_We_3 + 3 x_T12_S14_Mo_5 + 3 x_T5_S1_Tu_4 + 3 x_T13_S19_Fr_4 + 3 x_T22_S16_Th_2 + 3 x_T22_S20_Th_3 + 3 x_T32_S20_Mo_2 + 9 y_T19 + 3 x_T7_S10_Fr_3 + 3 x_T1_S2_Fr_1 + 3 x_T23_S1_Tu_1 + 3 x_T1_S1_Tu_5 + 3 x_T14_S16_Mo_1 + 3 x_T3_S13_We_1 + 3 x_T5_S2_Tu_2 + 3 x_T20_S1_We_5 + 9 y_T6 + 3 x_T16_S7_Fr_5 + 3 x_T27_S20_Fr_3 + 3 x_T29_S19_Mo_4 + 3 x_T8_S14_Tu_1 + 9 y_T29 + 3 x_T9_S17_Tu_5 + 3 x_T10_S2_Th_4 + 3 x_T7_S10_We_1 + 3 x_T1_S16_Fr_3 + 3 x_T10_S3_We_4 + 3 x_T24_S15_Tu_1 + 3 x_T6_S10_Tu_4 + 1 g_T18_S5 + 3 x_T4_S19_We_4 + 3 x_T20_S2_Fr_4 + 3 x_T30_S17_Mo_2 + 3 x_T6_S8_Th_4 + 3 x_T31_S12_Fr_5 + 3 x_T18_S19_Th_4 + 3 x_T16_S8_We_1 + 3 x_T29_S13_Tu_3 + 3 x_T4_S18_Mo_3 + 3 x_T29_S1_Mo_5 + 3 x_T4_S19_Tu_2 + 3 x_T27_S5_Tu_2 + 3 x_T30_S8_Fr_2 + 3 x_T10_S1_Tu_2 + 3 x_T32_S9_Mo_3 + 3 x_T17_S2_Fr_3 + 3 x_T24_S13_Tu_4 + 3 x_T1_S1_We_3 + 3 x_T14_S17_Mo_3 + 3 x_T5_S14_Tu_1 + 3 x_T17_S17_Fr_1 + 3 x_T31_S18_We_2 + 1 g_T6_S6 + 3 x_T19_S20_Th_2 + 3 x_T14_S3_Th_3 + 3 x_T17_S16_We_5 + 3 x_T18_S19_Mo_4 + 3 x_T27_S20_We_1 + 3 x_T25_S7_Mo_1 + 3 x_T32_S9_Fr_1 + 3 x_T22_S20_Th_5 + 1 g_T33_S19 + 3 x_T32_S3_Th_5 + 3 x_T7_S10_Tu_2 + 3 x_T13_S20_Mo_5 + 3 x_T24_S20_Mo_4 + 1 g_T32_S7 + 3 x_T22_S17_Fr_2 + 3 x_T5_S2_Fr_5 + 3 x_T21_S13_Tu_2 + 3 x_T10_S2_Th_2 + 3 x_T31_S20_Fr_1 + 3 x_T29_S19_We_5 + 9 y_T32 + 3 x_T26_S13_Mo_5 + 1 g_T16_S20 + 3 x_T32_S8_Fr_4 + 3 x_T11_S6_We_4 + 3 x_T27_S11_We_2 + 3 x_T23_S2_Fr_1 + 3 x_T20_S1_We_3 + 3 x_T27_S2_We_5 + 3 x_T16_S15_Mo_5 + 3 x_T32_S1_Th_1 + 1 g_T20_S6 + 3 x_T5_S14_Fr_4 + 1 g_T27_S20 + 3 x_T15_S14_Tu_1 + 3 x_T16_S8_Fr_1 + 3 x_T18_S4_Th_2 + 3 x_T13_S18_Th_2 + 3 x_T26_S7_We_5 + 3 x_T22_S18_Th_5 + 3 x_T20_S1_Fr_5 + 3 x_T10_S2_Tu_5 + 3 x_T6_S7_We_2 + 3 x_T22_S20_Fr_1 + 3 x_T28_S9_We_1 + 3 x_T28_S12_We_2 + 3 x_T6_S7_Fr_5 + 3 x_T30_S11_We_2 + 3 x_T25_S17_Mo_5 + 3 x_T8_S14_Th_4 + 3 x_T25_S16_Fr_3 + 3 x_T29_S1_Tu_4 + 3 x_T26_S4_Mo_1 + 3 x_T31_S12_Fr_4 + 3 x_T13_S18_Th_4 + 3 x_T22_S15_Mo_2 + 3 x_T2_S11_We_2 + 3 x_T1_S17_Th_3 + 3 x_T3_S15_Th_4 + 3 x_T18_S18_Tu_1 + 3 x_T26_S19_Mo_5 + 3 x_T28_S12_Th_2 + 3 x_T14_S2_Tu_5 + 3 x_T16_S9_Fr_4 + 3 x_T3_S15_We_1 + 3 x_T27_S11_Tu_5 + 3 x_T10_S1_Tu_4 + 3 x_T5_S1_We_5 + 3 x_T32_S17_Tu_5 + 3 x_T29_S10_Tu_5 + 3 x_T28_S18_Fr_1 + 3 x_T25_S8_Tu_4 + 3 x_T15_S19_Tu_3 + 3 x_T15_S11_We_5 + 3 x_T27_S5_We_4 + 3 x_T21_S14_Tu_3 + 3 x_T18_S11_We_2 + 1 g_T27_S5 + 3 x_T27_S17_Tu_4 + 3 x_T14_S17_Th_3 + 3 x_T24_S20_Fr_5 + 3 x_T23_S3_Mo_2 + 3 x_T17_S2_Mo_4 + 3 x_T1_S2_Mo_2 + 3 x_T3_S14_Th_5 + 3 x_T10_S5_Mo_1 + 3 x_T23_S19_Fr_4 + 3 x_T31_S20_Fr_3 + 3 x_T21_S13_Fr_4 + 3 x_T3_S15_Mo_1 + 3 x_T1_S16_We_2 + 3 x_T2_S7_Mo_5 + 3 x_T18_S6_Tu_1 + 3 x_T21_S8_Tu_3 + 3 x_T25_S9_We_5 + 3 x_T10_S3_Tu_5 + 3 x_T32_S6_We_5 + 3 x_T26_S4_We_5 + 3 x_T30_S2_Mo_2 + 3 x_T15_S11_Mo_2 + 3 x_T28_S9_We_3 + 3 x_T32_S5_We_5 + 3 x_T28_S3_Fr_5 + 3 x_T23_S11_Tu_5 + 3 x_T30_S5_Th_1 + 3 x_T23_S11_We_2 + 3 x_T27_S14_Tu_1 + 3 x_T31_S18_Tu_1 + 3 x_T25_S8_Fr_4 + 3 x_T4_S18_We_4 + 3 x_T27_S2_Fr_3 + 3 x_T14_S16_Mo_2 + 3 x_T24_S14_Th_1 + 3 x_T12_S13_Mo_4 + 3 x_T15_S14_Tu_2 + 3 x_T22_S19_Tu_1 + 3 x_T23_S1_Fr_3 + 3 x_T28_S18_Tu_4 + 3 x_T22_S16_Th_3 + 3 x_T20_S4_We_2 + 3 x_T4_S5_Fr_5 + 3 x_T24_S13_Fr_5 + 3 x_T31_S6_Tu_3 + 1 g_T20_S7 + 3 x_T24_S14_Mo_5 + 3 x_T9_S19_Mo_4 + 3 x_T23_S11_We_5 + 1 g_T21_S13 + 3 x_T32_S6_We_1 + 3 x_T32_S8_Mo_1 + 3 x_T33_S19_Th_3 + 3 x_T10_S4_Mo_3 + 3 x_T28_S9_Fr_1 + 3 x_T14_S10_Mo_2 + 3 x_T31_S20_Mo_3 + 3 x_T1_S17_Fr_4 + 3 x_T5_S2_Mo_2 + 3 x_T23_S11_Mo_5 + 3 x_T32_S1_Th_3 + 3 x_T30_S8_Tu_1 + 3 x_T2_S9_Tu_2 + 3 x_T10_S1_Fr_4 + 3 x_T17_S13_We_4 + 3 x_T20_S2_Mo_5 + 3 x_T9_S20_Fr_2 + 9 y_T26 + 3 x_T15_S4_Th_4 + 3 x_T1_S17_Mo_3 + 3 x_T28_S15_Tu_3 + 3 x_T4_S5_We_1 + 3 x_T26_S1_Mo_2 + 3 x_T9_S15_Fr_1 + 3 x_T31_S12_Fr_3 + 3 x_T25_S7_Tu_5 + 3 x_T17_S1_Th_4 + 3 x_T33_S18_Th_2 + 3 x_T22_S16_Tu_5 + 3 x_T7_S9_Fr_1 + 3 x_T5_S3_Tu_2 + 3 x_T1_S16_Fr_4 + 3 x_T20_S7_Tu_3 + 3 x_T17_S10_We_2 + 3 x_T33_S20_Th_2 + 3 x_T27_S20_Tu_1 + 3 x_T28_S18_Mo_2 + 3 x_T15_S18_Tu_4 + 1 g_T16_S15 + 3 x_T6_S7_Tu_5 + 3 x_T9_S15_Mo_2 + 3 x_T13_S20_Mo_3 + 3 x_T32_S2_Th_3 + 3 x_T18_S14_Fr_3 + 3 x_T22_S18_Mo_2 + 3 x_T6_S12_Tu_1 + 3 x_T20_S3_Tu_5 + 3 x_T2_S7_We_3 + 3 x_T26_S13_We_5 + 3 x_T31_S12_Mo_1 + 3 x_T10_S1_Mo_4 + 3 x_T6_S8_We_3 + 3 x_T18_S6_Th_1 + 3 x_T31_S18_Mo_2 + 3 x_T1_S1_Mo_4 + 3 x_T20_S1_We_2 + 3 x_T21_S13_Mo_1 + 3 x_T11_S10_Fr_1 + 3 x_T17_S17_Fr_3 + 3 x_T31_S6_Th_3 + 3 x_T26_S1_We_3 + 3 x_T2_S8_Mo_2 + 1 g_T12_S13 + 3 x_T8_S16_We_1 + 3 x_T6_S5_We_4 + 3 x_T28_S12_Fr_4 + 3 x_T6_S5_Fr_2 + 3 x_T21_S14_We_5 + 3 x_T14_S1_Th_5 + 3 x_T26_S16_We_5 + 3 x_T8_S15_Tu_4 + 3 x_T14_S3_Tu_2 + 3 x_T20_S1_Mo_3 + 3 x_T32_S20_Tu_5 + 3 x_T20_S6_Th_4 + 3 x_T29_S19_Tu_3 + 3 x_T15_S4_We_5 + 3 x_T7_S10_Mo_3 + 3 x_T10_S1_We_1 + 3 x_T9_S18_Mo_3 + 3 x_T32_S7_Th_5 + 1 g_T21_S11 + 1 g_T1_S1 + 3 x_T19_S7_Mo_5 + 3 x_T8_S11_Mo_5 + 3 x_T20_S7_Tu_2 + 3 x_T19_S9_We_4 + 3 x_T22_S20_Mo_5 + 3 x_T30_S11_Fr_2 + 3 x_T1_S16_We_4 + 3 x_T22_S15_Fr_1 + 3 x_T27_S17_Th_4 + 3 x_T22_S17_We_2 + 3 x_T23_S1_Tu_5 + 3 x_T12_S13_Fr_2 + 3 x_T8_S13_We_5 + 1 g_T28_S9 + 1 g_T4_S18 + 3 x_T19_S15_We_4 + 3 x_T14_S2_We_3 + 3 x_T1_S16_Tu_4 + 3 x_T2_S11_We_3 + 3 x_T23_S1_Th_1 + 1 g_T8_S16 + 3 x_T7_S13_We_2 + 3 x_T10_S3_Th_2 + 1 g_T14_S1 + 3 x_T1_S2_Th_1 + 3 x_T15_S18_Th_1 + 3 x_T14_S10_We_1 + 3 x_T33_S17_Mo_4 + 3 x_T20_S5_Th_2 + 3 x_T29_S1_Th_1 + 3 x_T5_S14_Th_2 + 3 x_T5_S14_Fr_2 + 3 x_T8_S13_Th_3 + 3 x_T22_S20_Th_1 + 3 x_T2_S8_Fr_4 + 3 x_T32_S4_Th_1 + 3 x_T7_S13_We_1 + 3 x_T16_S12_We_3 + 3 x_T12_S14_Mo_4 + 3 x_T21_S8_Mo_1 + 3 x_T30_S14_Th_2 + 3 x_T20_S5_We_5 + 3 x_T21_S12_Tu_1 + 3 x_T29_S10_We_4 + 3 x_T14_S1_Th_1 + 3 x_T25_S8_Th_2 + 3 x_T17_S1_Fr_3 + 3 x_T33_S16_Mo_4 + 3 x_T27_S8_Mo_3 + 3 x_T29_S13_Mo_2 + 3 x_T16_S20_Mo_1 + 3 x_T19_S12_Tu_3 + 3 x_T18_S6_Th_2 + 3 x_T10_S4_We_4 + 1 g_T27_S11 + 3 x_T23_S1_Fr_1 + 3 x_T7_S10_Fr_1 + 3 x_T31_S15_Mo_5 + 3 x_T20_S3_Th_4 + 3 x_T15_S18_We_4 + 3 x_T33_S17_Tu_3 + 3 x_T24_S4_Th_5 + 3 x_T6_S8_Fr_2 + 3 x_T1_S17_Mo_4 + 3 x_T30_S11_Tu_5 + 3 x_T32_S8_We_2 + 1 g_T5_S3 + 3 x_T15_S19_We_1 + 3 x_T8_S15_Fr_1 + 3 x_T31_S12_Mo_5 + 3 x_T2_S7_Fr_5 + 3 x_T20_S4_Fr_2 + 3 x_T22_S20_We_2 + 3 x_T13_S20_Th_3 + 3 x_T31_S15_Fr_3 + 3 x_T10_S1_Fr_2 + 3 x_T17_S10_Th_3 + 3 x_T33_S19_Tu_2 + 3 x_T7_S9_We_4 + 1 g_T29_S7 + 3 x_T11_S7_Tu_5 + 3 x_T29_S16_We_1 + 3 x_T19_S7_Th_5 + 3 x_T19_S15_Fr_4 + 3 x_T10_S3_Tu_2 + 3 x_T10_S2_Fr_3 + 3 x_T23_S10_Th_1 + 3 x_T15_S19_Mo_4 + 3 x_T28_S6_We_2 + 3 x_T12_S13_We_1 + 3 x_T6_S12_Th_5 + 3 x_T13_S17_Tu_5 + 3 x_T26_S10_Th_2 + 3 x_T13_S19_We_2 + 3 x_T26_S1_Th_1 + 3 x_T27_S20_Tu_3 + 3 x_T28_S12_We_3 + 3 x_T20_S7_We_2 + 3 x_T15_S19_Mo_3 + 3 x_T22_S20_Mo_1 + 3 x_T14_S1_Mo_4 + 3 x_T17_S2_We_1 + 3 x_T28_S15_Fr_5 + 3 x_T17_S16_Tu_1 + 3 x_T19_S12_Tu_4 + 3 x_T32_S17_We_2 + 3 x_T32_S7_Tu_4 + 3 x_T32_S4_Fr_1 + 3 x_T33_S16_Mo_3 + 3 x_T12_S11_Th_3 + 3 x_T28_S6_Mo_1 + 3 x_T23_S1_We_1 + 3 x_T1_S4_Th_5 + 3 x_T1_S16_Mo_1 + 3 x_T23_S19_Fr_1 + 3 x_T9_S17_We_3 + 3 x_T32_S4_Th_3 + 3 x_T4_S20_Th_2 + 3 x_T28_S9_Tu_4 + 3 x_T5_S1_Fr_2 + 3 x_T3_S13_Fr_3 + 3 x_T11_S10_Tu_4 + 3 x_T10_S4_Fr_1 + 3 x_T12_S11_Mo_5 + 3 x_T15_S4_Fr_2 + 3 x_T31_S20_Th_4 + 3 x_T29_S10_Th_4 + 3 x_T2_S9_Th_2 + 3 x_T3_S12_Fr_5 + 3 x_T12_S14_Tu_1 + 1 g_T31_S12 + 3 x_T32_S9_Mo_5 + 3 x_T15_S6_Tu_1 + 3 x_T16_S8_Mo_5 + 3 x_T31_S12_We_4 + 3 x_T4_S20_We_2 + 3 x_T13_S17_We_5 + 3 x_T33_S19_Mo_2 + 3 x_T9_S19_We_5 + 1 g_T9_S20 + 3 x_T7_S9_Mo_2 + 3 x_T7_S12_Tu_1 + 1 g_T19_S20 + 3 x_T21_S13_Mo_2 + 3 x_T5_S3_Fr_1 + 3 x_T7_S9_Tu_1 + 3 x_T17_S17_Fr_5 + 1 g_T32_S6 + 3 x_T14_S13_Fr_3 + 3 x_T18_S11_Tu_3 + 3 x_T19_S7_Th_2 + 3 x_T27_S20_Tu_2 + 9 y_T17 + 3 x_T18_S6_We_2 + 3 x_T20_S2_Tu_4 + 3 x_T21_S10_Th_1 + 3 x_T23_S11_Tu_2 + 3 x_T13_S17_Fr_4 + 3 x_T17_S3_Mo_5 + 3 x_T24_S4_Tu_1 + 3 x_T31_S3_Fr_5 + 3 x_T30_S14_We_2 + 3 x_T11_S6_Tu_5 + 3 x_T29_S13_Th_5 + 3 x_T15_S14_We_3 + 3 x_T31_S9_Tu_3 + 3 x_T19_S9_Mo_4 + 3 x_T18_S4_Fr_3 + 3 x_T31_S6_Tu_2 + 3 x_T31_S15_Tu_4 + 3 x_T27_S14_Th_4 + 3 x_T29_S10_We_5 + 3 x_T18_S6_We_4 + 3 x_T18_S6_We_3 + 3 x_T25_S17_Th_3 + 3 x_T31_S20_Tu_4 + 3 x_T21_S11_Th_4 + 3 x_T32_S3_Fr_2 + 3 x_T32_S5_Tu_4 + 3 x_T21_S13_Fr_5 + 1 g_T32_S9 + 3 x_T17_S2_We_2 + 3 x_T16_S12_Mo_1 + 1 g_T25_S7 + 3 x_T32_S1_We_4 + 3 x_T4_S19_We_2 + 3 x_T26_S1_Th_3 + 3 x_T20_S4_Mo_3 + 3 x_T27_S2_Mo_5 + 3 x_T3_S14_Fr_4 + 3 x_T10_S5_Tu_3 + 3 x_T10_S2_Mo_2 + 3 x_T25_S18_Tu_3 + 3 x_T23_S10_Th_3 + 3 x_T5_S1_Fr_3 + 3 x_T29_S13_Fr_3 + 3 x_T26_S16_Mo_3 + 3 x_T20_S4_We_5 + 3 x_T33_S20_Tu_4 + 3 x_T25_S18_We_3 + 3 x_T16_S15_Tu_5 + 3 x_T12_S12_Mo_1 + 3 x_T5_S4_Fr_4 + 3 x_T29_S4_Th_5 + 3 x_T8_S16_We_3 + 1 g_T25_S17 + 1 g_T1_S2 + 3 x_T32_S5_Mo_5 + 3 x_T19_S15_Mo_4 + 3 x_T20_S4_Mo_4 + 3 x_T32_S16_Th_3 + 3 x_T25_S17_Tu_1 + 3 x_T22_S18_Th_3 + 3 x_T24_S13_Th_5 + 3 x_T14_S13_Th_2 + 3 x_T25_S16_We_3 + 1 g_T3_S15 + 3 x_T4_S18_We_5 + 3 x_T22_S19_Th_3 + 3 x_T17_S10_Mo_2 + 3 x_T29_S19_We_3 + 3 x_T29_S19_Mo_5 + 3 x_T23_S11_We_3 + 3 x_T8_S14_Tu_5 + 3 x_T27_S20_Mo_3 + 3 x_T14_S17_Tu_5 + 3 x_T15_S6_We_2 + 3 x_T6_S12_We_4 + 3 x_T27_S17_Fr_2 + 3 x_T1_S3_Mo_5 + 3 x_T30_S8_Fr_4 + 3 x_T23_S2_We_2 + 3 x_T25_S9_Fr_2 + 3 x_T1_S3_Tu_2 + 3 x_T27_S11_Tu_2 + 3 x_T16_S15_Th_5 + 3 x_T25_S7_Tu_4 + 3 x_T18_S5_We_4 + 3 x_T20_S4_Tu_4 + 3 x_T19_S7_Fr_5 + 3 x_T28_S12_Tu_3 + 3 x_T15_S5_Fr_1 + 3 x_T13_S16_Tu_3 + 3 x_T28_S9_Mo_1 + 3 x_T23_S3_Th_3 + 3 x_T31_S6_We_4 + 1 g_T30_S2 + 3 x_T13_S19_Tu_1 + 3 x_T21_S9_Fr_5 + 3 x_T24_S20_Tu_2 + 3 x_T11_S9_Fr_1 + 3 x_T17_S13_Th_4 + 3 x_T26_S1_Fr_1 + 3 x_T32_S16_We_4 + 3 x_T10_S2_We_5 + 3 x_T18_S11_Fr_5 + 3 x_T33_S20_Mo_3 + 3 x_T10_S2_Th_1 + 3 x_T31_S15_We_2 + 3 x_T20_S6_Tu_1 + 3 x_T18_S5_We_2 + 3 x_T11_S7_Th_1 + 3 x_T11_S8_We_1 + 3 x_T33_S20_Mo_4 + 3 x_T32_S20_Th_5 + 3 x_T33_S20_Mo_2 + 1 g_T29_S1 + 3 x_T12_S11_Fr_5 + 3 x_T2_S8_We_5 + 3 x_T8_S14_We_3 + 3 x_T22_S19_Mo_4 + 3 x_T31_S18_Mo_5 + 3 x_T21_S14_Mo_3 + 3 x_T2_S8_Tu_2 + 3 x_T9_S19_We_1 + 3 x_T2_S11_Tu_1 + 3 x_T1_S4_Tu_2 + 3 x_T31_S12_Tu_3 + 3 x_T1_S17_Fr_2 + 3 x_T19_S9_We_5 + 3 x_T14_S13_Fr_1 + 3 x_T7_S12_Fr_5 + 3 x_T16_S12_Th_1 + 3 x_T7_S11_Th_1 + 3 x_T31_S20_Fr_2 + 3 x_T24_S13_Mo_1 + 3 x_T16_S20_Th_5 + 1 g_T2_S9 + 3 x_T3_S12_Fr_1 + 3 x_T20_S6_Mo_2 + 3 x_T9_S17_Fr_2 + 3 x_T4_S19_Fr_4 + 3 x_T22_S18_Mo_1 + 3 x_T26_S13_We_3 + 3 x_T16_S7_Mo_4 + 3 x_T14_S13_We_4 + 3 x_T13_S16_Th_5 + 3 x_T21_S14_Th_4 + 3 x_T33_S20_We_5 + 3 x_T10_S3_Fr_5 + 3 x_T29_S13_Th_2 + 3 x_T6_S7_Mo_2 + 3 x_T23_S2_Fr_3 + 3 x_T13_S17_We_1 + 3 x_T7_S11_Mo_3 + 3 x_T4_S20_Tu_1 + 3 x_T11_S8_Th_3 + 3 x_T18_S19_Fr_4 + 3 x_T5_S1_Mo_5 + 3 x_T10_S3_Fr_4 + 3 x_T32_S8_Tu_5 + 3 x_T14_S16_Tu_2 + 3 x_T29_S19_Mo_1 + 3 x_T4_S18_We_1 + 3 x_T18_S4_Tu_5 + 3 x_T1_S4_Fr_3 + 3 x_T10_S2_Fr_2 + 3 x_T26_S7_We_4 + 3 x_T11_S8_Th_4 + 3 x_T25_S17_We_3 + 3 x_T8_S16_Th_5 + 3 x_T9_S20_Fr_4 + 3 x_T26_S7_Mo_3 + 3 x_T33_S16_Fr_4 + 3 x_T30_S14_Fr_2 + 3 x_T4_S18_Tu_2 + 1 g_T32_S16 + 3 x_T9_S17_We_1 + 3 x_T30_S14_Fr_4 + 3 x_T31_S6_Th_1 + 3 x_T3_S13_Mo_5 + 3 x_T7_S10_Th_5 + 3 x_T24_S14_Fr_4 + 3 x_T21_S14_Th_2 + 3 x_T8_S14_Fr_2 + 3 x_T7_S11_Tu_5 + 3 x_T26_S19_Mo_4 + 3 x_T24_S5_Tu_5 + 3 x_T20_S3_Th_1 + 3 x_T17_S2_We_5 + 3 x_T27_S2_Th_2 + 3 x_T14_S2_Mo_2 + 3 x_T15_S11_Fr_2 + 3 x_T28_S18_Mo_3 + 3 x_T26_S13_Th_1 + 3 x_T17_S10_Fr_1 + 3 x_T14_S3_We_4 + 3 x_T23_S2_We_5 + 3 x_T11_S6_Mo_3 + 3 x_T31_S12_Tu_4 + 3 x_T31_S18_Th_4 + 3 x_T26_S4_We_4 + 3 x_T10_S1_Th_5 + 3 x_T13_S19_Tu_3 + 3 x_T6_S7_Th_2 + 3 x_T13_S20_Tu_1 + 3 x_T19_S20_Th_4 + 3 x_T16_S20_Fr_1 + 3 x_T3_S13_Fr_5 + 3 x_T31_S20_Th_2 + 3 x_T2_S8_Tu_3 + 3 x_T19_S8_Th_1 + 3 x_T12_S15_Th_1 + 3 x_T10_S4_Fr_2 + 1 g_T4_S5 + 3 x_T17_S3_Mo_4 + 3 x_T13_S16_Mo_5 + 3 x_T31_S6_Fr_3 + 3 x_T26_S7_Mo_4 + 3 x_T32_S9_Th_5 + 3 x_T30_S8_Tu_2 + 3 x_T23_S19_Th_2 + 3 x_T11_S6_Tu_3 + 3 x_T25_S16_Th_2 + 3 x_T17_S10_Mo_1 + 1 g_T16_S12 + 3 x_T20_S7_Fr_1 + 3 x_T4_S18_We_2 + 3 x_T6_S12_We_2 + 3 x_T28_S15_Mo_3 + 9 y_T12 + 3 x_T16_S8_Fr_5 + 3 x_T27_S8_Fr_5 + 3 x_T1_S16_Mo_2 + 3 x_T30_S8_Mo_4 + 3 x_T18_S5_Th_1 + 3 x_T22_S18_We_3 + 1 g_T18_S4 + 3 x_T8_S14_Mo_2 + 3 x_T11_S7_Mo_1 + 3 x_T20_S5_Tu_5 + 3 x_T21_S13_We_4 + 3 x_T15_S6_Mo_5 + 3 x_T20_S4_Tu_1 + 3 x_T12_S15_Tu_5 + 3 x_T18_S5_We_1 + 3 x_T26_S1_Fr_3 + 3 x_T27_S11_We_4 + 3 x_T16_S8_Mo_3 + 3 x_T31_S18_Th_3 + 1 g_T11_S10 + 3 x_T14_S3_Mo_2 + 3 x_T5_S2_Th_3 + 3 x_T15_S18_Mo_3 + 3 x_T2_S8_Th_1 + 3 x_T18_S14_We_2 + 3 x_T3_S13_Tu_2 + 3 x_T13_S17_Fr_1 + 3 x_T1_S17_Th_4 + 3 x_T16_S7_We_5 + 3 x_T13_S17_Th_3 + 3 x_T32_S6_Mo_1 + 3 x_T2_S9_Tu_1 + 3 x_T7_S9_Th_5 + 3 x_T9_S20_Th_3 + 3 x_T22_S19_Mo_1 + 3 x_T2_S8_Tu_4 + 3 x_T23_S12_Tu_3 + 3 x_T11_S6_We_2 + 3 x_T13_S19_Tu_5 + 3 x_T32_S17_Tu_2 + 3 x_T33_S20_Th_4 + 3 x_T1_S16_Tu_2 + 3 x_T25_S7_Th_1 + 3 x_T12_S15_We_3 + 3 x_T2_S10_Tu_1 + 3 x_T25_S18_Mo_1 + 3 x_T29_S10_Fr_1 + 3 x_T19_S12_Mo_4 + 3 x_T32_S17_We_5 + 3 x_T19_S20_Mo_5 + 3 x_T16_S7_Fr_1 + 3 x_T16_S12_Mo_2 + 3 x_T21_S14_Fr_5 + 3 x_T18_S14_Fr_1 + 3 x_T30_S2_Mo_1 + 3 x_T33_S19_Fr_3 + 3 x_T21_S12_We_5 + 3 x_T30_S8_We_3 + 3 x_T7_S12_Mo_1 + 3 x_T18_S18_We_3 + 3 x_T30_S2_Fr_1 + 3 x_T5_S2_We_5 + 3 x_T2_S10_Th_3 + 3 x_T1_S17_We_1 + 3 x_T14_S2_Th_1 + 3 x_T20_S2_Tu_2 + 3 x_T30_S5_Tu_5 + 3 x_T22_S15_Tu_3 + 3 x_T21_S12_Th_4 + 3 x_T12_S12_Th_2 + 3 x_T26_S4_Tu_2 + 3 x_T19_S9_Tu_2 + 3 x_T30_S5_Mo_4 + 1 g_T33_S20 + 3 x_T21_S10_Tu_4 + 3 x_T19_S15_Tu_2 + 3 x_T24_S20_Fr_4 + 3 x_T1_S1_Fr_2 + 3 x_T2_S10_Tu_3 + 3 x_T23_S2_Tu_2 + 3 x_T33_S18_Fr_5 + 3 x_T8_S13_Th_4 + 3 x_T12_S15_Th_3 + 3 x_T28_S9_Fr_3 + 3 x_T30_S5_Tu_1 + 3 x_T17_S2_Tu_2 + 3 x_T5_S4_Th_2 + 3 x_T33_S20_Th_3 + 3 x_T28_S6_Th_3 + 3 x_T32_S8_Th_3 + 3 x_T19_S8_Tu_4 + 3 x_T1_S17_We_4 + 3 x_T30_S14_We_1 + 3 x_T30_S11_We_3 + 3 x_T6_S10_Fr_3 + 3 x_T1_S4_Mo_4 + 3 x_T23_S3_Fr_1 + 3 x_T7_S9_Mo_4 + 3 x_T25_S18_Fr_5 + 3 x_T1_S16_Fr_2 + 3 x_T14_S10_Tu_2 + 3 x_T21_S13_We_2 + 3 x_T16_S20_We_5 + 3 x_T26_S10_We_4 + 3 x_T30_S5_Fr_3 + 3 x_T26_S19_Th_3 + 3 x_T10_S1_Th_2 + 3 x_T25_S16_We_2 + 1 g_T33_S17 + 3 x_T33_S18_Th_5 + 3 x_T3_S15_Th_2 + 3 x_T11_S9_Th_4 + 3 x_T2_S11_We_1 + 3 x_T25_S16_Mo_4 + 3 x_T30_S17_Tu_5 + 3 x_T29_S19_Tu_1 + 3 x_T13_S20_Fr_2 + 3 x_T20_S1_Th_5 + 3 x_T18_S14_Mo_1 + 3 x_T21_S11_Mo_3 + 3 x_T31_S15_We_3 + 3 x_T12_S15_Fr_2 + 3 x_T32_S6_Tu_5 + 3 x_T20_S2_Mo_4 + 3 x_T20_S5_Th_4 + 3 x_T28_S18_Fr_4 + 3 x_T3_S15_Fr_1 + 3 x_T15_S14_We_4 + 3 x_T25_S16_Th_5 + 3 x_T31_S9_Fr_4 + 3 x_T16_S12_We_1 + 3 x_T32_S9_Tu_4 + 3 x_T32_S7_We_2 + 3 x_T31_S9_We_2 + 3 x_T18_S4_We_1 + 3 x_T6_S8_Fr_5 + 3 x_T13_S20_Mo_1 + 3 x_T33_S17_Fr_4 + 3 x_T15_S6_Tu_3 + 3 x_T27_S8_We_3 + 3 x_T27_S17_We_3 + 3 x_T32_S4_Mo_5 + 3 x_T23_S1_Fr_2 + 3 x_T23_S12_Tu_5 + 3 x_T11_S6_Mo_4 + 3 x_T17_S2_We_4 + 3 x_T30_S5_We_3 + 3 x_T32_S19_We_3 + 3 x_T8_S16_Fr_2 + 3 x_T14_S16_Tu_3 + 3 x_T5_S3_Fr_3 + 3 x_T15_S18_Fr_1 + 3 x_T28_S9_Th_3 + 3 x_T7_S12_We_3 + 3 x_T33_S17_We_3 + 3 x_T4_S18_Tu_1 + 3 x_T20_S5_Th_3 + 1 g_T32_S18 + 3 x_T15_S5_We_2 + 3 x_T25_S9_Tu_4 + 3 x_T20_S4_Fr_5 + 3 x_T11_S6_Mo_2 + 3 x_T20_S4_Tu_2 + 3 x_T14_S1_Mo_2 + 3 x_T15_S6_Fr_5 + 3 x_T28_S18_Th_3 + 3 x_T27_S8_Mo_2 + 3 x_T25_S17_Fr_3 + 3 x_T28_S3_Tu_4 + 3 x_T30_S2_We_4 + 3 x_T17_S13_Tu_4 + 3 x_T14_S3_We_3 + 3 x_T5_S4_Mo_1 + 3 x_T19_S9_Fr_4 + 3 x_T21_S14_Mo_4 + 3 x_T19_S12_Fr_4 + 1 g_T6_S5 + 3 x_T31_S20_Th_3 + 3 x_T7_S10_We_4 + 3 x_T5_S14_We_4 + 3 x_T29_S1_Th_3 + 3 x_T31_S18_Fr_4 + 3 x_T6_S7_We_4 + 3 x_T30_S2_Fr_5 + 3 x_T24_S14_We_1 + 3 x_T6_S5_Tu_2 + 3 x_T4_S5_We_2 + 3 x_T14_S17_Tu_2 + 3 x_T26_S1_Tu_5 + 3 x_T21_S9_Tu_2 + 3 x_T13_S17_Th_1 + 3 x_T31_S6_Mo_5 + 3 x_T15_S11_Tu_5 + 3 x_T27_S11_Tu_4 + 3 x_T8_S15_Mo_3 + 3 x_T30_S11_Mo_1 + 3 x_T31_S18_Th_2 + 3 x_T28_S15_Mo_5 + 3 x_T27_S11_Mo_3 + 3 x_T9_S18_We_3 + 3 x_T8_S15_Mo_4 + 3 x_T26_S1_Th_5 + 3 x_T1_S16_Th_2 + 3 x_T19_S8_Tu_5 + 3 x_T29_S10_Th_1 + 3 x_T19_S7_Tu_1 + 3 x_T5_S14_Fr_1 + 3 x_T22_S20_Tu_4 + 3 x_T8_S16_Tu_2 + 3 x_T5_S1_Fr_5 + 3 x_T4_S20_Th_3 + 3 x_T16_S8_Fr_2 + 3 x_T8_S16_Th_2 + 3 x_T19_S20_Tu_4 + 3 x_T7_S11_Fr_5 + 3 x_T30_S5_Th_4 + 3 x_T30_S14_We_4 + 3 x_T31_S6_Fr_5 + 3 x_T18_S14_Th_3 + 3 x_T30_S14_Mo_2 + 3 x_T16_S9_Tu_5 + 3 x_T31_S12_Th_4 + 3 x_T27_S17_Tu_1 + 3 x_T7_S11_Th_5 + 3 x_T19_S8_Tu_2 + 3 x_T26_S19_Tu_3 + 3 x_T16_S12_Th_4 + 3 x_T30_S11_Th_3 + 3 x_T19_S8_We_1 + 3 x_T32_S9_Th_4 + 3 x_T27_S14_Fr_4 + 3 x_T32_S7_We_3 + 3 x_T4_S20_Fr_1 + 3 x_T28_S18_Tu_1 + 3 x_T10_S3_Fr_3 + 3 x_T18_S19_Th_1 + 3 x_T30_S5_Mo_2 + 3 x_T5_S2_Tu_3 + 3 x_T28_S3_Tu_3 + 3 x_T7_S10_Mo_4 + 3 x_T28_S6_Tu_2 + 3 x_T32_S2_Fr_1 + 3 x_T18_S19_Mo_2 + 3 x_T9_S15_Fr_4 + 3 x_T30_S14_We_3 + 3 x_T30_S11_Fr_1 + 3 x_T10_S5_Fr_3 + 3 x_T15_S5_Mo_1 + 3 x_T19_S7_Tu_2 + 3 x_T32_S1_Tu_2 + 3 x_T5_S1_Th_5 + 3 x_T22_S16_Tu_4 + 3 x_T20_S2_Fr_2 + 3 x_T31_S6_Tu_1 + 3 x_T26_S10_Th_5 + 3 x_T9_S19_Fr_3 + 3 x_T2_S11_Th_5 + 3 x_T21_S11_Th_5 + 3 x_T18_S4_Mo_5 + 3 x_T14_S17_We_3 + 3 x_T1_S2_Mo_5 + 3 x_T10_S5_We_2 + 3 x_T16_S9_Tu_4 + 3 x_T4_S6_We_5 + 3 x_T14_S1_Tu_5 + 3 x_T28_S3_Th_1 + 3 x_T23_S3_Tu_5 + 3 x_T20_S3_Fr_5 + 3 x_T32_S17_Mo_3 + 3 x_T19_S15_We_1 + 3 x_T25_S17_Tu_5 + 3 x_T32_S7_Fr_3 + 3 x_T5_S2_Th_5 + 3 x_T15_S19_Tu_2 + 3 x_T11_S7_Fr_2 + 3 x_T24_S14_Mo_3 + 3 x_T10_S3_We_2 + 3 x_T32_S20_We_3 + 3 x_T20_S1_Mo_5 + 3 x_T29_S13_Th_3 + 3 x_T14_S3_Th_2 + 3 x_T2_S7_Fr_1 + 3 x_T29_S1_Mo_1 + 3 x_T25_S7_We_1 + 3 x_T21_S14_Fr_3 + 3 x_T19_S20_Tu_1 + 3 x_T27_S8_Th_5 + 3 x_T30_S11_Fr_5 + 3 x_T14_S17_Tu_1 + 3 x_T7_S12_Fr_3 + 1 g_T7_S11 + 3 x_T19_S20_Th_3 + 3 x_T6_S6_Fr_3 + 3 x_T5_S4_Fr_5 + 3 x_T3_S12_Tu_3 + 3 x_T11_S7_Tu_1 + 3 x_T31_S18_Th_1 + 3 x_T17_S1_We_4 + 3 x_T32_S8_Mo_4 + 3 x_T7_S9_Fr_5 + 3 x_T21_S11_Th_2 + 3 x_T22_S16_Th_1 + 3 x_T32_S2_Fr_2 + 3 x_T5_S2_Fr_3 + 3 x_T24_S20_Mo_5 + 3 x_T27_S5_Mo_4 + 3 x_T1_S3_We_2 + 3 x_T29_S7_Fr_4 + 3 x_T23_S11_Tu_1 + 3 x_T11_S9_Th_2 + 3 x_T21_S10_Tu_5 + 3 x_T25_S17_Mo_4 + 3 x_T30_S17_We_3 + 3 x_T4_S20_Mo_3 + 3 x_T12_S11_Tu_2 + 3 x_T19_S7_Th_1 + 3 x_T30_S8_Tu_4 + 3 x_T14_S10_Th_4 + 3 x_T26_S16_We_3 + 3 x_T5_S3_Mo_3 + 3 x_T16_S20_Tu_5 + 3 x_T32_S9_Th_2 + 3 x_T30_S14_Mo_1 + 3 x_T6_S8_Tu_2 + 3 x_T11_S10_Th_4 + 3 x_T16_S15_Tu_3 + 3 x_T33_S20_Tu_1 + 3 x_T9_S19_Th_3 + 3 x_T21_S8_Tu_1 + 3 x_T5_S4_Mo_3 + 3 x_T8_S15_Th_3 + 3 x_T23_S3_Fr_5 + 3 x_T26_S16_Tu_1 + 3 x_T24_S13_Tu_2 + 3 x_T8_S14_We_2 + 3 x_T10_S3_Mo_3 + 3 x_T5_S2_Mo_5 + 3 x_T26_S4_Fr_2 + 3 x_T20_S3_Th_5 + 3 x_T32_S1_Th_4 + 3 x_T1_S16_Tu_3 + 3 x_T33_S20_Fr_1 + 3 x_T14_S10_Fr_1 + 3 x_T26_S4_Tu_3 + 3 x_T24_S6_Fr_4 + 3 x_T22_S16_We_4 + 9 y_T9 + 3 x_T9_S18_Tu_2 + 3 x_T20_S2_Mo_2 + 3 x_T21_S9_Fr_1 + 3 x_T13_S18_Tu_1 + 3 x_T10_S4_We_1 + 3 x_T31_S6_We_1 + 3 x_T20_S6_We_1 + 3 x_T32_S7_Fr_1 + 3 x_T6_S12_Mo_2 + 3 x_T20_S6_Tu_4 + 3 x_T32_S8_We_4 + 3 x_T18_S18_Th_5 + 3 x_T27_S5_Th_4 + 3 x_T23_S12_We_4 + 3 x_T28_S6_Th_1 + 3 x_T18_S19_Tu_1 + 3 x_T26_S16_Th_2 + 3 x_T8_S14_Th_1 + 3 x_T5_S4_Th_1 + 3 x_T32_S3_Tu_4 + 3 x_T4_S5_Fr_2 + 1 g_T13_S18 + 3 x_T21_S8_We_4 + 3 x_T32_S2_We_1 + 3 x_T27_S14_Th_1 + 3 x_T16_S8_Fr_3 + 1 g_T26_S16 + 3 x_T18_S11_Tu_5 + 3 x_T29_S7_Th_1 + 3 x_T20_S1_Th_4 + 3 x_T23_S10_Mo_4 + 3 x_T27_S20_We_5 + 3 x_T32_S6_We_3 + 3 x_T6_S12_Fr_2 + 1 g_T19_S15 + 3 x_T23_S2_We_4 + 3 x_T32_S20_We_5 + 3 x_T18_S5_Fr_4 + 3 x_T25_S16_Th_3 + 3 x_T30_S11_Mo_2 + 3 x_T33_S16_Th_1 + 3 x_T18_S5_Fr_1 + 3 x_T26_S16_Tu_3 + 3 x_T7_S12_Mo_4 + 3 x_T8_S13_Tu_4 + 3 x_T6_S5_We_3 + 3 x_T19_S8_We_5 + 3 x_T28_S15_Fr_2 + 3 x_T5_S14_Th_1 + 3 x_T2_S8_Th_5 + 3 x_T22_S19_Tu_2 + 3 x_T10_S5_Tu_4 + 3 x_T2_S9_Th_3 + 3 x_T14_S2_Mo_1 + 3 x_T21_S9_Tu_4 + 3 x_T29_S16_We_4 + 3 x_T29_S19_Fr_3 + 3 x_T8_S14_We_5 + 3 x_T32_S3_We_3 + 3 x_T6_S10_We_1 + 3 x_T8_S15_Tu_1 + 1 g_T28_S6 + 3 x_T32_S6_Mo_5 + 3 x_T3_S13_Tu_1 + 3 x_T20_S3_Fr_1 + 3 x_T32_S19_We_5 + 3 x_T4_S19_Mo_3 + 3 x_T31_S9_Fr_3 + 3 x_T29_S1_Th_2 + 3 x_T27_S11_Th_1 + 3 x_T29_S10_Mo_5 + 3 x_T26_S7_Fr_1 + 3 x_T6_S12_Fr_5 + 3 x_T16_S12_Fr_2 + 3 x_T12_S13_We_2 + 3 x_T29_S19_Th_4 + 3 x_T19_S9_Th_2 + 3 x_T25_S7_Mo_4 + 3 x_T31_S12_Tu_1 + 3 x_T5_S3_Mo_2 + 3 x_T25_S9_We_4 + 3 x_T5_S4_Th_3 + 3 x_T4_S18_Th_2 + 3 x_T17_S1_Tu_5 + 3 x_T11_S8_Fr_2 + 3 x_T14_S16_Fr_2 + 1 g_T16_S8 + 3 x_T32_S9_Th_1 + 3 x_T6_S7_Th_1 + 3 x_T20_S5_Fr_3 + 3 x_T23_S19_We_3 + 3 x_T24_S15_We_1 + 1 g_T26_S13 + 3 x_T14_S16_We_1 + 3 x_T21_S14_Th_3 + 3 x_T6_S5_Th_2 + 3 x_T12_S15_We_2 + 3 x_T25_S17_Th_1 + 3 x_T1_S4_Fr_5 + 3 x_T29_S4_Th_3 + 3 x_T4_S19_Th_2 + 3 x_T24_S14_Fr_3 + 3 x_T3_S15_Tu_5 + 3 x_T15_S4_Fr_3 + 3 x_T5_S3_Tu_1 + 3 x_T10_S5_We_1 + 3 x_T12_S14_We_1 + 3 x_T26_S10_Fr_5 + 3 x_T29_S13_Mo_4 + 3 x_T15_S14_Mo_1 + 3 x_T25_S9_Fr_4 + 3 x_T11_S10_Fr_5 + 3 x_T8_S15_Fr_4 + 3 x_T2_S10_Th_5 + 3 x_T18_S14_We_3 + 3 x_T26_S1_Tu_1 + 3 x_T13_S20_We_1 + 3 x_T32_S1_We_1 + 3 x_T14_S10_Fr_3 + 3 x_T4_S5_Th_4 + 3 x_T24_S13_We_5 + 3 x_T30_S2_Th_3 + 3 x_T26_S4_Th_1 + 3 x_T33_S16_We_1 + 3 x_T10_S2_We_1 + 1 g_T24_S20 + 3 x_T4_S6_Tu_5 + 3 x_T16_S7_Tu_2 + 3 x_T15_S19_Fr_3 + 3 x_T3_S15_Tu_2 + 3 x_T18_S19_We_4 + 3 x_T19_S12_Tu_2 + 3 x_T33_S18_Mo_1 + 3 x_T22_S18_Tu_4 + 3 x_T14_S1_We_4 + 3 x_T14_S3_Tu_1 + 3 x_T27_S20_Fr_2 + 3 x_T5_S4_Tu_5 + 3 x_T2_S9_Tu_5 + 3 x_T13_S18_Fr_1 + 1 g_T12_S15 + 3 x_T17_S13_Th_2 + 3 x_T20_S1_We_1 + 3 x_T30_S11_Th_2 + 3 x_T10_S5_Tu_1 + 3 x_T33_S20_Fr_3 + 3 x_T29_S1_Mo_4 + 3 x_T29_S16_Fr_4 + 3 x_T32_S17_We_4 + 3 x_T14_S2_Mo_4 + 3 x_T11_S10_Mo_4 + 3 x_T6_S12_Fr_1 + 3 x_T10_S4_Th_3 + 3 x_T28_S9_Fr_5 + 1 g_T2_S7 + 3 x_T23_S11_Th_4 + 3 x_T25_S18_Tu_5 + 3 x_T2_S11_Tu_3 + 3 x_T31_S18_Mo_1 + 3 x_T4_S5_Mo_1 + 3 x_T17_S1_Fr_4 + 3 x_T21_S8_Th_5 + 3 x_T32_S2_Tu_5 + 3 x_T33_S18_Tu_5 + 3 x_T12_S13_Th_1 + 3 x_T33_S17_We_1 + 3 x_T4_S18_Tu_4 + 3 x_T6_S10_We_2 + 3 x_T25_S7_Fr_5 + 3 x_T26_S19_Tu_4 + 3 x_T18_S6_Fr_5 + 3 x_T30_S2_Tu_3 + 1 g_T8_S14 + 3 x_T15_S18_Th_4 + 3 x_T8_S15_Fr_2 + 3 x_T31_S18_Tu_3 + 3 x_T8_S15_Th_1 + 3 x_T20_S5_We_2 + 3 x_T8_S11_Tu_2 + 3 x_T1_S1_We_5 + 3 x_T19_S7_Tu_5 + 3 x_T33_S17_Mo_1 + 3 x_T19_S12_Mo_3 + 3 x_T8_S16_Th_4 + 3 x_T32_S17_Mo_2 + 3 x_T22_S19_We_5 + 3 x_T29_S13_Mo_3 + 3 x_T28_S9_Mo_3 + 3 x_T9_S19_Tu_1 + 3 x_T20_S2_We_3 + 3 x_T13_S20_Th_1 + 3 x_T32_S19_Mo_5 + 3 x_T32_S18_Th_4 + 3 x_T27_S20_We_3 + 3 x_T14_S13_Tu_1 + 3 x_T20_S2_Fr_3 + 3 x_T7_S13_Th_2 + 3 x_T23_S10_Th_5 + 3 x_T32_S8_Tu_1 + 3 x_T28_S6_Fr_2 + 3 x_T32_S16_Fr_4 + 3 x_T21_S13_Th_3 + 3 x_T23_S3_We_5 + 3 x_T21_S9_Mo_2 + 1 g_T14_S3 + 3 x_T26_S4_Th_2 + 3 x_T9_S19_Tu_4 + 3 x_T33_S16_Th_3 + 3 x_T20_S7_We_1 + 3 x_T23_S19_Tu_4 + 3 x_T30_S11_Mo_3 + 3 x_T17_S10_Mo_5 + 3 x_T14_S3_Tu_5 + 3 x_T27_S11_Th_5 + 1 g_T13_S19 + 3 x_T2_S10_We_4 + 3 x_T13_S17_Tu_4 + 3 x_T20_S7_Fr_4 + 3 x_T26_S7_Tu_2 + 3 x_T8_S16_Fr_1 + 3 x_T7_S10_Th_3 + 3 x_T32_S1_Tu_4 + 3 x_T12_S13_Tu_3 + 3 x_T14_S13_Mo_5 + 3 x_T8_S13_We_1 + 3 x_T6_S8_Th_3 + 3 x_T23_S3_Mo_1 + 3 x_T11_S7_Tu_3 + 3 x_T22_S20_We_3 + 3 x_T23_S10_Tu_1 + 3 x_T9_S17_Th_3 + 1 g_T13_S16 + 3 x_T19_S20_Tu_5 + 3 x_T12_S15_Fr_3 + 3 x_T20_S7_Mo_3 + 3 x_T6_S8_Th_2 + 3 x_T14_S16_Th_2 + 3 x_T17_S1_Mo_5 + 3 x_T32_S1_We_3 + 3 x_T14_S16_We_5 + 3 x_T27_S17_Fr_5 + 3 x_T20_S7_Th_2 + 3 x_T32_S19_Tu_3 + 3 x_T6_S6_Fr_5 + 3 x_T7_S12_Th_2 + 3 x_T30_S17_Fr_1 + 3 x_T9_S18_Th_2 + 3 x_T22_S17_Th_4 + 3 x_T33_S19_Mo_1 + 3 x_T14_S16_Th_3 + 3 x_T18_S11_We_3 + 3 x_T16_S8_Tu_3 + 3 x_T2_S7_Mo_4 + 3 x_T19_S7_Mo_4 + 3 x_T31_S9_Tu_5 + 3 x_T27_S8_Th_4 + 3 x_T12_S12_We_5 + 3 x_T3_S14_We_5 + 3 x_T27_S8_Mo_5 + 3 x_T16_S8_Tu_1 + 3 x_T27_S5_Mo_2 + 3 x_T13_S18_Tu_5 + 3 x_T2_S9_We_4 + 3 x_T21_S9_We_2 + 3 x_T11_S7_Th_4 + 3 x_T31_S9_Th_4 + 3 x_T30_S14_Mo_5 + 3 x_T4_S19_Mo_1 + 3 x_T19_S20_We_4 + 3 x_T30_S14_Mo_3 + 3 x_T4_S19_Th_1 + 3 x_T19_S20_Fr_5 + 3 x_T9_S15_Th_2 + 3 x_T18_S4_Fr_1 + 3 x_T7_S12_We_5 + 3 x_T14_S17_Tu_4 + 3 x_T32_S19_We_2 + 3 x_T30_S2_Tu_1 + 3 x_T6_S5_Mo_3 + 3 x_T30_S8_Tu_5 + 3 x_T24_S5_Fr_2 + 3 x_T25_S7_Tu_2 + 3 x_T25_S18_Th_2 + 3 x_T3_S15_Mo_3 + 3 x_T22_S19_We_4 + 3 x_T25_S9_We_3 + 3 x_T15_S4_Tu_2 + 3 x_T31_S18_We_3 + 3 x_T31_S20_Th_5 + 3 x_T28_S18_We_5 + 3 x_T20_S2_We_2 + 3 x_T15_S5_Th_4 + 3 x_T6_S10_We_4 + 3 x_T8_S16_Tu_3 + 3 x_T11_S6_We_3 + 3 x_T19_S15_Fr_2 + 3 x_T2_S7_Mo_2 + 3 x_T11_S8_Mo_3 + 3 x_T1_S17_Tu_4 + 3 x_T9_S17_Fr_1 + 3 x_T10_S4_We_5 + 3 x_T3_S15_Th_3 + 3 x_T21_S8_Th_3 + 3 x_T20_S2_Th_4 + 3 x_T22_S18_Mo_5 + 3 x_T20_S5_Fr_1 + 3 x_T30_S5_We_5 + 3 x_T26_S13_Mo_4 + 3 x_T33_S19_We_1 + 3 x_T29_S10_Fr_3 + 3 x_T27_S14_Th_5 + 3 x_T15_S14_We_1 + 3 x_T14_S16_Fr_5 + 3 x_T23_S3_Fr_4 + 3 x_T16_S12_Mo_3 + 3 x_T21_S8_Tu_2 + 3 x_T27_S17_Mo_3 + 3 x_T29_S16_Fr_2 + 3 x_T16_S7_Fr_4 + 3 x_T27_S11_Th_4 + 3 x_T8_S14_Fr_1 + 3 x_T23_S10_Th_4 + 1 g_T25_S18 + 3 x_T6_S7_Th_4 + 3 x_T7_S9_Mo_5 + 3 x_T23_S10_We_5 + 3 x_T11_S10_We_2 + 3 x_T32_S17_We_3 + 3 x_T17_S16_Mo_3 + 3 x_T24_S14_Tu_4 + 3 x_T11_S8_Tu_4 + 3 x_T32_S6_Mo_2 + 3 x_T32_S3_We_5 + 3 x_T1_S1_Fr_4 + 3 x_T25_S8_Tu_2 + 3 x_T18_S18_Fr_2 + 3 x_T28_S3_Mo_1 + 3 x_T8_S11_Mo_2 + 3 x_T26_S4_We_3 + 3 x_T19_S20_Mo_1 + 3 x_T24_S20_We_5 + 3 x_T20_S1_Mo_4 + 3 x_T23_S3_Fr_3 + 3 x_T33_S20_Th_5 + 3 x_T29_S10_Th_3 + 3 x_T31_S3_Th_1 + 3 x_T14_S10_Tu_3 + 3 x_T6_S7_Tu_2 + 3 x_T22_S19_Fr_1 + 3 x_T10_S1_We_5 + 3 x_T27_S5_Mo_1 + 3 x_T10_S4_Th_2 + 3 x_T12_S15_Fr_4 + 3 x_T22_S19_Th_5 + 3 x_T21_S14_Tu_5 + 3 x_T28_S18_Fr_3 + 1 g_T29_S10 + 3 x_T25_S9_Th_3 + 3 x_T21_S14_We_3 + 3 x_T23_S3_We_2 + 3 x_T25_S16_Mo_1 + 3 x_T14_S13_We_2 + 3 x_T25_S7_Fr_3 + 3 x_T32_S16_Mo_4 + 3 x_T28_S3_Th_2 + 3 x_T13_S20_Th_5 + 3 x_T3_S13_Tu_5 + 3 x_T9_S17_Mo_5 + 1 g_T24_S14 + 3 x_T13_S18_Mo_3 + 3 x_T22_S18_Tu_3 + 3 x_T10_S3_Mo_1 + 3 x_T19_S12_We_1 + 3 x_T29_S13_Fr_2 + 3 x_T15_S4_Mo_1 + 3 x_T12_S11_Fr_2 + 3 x_T33_S20_Fr_4 + 3 x_T31_S18_Fr_1 + 3 x_T9_S17_Fr_4 + 3 x_T11_S8_Th_2 + 3 x_T16_S12_Th_3 + 3 x_T23_S12_Mo_5 + 3 x_T24_S5_We_2 + 3 x_T12_S12_Fr_5 + 3 x_T17_S17_Tu_4 + 3 x_T22_S17_Th_1 + 3 x_T20_S1_Tu_5 + 3 x_T3_S13_We_4 + 3 x_T18_S4_Th_3 + 3 x_T23_S12_Fr_4 + 3 x_T32_S18_Fr_2 + 3 x_T32_S7_Th_2 + 3 x_T29_S13_Fr_5 + 3 x_T22_S17_We_4 + 3 x_T24_S13_We_4 + 3 x_T19_S7_Th_4 + 3 x_T32_S20_Fr_4 + 3 x_T11_S7_We_5 + 1 g_T10_S1 + 3 x_T7_S9_Tu_5 + 3 x_T11_S7_Th_2 + 3 x_T10_S1_We_2 + 3 x_T6_S12_Tu_3 + 3 x_T29_S19_Tu_4 + 3 x_T23_S19_We_2 + 3 x_T6_S10_Fr_2 + 3 x_T14_S10_Th_2 + 3 x_T19_S15_Fr_3 + 1 g_T23_S11 + 3 x_T4_S6_Mo_5 + 3 x_T33_S18_Tu_3 + 3 x_T15_S18_Tu_2 + 3 x_T3_S14_We_1 + 3 x_T31_S15_Mo_1 + 3 x_T15_S5_Tu_3 + 3 x_T23_S11_We_1 + 3 x_T1_S2_We_5 + 3 x_T20_S4_Th_3 + 3 x_T8_S11_Tu_5 + 3 x_T33_S19_We_2 + 3 x_T5_S4_We_4 + 3 x_T18_S18_Mo_2 + 3 x_T24_S6_We_1 + 3 x_T4_S20_Mo_4 + 3 x_T5_S2_Mo_4 + 3 x_T11_S10_Mo_2 + 3 x_T28_S18_We_1 + 3 x_T28_S12_Th_3 + 3 x_T2_S9_We_1 + 3 x_T1_S4_We_3 + 3 x_T25_S18_We_5 + 3 x_T27_S20_We_2 + 3 x_T18_S11_Mo_2 + 1 g_T2_S8 + 3 x_T17_S3_Tu_1 + 3 x_T17_S13_Th_1 + 3 x_T28_S3_Fr_1 + 3 x_T22_S19_Fr_3 + 3 x_T10_S1_Th_1 + 3 x_T17_S10_Tu_5 + 3 x_T31_S12_Tu_2 + 3 x_T26_S10_Tu_3 + 1 g_T17_S16 + 3 x_T8_S11_Fr_3 + 3 x_T18_S6_Mo_3 + 3 x_T13_S20_Tu_3 + 3 x_T33_S20_Mo_1 + 3 x_T30_S2_Th_4 + 3 x_T20_S6_Tu_2 + 3 x_T32_S19_Fr_3 + 3 x_T17_S10_Tu_3 + 3 x_T25_S16_Mo_5 + 3 x_T23_S12_We_3 + 3 x_T9_S17_Tu_2 + 3 x_T10_S1_Th_4 + 3 x_T9_S20_Mo_3 + 3 x_T12_S15_We_5 + 3 x_T1_S2_Fr_4 + 3 x_T29_S13_We_4 + 3 x_T32_S5_Th_4 + 3 x_T22_S18_Tu_2 + 1 g_T8_S11 + 3 x_T22_S16_Mo_1 + 3 x_T27_S17_Th_5 + 3 x_T5_S3_Tu_5 + 3 x_T16_S15_We_4 + 3 x_T20_S5_Mo_1 + 3 x_T18_S4_We_3 + 3 x_T14_S3_Mo_5 + 3 x_T17_S3_Fr_4 + 3 x_T5_S3_We_4 + 3 x_T22_S18_Th_1 + 3 x_T3_S14_Fr_1 + 3 x_T23_S12_Tu_4 + 3 x_T22_S20_Mo_3 + 3 x_T4_S19_Fr_1 + 3 x_T10_S5_Th_2 + 3 x_T4_S5_Mo_4 + 3 x_T26_S10_We_2 + 3 x_T7_S11_We_4 + 3 x_T27_S20_Th_3 + 3 x_T15_S14_Th_3 + 3 x_T32_S17_Th_1 + 3 x_T2_S10_Tu_5 + 3 x_T8_S14_Mo_5 + 3 x_T32_S3_Mo_4 + 3 x_T25_S8_We_1 + 3 x_T28_S18_Th_4 + 3 x_T4_S18_Mo_1 + 3 x_T22_S19_Mo_2 + 3 x_T29_S16_Th_1 + 3 x_T12_S14_Tu_2 + 3 x_T32_S16_We_1 + 3 x_T4_S19_Tu_5 + 3 x_T14_S1_We_3 + 3 x_T20_S6_We_5 + 3 x_T3_S14_Tu_2 + 3 x_T21_S12_Fr_1 + 3 x_T28_S3_Fr_2 + 3 x_T14_S3_Mo_1 + 3 x_T10_S1_Fr_3 + 3 x_T29_S10_We_3 + 3 x_T27_S14_Mo_2 + 3 x_T28_S9_Tu_5 + 3 x_T17_S2_Tu_3 + 3 x_T3_S14_Th_1 + 3 x_T21_S10_Tu_2 + 3 x_T12_S11_Mo_1 + 3 x_T1_S4_Th_3 + 3 x_T17_S16_Tu_3 + 3 x_T5_S4_Th_5 + 3 x_T14_S16_Fr_4 + 3 x_T31_S9_Fr_2 + 3 x_T9_S17_We_4 + 3 x_T22_S15_Mo_5 + 3 x_T26_S19_Th_1 + 3 x_T21_S12_Fr_3 + 3 x_T25_S18_Tu_4 + 3 x_T1_S17_Tu_3 + 3 x_T33_S16_Th_5 + 3 x_T27_S5_Mo_5 + 3 x_T1_S2_Fr_3 + 3 x_T27_S8_Tu_4 + 3 x_T8_S16_Fr_4 + 3 x_T19_S8_Fr_2 + 3 x_T11_S6_Fr_5 + 3 x_T19_S12_We_4 + 3 x_T26_S13_Tu_1 + 3 x_T18_S18_Tu_5 + 3 x_T19_S15_We_5 + 3 x_T2_S8_Fr_3 + 3 x_T26_S1_We_5 + 1 g_T27_S8 + 3 x_T23_S2_Fr_5 + 3 x_T21_S11_Fr_4 + 3 x_T15_S11_Fr_4 + 3 x_T23_S19_Th_3 + 3 x_T23_S2_Th_1 + 3 x_T25_S7_Fr_2 + 3 x_T31_S18_Mo_4 + 3 x_T32_S7_Mo_4 + 3 x_T13_S20_Fr_1 + 3 x_T4_S5_Tu_2 + 3 x_T32_S4_Tu_3 + 3 x_T1_S16_Tu_1 + 3 x_T8_S15_Fr_3 + 3 x_T25_S8_Mo_2 + 3 x_T2_S7_Fr_2 + 3 x_T20_S2_Fr_1 + 3 x_T8_S15_We_2 + 3 x_T13_S20_Tu_5 + 1 g_T8_S15 + 3 x_T2_S8_Fr_1 + 3 x_T31_S3_Fr_3 + 3 x_T25_S16_Th_4 + 3 x_T12_S11_We_5 + 3 x_T15_S5_Th_1 + 3 x_T19_S7_Tu_3 + 3 x_T2_S7_Th_4 + 3 x_T24_S15_Th_1 + 3 x_T4_S20_Tu_4 + 3 x_T26_S1_Mo_1 + 3 x_T17_S16_Tu_4 + 3 x_T3_S13_Mo_4 + 3 x_T8_S16_Mo_1 + 3 x_T23_S11_Th_2 + 3 x_T32_S17_Fr_4 + 3 x_T4_S6_Mo_2 + 3 x_T6_S6_Fr_2 + 3 x_T16_S7_Mo_5 + 3 x_T18_S5_Mo_1 + 3 x_T1_S2_Fr_2 + 3 x_T27_S2_Th_1 + 3 x_T17_S3_Tu_5 + 3 x_T26_S10_Th_4 + 3 x_T14_S13_Tu_3 + 3 x_T23_S1_We_2 + 3 x_T13_S16_Th_2 + 3 x_T11_S10_Mo_1 + 3 x_T14_S17_Mo_1 + 3 x_T32_S17_Th_5 + 3 x_T21_S9_Th_4 + 3 x_T14_S10_Mo_5 + 3 x_T25_S18_Fr_1 + 3 x_T17_S3_Th_3 + 3 x_T31_S15_We_4 + 3 x_T24_S14_Tu_5 + 3 x_T31_S3_Mo_1 + 3 x_T19_S7_Fr_2 + 3 x_T25_S8_Th_1 + 3 x_T25_S17_We_1 + 3 x_T28_S12_Mo_1 + 3 x_T7_S12_Th_5 + 3 x_T9_S17_Fr_5 + 3 x_T30_S2_Mo_4 + 3 x_T17_S3_We_4 + 3 x_T8_S15_We_1 + 3 x_T20_S5_We_1 + 3 x_T14_S3_We_1 + 3 x_T10_S1_Th_3 + 3 x_T19_S7_We_2 + 3 x_T28_S12_We_1 + 3 x_T9_S18_Mo_2 + 3 x_T14_S2_Tu_2 + 3 x_T23_S11_Fr_3 + 3 x_T24_S20_Th_2 + 3 x_T28_S3_Fr_3 + 3 x_T29_S16_Tu_3 + 3 x_T33_S16_Fr_2 + 3 x_T21_S12_We_4 + 3 x_T32_S3_Tu_3 + 3 x_T16_S20_Fr_5 + 3 x_T23_S2_Th_4 + 3 x_T11_S9_Fr_5 + 3 x_T1_S16_We_3 + 3 x_T32_S7_Fr_2 + 3 x_T26_S16_Mo_4 + 3 x_T3_S12_Th_5 + 3 x_T16_S9_Fr_2 + 3 x_T14_S1_Fr_4 + 3 x_T14_S10_Tu_1 + 9 y_T3 + 3 x_T13_S17_Mo_4 + 3 x_T28_S12_We_5 + 3 x_T20_S7_We_5 + 3 x_T16_S12_Tu_2 + 3 x_T30_S2_Fr_2 + 3 x_T18_S14_Mo_4 + 3 x_T23_S1_Mo_3 + 3 x_T15_S6_Fr_2 + 3 x_T6_S8_Th_1 + 3 x_T1_S4_We_4 + 3 x_T6_S5_Fr_1 + 3 x_T14_S3_Fr_1 + 3 x_T16_S20_Tu_3 + 3 x_T2_S9_Th_5 + 3 x_T7_S10_Th_2 + 3 x_T22_S15_Tu_5 + 3 x_T17_S16_Fr_1 + 3 x_T7_S10_We_3 + 3 x_T32_S20_Tu_2 + 3 x_T23_S12_Th_2 + 3 x_T21_S12_Mo_3 + 3 x_T4_S18_We_3 + 3 x_T24_S14_Tu_3 + 3 x_T15_S19_Th_1 + 3 x_T21_S10_Fr_2 + 3 x_T33_S17_We_5 + 1 g_T30_S17 + 3 x_T31_S15_Tu_5 + 3 x_T28_S9_Fr_2 + 3 x_T27_S5_Tu_1 + 3 x_T7_S13_Fr_1 + 3 x_T10_S4_Tu_2 + 3 x_T26_S19_Tu_1 + 3 x_T18_S6_Mo_2 + 3 x_T23_S11_Mo_4 + 3 x_T9_S20_Mo_4 + 3 x_T21_S12_We_2 + 3 x_T23_S12_Th_4 + 3 x_T18_S4_Mo_3 + 3 x_T15_S19_Tu_1 + 3 x_T16_S7_We_1 + 3 x_T10_S4_Mo_2 + 3 x_T1_S4_We_2 + 3 x_T32_S8_Mo_2 + 3 x_T18_S6_Mo_4 + 3 x_T24_S13_Mo_5 + 3 x_T16_S15_Mo_4 + 3 x_T3_S15_Fr_5 + 3 x_T11_S8_Mo_2 + 3 x_T27_S5_Tu_4 + 3 x_T17_S13_Fr_1 + 3 x_T3_S12_Tu_1 + 3 x_T20_S1_Tu_2 + 3 x_T18_S14_Mo_2 + 3 x_T4_S5_Fr_4 + 3 x_T15_S6_Th_2 + 3 x_T4_S20_Mo_2 + 3 x_T15_S18_We_5 + 3 x_T6_S12_We_5 + 3 x_T22_S18_Fr_2 + 3 x_T31_S20_Mo_4 + 3 x_T24_S6_Mo_2 + 3 x_T19_S15_Th_1 + 3 x_T31_S3_Th_3 + 3 x_T25_S17_Th_4 + 3 x_T31_S15_Mo_4 + 3 x_T5_S3_Th_3 + 3 x_T10_S3_Mo_4 + 3 x_T2_S7_We_1 + 3 x_T16_S12_We_4 + 3 x_T12_S14_Mo_2 + 3 x_T27_S11_Mo_2 + 3 x_T19_S20_Tu_3 + 3 x_T22_S19_Th_4 + 3 x_T3_S12_We_5 + 3 x_T18_S11_Fr_2 + 3 x_T23_S10_Mo_5 + 3 x_T30_S11_Mo_5 + 3 x_T14_S13_Fr_4 + 3 x_T1_S3_Tu_3 + 3 x_T13_S16_We_4 + 3 x_T26_S13_Fr_4 + 3 x_T27_S8_Fr_4 + 3 x_T1_S17_Fr_5 + 3 x_T30_S2_Tu_5 + 3 x_T10_S2_Tu_3 + 3 x_T21_S8_We_1 + 3 x_T32_S5_Th_1 + 3 x_T30_S17_Fr_3 + 3 x_T21_S10_Tu_1 + 3 x_T17_S3_Fr_1 + 3 x_T2_S7_We_5 + 3 x_T31_S12_Th_2 + 3 x_T30_S5_Tu_3 + 3 x_T8_S15_Th_2 + 3 x_T8_S14_Tu_4 + 3 x_T6_S8_Fr_1 + 3 x_T16_S12_Mo_5 + 3 x_T21_S11_Fr_3 + 3 x_T26_S19_Mo_3 + 3 x_T27_S14_Mo_5 + 3 x_T32_S5_We_1 + 3 x_T21_S8_Mo_3 + 3 x_T25_S8_Fr_3 + 3 x_T23_S12_Th_1 + 3 x_T1_S3_Th_3 + 3 x_T11_S6_Th_4 + 3 x_T29_S16_Mo_5 + 3 x_T27_S17_We_1 + 3 x_T32_S2_Fr_5 + 3 x_T22_S18_Fr_3 + 3 x_T17_S16_Mo_4 + 3 x_T20_S7_Tu_1 + 3 x_T13_S18_We_3 + 3 x_T5_S4_Tu_3 + 3 x_T10_S2_Fr_1 + 3 x_T13_S19_Mo_2 + 3 x_T10_S5_Tu_2 + 3 x_T17_S17_Tu_2 + 3 x_T29_S10_Tu_1 + 3 x_T14_S2_Fr_4 + 3 x_T6_S10_Fr_4 + 3 x_T15_S6_Th_3 + 3 x_T24_S5_We_1 + 3 x_T14_S16_Mo_4 + 3 x_T18_S6_We_1 + 3 x_T31_S6_Mo_2 + 3 x_T31_S9_Fr_5 + 3 x_T24_S5_Th_1 + 3 x_T29_S1_We_1 + 3 x_T23_S11_Mo_1 + 3 x_T29_S4_Th_4 + 3 x_T9_S18_Tu_5 + 3 x_T26_S4_Th_5 + 3 x_T1_S16_Mo_4 + 3 x_T8_S13_Fr_4 + 3 x_T9_S15_Fr_2 + 3 x_T7_S10_Fr_2 + 3 x_T23_S11_Fr_2 + 3 x_T15_S19_Mo_2 + 3 x_T33_S16_Th_4 + 3 x_T15_S5_Mo_4 + 3 x_T8_S13_Fr_1 + 3 x_T10_S3_Tu_1 + 3 x_T1_S2_We_4 + 3 x_T29_S19_We_1 + 3 x_T6_S6_We_4 + 3 x_T14_S17_Tu_3 + 3 x_T32_S8_Fr_2 + 3 x_T14_S13_Th_3 + 3 x_T25_S18_Mo_3 + 3 x_T4_S5_We_4 + 3 x_T32_S6_Fr_4 + 3 x_T20_S4_Fr_3 + 3 x_T31_S18_Fr_2 + 3 x_T30_S17_Tu_4 + 3 x_T10_S1_We_4 + 3 x_T26_S19_Mo_2 + 1 g_T19_S7 + 3 x_T10_S3_We_1 + 3 x_T29_S1_Fr_4 + 3 x_T11_S6_Th_3 + 3 x_T32_S5_We_2 + 3 x_T10_S1_Mo_3 + 3 x_T15_S6_Tu_5 + 3 x_T24_S20_Mo_3 + 3 x_T2_S10_Mo_3 + 3 x_T27_S11_Mo_5 + 3 x_T17_S13_Tu_3 + 3 x_T19_S15_Mo_3 + 3 x_T6_S6_Tu_5 + 3 x_T4_S19_Tu_3 + 3 x_T18_S18_Fr_4 + 3 x_T23_S3_Mo_4 + 3 x_T10_S2_Fr_5 + 3 x_T25_S17_Tu_4 + 3 x_T16_S8_Tu_4 + 3 x_T13_S19_Th_5 + 3 x_T16_S8_Th_1 + 3 x_T30_S2_We_2 + 3 x_T28_S6_Th_4 + 3 x_T24_S15_We_4 + 3 x_T32_S5_Fr_2 + 3 x_T24_S14_Fr_5 + 3 x_T25_S17_Mo_1 + 3 x_T25_S16_Tu_3 + 3 x_T9_S15_Tu_1 + 3 x_T16_S20_Mo_5 + 3 x_T21_S14_Fr_4 + 3 x_T3_S13_Th_5 + 3 x_T27_S5_Fr_5 + 3 x_T31_S6_Tu_5 + 3 x_T25_S17_Mo_3 + 3 x_T29_S4_Fr_5 + 3 x_T8_S11_We_2 + 3 x_T13_S17_Mo_5 + 3 x_T16_S7_Th_5 + 3 x_T19_S9_Th_3 + 3 x_T16_S20_Fr_4 + 3 x_T22_S20_Mo_2 + 3 x_T10_S3_Tu_4 + 3 x_T18_S11_Tu_2 + 3 x_T26_S4_Tu_1 + 3 x_T28_S12_Fr_5 + 3 x_T9_S15_We_1 + 3 x_T7_S13_We_3 + 3 x_T19_S9_Th_5 + 3 x_T28_S9_We_2 + 3 x_T22_S20_Tu_5 + 3 x_T7_S12_Fr_4 + 3 x_T17_S13_Tu_1 + 3 x_T30_S2_Tu_2 + 3 x_T27_S14_Fr_2 + 3 x_T32_S6_Th_3 + 3 x_T27_S14_We_1 + 3 x_T22_S18_We_4 + 3 x_T27_S11_Fr_5 + 3 x_T28_S6_Tu_3 + 3 x_T16_S15_Tu_2 + 3 x_T29_S19_Th_5 + 3 x_T24_S14_Tu_1 + 1 g_T26_S10 + 3 x_T9_S20_We_4 + 3 x_T27_S2_Fr_2 + 3 x_T15_S5_Tu_1 + 3 x_T30_S17_Th_5 + 3 x_T21_S11_We_2 + 3 x_T28_S6_Mo_2 + 3 x_T33_S18_Th_3 + 3 x_T31_S15_We_1 + 3 x_T18_S6_Th_4 + 3 x_T24_S20_Th_5 + 3 x_T4_S5_Mo_3 + 3 x_T16_S7_We_3 + 3 x_T32_S3_We_2 + 3 x_T2_S9_Mo_1 + 3 x_T26_S4_Fr_5 + 3 x_T4_S6_Th_2 + 3 x_T32_S8_We_3 + 3 x_T32_S16_Th_2 + 3 x_T14_S16_Fr_1 + 3 x_T27_S2_Th_3 + 3 x_T20_S7_Tu_4 + 3 x_T14_S17_Fr_1 + 3 x_T2_S11_Tu_4 + 3 x_T29_S10_Mo_1 + 3 x_T23_S11_Th_1 + 3 x_T26_S4_Mo_5 + 3 x_T25_S7_We_4 + 3 x_T2_S9_We_5 + 3 x_T31_S6_Th_4 + 1 g_T31_S20 + 3 x_T25_S18_Th_3 + 3 x_T33_S20_Mo_5 + 3 x_T9_S20_Mo_5 + 3 x_T8_S16_We_4 + 3 x_T16_S15_Mo_3 + 3 x_T32_S2_Mo_5 + 3 x_T13_S17_Mo_3 + 3 x_T10_S5_We_5 + 3 x_T3_S14_Fr_5 + 1 g_T29_S19 + 1 g_T5_S4 + 3 x_T31_S6_Mo_1 + 3 x_T29_S10_Fr_2 + 3 x_T25_S17_We_5 + 3 x_T32_S1_Fr_2 + 3 x_T18_S11_Fr_1 + 3 x_T1_S16_Tu_5 + 3 x_T29_S10_Tu_4 + 3 x_T5_S3_Mo_4 + 3 x_T6_S8_Th_5 + 3 x_T22_S20_Th_2 + 3 x_T2_S8_Mo_4 + 1 g_T33_S16 + 3 x_T32_S4_We_3 + 3 x_T3_S15_We_3 + 3 x_T29_S13_We_5 + 3 x_T17_S3_Mo_1 + 3 x_T5_S14_Th_5 + 3 x_T29_S7_We_1 + 3 x_T9_S18_We_5 + 3 x_T18_S19_Th_3 + 3 x_T23_S10_Tu_4 + 3 x_T11_S9_Tu_3 + 3 x_T30_S5_Mo_3 + 3 x_T7_S11_Mo_5 + 3 x_T22_S17_Fr_4 + 3 x_T6_S6_Th_5 + 3 x_T26_S4_Mo_3 + 3 x_T29_S19_Fr_5 + 3 x_T29_S10_Th_5 + 3 x_T31_S20_Fr_4 + 3 x_T22_S17_We_5 + 3 x_T1_S3_We_3 + 3 x_T25_S18_Fr_2 + 3 x_T8_S13_Fr_2 + 3 x_T23_S19_Th_1 + 3 x_T15_S19_We_2 + 3 x_T8_S13_Tu_2 + 3 x_T29_S19_Tu_2 + 3 x_T25_S8_Tu_5 + 3 x_T16_S8_Fr_4 + 3 x_T11_S7_Tu_2 + 3 x_T1_S2_Mo_4 + 3 x_T7_S9_Th_3 + 1 g_T11_S8 + 3 x_T13_S16_Tu_4 + 1 g_T32_S4 + 3 x_T25_S9_Mo_3 + 3 x_T11_S7_Fr_3 + 3 x_T9_S17_We_5 + 3 x_T11_S9_We_4 + 3 x_T27_S8_Mo_1 + 3 x_T10_S5_Th_4 + 3 x_T20_S3_We_3 + 3 x_T11_S9_We_2 + 3 x_T18_S4_We_4 + 3 x_T19_S12_Tu_5 + 3 x_T27_S5_We_1 + 3 x_T14_S1_Fr_2 + 3 x_T2_S9_We_2 + 3 x_T16_S7_Tu_1 + 3 x_T16_S20_Fr_3 + 3 x_T4_S18_Fr_4 + 3 x_T10_S4_Th_1 + 3 x_T6_S7_We_3 + 3 x_T11_S8_Tu_1 + 3 x_T19_S9_Th_1 + 3 x_T7_S10_Mo_1 + 3 x_T33_S17_Th_2 + 3 x_T31_S3_Th_2 + 3 x_T13_S20_Fr_4 + 3 x_T23_S1_Mo_1 + 3 x_T1_S2_Tu_4 + 3 x_T31_S6_Th_5 + 3 x_T21_S10_Tu_3 + 3 x_T19_S9_Tu_4 + 3 x_T4_S6_We_1 + 3 x_T27_S5_We_3 + 3 x_T3_S15_Th_1 + 3 x_T31_S12_Tu_5 + 3 x_T32_S2_We_2 + 3 x_T6_S8_Tu_3 + 3 x_T17_S2_Tu_5 + 3 x_T1_S16_We_1 + 3 x_T28_S18_We_2 + 3 x_T17_S13_We_5 + 3 x_T28_S12_Th_1 + 3 x_T12_S14_We_3 + 3 x_T25_S18_We_4 + 3 x_T18_S14_Th_5 + 3 x_T17_S1_Fr_5 + 3 x_T28_S9_We_5 + 3 x_T2_S8_Th_3 + 3 x_T13_S16_Fr_5 + 3 x_T16_S15_Mo_2 + 3 x_T18_S4_Tu_1 + 3 x_T20_S3_Tu_2 + 3 x_T14_S16_We_4 + 3 x_T24_S14_Mo_4 + 3 x_T21_S8_Tu_5 + 3 x_T19_S12_We_3 + 3 x_T16_S20_Tu_1 + 3 x_T32_S7_Tu_1 + 3 x_T4_S6_Fr_4 + 3 x_T6_S12_We_1 + 3 x_T22_S15_Mo_1 + 3 x_T32_S16_Fr_2 + 3 x_T23_S1_Th_3 + 3 x_T19_S15_Th_5 + 9 y_T5 + 3 x_T26_S4_Mo_4 + 3 x_T13_S19_Fr_3 + 3 x_T15_S19_Fr_4 + 3 x_T29_S1_We_5 + 3 x_T17_S3_Fr_5 + 3 x_T1_S3_Th_4 + 3 x_T27_S14_Th_2 + 3 x_T26_S13_Fr_1 + 3 x_T16_S8_We_3 + 3 x_T4_S5_Tu_5 + 3 x_T10_S2_Mo_3 + 3 x_T5_S3_Th_2 + 3 x_T10_S3_Th_5 + 1 g_T14_S16 + 3 x_T20_S7_Mo_1 + 3 x_T14_S10_Th_3 + 3 x_T8_S14_We_1 + 3 x_T16_S7_Th_1 + 3 x_T32_S17_Th_2 + 3 x_T15_S11_We_3 + 3 x_T4_S6_We_2 + 3 x_T9_S20_Fr_3 + 3 x_T32_S4_Fr_3 + 3 x_T16_S15_Tu_4 + 3 x_T21_S12_Th_1 + 3 x_T2_S10_Fr_2 + 3 x_T23_S12_Fr_3 + 3 x_T15_S4_Mo_2 + 3 x_T8_S13_Fr_3 + 3 x_T32_S7_Th_3 + 3 x_T14_S16_Tu_5 + 3 x_T33_S17_Mo_2 + 3 x_T13_S16_We_3 + 3 x_T30_S8_Th_1 + 3 x_T15_S5_Th_2 + 3 x_T19_S7_We_1 + 3 x_T10_S2_Th_3 + 3 x_T12_S13_Mo_1 + 3 x_T15_S18_Mo_1 + 3 x_T14_S17_We_2 + 3 x_T12_S14_Th_4 + 3 x_T13_S16_Fr_1 + 3 x_T7_S10_Mo_2 + 3 x_T29_S13_Fr_1 + 3 x_T17_S3_Mo_3 + 3 x_T6_S6_Tu_1 + 3 x_T17_S17_Mo_5 + 3 x_T30_S14_Th_4 + 3 x_T18_S6_Tu_2 + 3 x_T24_S4_Th_1 + 3 x_T6_S10_Th_5 + 3 x_T2_S7_Tu_5 + 3 x_T3_S12_Mo_2 + 3 x_T29_S4_Tu_4 + 1 g_T16_S7 + 3 x_T23_S19_Fr_5 + 3 x_T6_S8_We_1 + 1 g_T24_S6 + 3 x_T32_S8_Mo_3 + 3 x_T1_S16_Th_3 + 3 x_T29_S13_Mo_5 + 3 x_T21_S9_We_5 + 3 x_T31_S18_Th_5 + 3 x_T1_S1_We_2 + 3 x_T32_S18_Mo_1 + 1 g_T17_S10 + 3 x_T32_S17_Tu_3 + 3 x_T14_S17_Mo_5 + 3 x_T33_S19_Tu_1 + 3 x_T32_S19_Mo_1 + 3 x_T32_S18_Tu_3 + 3 x_T13_S16_We_1 + 3 x_T1_S4_We_5 + 3 x_T10_S1_Mo_1 + 3 x_T17_S16_Tu_5 + 3 x_T21_S9_Tu_5 + 3 x_T19_S12_Th_1 + 3 x_T32_S16_Tu_3 + 3 x_T28_S18_Mo_4 + 3 x_T31_S12_Th_1 + 3 x_T15_S6_Mo_4 + 3 x_T30_S5_Fr_4 + 3 x_T33_S17_Mo_5 + 3 x_T22_S15_Th_5 + 3 x_T28_S3_Tu_1 + 3 x_T21_S13_Fr_1 + 3 x_T9_S19_Th_1 + 3 x_T2_S8_Mo_5 + 3 x_T13_S19_Tu_4 + 3 x_T11_S6_We_5 + 3 x_T16_S9_Mo_4 + 3 x_T16_S20_Mo_3 + 3 x_T28_S15_Mo_1 + 3 x_T13_S18_We_2 + 3 x_T12_S13_Th_5 + 3 x_T15_S14_Mo_5 + 3 x_T15_S11_We_2 + 3 x_T24_S15_Tu_4 + 3 x_T24_S15_Fr_4 + 3 x_T33_S19_Fr_5 + 3 x_T33_S17_Th_1 + 3 x_T23_S3_Tu_4 + 3 x_T17_S1_We_3 + 3 x_T17_S10_We_4 + 3 x_T11_S10_Tu_5 + 3 x_T9_S18_Th_4 + 3 x_T27_S5_Th_3 + 3 x_T9_S19_We_2 + 3 x_T30_S5_Fr_2 + 3 x_T21_S8_Th_2 + 1 g_T3_S12 + 3 x_T26_S13_We_4 + 3 x_T20_S4_We_3 + 3 x_T11_S9_Mo_4 + 3 x_T2_S11_Tu_2 + 3 x_T22_S17_Tu_5 + 3 x_T11_S8_Fr_4 + 3 x_T30_S14_Th_3 + 3 x_T32_S9_We_5 + 3 x_T26_S7_Fr_4 + 3 x_T32_S5_Fr_5 + 3 x_T31_S12_Mo_4 + 3 x_T32_S19_Fr_5 + 3 x_T26_S10_Mo_3 + 3 x_T23_S2_Tu_5 + 9 y_T15 + 3 x_T13_S17_Th_2 + 3 x_T15_S5_Mo_5 + 3 x_T3_S12_Fr_3 + 3 x_T8_S16_Tu_5 + 3 x_T8_S11_Fr_4 + 3 x_T29_S1_Fr_5 + 3 x_T2_S8_Mo_3 + 3 x_T1_S1_Mo_5 + 3 x_T20_S6_We_2 + 3 x_T33_S17_Th_4 + 3 x_T6_S8_Tu_4 + 3 x_T26_S4_Fr_3 + 3 x_T29_S16_Tu_1 + 1 g_T18_S14 + 1 g_T25_S16 + 3 x_T18_S19_Mo_3 + 3 x_T21_S11_Tu_2 + 3 x_T21_S13_Fr_2 + 3 x_T7_S10_Th_4 + 3 x_T1_S3_We_5 + 3 x_T30_S17_Th_3 + 3 x_T26_S10_Th_3 + 3 x_T9_S20_We_2 + 3 x_T29_S19_We_2 + 3 x_T27_S17_We_4 + 3 x_T21_S13_We_5 + 3 x_T32_S20_Fr_1 + 3 x_T27_S8_Th_3 + 3 x_T9_S18_Mo_4 + 3 x_T9_S18_Mo_5 + 3 x_T1_S3_Tu_5 + 3 x_T9_S19_Fr_1 + 3 x_T32_S1_Fr_1 + 3 x_T32_S19_Fr_2 + 3 x_T15_S18_Th_5 + 3 x_T9_S20_Th_2 + 3 x_T28_S18_Th_5 + 3 x_T12_S13_Fr_1 + 3 x_T9_S19_Tu_2 + 3 x_T23_S2_We_3 + 3 x_T16_S20_Tu_2 + 3 x_T18_S11_Th_3 + 3 x_T32_S19_Th_3 + 3 x_T12_S12_Mo_4 + 3 x_T12_S12_We_3 + 3 x_T18_S5_Th_4 + 3 x_T4_S6_Th_1 + 3 x_T19_S20_Fr_2 + 3 x_T26_S10_Tu_1 + 3 x_T10_S2_Th_5 + 3 x_T24_S13_Tu_1 + 3 x_T13_S18_Mo_2 + 3 x_T28_S18_Th_2 + 3 x_T23_S19_Mo_1 + 3 x_T6_S12_Th_4 + 3 x_T31_S18_Fr_5 + 3 x_T3_S14_Fr_3 + 3 x_T14_S10_Tu_4 + 3 x_T17_S1_Mo_4 + 3 x_T3_S15_Mo_5 + 3 x_T23_S3_Th_5 + 3 x_T17_S16_Fr_2 + 3 x_T12_S11_We_1 + 3 x_T23_S11_Th_5 + 3 x_T13_S20_Tu_4 + 3 x_T31_S20_Mo_2 + 3 x_T30_S14_Tu_5 + 3 x_T10_S2_Mo_1 + 3 x_T13_S16_We_5 + 3 x_T17_S3_Fr_2 + 3 x_T32_S3_Tu_2 + 3 x_T33_S17_Tu_4 + 3 x_T24_S5_Mo_3 + 3 x_T33_S17_We_4 + 3 x_T12_S15_Tu_4 + 3 x_T21_S14_We_4 + 3 x_T28_S15_We_1 + 3 x_T22_S15_Mo_4 + 3 x_T26_S13_Fr_5 + 1 g_T32_S1 + 3 x_T2_S7_We_4 + 3 x_T18_S14_Th_4 + 3 x_T4_S20_Fr_4 + 3 x_T23_S19_Tu_3 + 3 x_T19_S7_Fr_3 + 3 x_T32_S8_Th_5 + 3 x_T15_S14_Tu_4 + 3 x_T10_S2_Fr_4 + 3 x_T14_S13_Fr_2 + 3 x_T14_S17_Fr_5 + 3 x_T32_S18_Mo_4 + 3 x_T17_S10_Tu_1 + 3 x_T18_S11_Th_2 + 3 x_T21_S13_We_1 + 3 x_T6_S7_Mo_3 + 3 x_T18_S6_Tu_3 + 3 x_T24_S4_Fr_1 + 3 x_T3_S14_Tu_1 + 3 x_T28_S6_Fr_4 + 1 g_T7_S13 + 3 x_T21_S12_Mo_5 + 3 x_T7_S9_Th_2 + 3 x_T10_S1_Tu_5 + 3 x_T29_S13_Th_4 + 3 x_T4_S18_Fr_3 + 3 x_T15_S5_Mo_2 + 3 x_T18_S4_Fr_5 + 3 x_T32_S3_Th_4 + 3 x_T32_S9_Fr_2 + 3 x_T17_S17_We_5 + 3 x_T29_S10_Fr_4 + 3 x_T14_S17_We_4 + 3 x_T8_S16_Mo_2 + 3 x_T33_S20_Th_1 + 3 x_T28_S15_Tu_2 + 3 x_T30_S17_Tu_2 + 3 x_T19_S15_Th_2 + 3 x_T29_S13_Tu_2 + 3 x_T12_S13_Th_2 + 3 x_T24_S4_Mo_1 + 3 x_T22_S16_Mo_2 + 1 g_T28_S3 + 3 x_T3_S13_We_3 + 3 x_T32_S1_Mo_4 + 3 x_T14_S3_Mo_4 + 3 x_T11_S10_Tu_1 + 3 x_T29_S4_We_2 + 3 x_T29_S13_Tu_4 + 3 x_T19_S7_We_3 + 3 x_T23_S3_We_3 + 3 x_T13_S16_Mo_4 + 3 x_T7_S12_Th_1 + 3 x_T2_S8_We_2 + 3 x_T32_S3_We_1 + 3 x_T30_S2_We_5 + 3 x_T28_S15_Th_2 + 1 g_T22_S20 + 3 x_T5_S4_Tu_2 + 3 x_T21_S9_Mo_5 + 3 x_T32_S5_Fr_4 + 3 x_T30_S11_Tu_4 + 3 x_T31_S18_Fr_3 + 3 x_T13_S19_Mo_3 + 3 x_T2_S9_Fr_4 + 3 x_T8_S15_Th_5 + 3 x_T32_S8_Mo_5 + 3 x_T21_S10_We_5 + 3 x_T20_S6_Tu_5 + 3 x_T22_S19_Th_2 + 3 x_T15_S11_Tu_4 + 3 x_T30_S11_Fr_3 + 3 x_T33_S18_Mo_5 + 3 x_T21_S11_We_1 + 3 x_T19_S20_Th_5 + 3 x_T6_S5_Th_4 + 3 x_T29_S4_Th_1 + 3 x_T26_S13_Fr_2 + 3 x_T10_S5_Fr_2 + 3 x_T27_S11_Tu_1 + 3 x_T16_S9_Fr_1 + 3 x_T22_S15_We_3 + 3 x_T33_S16_Tu_4 + 3 x_T30_S5_Mo_1 + 3 x_T32_S4_We_1 + 3 x_T26_S13_Tu_5 + 3 x_T23_S12_Th_5 + 3 x_T25_S16_Tu_5 + 3 x_T17_S1_We_1 + 3 x_T22_S16_We_3 + 3 x_T23_S19_Th_4 + 3 x_T24_S4_Th_4 + 3 x_T9_S20_We_1 + 3 x_T18_S18_Mo_4 + 3 x_T14_S10_Mo_3 + 3 x_T22_S17_Tu_3 + 3 x_T22_S16_Mo_4 + 3 x_T26_S13_Tu_3 + 3 x_T30_S17_Mo_3 + 1 g_T24_S13 + 3 x_T9_S19_We_4 + 3 x_T24_S6_Tu_5 + 3 x_T23_S11_Fr_1 + 3 x_T2_S10_Th_2 + 3 x_T24_S5_Tu_4 + 3 x_T27_S5_We_2 + 3 x_T26_S19_Fr_4 + 3 x_T29_S10_We_2 + 1 g_T30_S5 + 1 g_T20_S3 + 3 x_T5_S2_We_3 + 3 x_T1_S17_Tu_5 + 3 x_T5_S1_Mo_3 + 9 y_T8 + 3 x_T12_S12_Th_1 + 3 x_T15_S5_We_5 + 3 x_T33_S17_Fr_3 + 3 x_T18_S18_Th_4 + 3 x_T9_S20_Fr_5 + 1 g_T14_S17 + 3 x_T24_S13_We_2 + 3 x_T24_S6_Fr_3 + 3 x_T10_S3_Fr_1 + 3 x_T15_S18_Tu_3 + 3 x_T19_S9_Mo_1 + 3 x_T19_S9_Fr_5 + 3 x_T32_S7_Tu_5 + 3 x_T29_S16_Fr_3 + 3 x_T7_S11_We_1 + 3 x_T29_S7_Fr_1 + 3 x_T13_S18_Mo_4 + 3 x_T14_S10_Tu_5 + 3 x_T27_S8_Tu_2 + 3 x_T10_S5_Tu_5 + 3 x_T15_S18_We_2 + 3 x_T1_S16_Th_5 + 3 x_T22_S16_Th_5 + 3 x_T13_S19_Th_1 + 3 x_T23_S19_Tu_1 + 3 x_T23_S10_Mo_1 + 3 x_T11_S8_Fr_3 + 3 x_T22_S20_Tu_2 + 3 x_T32_S16_Mo_5 + 3 x_T30_S11_Tu_2 + 3 x_T18_S6_We_5 + 3 x_T28_S6_Fr_5 + 3 x_T7_S13_Tu_3 + 3 x_T21_S14_Mo_5 + 3 x_T28_S15_Tu_4 + 3 x_T16_S9_Mo_1 + 3 x_T15_S5_Tu_5 + 3 x_T26_S7_Fr_2 + 3 x_T6_S12_Th_1 + 3 x_T6_S8_Mo_1 + 3 x_T13_S16_Fr_4 + 3 x_T5_S14_Mo_2 + 3 x_T28_S9_Th_5 + 3 x_T20_S6_Mo_5 + 3 x_T24_S4_Fr_5 + 3 x_T27_S5_Fr_2 + 3 x_T7_S11_Th_4 + 3 x_T31_S15_We_5 + 3 x_T24_S20_Mo_1 + 3 x_T24_S15_Mo_2 + 3 x_T26_S10_Mo_1 + 3 x_T6_S5_Th_3 + 3 x_T6_S12_We_3 + 3 x_T24_S20_We_4 + 3 x_T3_S12_Fr_4 + 3 x_T7_S12_Fr_2 + 3 x_T32_S8_We_5 + 3 x_T12_S15_Tu_2 + 3 x_T8_S14_Mo_4 + 3 x_T3_S14_Tu_3 + 3 x_T21_S12_Tu_3 + 3 x_T18_S19_Mo_1 + 3 x_T32_S16_Tu_1 + 3 x_T9_S15_We_4 + 1 g_T25_S9 + 3 x_T23_S2_Mo_3 + 3 x_T23_S1_Fr_5 + 3 x_T15_S4_Th_1 + 3 x_T23_S3_We_4 + 3 x_T6_S6_We_5 + 3 x_T5_S1_Fr_4 + 3 x_T29_S1_Mo_3 + 3 x_T31_S12_Mo_3 + 3 x_T14_S1_Th_3 + 3 x_T22_S17_Mo_3 + 3 x_T1_S3_We_1 + 3 x_T6_S10_Fr_1 + 3 x_T24_S14_We_3 + 9 y_T10 + 3 x_T6_S7_We_1 + 3 x_T19_S9_We_2 + 3 x_T19_S8_Mo_3 + 3 x_T4_S5_Tu_4 + 3 x_T14_S3_Mo_3 + 3 x_T25_S17_Th_5 + 3 x_T11_S8_Th_1 + 3 x_T28_S9_Tu_1 + 3 x_T32_S2_Fr_4 + 3 x_T9_S18_Fr_2 + 3 x_T15_S11_Th_5 + 3 x_T3_S13_Tu_3 + 3 x_T8_S13_Tu_5 + 3 x_T9_S19_Th_4 + 3 x_T13_S20_Mo_2 + 3 x_T2_S11_We_4 + 3 x_T16_S12_Fr_5 + 3 x_T11_S6_Tu_1 + 3 x_T8_S14_Th_2 + 3 x_T17_S2_Th_1 + 3 x_T5_S4_Fr_1 + 3 x_T24_S4_Th_2 + 3 x_T2_S8_Fr_2 + 3 x_T3_S13_Th_4 + 3 x_T8_S11_Th_1 + 3 x_T21_S12_Th_3 + 3 x_T29_S1_Th_4 + 3 x_T2_S8_Th_4 + 3 x_T22_S16_Fr_3 + 3 x_T28_S12_Tu_4 + 3 x_T22_S17_Tu_4 + 3 x_T14_S10_Fr_5 + 3 x_T13_S19_We_1 + 3 x_T17_S2_Fr_2 + 3 x_T16_S9_Tu_2 + 3 x_T1_S1_Tu_2 + 3 x_T13_S16_Tu_2 + 3 x_T23_S3_Tu_2 + 3 x_T15_S4_Fr_4 + 3 x_T19_S20_We_2 + 3 x_T32_S19_Fr_4 + 3 x_T2_S11_Th_3 + 3 x_T32_S5_Th_5 + 3 x_T19_S8_We_4 + 3 x_T12_S11_Tu_3 + 3 x_T32_S18_Tu_4 + 9 y_T16 + 3 x_T14_S10_We_4 + 3 x_T7_S12_We_1 + 3 x_T33_S20_We_1 + 3 x_T14_S13_We_3 + 3 x_T9_S17_Mo_3 + 3 x_T25_S18_Tu_2 + 3 x_T27_S20_We_4 + 9 y_T24 + 3 x_T26_S7_Th_1 + 3 x_T14_S10_Mo_4 + 3 x_T1_S1_Tu_1 + 3 x_T17_S1_Fr_2 + 3 x_T23_S12_Th_3 + 3 x_T23_S11_Tu_4 + 3 x_T19_S8_Tu_1 + 3 x_T1_S17_Mo_1 + 3 x_T28_S3_Th_3 + 3 x_T32_S19_Fr_1 + 3 x_T16_S8_Mo_1 + 3 x_T21_S12_Mo_4 + 3 x_T2_S7_Th_5 + 3 x_T21_S11_Th_3 + 3 x_T10_S2_We_2 + 3 x_T32_S20_Th_1 + 3 x_T2_S7_Tu_1 + 3 x_T24_S5_We_4 + 3 x_T7_S11_Tu_2 + 3 x_T32_S1_Fr_3 + 3 x_T18_S4_Th_4 + 3 x_T28_S9_Fr_4 + 3 x_T15_S6_We_4 + 3 x_T15_S18_We_3 + 3 x_T7_S13_Fr_5 + 3 x_T22_S19_Tu_5 + 3 x_T30_S8_We_1 + 3 x_T27_S2_Tu_5 + 1 g_T31_S15 + 3 x_T17_S17_Fr_2 + 3 x_T29_S16_We_2 + 3 x_T17_S17_Mo_1 + 3 x_T17_S1_Mo_1 + 3 x_T29_S1_Tu_1 + 3 x_T6_S10_We_5 + 3 x_T3_S14_Mo_5 + 3 x_T12_S14_We_5 + 3 x_T18_S6_Tu_5 + 3 x_T20_S4_We_1 + 3 x_T19_S20_We_3 + 3 x_T19_S15_Tu_3 + 3 x_T1_S4_Th_4 + 3 x_T18_S14_Mo_3 + 3 x_T7_S12_Tu_5 + 3 x_T20_S6_Th_3 + 3 x_T24_S15_We_5 + 3 x_T16_S9_Mo_3 + 3 x_T23_S1_Th_2 + 3 x_T24_S20_Tu_1 + 3 x_T24_S5_Th_5 + 3 x_T17_S13_Fr_5 + 1 g_T13_S20 + 3 x_T1_S1_We_4 + 3 x_T31_S6_Th_2 + 3 x_T17_S13_We_1 + 3 x_T27_S8_We_5 + 3 x_T15_S14_Fr_2 + 3 x_T25_S16_Fr_1 + 3 x_T18_S4_Tu_4 + 3 x_T21_S14_Mo_2 + 3 x_T33_S16_Fr_1 + 3 x_T12_S11_Mo_3 + 3 x_T17_S16_Mo_5 + 3 x_T4_S20_We_5 + 3 x_T21_S9_We_3 + 1 g_T15_S18 + 3 x_T32_S16_Tu_2 + 3 x_T27_S5_Fr_1 + 3 x_T30_S14_Tu_4 + 3 x_T25_S8_Mo_3 + 3 x_T13_S19_We_4 + 3 x_T21_S9_Th_2 + 3 x_T26_S7_Th_5 + 3 x_T24_S20_Tu_4 + 3 x_T2_S11_Fr_1 + 3 x_T13_S16_Fr_2 + 3 x_T17_S10_Th_2 + 3 x_T19_S8_Fr_3 + 9 y_T22 + 3 x_T14_S1_Mo_3 + 3 x_T22_S16_We_1 + 3 x_T27_S14_Tu_4 + 3 x_T4_S20_Tu_2 + 3 x_T32_S8_Th_1 + 3 x_T24_S4_Tu_3 + 3 x_T33_S19_Th_2 + 3 x_T24_S15_Th_2 + 3 x_T24_S5_Fr_1 + 3 x_T30_S2_We_3 + 3 x_T21_S13_Mo_3 + 3 x_T10_S5_Mo_2 + 3 x_T26_S19_Tu_2 + 3 x_T18_S11_Mo_3 + 3 x_T8_S11_We_3 + 3 x_T31_S20_We_4 + 3 x_T15_S11_Mo_5 + 3 x_T26_S10_We_3 + 3 x_T8_S11_Fr_5 + 1 g_T15_S19 + 3 x_T7_S13_Mo_4 + 3 x_T24_S6_We_5 + 3 x_T31_S15_Fr_2 + 3 x_T17_S16_Th_2 + 3 x_T15_S4_Mo_5 + 3 x_T20_S4_Th_1 + 3 x_T21_S14_Tu_2 + 3 x_T8_S13_We_2 + 1 g_T20_S2 + 3 x_T25_S17_Tu_3 + 3 x_T12_S14_Th_2 + 3 x_T23_S10_Fr_3 + 3 x_T29_S16_Fr_1 + 3 x_T6_S7_Fr_2 + 3 x_T15_S18_Th_2 + 3 x_T29_S16_Fr_5 + 9 y_T33 + 3 x_T27_S20_Fr_4 + 3 x_T6_S5_Th_1 + 3 x_T25_S18_Mo_5 + 3 x_T19_S20_Fr_3 + 3 x_T30_S17_We_2 + 3 x_T6_S8_Tu_1 + 3 x_T11_S6_We_1 + 3 x_T1_S2_Th_4 + 3 x_T6_S8_Mo_4 + 3 x_T14_S10_Th_1 + 3 x_T7_S13_Fr_2 + 3 x_T11_S9_Mo_1 + 3 x_T32_S19_Mo_4 + 3 x_T23_S1_Tu_3 + 3 x_T14_S2_Tu_1 + 3 x_T21_S10_We_2 + 3 x_T26_S13_Th_5 + 3 x_T11_S9_Mo_5 + 3 x_T21_S10_We_1 + 3 x_T2_S10_Tu_4 + 3 x_T10_S4_Fr_3 + 3 x_T33_S17_Th_3 + 3 x_T14_S13_Mo_3 + 3 x_T3_S12_Th_4 + 3 x_T25_S8_Th_4 + 3 x_T31_S15_Mo_3 + 3 x_T15_S18_Mo_5 + 3 x_T23_S19_We_1 + 3 x_T2_S9_Th_1 + 3 x_T22_S15_Fr_2 + 3 x_T32_S16_Th_1 + 3 x_T26_S19_Th_4 + 3 x_T10_S3_We_3 + 3 x_T3_S14_Tu_4 + 3 x_T14_S16_Tu_1 + 3 x_T26_S10_Fr_3 + 3 x_T24_S4_Th_3 + 3 x_T23_S3_Mo_5 + 3 x_T28_S3_Fr_4 + 3 x_T31_S3_Mo_5 + 3 x_T1_S4_Tu_4 + 3 x_T24_S13_We_1 + 3 x_T26_S13_Tu_4 + 3 x_T32_S1_Th_2 + 3 x_T10_S5_We_3 + 3 x_T33_S16_Mo_2 + 3 x_T1_S17_We_2 + 3 x_T5_S2_Fr_4 + 3 x_T6_S6_Mo_3 + 3 x_T32_S19_Th_5 + 3 x_T20_S2_We_1 + 3 x_T11_S10_Th_2 + 3 x_T23_S3_We_1 + 3 x_T15_S19_Tu_4 + 3 x_T32_S20_Mo_3 + 3 x_T31_S12_Fr_1 + 3 x_T2_S10_Mo_2 + 3 x_T11_S7_We_2 + 3 x_T28_S12_Fr_2 + 3 x_T1_S17_Th_2 + 3 x_T8_S13_Mo_4 + 3 x_T28_S6_Th_2 + 3 x_T32_S1_Tu_5 + 3 x_T9_S18_We_4 + 3 x_T21_S9_Fr_3 + 1 g_T14_S2 + 3 x_T15_S6_Mo_1 + 1 g_T21_S12 + 3 x_T11_S8_Mo_5 + 3 x_T27_S14_Mo_1 + 3 x_T27_S11_Fr_2 + 3 x_T18_S4_Th_5 + 3 x_T10_S2_Tu_4 + 3 x_T18_S19_Th_2 + 3 x_T6_S6_Mo_5 + 3 x_T24_S13_Fr_3 + 3 x_T1_S1_Mo_1 + 3 x_T15_S11_Th_2 + 3 x_T16_S15_Fr_3 + 3 x_T24_S14_We_5 + 3 x_T25_S18_Fr_4 + 3 x_T1_S2_We_2 + 3 x_T23_S19_Tu_2 + 3 x_T30_S14_Tu_2 + 3 x_T4_S5_Th_5 + 3 x_T24_S14_Mo_1 + 3 x_T1_S1_Th_4 + 3 x_T26_S1_Tu_3 + 3 x_T24_S15_Tu_5 + 3 x_T18_S4_Mo_1 + 3 x_T12_S14_We_2 + 3 x_T32_S17_We_1 + 3 x_T23_S2_Th_2 + 3 x_T16_S9_Th_2 + 1 g_T4_S19 + 3 x_T3_S14_Mo_2 + 3 x_T27_S17_Th_2 + 3 x_T18_S14_Tu_3 + 3 x_T32_S5_Tu_3 + 3 x_T6_S6_Fr_1 + 3 x_T3_S14_Mo_4 + 3 x_T8_S11_We_4 + 3 x_T32_S18_Mo_3 + 3 x_T16_S9_We_4 + 3 x_T23_S1_Fr_4 + 3 x_T25_S8_Mo_5 + 3 x_T14_S16_We_2 + 3 x_T29_S16_Tu_4 + 3 x_T27_S2_We_2 + 3 x_T28_S15_Mo_4 + 3 x_T26_S19_Tu_5 + 3 x_T5_S1_Th_3 + 3 x_T25_S8_Tu_3 + 3 x_T20_S3_We_5 + 3 x_T14_S3_We_5 + 3 x_T4_S19_Th_5 + 3 x_T5_S4_We_1 + 3 x_T16_S9_We_2 + 3 x_T9_S15_Mo_4 + 3 x_T23_S3_Th_4 + 3 x_T26_S19_We_1 + 3 x_T7_S11_We_2 + 1 g_T28_S18 + 3 x_T28_S15_Mo_2 + 3 x_T18_S6_Fr_4 + 3 x_T16_S9_Th_4 + 3 x_T5_S4_We_5 + 3 x_T23_S3_Th_2 + 3 x_T6_S10_Mo_3 + 3 x_T25_S9_We_1 + 3 x_T9_S15_Th_4
 Subject To
- c0: v271 - v272 + v273 >= 0
- c1: v274 - v273 + v275 >= 0
- c2: v276 - v275 + v277 >= 0
- c3: v278 - v277 + v279 >= 0
- c4: v280 - v281 + v282 >= 0
- c5: v283 - v282 + v284 >= 0
- c6: v285 - v284 + v286 >= 0
- c7: v287 - v286 + v288 >= 0
- c8: v289 - v290 + v291 >= 0
- c9: v292 - v291 + v293 >= 0
- c10: v294 - v293 + v295 >= 0
- c11: v296 - v295 + v297 >= 0
- c12: v298 - v299 + v300 >= 0
- c13: v301 - v300 + v302 >= 0
- c14: v303 - v302 + v304 >= 0
- c15: v305 - v304 + v306 >= 0
- c16: v307 - v308 + v309 >= 0
- c17: v310 - v309 + v311 >= 0
- c18: v312 - v311 + v313 >= 0
- c19: v314 - v313 + v315 >= 0
- c20: v316 - v317 + v318 >= 0
- c21: v319 - v318 + v320 >= 0
- c22: v321 - v320 + v322 >= 0
- c23: v323 - v322 + v324 >= 0
- c24: v325 - v326 + v327 >= 0
- c25: v328 - v327 + v329 >= 0
- c26: v330 - v329 + v331 >= 0
- c27: v332 - v331 + v333 >= 0
- c28: v334 - v335 + v336 >= 0
- c29: v337 - v336 + v338 >= 0
- c30: v339 - v338 + v340 >= 0
- c31: v341 - v340 + v342 >= 0
- c32: v343 - v344 + v345 >= 0
- c33: v346 - v345 + v347 >= 0
- c34: v348 - v347 + v349 >= 0
- c35: v350 - v349 + v351 >= 0
- c36: v352 - v353 + v354 >= 0
- c37: v355 - v354 + v356 >= 0
- c38: v357 - v356 + v358 >= 0
- c39: v359 - v358 + v360 >= 0
- c40: v361 - v362 + v363 >= 0
- c41: v364 - v363 + v365 >= 0
- c42: v366 - v365 + v367 >= 0
- c43: v368 - v367 + v369 >= 0
- c44: v370 - v371 + v372 >= 0
- c45: v373 - v372 + v374 >= 0
- c46: v375 - v374 + v376 >= 0
- c47: v377 - v376 + v378 >= 0
- c48: v379 - v380 + v381 >= 0
- c49: v382 - v381 + v383 >= 0
- c50: v384 - v383 + v385 >= 0
- c51: v386 - v385 + v387 >= 0
- c52: v388 - v389 + v390 >= 0
- c53: v391 - v390 + v392 >= 0
- c54: v393 - v392 + v394 >= 0
- c55: v395 - v394 + v396 >= 0
- c56: v397 - v398 + v399 >= 0
- c57: v400 - v399 + v401 >= 0
- c58: v402 - v401 + v403 >= 0
- c59: v404 - v403 + v405 >= 0
- c60: v406 - v407 + v408 >= 0
- c61: v409 - v408 + v410 >= 0
- c62: v411 - v410 + v412 >= 0
- c63: v413 - v412 + v414 >= 0
- c64: v415 - v416 + v417 >= 0
- c65: v418 - v417 + v419 >= 0
- c66: v420 - v419 + v421 >= 0
- c67: v422 - v421 + v423 >= 0
- c68: v424 - v425 + v426 >= 0
- c69: v427 - v426 + v428 >= 0
- c70: v429 - v428 + v430 >= 0
- c71: v431 - v430 + v432 >= 0
- c72: v433 - v434 + v435 >= 0
- c73: v436 - v435 + v437 >= 0
- c74: v438 - v437 + v439 >= 0
- c75: v440 - v439 + v441 >= 0
- c76: v442 - v443 + v444 >= 0
- c77: v445 - v444 + v446 >= 0
- c78: v447 - v446 + v448 >= 0
- c79: v449 - v448 + v450 >= 0
- c80: v451 - v452 + v453 >= 0
- c81: v454 - v453 + v455 >= 0
- c82: v456 - v455 + v457 >= 0
- c83: v458 - v457 + v459 >= 0
- c84: v460 - v461 + v462 >= 0
- c85: v463 - v462 + v464 >= 0
- c86: v465 - v464 + v466 >= 0
- c87: v467 - v466 + v468 >= 0
- c88: v469 - v470 + v471 >= 0
- c89: v472 - v471 + v473 >= 0
- c90: v474 - v473 + v475 >= 0
- c91: v476 - v475 + v477 >= 0
- c92: v478 - v479 + v480 >= 0
- c93: v481 - v480 + v482 >= 0
- c94: v483 - v482 + v484 >= 0
- c95: v485 - v484 + v486 >= 0
- c96: v487 - v488 + v489 >= 0
- c97: v490 - v489 + v491 >= 0
- c98: v492 - v491 + v493 >= 0
- c99: v494 - v493 + v495 >= 0
- c100: v496 - v497 + v498 >= 0
- c101: v499 - v498 + v500 >= 0
- c102: v501 - v500 + v502 >= 0
- c103: v503 - v502 + v504 >= 0
- c104: v505 - v506 + v507 >= 0
- c105: v508 - v507 + v509 >= 0
- c106: v510 - v509 + v511 >= 0
- c107: v512 - v511 + v513 >= 0
- c108: v514 - v515 + v516 >= 0
- c109: v517 - v516 + v518 >= 0
- c110: v519 - v518 + v520 >= 0
- c111: v521 - v520 + v522 >= 0
- c112: v523 - v524 + v525 >= 0
- c113: v526 - v525 + v527 >= 0
- c114: v528 - v527 + v529 >= 0
- c115: v530 - v529 + v531 >= 0
- c116: v532 - v533 + v534 >= 0
- c117: v535 - v534 + v536 >= 0
- c118: v537 - v536 + v538 >= 0
- c119: v539 - v538 + v540 >= 0
- c120: v541 - v542 + v543 >= 0
- c121: v544 - v543 + v545 >= 0
- c122: v546 - v545 + v547 >= 0
- c123: v548 - v547 + v549 >= 0
- c124: v550 - v551 + v552 >= 0
- c125: v553 - v552 + v554 >= 0
- c126: v555 - v554 + v556 >= 0
- c127: v557 - v556 + v558 >= 0
- c128: v559 - v560 + v561 >= 0
- c129: v562 - v561 + v563 >= 0
- c130: v564 - v563 + v565 >= 0
- c131: v566 - v565 + v567 >= 0
- c132: v568 - v569 + v570 >= 0
- c133: v571 - v570 + v572 >= 0
- c134: v573 - v572 + v574 >= 0
- c135: v575 - v574 + v576 >= 0
- c136: v577 - v578 + v579 >= 0
- c137: v580 - v579 + v581 >= 0
- c138: v582 - v581 + v583 >= 0
- c139: v584 - v583 + v585 >= 0
- c140: v586 - v587 + v588 >= 0
- c141: v589 - v588 + v590 >= 0
- c142: v591 - v590 + v592 >= 0
- c143: v593 - v592 + v594 >= 0
- c144: v595 - v596 + v597 >= 0
- c145: v598 - v597 + v599 >= 0
- c146: v600 - v599 + v601 >= 0
- c147: v602 - v601 + v603 >= 0
- c148: v604 - v605 + v606 >= 0
- c149: v607 - v606 + v608 >= 0
- c150: v609 - v608 + v610 >= 0
- c151: v611 - v610 + v612 >= 0
- c152: v613 - v614 + v615 >= 0
- c153: v616 - v615 + v617 >= 0
- c154: v618 - v617 + v619 >= 0
- c155: v620 - v619 + v621 >= 0
- c156: v622 - v623 + v624 >= 0
- c157: v625 - v624 + v626 >= 0
- c158: v627 - v626 + v628 >= 0
- c159: v629 - v628 + v630 >= 0
- c160: v631 - v632 + v633 >= 0
- c161: v634 - v633 + v635 >= 0
- c162: v636 - v635 + v637 >= 0
- c163: v638 - v637 + v639 >= 0
- c164: v640 - v641 + v642 >= 0
- c165: v643 - v642 + v644 >= 0
- c166: v645 - v644 + v646 >= 0
- c167: v647 - v646 + v648 >= 0
- c168: v649 - v650 + v651 >= 0
- c169: v652 - v651 + v653 >= 0
- c170: v654 - v653 + v655 >= 0
- c171: v656 - v655 + v657 >= 0
- c172: v658 - v659 + v660 >= 0
- c173: v661 - v660 + v662 >= 0
- c174: v663 - v662 + v664 >= 0
- c175: v665 - v664 + v666 >= 0
- c176: v667 - v668 + v669 >= 0
- c177: v670 - v669 + v671 >= 0
- c178: v672 - v671 + v673 >= 0
- c179: v674 - v673 + v675 >= 0
- c180: v676 - v677 + v678 >= 0
- c181: v679 - v678 + v680 >= 0
- c182: v681 - v680 + v682 >= 0
- c183: v683 - v682 + v684 >= 0
- c184: v685 - v686 + v687 >= 0
- c185: v688 - v687 + v689 >= 0
- c186: v690 - v689 + v691 >= 0
- c187: v692 - v691 + v693 >= 0
- c188: v694 - v695 + v696 >= 0
- c189: v697 - v696 + v698 >= 0
- c190: v699 - v698 + v700 >= 0
- c191: v701 - v700 + v702 >= 0
- c192: v703 - v704 + v705 >= 0
- c193: v706 - v705 + v707 >= 0
- c194: v708 - v707 + v709 >= 0
- c195: v710 - v709 + v711 >= 0
- c196: v712 - v713 + v714 >= 0
- c197: v715 - v714 + v716 >= 0
- c198: v717 - v716 + v718 >= 0
- c199: v719 - v718 + v720 >= 0
- c200: v721 - v722 + v723 >= 0
- c201: v724 - v723 + v725 >= 0
- c202: v726 - v725 + v727 >= 0
- c203: v728 - v727 + v729 >= 0
- c204: v730 - v731 + v732 >= 0
- c205: v733 - v732 + v734 >= 0
- c206: v735 - v734 + v736 >= 0
- c207: v737 - v736 + v738 >= 0
- c208: v739 - v740 + v741 >= 0
- c209: v742 - v741 + v743 >= 0
- c210: v744 - v743 + v745 >= 0
- c211: v746 - v745 + v747 >= 0
- c212: v748 - v749 + v750 >= 0
- c213: v751 - v750 + v752 >= 0
- c214: v753 - v752 + v754 >= 0
- c215: v755 - v754 + v756 >= 0
- c216: v757 - v758 + v759 >= 0
- c217: v760 - v759 + v761 >= 0
- c218: v762 - v761 + v763 >= 0
- c219: v764 - v763 + v765 >= 0
- c220: v766 - v767 + v768 >= 0
- c221: v769 - v768 + v770 >= 0
- c222: v771 - v770 + v772 >= 0
- c223: v773 - v772 + v774 >= 0
- c224: v775 - v776 + v777 >= 0
- c225: v778 - v777 + v779 >= 0
- c226: v780 - v779 + v781 >= 0
- c227: v782 - v781 + v783 >= 0
- c228: v784 - v785 + v786 >= 0
- c229: v787 - v786 + v788 >= 0
- c230: v789 - v788 + v790 >= 0
- c231: v791 - v790 + v792 >= 0
- c232: v793 - v794 + v795 >= 0
- c233: v796 - v795 + v797 >= 0
- c234: v798 - v797 + v799 >= 0
- c235: v800 - v799 + v801 >= 0
- c236: v802 - v803 + v804 >= 0
- c237: v805 - v804 + v806 >= 0
- c238: v807 - v806 + v808 >= 0
- c239: v809 - v808 + v810 >= 0
- c240: v811 - v812 + v813 >= 0
- c241: v814 - v813 + v815 >= 0
- c242: v816 - v815 + v817 >= 0
- c243: v818 - v817 + v819 >= 0
- c244: v820 - v821 + v822 >= 0
- c245: v823 - v822 + v824 >= 0
- c246: v825 - v824 + v826 >= 0
- c247: v827 - v826 + v828 >= 0
- c248: v829 - v830 + v831 >= 0
- c249: v832 - v831 + v833 >= 0
- c250: v834 - v833 + v835 >= 0
- c251: v836 - v835 + v837 >= 0
- c252: v838 - v839 + v840 >= 0
- c253: v841 - v840 + v842 >= 0
- c254: v843 - v842 + v844 >= 0
- c255: v845 - v844 + v846 >= 0
- c256: v847 - v848 + v849 >= 0
- c257: v850 - v849 + v851 >= 0
- c258: v852 - v851 + v853 >= 0
- c259: v854 - v853 + v855 >= 0
- c260: v856 - v857 + v858 >= 0
- c261: v859 - v858 + v860 >= 0
- c262: v861 - v860 + v862 >= 0
- c263: v863 - v862 + v864 >= 0
- c264: v865 - v866 + v867 >= 0
- c265: v868 - v867 + v869 >= 0
- c266: v870 - v869 + v871 >= 0
- c267: v872 - v871 + v873 >= 0
- c268: v874 - v875 + v876 >= 0
- c269: v877 - v876 + v878 >= 0
- c270: v879 - v878 + v880 >= 0
- c271: v881 - v880 + v882 >= 0
- c272: v883 - v884 + v885 >= 0
- c273: v886 - v885 + v887 >= 0
- c274: v888 - v887 + v889 >= 0
- c275: v890 - v889 + v891 >= 0
- c276: v892 - v893 + v894 >= 0
- c277: v895 - v894 + v896 >= 0
- c278: v897 - v896 + v898 >= 0
- c279: v899 - v898 + v900 >= 0
- c280: v901 - v902 + v903 >= 0
- c281: v904 - v903 + v905 >= 0
- c282: v906 - v905 + v907 >= 0
- c283: v908 - v907 + v909 >= 0
- c284: v910 - v911 + v912 >= 0
- c285: v913 - v912 + v914 >= 0
- c286: v915 - v914 + v916 >= 0
- c287: v917 - v916 + v918 >= 0
- c288: v919 - v920 + v921 >= 0
- c289: v922 - v921 + v923 >= 0
- c290: v924 - v923 + v925 >= 0
- c291: v926 - v925 + v927 >= 0
- c292: v928 - v929 + v930 >= 0
- c293: v931 - v930 + v932 >= 0
- c294: v933 - v932 + v934 >= 0
- c295: v935 - v934 + v936 >= 0
- c296: v937 - v938 + v939 >= 0
- c297: v940 - v939 + v941 >= 0
- c298: v942 - v941 + v943 >= 0
- c299: v944 - v943 + v945 >= 0
- c300: v946 - v947 + v948 >= 0
- c301: v949 - v948 + v950 >= 0
- c302: v951 - v950 + v952 >= 0
- c303: v953 - v952 + v954 >= 0
- c304: v955 - v956 + v957 >= 0
- c305: v958 - v957 + v959 >= 0
- c306: v960 - v959 + v961 >= 0
- c307: v962 - v961 + v963 >= 0
- c308: v964 - v965 + v966 >= 0
- c309: v967 - v966 + v968 >= 0
- c310: v969 - v968 + v970 >= 0
- c311: v971 - v970 + v972 >= 0
- c312: v973 - v974 + v975 >= 0
- c313: v976 - v975 + v977 >= 0
- c314: v978 - v977 + v979 >= 0
- c315: v980 - v979 + v981 >= 0
- c316: v982 - v983 + v984 >= 0
- c317: v985 - v984 + v986 >= 0
- c318: v987 - v986 + v988 >= 0
- c319: v989 - v988 + v990 >= 0
- c320: v991 - v992 + v993 >= 0
- c321: v994 - v993 + v995 >= 0
- c322: v996 - v995 + v997 >= 0
- c323: v998 - v997 + v999 >= 0
- c324: v1000 - v1001 + v1002 >= 0
- c325: v1003 - v1002 + v1004 >= 0
- c326: v1005 - v1004 + v1006 >= 0
- c327: v1007 - v1006 + v1008 >= 0
- c328: v1009 - v1010 + v1011 >= 0
- c329: v1012 - v1011 + v1013 >= 0
- c330: v1014 - v1013 + v1015 >= 0
- c331: v1016 - v1015 + v1017 >= 0
- c332: v1018 - v1019 + v1020 >= 0
- c333: v1021 - v1020 + v1022 >= 0
- c334: v1023 - v1022 + v1024 >= 0
- c335: v1025 - v1024 + v1026 >= 0
- c336: v1027 - v1028 + v1029 >= 0
- c337: v1030 - v1029 + v1031 >= 0
- c338: v1032 - v1031 + v1033 >= 0
- c339: v1034 - v1033 + v1035 >= 0
- c340: v1036 - v1037 + v1038 >= 0
- c341: v1039 - v1038 + v1040 >= 0
- c342: v1041 - v1040 + v1042 >= 0
- c343: v1043 - v1042 + v1044 >= 0
- c344: v1045 - v1046 + v1047 >= 0
- c345: v1048 - v1047 + v1049 >= 0
- c346: v1050 - v1049 + v1051 >= 0
- c347: v1052 - v1051 + v1053 >= 0
- c348: v1054 - v1055 + v1056 >= 0
- c349: v1057 - v1056 + v1058 >= 0
- c350: v1059 - v1058 + v1060 >= 0
- c351: v1061 - v1060 + v1062 >= 0
- c352: v1063 - v1064 + v1065 >= 0
- c353: v1066 - v1065 + v1067 >= 0
- c354: v1068 - v1067 + v1069 >= 0
- c355: v1070 - v1069 + v1071 >= 0
- c356: v1072 - v1073 + v1074 >= 0
- c357: v1075 - v1074 + v1076 >= 0
- c358: v1077 - v1076 + v1078 >= 0
- c359: v1079 - v1078 + v1080 >= 0
- c360: v1081 - v1082 + v1083 >= 0
- c361: v1084 - v1083 + v1085 >= 0
- c362: v1086 - v1085 + v1087 >= 0
- c363: v1088 - v1087 + v1089 >= 0
- c364: v1090 - v1091 + v1092 >= 0
- c365: v1093 - v1092 + v1094 >= 0
- c366: v1095 - v1094 + v1096 >= 0
- c367: v1097 - v1096 + v1098 >= 0
- c368: v1099 - v1100 + v1101 >= 0
- c369: v1102 - v1101 + v1103 >= 0
- c370: v1104 - v1103 + v1105 >= 0
- c371: v1106 - v1105 + v1107 >= 0
- c372: v1108 - v1109 + v1110 >= 0
- c373: v1111 - v1110 + v1112 >= 0
- c374: v1113 - v1112 + v1114 >= 0
- c375: v1115 - v1114 + v1116 >= 0
- c376: v1117 - v1118 + v1119 >= 0
- c377: v1120 - v1119 + v1121 >= 0
- c378: v1122 - v1121 + v1123 >= 0
- c379: v1124 - v1123 + v1125 >= 0
- c380: v1126 - v1127 + v1128 >= 0
- c381: v1129 - v1128 + v1130 >= 0
- c382: v1131 - v1130 + v1132 >= 0
- c383: v1133 - v1132 + v1134 >= 0
- c384: v1135 - v1136 + v1137 >= 0
- c385: v1138 - v1137 + v1139 >= 0
- c386: v1140 - v1139 + v1141 >= 0
- c387: v1142 - v1141 + v1143 >= 0
- c388: v1144 - v1145 + v1146 >= 0
- c389: v1147 - v1146 + v1148 >= 0
- c390: v1149 - v1148 + v1150 >= 0
- c391: v1151 - v1150 + v1152 >= 0
- c392: v1153 - v1154 + v1155 >= 0
- c393: v1156 - v1155 + v1157 >= 0
- c394: v1158 - v1157 + v1159 >= 0
- c395: v1160 - v1159 + v1161 >= 0
- c396: v1162 - v1163 + v1164 >= 0
- c397: v1165 - v1164 + v1166 >= 0
- c398: v1167 - v1166 + v1168 >= 0
- c399: v1169 - v1168 + v1170 >= 0
- c400: v1171 - v1172 + v1173 >= 0
- c401: v1174 - v1173 + v1175 >= 0
- c402: v1176 - v1175 + v1177 >= 0
- c403: v1178 - v1177 + v1179 >= 0
- c404: v1180 - v1181 + v1182 >= 0
- c405: v1183 - v1182 + v1184 >= 0
- c406: v1185 - v1184 + v1186 >= 0
- c407: v1187 - v1186 + v1188 >= 0
- c408: v1189 - v1190 + v1191 >= 0
- c409: v1192 - v1191 + v1193 >= 0
- c410: v1194 - v1193 + v1195 >= 0
- c411: v1196 - v1195 + v1197 >= 0
- c412: v1198 - v1199 + v1200 >= 0
- c413: v1201 - v1200 + v1202 >= 0
- c414: v1203 - v1202 + v1204 >= 0
- c415: v1205 - v1204 + v1206 >= 0
- c416: v1207 - v1208 + v1209 >= 0
- c417: v1210 - v1209 + v1211 >= 0
- c418: v1212 - v1211 + v1213 >= 0
- c419: v1214 - v1213 + v1215 >= 0
- c420: v1216 - v1217 + v1218 >= 0
- c421: v1219 - v1218 + v1220 >= 0
- c422: v1221 - v1220 + v1222 >= 0
- c423: v1223 - v1222 + v1224 >= 0
- c424: v1225 - v1226 + v1227 >= 0
- c425: v1228 - v1227 + v1229 >= 0
- c426: v1230 - v1229 + v1231 >= 0
- c427: v1232 - v1231 + v1233 >= 0
- c428: v1234 - v1235 + v1236 >= 0
- c429: v1237 - v1236 + v1238 >= 0
- c430: v1239 - v1238 + v1240 >= 0
- c431: v1241 - v1240 + v1242 >= 0
- c432: v1243 - v1244 + v1245 >= 0
- c433: v1246 - v1245 + v1247 >= 0
- c434: v1248 - v1247 + v1249 >= 0
- c435: v1250 - v1249 + v1251 >= 0
- c436: v1252 - v1253 + v1254 >= 0
- c437: v1255 - v1254 + v1256 >= 0
- c438: v1257 - v1256 + v1258 >= 0
- c439: v1259 - v1258 + v1260 >= 0
- c440: v1261 - v1262 + v1263 >= 0
- c441: v1264 - v1263 + v1265 >= 0
- c442: v1266 - v1265 + v1267 >= 0
- c443: v1268 - v1267 + v1269 >= 0
- c444: v1270 - v1271 + v1272 >= 0
- c445: v1273 - v1272 + v1274 >= 0
- c446: v1275 - v1274 + v1276 >= 0
- c447: v1277 - v1276 + v1278 >= 0
- c448: v1279 - v1280 + v1281 >= 0
- c449: v1282 - v1281 + v1283 >= 0
- c450: v1284 - v1283 + v1285 >= 0
- c451: v1286 - v1285 + v1287 >= 0
- c452: v1288 - v1289 + v1290 >= 0
- c453: v1291 - v1290 + v1292 >= 0
- c454: v1293 - v1292 + v1294 >= 0
- c455: v1295 - v1294 + v1296 >= 0
- c456: v1297 - v1298 + v1299 >= 0
- c457: v1300 - v1299 + v1301 >= 0
- c458: v1302 - v1301 + v1303 >= 0
- c459: v1304 - v1303 + v1305 >= 0
- c460: v1306 - v1307 + v1308 >= 0
- c461: v1309 - v1308 + v1310 >= 0
- c462: v1311 - v1310 + v1312 >= 0
- c463: v1313 - v1312 + v1314 >= 0
- c464: v1315 - v1316 + v1317 >= 0
- c465: v1318 - v1317 + v1319 >= 0
- c466: v1320 - v1319 + v1321 >= 0
- c467: v1322 - v1321 + v1323 >= 0
- c468: v1324 - v1325 + v1326 >= 0
- c469: v1327 - v1326 + v1328 >= 0
- c470: v1329 - v1328 + v1330 >= 0
- c471: v1331 - v1330 + v1332 >= 0
- c472: v1333 - v1334 + v1335 >= 0
- c473: v1336 - v1335 + v1337 >= 0
- c474: v1338 - v1337 + v1339 >= 0
- c475: v1340 - v1339 + v1341 >= 0
- c476: v1342 - v1343 + v1344 >= 0
- c477: v1345 - v1344 + v1346 >= 0
- c478: v1347 - v1346 + v1348 >= 0
- c479: v1349 - v1348 + v1350 >= 0
- c480: v1351 - v1352 + v1353 >= 0
- c481: v1354 - v1353 + v1355 >= 0
- c482: v1356 - v1355 + v1357 >= 0
- c483: v1358 - v1357 + v1359 >= 0
- c484: v1360 - v1361 + v1362 >= 0
- c485: v1363 - v1362 + v1364 >= 0
- c486: v1365 - v1364 + v1366 >= 0
- c487: v1367 - v1366 + v1368 >= 0
- c488: v1369 - v1370 + v1371 >= 0
- c489: v1372 - v1371 + v1373 >= 0
- c490: v1374 - v1373 + v1375 >= 0
- c491: v1376 - v1375 + v1377 >= 0
- c492: v1378 - v1379 + v1380 >= 0
- c493: v1381 - v1380 + v1382 >= 0
- c494: v1383 - v1382 + v1384 >= 0
- c495: v1385 - v1384 + v1386 >= 0
- c496: v1387 - v1388 + v1389 >= 0
- c497: v1390 - v1389 + v1391 >= 0
- c498: v1392 - v1391 + v1393 >= 0
- c499: v1394 - v1393 + v1395 >= 0
- c500: v1396 - v1397 + v1398 >= 0
- c501: v1399 - v1398 + v1400 >= 0
- c502: v1401 - v1400 + v1402 >= 0
- c503: v1403 - v1402 + v1404 >= 0
- c504: v1405 - v1406 + v1407 >= 0
- c505: v1408 - v1407 + v1409 >= 0
- c506: v1410 - v1409 + v1411 >= 0
- c507: v1412 - v1411 + v1413 >= 0
- c508: v1414 - v1415 + v1416 >= 0
- c509: v1417 - v1416 + v1418 >= 0
- c510: v1419 - v1418 + v1420 >= 0
- c511: v1421 - v1420 + v1422 >= 0
- c512: v1423 - v1424 + v1425 >= 0
- c513: v1426 - v1425 + v1427 >= 0
- c514: v1428 - v1427 + v1429 >= 0
- c515: v1430 - v1429 + v1431 >= 0
- c516: v1432 - v1433 + v1434 >= 0
- c517: v1435 - v1434 + v1436 >= 0
- c518: v1437 - v1436 + v1438 >= 0
- c519: v1439 - v1438 + v1440 >= 0
- c520: v1441 - v1442 + v1443 >= 0
- c521: v1444 - v1443 + v1445 >= 0
- c522: v1446 - v1445 + v1447 >= 0
- c523: v1448 - v1447 + v1449 >= 0
- c524: v1450 - v1451 + v1452 >= 0
- c525: v1453 - v1452 + v1454 >= 0
- c526: v1455 - v1454 + v1456 >= 0
- c527: v1457 - v1456 + v1458 >= 0
- c528: v1459 - v1460 + v1461 >= 0
- c529: v1462 - v1461 + v1463 >= 0
- c530: v1464 - v1463 + v1465 >= 0
- c531: v1466 - v1465 + v1467 >= 0
- c532: v1468 - v1469 + v1470 >= 0
- c533: v1471 - v1470 + v1472 >= 0
- c534: v1473 - v1472 + v1474 >= 0
- c535: v1475 - v1474 + v1476 >= 0
- c536: v1477 - v1478 + v1479 >= 0
- c537: v1480 - v1479 + v1481 >= 0
- c538: v1482 - v1481 + v1483 >= 0
- c539: v1484 - v1483 + v1485 >= 0
- c540: v1486 - v1487 + v1488 >= 0
- c541: v1489 - v1488 + v1490 >= 0
- c542: v1491 - v1490 + v1492 >= 0
- c543: v1493 - v1492 + v1494 >= 0
- c544: v1495 - v1496 + v1497 >= 0
- c545: v1498 - v1497 + v1499 >= 0
- c546: v1500 - v1499 + v1501 >= 0
- c547: v1502 - v1501 + v1503 >= 0
- c548: v1504 - v1505 + v1506 >= 0
- c549: v1507 - v1506 + v1508 >= 0
- c550: v1509 - v1508 + v1510 >= 0
- c551: v1511 - v1510 + v1512 >= 0
- c552: v1513 - v1514 + v1515 >= 0
- c553: v1516 - v1515 + v1517 >= 0
- c554: v1518 - v1517 + v1519 >= 0
- c555: v1520 - v1519 + v1521 >= 0
- c556: v1522 - v1523 + v1524 >= 0
- c557: v1525 - v1524 + v1526 >= 0
- c558: v1527 - v1526 + v1528 >= 0
- c559: v1529 - v1528 + v1530 >= 0
- c560: v1531 - v1532 + v1533 >= 0
- c561: v1534 - v1533 + v1535 >= 0
- c562: v1536 - v1535 + v1537 >= 0
- c563: v1538 - v1537 + v1539 >= 0
- c564: v1540 - v1541 + v1542 >= 0
- c565: v1543 - v1542 + v1544 >= 0
- c566: v1545 - v1544 + v1546 >= 0
- c567: v1547 - v1546 + v1548 >= 0
- c568: v1549 - v1550 + v1551 >= 0
- c569: v1552 - v1551 + v1553 >= 0
- c570: v1554 - v1553 + v1555 >= 0
- c571: v1556 - v1555 + v1557 >= 0
- c572: v1558 - v1559 + v1560 >= 0
- c573: v1561 - v1560 + v1562 >= 0
- c574: v1563 - v1562 + v1564 >= 0
- c575: v1565 - v1564 + v1566 >= 0
- c576: v1567 - v1568 + v1569 >= 0
- c577: v1570 - v1569 + v1571 >= 0
- c578: v1572 - v1571 + v1573 >= 0
- c579: v1574 - v1573 + v1575 >= 0
- c580: v1576 - v1577 + v1578 >= 0
- c581: v1579 - v1578 + v1580 >= 0
- c582: v1581 - v1580 + v1582 >= 0
- c583: v1583 - v1582 + v1584 >= 0
- c584: v1585 - v1586 + v1587 >= 0
- c585: v1588 - v1587 + v1589 >= 0
- c586: v1590 - v1589 + v1591 >= 0
- c587: v1592 - v1591 + v1593 >= 0
- c588: v1594 - v1595 + v1596 >= 0
- c589: v1597 - v1596 + v1598 >= 0
- c590: v1599 - v1598 + v1600 >= 0
- c591: v1601 - v1600 + v1602 >= 0
- c592: v1603 - v1604 + v1605 >= 0
- c593: v1606 - v1605 + v1607 >= 0
- c594: v1608 - v1607 + v1609 >= 0
- c595: v1610 - v1609 + v1611 >= 0
- c596: v1612 - v1613 + v1614 >= 0
- c597: v1615 - v1614 + v1616 >= 0
- c598: v1617 - v1616 + v1618 >= 0
- c599: v1619 - v1618 + v1620 >= 0
- c600: v1621 - v1622 + v1623 >= 0
- c601: v1624 - v1623 + v1625 >= 0
- c602: v1626 - v1625 + v1627 >= 0
- c603: v1628 - v1627 + v1629 >= 0
- c604: v1630 - v1631 + v1632 >= 0
- c605: v1633 - v1632 + v1634 >= 0
- c606: v1635 - v1634 + v1636 >= 0
- c607: v1637 - v1636 + v1638 >= 0
- c608: v1639 - v1640 + v1641 >= 0
- c609: v1642 - v1641 + v1643 >= 0
- c610: v1644 - v1643 + v1645 >= 0
- c611: v1646 - v1645 + v1647 >= 0
- c612: v1648 - v1649 + v1650 >= 0
- c613: v1651 - v1650 + v1652 >= 0
- c614: v1653 - v1652 + v1654 >= 0
- c615: v1655 - v1654 + v1656 >= 0
- c616: v1657 - v1658 + v1659 >= 0
- c617: v1660 - v1659 + v1661 >= 0
- c618: v1662 - v1661 + v1663 >= 0
- c619: v1664 - v1663 + v1665 >= 0
- c620: v1666 - v1667 + v1668 >= 0
- c621: v1669 - v1668 + v1670 >= 0
- c622: v1671 - v1670 + v1672 >= 0
- c623: v1673 - v1672 + v1674 >= 0
- c624: v1675 - v1676 + v1677 >= 0
- c625: v1678 - v1677 + v1679 >= 0
- c626: v1680 - v1679 + v1681 >= 0
- c627: v1682 - v1681 + v1683 >= 0
- c628: v1684 - v1685 + v1686 >= 0
- c629: v1687 - v1686 + v1688 >= 0
- c630: v1689 - v1688 + v1690 >= 0
- c631: v1691 - v1690 + v1692 >= 0
- c632: v1693 - v1694 + v1695 >= 0
- c633: v1696 - v1695 + v1697 >= 0
- c634: v1698 - v1697 + v1699 >= 0
- c635: v1700 - v1699 + v1701 >= 0
- c636: v1702 - v1703 + v1704 >= 0
- c637: v1705 - v1704 + v1706 >= 0
- c638: v1707 - v1706 + v1708 >= 0
- c639: v1709 - v1708 + v1710 >= 0
- c640: v1711 - v1712 + v1713 >= 0
- c641: v1714 - v1713 + v1715 >= 0
- c642: v1716 - v1715 + v1717 >= 0
- c643: v1718 - v1717 + v1719 >= 0
- c644: v1720 - v1721 + v1722 >= 0
- c645: v1723 - v1722 + v1724 >= 0
- c646: v1725 - v1724 + v1726 >= 0
- c647: v1727 - v1726 + v1728 >= 0
- c648: v1729 - v1730 + v1731 >= 0
- c649: v1732 - v1731 + v1733 >= 0
- c650: v1734 - v1733 + v1735 >= 0
- c651: v1736 - v1735 + v1737 >= 0
- c652: v1738 - v1739 + v1740 >= 0
- c653: v1741 - v1740 + v1742 >= 0
- c654: v1743 - v1742 + v1744 >= 0
- c655: v1745 - v1744 + v1746 >= 0
- c656: v1747 - v1748 + v1749 >= 0
- c657: v1750 - v1749 + v1751 >= 0
- c658: v1752 - v1751 + v1753 >= 0
- c659: v1754 - v1753 + v1755 >= 0
- c660: v0 - v1756 - v1757 - v1758 - v1759 - v1760 >= 0
- c661: v0 - v1761 - v1762 - v1763 - v1764 - v1765 >= 0
- c662: v0 - v1766 - v1767 - v1768 - v1769 - v1770 >= 0
- c663: v0 - v1771 - v1772 - v1773 - v1774 - v1775 >= 0
- c664: v0 - v1776 - v1777 - v1778 - v1779 - v1780 >= 0
- c665: v2 - v1781 - v1782 - v1783 - v1784 - v1785 >= 0
- c666: v2 - v1786 - v1787 - v1788 - v1789 - v1790 >= 0
- c667: v2 - v1791 - v1792 - v1793 - v1794 - v1795 >= 0
- c668: v2 - v1796 - v1797 - v1798 - v1799 - v1800 >= 0
- c669: v2 - v1801 - v1802 - v1803 - v1804 - v1805 >= 0
- c670: v4 - v1806 - v1807 - v1808 - v1809 - v1810 >= 0
- c671: v4 - v1811 - v1812 - v1813 - v1814 - v1815 >= 0
- c672: v4 - v1816 - v1817 - v1818 - v1819 - v1820 >= 0
- c673: v4 - v1821 - v1822 - v1823 - v1824 - v1825 >= 0
- c674: v4 - v1826 - v1827 - v1828 - v1829 - v1830 >= 0
- c675: v6 - v1831 - v1832 - v1833 - v1834 - v1835 >= 0
- c676: v6 - v1836 - v1837 - v1838 - v1839 - v1840 >= 0
- c677: v6 - v1841 - v1842 - v1843 - v1844 - v1845 >= 0
- c678: v6 - v1846 - v1847 - v1848 - v1849 - v1850 >= 0
- c679: v6 - v1851 - v1852 - v1853 - v1854 - v1855 >= 0
- c680: v8 - v1856 - v1857 - v1858 - v1859 - v1860 >= 0
- c681: v8 - v1861 - v1862 - v1863 - v1864 - v1865 >= 0
- c682: v8 - v1866 - v1867 - v1868 - v1869 - v1870 >= 0
- c683: v8 - v1871 - v1872 - v1873 - v1874 - v1875 >= 0
- c684: v8 - v1876 - v1877 - v1878 - v1879 - v1880 >= 0
- c685: v10 - v1881 - v1882 - v1883 - v1884 - v1885 >= 0
- c686: v10 - v1886 - v1887 - v1888 - v1889 - v1890 >= 0
- c687: v10 - v1891 - v1892 - v1893 - v1894 - v1895 >= 0
- c688: v10 - v1896 - v1897 - v1898 - v1899 - v1900 >= 0
- c689: v10 - v1901 - v1902 - v1903 - v1904 - v1905 >= 0
- c690: v12 - v1906 - v1907 - v1908 - v1909 - v1910 >= 0
- c691: v12 - v1911 - v1912 - v1913 - v1914 - v1915 >= 0
- c692: v12 - v1916 - v1917 - v1918 - v1919 - v1920 >= 0
- c693: v12 - v1921 - v1922 - v1923 - v1924 - v1925 >= 0
- c694: v12 - v1926 - v1927 - v1928 - v1929 - v1930 >= 0
- c695: v14 - v1931 - v1932 - v1933 - v1934 - v1935 >= 0
- c696: v14 - v1936 - v1937 - v1938 - v1939 - v1940 >= 0
- c697: v14 - v1941 - v1942 - v1943 - v1944 - v1945 >= 0
- c698: v14 - v1946 - v1947 - v1948 - v1949 - v1950 >= 0
- c699: v14 - v1951 - v1952 - v1953 - v1954 - v1955 >= 0
- c700: v16 - v1956 - v1957 - v1958 - v1959 - v1960 >= 0
- c701: v16 - v1961 - v1962 - v1963 - v1964 - v1965 >= 0
- c702: v16 - v1966 - v1967 - v1968 - v1969 - v1970 >= 0
- c703: v16 - v1971 - v1972 - v1973 - v1974 - v1975 >= 0
- c704: v16 - v1976 - v1977 - v1978 - v1979 - v1980 >= 0
- c705: v18 - v1981 - v1982 - v1983 - v1984 - v1985 >= 0
- c706: v18 - v1986 - v1987 - v1988 - v1989 - v1990 >= 0
- c707: v18 - v1991 - v1992 - v1993 - v1994 - v1995 >= 0
- c708: v18 - v1996 - v1997 - v1998 - v1999 - v2000 >= 0
- c709: v18 - v2001 - v2002 - v2003 - v2004 - v2005 >= 0
- c710: v20 - v2006 - v2007 - v2008 - v2009 - v2010 >= 0
- c711: v20 - v2011 - v2012 - v2013 - v2014 - v2015 >= 0
- c712: v20 - v2016 - v2017 - v2018 - v2019 - v2020 >= 0
- c713: v20 - v2021 - v2022 - v2023 - v2024 - v2025 >= 0
- c714: v20 - v2026 - v2027 - v2028 - v2029 - v2030 >= 0
- c715: v22 - v2031 - v2032 - v2033 - v2034 - v2035 >= 0
- c716: v22 - v2036 - v2037 - v2038 - v2039 - v2040 >= 0
- c717: v22 - v2041 - v2042 - v2043 - v2044 - v2045 >= 0
- c718: v22 - v2046 - v2047 - v2048 - v2049 - v2050 >= 0
- c719: v22 - v2051 - v2052 - v2053 - v2054 - v2055 >= 0
- c720: v24 - v2056 - v2057 - v2058 - v2059 - v2060 >= 0
- c721: v24 - v2061 - v2062 - v2063 - v2064 - v2065 >= 0
- c722: v24 - v2066 - v2067 - v2068 - v2069 - v2070 >= 0
- c723: v24 - v2071 - v2072 - v2073 - v2074 - v2075 >= 0
- c724: v24 - v2076 - v2077 - v2078 - v2079 - v2080 >= 0
- c725: v26 - v2081 - v2082 - v2083 - v2084 - v2085 >= 0
- c726: v26 - v2086 - v2087 - v2088 - v2089 - v2090 >= 0
- c727: v26 - v2091 - v2092 - v2093 - v2094 - v2095 >= 0
- c728: v26 - v2096 - v2097 - v2098 - v2099 - v2100 >= 0
- c729: v26 - v2101 - v2102 - v2103 - v2104 - v2105 >= 0
- c730: v28 - v2106 - v2107 - v2108 - v2109 - v2110 >= 0
- c731: v28 - v2111 - v2112 - v2113 - v2114 - v2115 >= 0
- c732: v28 - v2116 - v2117 - v2118 - v2119 - v2120 >= 0
- c733: v28 - v2121 - v2122 - v2123 - v2124 - v2125 >= 0
- c734: v28 - v2126 - v2127 - v2128 - v2129 - v2130 >= 0
- c735: v30 - v2131 - v2132 - v2133 - v2134 - v2135 >= 0
- c736: v30 - v2136 - v2137 - v2138 - v2139 - v2140 >= 0
- c737: v30 - v2141 - v2142 - v2143 - v2144 - v2145 >= 0
- c738: v30 - v2146 - v2147 - v2148 - v2149 - v2150 >= 0
- c739: v30 - v2151 - v2152 - v2153 - v2154 - v2155 >= 0
- c740: v32 - v2156 - v2157 - v2158 - v2159 - v2160 >= 0
- c741: v32 - v2161 - v2162 - v2163 - v2164 - v2165 >= 0
- c742: v32 - v2166 - v2167 - v2168 - v2169 - v2170 >= 0
- c743: v32 - v2171 - v2172 - v2173 - v2174 - v2175 >= 0
- c744: v32 - v2176 - v2177 - v2178 - v2179 - v2180 >= 0
- c745: v34 - v2181 - v2182 - v2183 - v2184 - v2185 >= 0
- c746: v34 - v2186 - v2187 - v2188 - v2189 - v2190 >= 0
- c747: v34 - v2191 - v2192 - v2193 - v2194 - v2195 >= 0
- c748: v34 - v2196 - v2197 - v2198 - v2199 - v2200 >= 0
- c749: v34 - v2201 - v2202 - v2203 - v2204 - v2205 >= 0
- c750: v36 - v2206 - v2207 - v2208 - v2209 - v2210 >= 0
- c751: v36 - v2211 - v2212 - v2213 - v2214 - v2215 >= 0
- c752: v36 - v2216 - v2217 - v2218 - v2219 - v2220 >= 0
- c753: v36 - v2221 - v2222 - v2223 - v2224 - v2225 >= 0
- c754: v36 - v2226 - v2227 - v2228 - v2229 - v2230 >= 0
- c755: v38 - v2231 - v2232 - v2233 - v2234 - v2235 >= 0
- c756: v38 - v2236 - v2237 - v2238 - v2239 - v2240 >= 0
- c757: v38 - v2241 - v2242 - v2243 - v2244 - v2245 >= 0
- c758: v38 - v2246 - v2247 - v2248 - v2249 - v2250 >= 0
- c759: v38 - v2251 - v2252 - v2253 - v2254 - v2255 >= 0
- c760: v40 - v2256 - v2257 - v2258 - v2259 - v2260 >= 0
- c761: v40 - v2261 - v2262 - v2263 - v2264 - v2265 >= 0
- c762: v40 - v2266 - v2267 - v2268 - v2269 - v2270 >= 0
- c763: v40 - v2271 - v2272 - v2273 - v2274 - v2275 >= 0
- c764: v40 - v2276 - v2277 - v2278 - v2279 - v2280 >= 0
- c765: v42 - v2281 - v2282 - v2283 - v2284 - v2285 >= 0
- c766: v42 - v2286 - v2287 - v2288 - v2289 - v2290 >= 0
- c767: v42 - v2291 - v2292 - v2293 - v2294 - v2295 >= 0
- c768: v42 - v2296 - v2297 - v2298 - v2299 - v2300 >= 0
- c769: v42 - v2301 - v2302 - v2303 - v2304 - v2305 >= 0
- c770: v44 - v2306 - v2307 - v2308 - v2309 - v2310 >= 0
- c771: v44 - v2311 - v2312 - v2313 - v2314 - v2315 >= 0
- c772: v44 - v2316 - v2317 - v2318 - v2319 - v2320 >= 0
- c773: v44 - v2321 - v2322 - v2323 - v2324 - v2325 >= 0
- c774: v44 - v2326 - v2327 - v2328 - v2329 - v2330 >= 0
- c775: v46 - v2331 - v2332 - v2333 - v2334 - v2335 >= 0
- c776: v46 - v2336 - v2337 - v2338 - v2339 - v2340 >= 0
- c777: v46 - v2341 - v2342 - v2343 - v2344 - v2345 >= 0
- c778: v46 - v2346 - v2347 - v2348 - v2349 - v2350 >= 0
- c779: v46 - v2351 - v2352 - v2353 - v2354 - v2355 >= 0
- c780: v48 - v2356 - v2357 - v2358 - v2359 - v2360 >= 0
- c781: v48 - v2361 - v2362 - v2363 - v2364 - v2365 >= 0
- c782: v48 - v2366 - v2367 - v2368 - v2369 - v2370 >= 0
- c783: v48 - v2371 - v2372 - v2373 - v2374 - v2375 >= 0
- c784: v48 - v2376 - v2377 - v2378 - v2379 - v2380 >= 0
- c785: v50 - v2381 - v2382 - v2383 - v2384 - v2385 >= 0
- c786: v50 - v2386 - v2387 - v2388 - v2389 - v2390 >= 0
- c787: v50 - v2391 - v2392 - v2393 - v2394 - v2395 >= 0
- c788: v50 - v2396 - v2397 - v2398 - v2399 - v2400 >= 0
- c789: v50 - v2401 - v2402 - v2403 - v2404 - v2405 >= 0
- c790: v52 - v2406 - v2407 - v2408 - v2409 - v2410 >= 0
- c791: v52 - v2411 - v2412 - v2413 - v2414 - v2415 >= 0
- c792: v52 - v2416 - v2417 - v2418 - v2419 - v2420 >= 0
- c793: v52 - v2421 - v2422 - v2423 - v2424 - v2425 >= 0
- c794: v52 - v2426 - v2427 - v2428 - v2429 - v2430 >= 0
- c795: v54 - v2431 - v2432 - v2433 - v2434 - v2435 >= 0
- c796: v54 - v2436 - v2437 - v2438 - v2439 - v2440 >= 0
- c797: v54 - v2441 - v2442 - v2443 - v2444 - v2445 >= 0
- c798: v54 - v2446 - v2447 - v2448 - v2449 - v2450 >= 0
- c799: v54 - v2451 - v2452 - v2453 - v2454 - v2455 >= 0
- c800: v56 - v2456 - v2457 - v2458 - v2459 - v2460 >= 0
- c801: v56 - v2461 - v2462 - v2463 - v2464 - v2465 >= 0
- c802: v56 - v2466 - v2467 - v2468 - v2469 - v2470 >= 0
- c803: v56 - v2471 - v2472 - v2473 - v2474 - v2475 >= 0
- c804: v56 - v2476 - v2477 - v2478 - v2479 - v2480 >= 0
- c805: v58 - v2481 - v2482 - v2483 - v2484 - v2485 >= 0
- c806: v58 - v2486 - v2487 - v2488 - v2489 - v2490 >= 0
- c807: v58 - v2491 - v2492 - v2493 - v2494 - v2495 >= 0
- c808: v58 - v2496 - v2497 - v2498 - v2499 - v2500 >= 0
- c809: v58 - v2501 - v2502 - v2503 - v2504 - v2505 >= 0
- c810: v60 - v2506 - v2507 - v2508 - v2509 - v2510 >= 0
- c811: v60 - v2511 - v2512 - v2513 - v2514 - v2515 >= 0
- c812: v60 - v2516 - v2517 - v2518 - v2519 - v2520 >= 0
- c813: v60 - v2521 - v2522 - v2523 - v2524 - v2525 >= 0
- c814: v60 - v2526 - v2527 - v2528 - v2529 - v2530 >= 0
- c815: v62 - v2531 - v2532 - v2533 - v2534 - v2535 >= 0
- c816: v62 - v2536 - v2537 - v2538 - v2539 - v2540 >= 0
- c817: v62 - v2541 - v2542 - v2543 - v2544 - v2545 >= 0
- c818: v62 - v2546 - v2547 - v2548 - v2549 - v2550 >= 0
- c819: v62 - v2551 - v2552 - v2553 - v2554 - v2555 >= 0
- c820: v64 - v2556 - v2557 - v2558 - v2559 - v2560 >= 0
- c821: v64 - v2561 - v2562 - v2563 - v2564 - v2565 >= 0
- c822: v64 - v2566 - v2567 - v2568 - v2569 - v2570 >= 0
- c823: v64 - v2571 - v2572 - v2573 - v2574 - v2575 >= 0
- c824: v64 - v2576 - v2577 - v2578 - v2579 - v2580 >= 0
+ flow_T27_Mo_1: x_T27_S2_Mo_1 + x_T27_S5_Mo_1 + x_T27_S8_Mo_1 + x_T27_S11_Mo_1 + x_T27_S14_Mo_1 + x_T27_S17_Mo_1 + x_T27_S20_Mo_1 - x_T27_S2_Mo_1 - x_T27_S5_Mo_1 - x_T27_S8_Mo_1 - x_T27_S11_Mo_1 - x_T27_S14_Mo_1 - x_T27_S17_Mo_1 - x_T27_S20_Mo_1 = 1
+ flow_T27_Mo_2: x_T27_S2_Mo_2 + x_T27_S5_Mo_2 + x_T27_S8_Mo_2 + x_T27_S11_Mo_2 + x_T27_S14_Mo_2 + x_T27_S17_Mo_2 + x_T27_S20_Mo_2 - x_T27_S2_Mo_2 - x_T27_S5_Mo_2 - x_T27_S8_Mo_2 - x_T27_S11_Mo_2 - x_T27_S14_Mo_2 - x_T27_S17_Mo_2 - x_T27_S20_Mo_2 = 0
+ flow_T27_Mo_3: x_T27_S2_Mo_3 + x_T27_S5_Mo_3 + x_T27_S8_Mo_3 + x_T27_S11_Mo_3 + x_T27_S14_Mo_3 + x_T27_S17_Mo_3 + x_T27_S20_Mo_3 - x_T27_S2_Mo_3 - x_T27_S5_Mo_3 - x_T27_S8_Mo_3 - x_T27_S11_Mo_3 - x_T27_S14_Mo_3 - x_T27_S17_Mo_3 - x_T27_S20_Mo_3 = 0
+ flow_T27_Mo_4: x_T27_S2_Mo_4 + x_T27_S5_Mo_4 + x_T27_S8_Mo_4 + x_T27_S11_Mo_4 + x_T27_S14_Mo_4 + x_T27_S17_Mo_4 + x_T27_S20_Mo_4 - x_T27_S2_Mo_4 - x_T27_S5_Mo_4 - x_T27_S8_Mo_4 - x_T27_S11_Mo_4 - x_T27_S14_Mo_4 - x_T27_S17_Mo_4 - x_T27_S20_Mo_4 = 0
+ flow_T27_Mo_5: x_T27_S2_Mo_5 + x_T27_S5_Mo_5 + x_T27_S8_Mo_5 + x_T27_S11_Mo_5 + x_T27_S14_Mo_5 + x_T27_S17_Mo_5 + x_T27_S20_Mo_5 - x_T27_S2_Mo_5 - x_T27_S5_Mo_5 - x_T27_S8_Mo_5 - x_T27_S11_Mo_5 - x_T27_S14_Mo_5 - x_T27_S17_Mo_5 - x_T27_S20_Mo_5 = -1
+ flow_T27_Tu_1: x_T27_S2_Tu_1 + x_T27_S5_Tu_1 + x_T27_S8_Tu_1 + x_T27_S11_Tu_1 + x_T27_S14_Tu_1 + x_T27_S17_Tu_1 + x_T27_S20_Tu_1 - x_T27_S2_Tu_1 - x_T27_S5_Tu_1 - x_T27_S8_Tu_1 - x_T27_S11_Tu_1 - x_T27_S14_Tu_1 - x_T27_S17_Tu_1 - x_T27_S20_Tu_1 = 1
+ flow_T27_Tu_2: x_T27_S2_Tu_2 + x_T27_S5_Tu_2 + x_T27_S8_Tu_2 + x_T27_S11_Tu_2 + x_T27_S14_Tu_2 + x_T27_S17_Tu_2 + x_T27_S20_Tu_2 - x_T27_S2_Tu_2 - x_T27_S5_Tu_2 - x_T27_S8_Tu_2 - x_T27_S11_Tu_2 - x_T27_S14_Tu_2 - x_T27_S17_Tu_2 - x_T27_S20_Tu_2 = 0
+ flow_T27_Tu_3: x_T27_S2_Tu_3 + x_T27_S5_Tu_3 + x_T27_S8_Tu_3 + x_T27_S11_Tu_3 + x_T27_S14_Tu_3 + x_T27_S17_Tu_3 + x_T27_S20_Tu_3 - x_T27_S2_Tu_3 - x_T27_S5_Tu_3 - x_T27_S8_Tu_3 - x_T27_S11_Tu_3 - x_T27_S14_Tu_3 - x_T27_S17_Tu_3 - x_T27_S20_Tu_3 = 0
+ flow_T27_Tu_4: x_T27_S2_Tu_4 + x_T27_S5_Tu_4 + x_T27_S8_Tu_4 + x_T27_S11_Tu_4 + x_T27_S14_Tu_4 + x_T27_S17_Tu_4 + x_T27_S20_Tu_4 - x_T27_S2_Tu_4 - x_T27_S5_Tu_4 - x_T27_S8_Tu_4 - x_T27_S11_Tu_4 - x_T27_S14_Tu_4 - x_T27_S17_Tu_4 - x_T27_S20_Tu_4 = 0
+ flow_T27_Tu_5: x_T27_S2_Tu_5 + x_T27_S5_Tu_5 + x_T27_S8_Tu_5 + x_T27_S11_Tu_5 + x_T27_S14_Tu_5 + x_T27_S17_Tu_5 + x_T27_S20_Tu_5 - x_T27_S2_Tu_5 - x_T27_S5_Tu_5 - x_T27_S8_Tu_5 - x_T27_S11_Tu_5 - x_T27_S14_Tu_5 - x_T27_S17_Tu_5 - x_T27_S20_Tu_5 = -1
+ flow_T27_We_1: x_T27_S2_We_1 + x_T27_S5_We_1 + x_T27_S8_We_1 + x_T27_S11_We_1 + x_T27_S14_We_1 + x_T27_S17_We_1 + x_T27_S20_We_1 - x_T27_S2_We_1 - x_T27_S5_We_1 - x_T27_S8_We_1 - x_T27_S11_We_1 - x_T27_S14_We_1 - x_T27_S17_We_1 - x_T27_S20_We_1 = 1
+ flow_T27_We_2: x_T27_S2_We_2 + x_T27_S5_We_2 + x_T27_S8_We_2 + x_T27_S11_We_2 + x_T27_S14_We_2 + x_T27_S17_We_2 + x_T27_S20_We_2 - x_T27_S2_We_2 - x_T27_S5_We_2 - x_T27_S8_We_2 - x_T27_S11_We_2 - x_T27_S14_We_2 - x_T27_S17_We_2 - x_T27_S20_We_2 = 0
+ flow_T27_We_3: x_T27_S2_We_3 + x_T27_S5_We_3 + x_T27_S8_We_3 + x_T27_S11_We_3 + x_T27_S14_We_3 + x_T27_S17_We_3 + x_T27_S20_We_3 - x_T27_S2_We_3 - x_T27_S5_We_3 - x_T27_S8_We_3 - x_T27_S11_We_3 - x_T27_S14_We_3 - x_T27_S17_We_3 - x_T27_S20_We_3 = 0
+ flow_T27_We_4: x_T27_S2_We_4 + x_T27_S5_We_4 + x_T27_S8_We_4 + x_T27_S11_We_4 + x_T27_S14_We_4 + x_T27_S17_We_4 + x_T27_S20_We_4 - x_T27_S2_We_4 - x_T27_S5_We_4 - x_T27_S8_We_4 - x_T27_S11_We_4 - x_T27_S14_We_4 - x_T27_S17_We_4 - x_T27_S20_We_4 = 0
+ flow_T27_We_5: x_T27_S2_We_5 + x_T27_S5_We_5 + x_T27_S8_We_5 + x_T27_S11_We_5 + x_T27_S14_We_5 + x_T27_S17_We_5 + x_T27_S20_We_5 - x_T27_S2_We_5 - x_T27_S5_We_5 - x_T27_S8_We_5 - x_T27_S11_We_5 - x_T27_S14_We_5 - x_T27_S17_We_5 - x_T27_S20_We_5 = -1
+ flow_T27_Th_1: x_T27_S2_Th_1 + x_T27_S5_Th_1 + x_T27_S8_Th_1 + x_T27_S11_Th_1 + x_T27_S14_Th_1 + x_T27_S17_Th_1 + x_T27_S20_Th_1 - x_T27_S2_Th_1 - x_T27_S5_Th_1 - x_T27_S8_Th_1 - x_T27_S11_Th_1 - x_T27_S14_Th_1 - x_T27_S17_Th_1 - x_T27_S20_Th_1 = 1
+ flow_T27_Th_2: x_T27_S2_Th_2 + x_T27_S5_Th_2 + x_T27_S8_Th_2 + x_T27_S11_Th_2 + x_T27_S14_Th_2 + x_T27_S17_Th_2 + x_T27_S20_Th_2 - x_T27_S2_Th_2 - x_T27_S5_Th_2 - x_T27_S8_Th_2 - x_T27_S11_Th_2 - x_T27_S14_Th_2 - x_T27_S17_Th_2 - x_T27_S20_Th_2 = 0
+ flow_T27_Th_3: x_T27_S2_Th_3 + x_T27_S5_Th_3 + x_T27_S8_Th_3 + x_T27_S11_Th_3 + x_T27_S14_Th_3 + x_T27_S17_Th_3 + x_T27_S20_Th_3 - x_T27_S2_Th_3 - x_T27_S5_Th_3 - x_T27_S8_Th_3 - x_T27_S11_Th_3 - x_T27_S14_Th_3 - x_T27_S17_Th_3 - x_T27_S20_Th_3 = 0
+ flow_T27_Th_4: x_T27_S2_Th_4 + x_T27_S5_Th_4 + x_T27_S8_Th_4 + x_T27_S11_Th_4 + x_T27_S14_Th_4 + x_T27_S17_Th_4 + x_T27_S20_Th_4 - x_T27_S2_Th_4 - x_T27_S5_Th_4 - x_T27_S8_Th_4 - x_T27_S11_Th_4 - x_T27_S14_Th_4 - x_T27_S17_Th_4 - x_T27_S20_Th_4 = 0
+ flow_T27_Th_5: x_T27_S2_Th_5 + x_T27_S5_Th_5 + x_T27_S8_Th_5 + x_T27_S11_Th_5 + x_T27_S14_Th_5 + x_T27_S17_Th_5 + x_T27_S20_Th_5 - x_T27_S2_Th_5 - x_T27_S5_Th_5 - x_T27_S8_Th_5 - x_T27_S11_Th_5 - x_T27_S14_Th_5 - x_T27_S17_Th_5 - x_T27_S20_Th_5 = -1
+ flow_T27_Fr_1: x_T27_S2_Fr_1 + x_T27_S5_Fr_1 + x_T27_S8_Fr_1 + x_T27_S11_Fr_1 + x_T27_S14_Fr_1 + x_T27_S17_Fr_1 + x_T27_S20_Fr_1 - x_T27_S2_Fr_1 - x_T27_S5_Fr_1 - x_T27_S8_Fr_1 - x_T27_S11_Fr_1 - x_T27_S14_Fr_1 - x_T27_S17_Fr_1 - x_T27_S20_Fr_1 = 1
+ flow_T27_Fr_2: x_T27_S2_Fr_2 + x_T27_S5_Fr_2 + x_T27_S8_Fr_2 + x_T27_S11_Fr_2 + x_T27_S14_Fr_2 + x_T27_S17_Fr_2 + x_T27_S20_Fr_2 - x_T27_S2_Fr_2 - x_T27_S5_Fr_2 - x_T27_S8_Fr_2 - x_T27_S11_Fr_2 - x_T27_S14_Fr_2 - x_T27_S17_Fr_2 - x_T27_S20_Fr_2 = 0
+ flow_T27_Fr_3: x_T27_S2_Fr_3 + x_T27_S5_Fr_3 + x_T27_S8_Fr_3 + x_T27_S11_Fr_3 + x_T27_S14_Fr_3 + x_T27_S17_Fr_3 + x_T27_S20_Fr_3 - x_T27_S2_Fr_3 - x_T27_S5_Fr_3 - x_T27_S8_Fr_3 - x_T27_S11_Fr_3 - x_T27_S14_Fr_3 - x_T27_S17_Fr_3 - x_T27_S20_Fr_3 = 0
+ flow_T27_Fr_4: x_T27_S2_Fr_4 + x_T27_S5_Fr_4 + x_T27_S8_Fr_4 + x_T27_S11_Fr_4 + x_T27_S14_Fr_4 + x_T27_S17_Fr_4 + x_T27_S20_Fr_4 - x_T27_S2_Fr_4 - x_T27_S5_Fr_4 - x_T27_S8_Fr_4 - x_T27_S11_Fr_4 - x_T27_S14_Fr_4 - x_T27_S17_Fr_4 - x_T27_S20_Fr_4 = 0
+ flow_T27_Fr_5: x_T27_S2_Fr_5 + x_T27_S5_Fr_5 + x_T27_S8_Fr_5 + x_T27_S11_Fr_5 + x_T27_S14_Fr_5 + x_T27_S17_Fr_5 + x_T27_S20_Fr_5 - x_T27_S2_Fr_5 - x_T27_S5_Fr_5 - x_T27_S8_Fr_5 - x_T27_S11_Fr_5 - x_T27_S14_Fr_5 - x_T27_S17_Fr_5 - x_T27_S20_Fr_5 = -1
+ flow_T31_Mo_1: x_T31_S3_Mo_1 + x_T31_S6_Mo_1 + x_T31_S9_Mo_1 + x_T31_S12_Mo_1 + x_T31_S15_Mo_1 + x_T31_S18_Mo_1 + x_T31_S20_Mo_1 - x_T31_S3_Mo_1 - x_T31_S6_Mo_1 - x_T31_S9_Mo_1 - x_T31_S12_Mo_1 - x_T31_S15_Mo_1 - x_T31_S18_Mo_1 - x_T31_S20_Mo_1 = 1
+ flow_T31_Mo_2: x_T31_S3_Mo_2 + x_T31_S6_Mo_2 + x_T31_S9_Mo_2 + x_T31_S12_Mo_2 + x_T31_S15_Mo_2 + x_T31_S18_Mo_2 + x_T31_S20_Mo_2 - x_T31_S3_Mo_2 - x_T31_S6_Mo_2 - x_T31_S9_Mo_2 - x_T31_S12_Mo_2 - x_T31_S15_Mo_2 - x_T31_S18_Mo_2 - x_T31_S20_Mo_2 = 0
+ flow_T31_Mo_3: x_T31_S3_Mo_3 + x_T31_S6_Mo_3 + x_T31_S9_Mo_3 + x_T31_S12_Mo_3 + x_T31_S15_Mo_3 + x_T31_S18_Mo_3 + x_T31_S20_Mo_3 - x_T31_S3_Mo_3 - x_T31_S6_Mo_3 - x_T31_S9_Mo_3 - x_T31_S12_Mo_3 - x_T31_S15_Mo_3 - x_T31_S18_Mo_3 - x_T31_S20_Mo_3 = 0
+ flow_T31_Mo_4: x_T31_S3_Mo_4 + x_T31_S6_Mo_4 + x_T31_S9_Mo_4 + x_T31_S12_Mo_4 + x_T31_S15_Mo_4 + x_T31_S18_Mo_4 + x_T31_S20_Mo_4 - x_T31_S3_Mo_4 - x_T31_S6_Mo_4 - x_T31_S9_Mo_4 - x_T31_S12_Mo_4 - x_T31_S15_Mo_4 - x_T31_S18_Mo_4 - x_T31_S20_Mo_4 = 0
+ flow_T31_Mo_5: x_T31_S3_Mo_5 + x_T31_S6_Mo_5 + x_T31_S9_Mo_5 + x_T31_S12_Mo_5 + x_T31_S15_Mo_5 + x_T31_S18_Mo_5 + x_T31_S20_Mo_5 - x_T31_S3_Mo_5 - x_T31_S6_Mo_5 - x_T31_S9_Mo_5 - x_T31_S12_Mo_5 - x_T31_S15_Mo_5 - x_T31_S18_Mo_5 - x_T31_S20_Mo_5 = -1
+ flow_T31_Tu_1: x_T31_S3_Tu_1 + x_T31_S6_Tu_1 + x_T31_S9_Tu_1 + x_T31_S12_Tu_1 + x_T31_S15_Tu_1 + x_T31_S18_Tu_1 + x_T31_S20_Tu_1 - x_T31_S3_Tu_1 - x_T31_S6_Tu_1 - x_T31_S9_Tu_1 - x_T31_S12_Tu_1 - x_T31_S15_Tu_1 - x_T31_S18_Tu_1 - x_T31_S20_Tu_1 = 1
+ flow_T31_Tu_2: x_T31_S3_Tu_2 + x_T31_S6_Tu_2 + x_T31_S9_Tu_2 + x_T31_S12_Tu_2 + x_T31_S15_Tu_2 + x_T31_S18_Tu_2 + x_T31_S20_Tu_2 - x_T31_S3_Tu_2 - x_T31_S6_Tu_2 - x_T31_S9_Tu_2 - x_T31_S12_Tu_2 - x_T31_S15_Tu_2 - x_T31_S18_Tu_2 - x_T31_S20_Tu_2 = 0
+ flow_T31_Tu_3: x_T31_S3_Tu_3 + x_T31_S6_Tu_3 + x_T31_S9_Tu_3 + x_T31_S12_Tu_3 + x_T31_S15_Tu_3 + x_T31_S18_Tu_3 + x_T31_S20_Tu_3 - x_T31_S3_Tu_3 - x_T31_S6_Tu_3 - x_T31_S9_Tu_3 - x_T31_S12_Tu_3 - x_T31_S15_Tu_3 - x_T31_S18_Tu_3 - x_T31_S20_Tu_3 = 0
+ flow_T31_Tu_4: x_T31_S3_Tu_4 + x_T31_S6_Tu_4 + x_T31_S9_Tu_4 + x_T31_S12_Tu_4 + x_T31_S15_Tu_4 + x_T31_S18_Tu_4 + x_T31_S20_Tu_4 - x_T31_S3_Tu_4 - x_T31_S6_Tu_4 - x_T31_S9_Tu_4 - x_T31_S12_Tu_4 - x_T31_S15_Tu_4 - x_T31_S18_Tu_4 - x_T31_S20_Tu_4 = 0
+ flow_T31_Tu_5: x_T31_S3_Tu_5 + x_T31_S6_Tu_5 + x_T31_S9_Tu_5 + x_T31_S12_Tu_5 + x_T31_S15_Tu_5 + x_T31_S18_Tu_5 + x_T31_S20_Tu_5 - x_T31_S3_Tu_5 - x_T31_S6_Tu_5 - x_T31_S9_Tu_5 - x_T31_S12_Tu_5 - x_T31_S15_Tu_5 - x_T31_S18_Tu_5 - x_T31_S20_Tu_5 = -1
+ flow_T31_We_1: x_T31_S3_We_1 + x_T31_S6_We_1 + x_T31_S9_We_1 + x_T31_S12_We_1 + x_T31_S15_We_1 + x_T31_S18_We_1 + x_T31_S20_We_1 - x_T31_S3_We_1 - x_T31_S6_We_1 - x_T31_S9_We_1 - x_T31_S12_We_1 - x_T31_S15_We_1 - x_T31_S18_We_1 - x_T31_S20_We_1 = 1
+ flow_T31_We_2: x_T31_S3_We_2 + x_T31_S6_We_2 + x_T31_S9_We_2 + x_T31_S12_We_2 + x_T31_S15_We_2 + x_T31_S18_We_2 + x_T31_S20_We_2 - x_T31_S3_We_2 - x_T31_S6_We_2 - x_T31_S9_We_2 - x_T31_S12_We_2 - x_T31_S15_We_2 - x_T31_S18_We_2 - x_T31_S20_We_2 = 0
+ flow_T31_We_3: x_T31_S3_We_3 + x_T31_S6_We_3 + x_T31_S9_We_3 + x_T31_S12_We_3 + x_T31_S15_We_3 + x_T31_S18_We_3 + x_T31_S20_We_3 - x_T31_S3_We_3 - x_T31_S6_We_3 - x_T31_S9_We_3 - x_T31_S12_We_3 - x_T31_S15_We_3 - x_T31_S18_We_3 - x_T31_S20_We_3 = 0
+ flow_T31_We_4: x_T31_S3_We_4 + x_T31_S6_We_4 + x_T31_S9_We_4 + x_T31_S12_We_4 + x_T31_S15_We_4 + x_T31_S18_We_4 + x_T31_S20_We_4 - x_T31_S3_We_4 - x_T31_S6_We_4 - x_T31_S9_We_4 - x_T31_S12_We_4 - x_T31_S15_We_4 - x_T31_S18_We_4 - x_T31_S20_We_4 = 0
+ flow_T31_We_5: x_T31_S3_We_5 + x_T31_S6_We_5 + x_T31_S9_We_5 + x_T31_S12_We_5 + x_T31_S15_We_5 + x_T31_S18_We_5 + x_T31_S20_We_5 - x_T31_S3_We_5 - x_T31_S6_We_5 - x_T31_S9_We_5 - x_T31_S12_We_5 - x_T31_S15_We_5 - x_T31_S18_We_5 - x_T31_S20_We_5 = -1
+ flow_T31_Th_1: x_T31_S3_Th_1 + x_T31_S6_Th_1 + x_T31_S9_Th_1 + x_T31_S12_Th_1 + x_T31_S15_Th_1 + x_T31_S18_Th_1 + x_T31_S20_Th_1 - x_T31_S3_Th_1 - x_T31_S6_Th_1 - x_T31_S9_Th_1 - x_T31_S12_Th_1 - x_T31_S15_Th_1 - x_T31_S18_Th_1 - x_T31_S20_Th_1 = 1
+ flow_T31_Th_2: x_T31_S3_Th_2 + x_T31_S6_Th_2 + x_T31_S9_Th_2 + x_T31_S12_Th_2 + x_T31_S15_Th_2 + x_T31_S18_Th_2 + x_T31_S20_Th_2 - x_T31_S3_Th_2 - x_T31_S6_Th_2 - x_T31_S9_Th_2 - x_T31_S12_Th_2 - x_T31_S15_Th_2 - x_T31_S18_Th_2 - x_T31_S20_Th_2 = 0
+ flow_T31_Th_3: x_T31_S3_Th_3 + x_T31_S6_Th_3 + x_T31_S9_Th_3 + x_T31_S12_Th_3 + x_T31_S15_Th_3 + x_T31_S18_Th_3 + x_T31_S20_Th_3 - x_T31_S3_Th_3 - x_T31_S6_Th_3 - x_T31_S9_Th_3 - x_T31_S12_Th_3 - x_T31_S15_Th_3 - x_T31_S18_Th_3 - x_T31_S20_Th_3 = 0
+ flow_T31_Th_4: x_T31_S3_Th_4 + x_T31_S6_Th_4 + x_T31_S9_Th_4 + x_T31_S12_Th_4 + x_T31_S15_Th_4 + x_T31_S18_Th_4 + x_T31_S20_Th_4 - x_T31_S3_Th_4 - x_T31_S6_Th_4 - x_T31_S9_Th_4 - x_T31_S12_Th_4 - x_T31_S15_Th_4 - x_T31_S18_Th_4 - x_T31_S20_Th_4 = 0
+ flow_T31_Th_5: x_T31_S3_Th_5 + x_T31_S6_Th_5 + x_T31_S9_Th_5 + x_T31_S12_Th_5 + x_T31_S15_Th_5 + x_T31_S18_Th_5 + x_T31_S20_Th_5 - x_T31_S3_Th_5 - x_T31_S6_Th_5 - x_T31_S9_Th_5 - x_T31_S12_Th_5 - x_T31_S15_Th_5 - x_T31_S18_Th_5 - x_T31_S20_Th_5 = -1
+ flow_T31_Fr_1: x_T31_S3_Fr_1 + x_T31_S6_Fr_1 + x_T31_S9_Fr_1 + x_T31_S12_Fr_1 + x_T31_S15_Fr_1 + x_T31_S18_Fr_1 + x_T31_S20_Fr_1 - x_T31_S3_Fr_1 - x_T31_S6_Fr_1 - x_T31_S9_Fr_1 - x_T31_S12_Fr_1 - x_T31_S15_Fr_1 - x_T31_S18_Fr_1 - x_T31_S20_Fr_1 = 1
+ flow_T31_Fr_2: x_T31_S3_Fr_2 + x_T31_S6_Fr_2 + x_T31_S9_Fr_2 + x_T31_S12_Fr_2 + x_T31_S15_Fr_2 + x_T31_S18_Fr_2 + x_T31_S20_Fr_2 - x_T31_S3_Fr_2 - x_T31_S6_Fr_2 - x_T31_S9_Fr_2 - x_T31_S12_Fr_2 - x_T31_S15_Fr_2 - x_T31_S18_Fr_2 - x_T31_S20_Fr_2 = 0
+ flow_T31_Fr_3: x_T31_S3_Fr_3 + x_T31_S6_Fr_3 + x_T31_S9_Fr_3 + x_T31_S12_Fr_3 + x_T31_S15_Fr_3 + x_T31_S18_Fr_3 + x_T31_S20_Fr_3 - x_T31_S3_Fr_3 - x_T31_S6_Fr_3 - x_T31_S9_Fr_3 - x_T31_S12_Fr_3 - x_T31_S15_Fr_3 - x_T31_S18_Fr_3 - x_T31_S20_Fr_3 = 0
+ flow_T31_Fr_4: x_T31_S3_Fr_4 + x_T31_S6_Fr_4 + x_T31_S9_Fr_4 + x_T31_S12_Fr_4 + x_T31_S15_Fr_4 + x_T31_S18_Fr_4 + x_T31_S20_Fr_4 - x_T31_S3_Fr_4 - x_T31_S6_Fr_4 - x_T31_S9_Fr_4 - x_T31_S12_Fr_4 - x_T31_S15_Fr_4 - x_T31_S18_Fr_4 - x_T31_S20_Fr_4 = 0
+ flow_T31_Fr_5: x_T31_S3_Fr_5 + x_T31_S6_Fr_5 + x_T31_S9_Fr_5 + x_T31_S12_Fr_5 + x_T31_S15_Fr_5 + x_T31_S18_Fr_5 + x_T31_S20_Fr_5 - x_T31_S3_Fr_5 - x_T31_S6_Fr_5 - x_T31_S9_Fr_5 - x_T31_S12_Fr_5 - x_T31_S15_Fr_5 - x_T31_S18_Fr_5 - x_T31_S20_Fr_5 = -1
+ flow_T2_Mo_1: x_T2_S7_Mo_1 + x_T2_S8_Mo_1 + x_T2_S9_Mo_1 + x_T2_S10_Mo_1 + x_T2_S11_Mo_1 - x_T2_S7_Mo_1 - x_T2_S8_Mo_1 - x_T2_S9_Mo_1 - x_T2_S10_Mo_1 - x_T2_S11_Mo_1 = 1
+ flow_T2_Mo_2: x_T2_S7_Mo_2 + x_T2_S8_Mo_2 + x_T2_S9_Mo_2 + x_T2_S10_Mo_2 + x_T2_S11_Mo_2 - x_T2_S7_Mo_2 - x_T2_S8_Mo_2 - x_T2_S9_Mo_2 - x_T2_S10_Mo_2 - x_T2_S11_Mo_2 = 0
+ flow_T2_Mo_3: x_T2_S7_Mo_3 + x_T2_S8_Mo_3 + x_T2_S9_Mo_3 + x_T2_S10_Mo_3 + x_T2_S11_Mo_3 - x_T2_S7_Mo_3 - x_T2_S8_Mo_3 - x_T2_S9_Mo_3 - x_T2_S10_Mo_3 - x_T2_S11_Mo_3 = 0
+ flow_T2_Mo_4: x_T2_S7_Mo_4 + x_T2_S8_Mo_4 + x_T2_S9_Mo_4 + x_T2_S10_Mo_4 + x_T2_S11_Mo_4 - x_T2_S7_Mo_4 - x_T2_S8_Mo_4 - x_T2_S9_Mo_4 - x_T2_S10_Mo_4 - x_T2_S11_Mo_4 = 0
+ flow_T2_Mo_5: x_T2_S7_Mo_5 + x_T2_S8_Mo_5 + x_T2_S9_Mo_5 + x_T2_S10_Mo_5 + x_T2_S11_Mo_5 - x_T2_S7_Mo_5 - x_T2_S8_Mo_5 - x_T2_S9_Mo_5 - x_T2_S10_Mo_5 - x_T2_S11_Mo_5 = -1
+ flow_T2_Tu_1: x_T2_S7_Tu_1 + x_T2_S8_Tu_1 + x_T2_S9_Tu_1 + x_T2_S10_Tu_1 + x_T2_S11_Tu_1 - x_T2_S7_Tu_1 - x_T2_S8_Tu_1 - x_T2_S9_Tu_1 - x_T2_S10_Tu_1 - x_T2_S11_Tu_1 = 1
+ flow_T2_Tu_2: x_T2_S7_Tu_2 + x_T2_S8_Tu_2 + x_T2_S9_Tu_2 + x_T2_S10_Tu_2 + x_T2_S11_Tu_2 - x_T2_S7_Tu_2 - x_T2_S8_Tu_2 - x_T2_S9_Tu_2 - x_T2_S10_Tu_2 - x_T2_S11_Tu_2 = 0
+ flow_T2_Tu_3: x_T2_S7_Tu_3 + x_T2_S8_Tu_3 + x_T2_S9_Tu_3 + x_T2_S10_Tu_3 + x_T2_S11_Tu_3 - x_T2_S7_Tu_3 - x_T2_S8_Tu_3 - x_T2_S9_Tu_3 - x_T2_S10_Tu_3 - x_T2_S11_Tu_3 = 0
+ flow_T2_Tu_4: x_T2_S7_Tu_4 + x_T2_S8_Tu_4 + x_T2_S9_Tu_4 + x_T2_S10_Tu_4 + x_T2_S11_Tu_4 - x_T2_S7_Tu_4 - x_T2_S8_Tu_4 - x_T2_S9_Tu_4 - x_T2_S10_Tu_4 - x_T2_S11_Tu_4 = 0
+ flow_T2_Tu_5: x_T2_S7_Tu_5 + x_T2_S8_Tu_5 + x_T2_S9_Tu_5 + x_T2_S10_Tu_5 + x_T2_S11_Tu_5 - x_T2_S7_Tu_5 - x_T2_S8_Tu_5 - x_T2_S9_Tu_5 - x_T2_S10_Tu_5 - x_T2_S11_Tu_5 = -1
+ flow_T2_We_1: x_T2_S7_We_1 + x_T2_S8_We_1 + x_T2_S9_We_1 + x_T2_S10_We_1 + x_T2_S11_We_1 - x_T2_S7_We_1 - x_T2_S8_We_1 - x_T2_S9_We_1 - x_T2_S10_We_1 - x_T2_S11_We_1 = 1
+ flow_T2_We_2: x_T2_S7_We_2 + x_T2_S8_We_2 + x_T2_S9_We_2 + x_T2_S10_We_2 + x_T2_S11_We_2 - x_T2_S7_We_2 - x_T2_S8_We_2 - x_T2_S9_We_2 - x_T2_S10_We_2 - x_T2_S11_We_2 = 0
+ flow_T2_We_3: x_T2_S7_We_3 + x_T2_S8_We_3 + x_T2_S9_We_3 + x_T2_S10_We_3 + x_T2_S11_We_3 - x_T2_S7_We_3 - x_T2_S8_We_3 - x_T2_S9_We_3 - x_T2_S10_We_3 - x_T2_S11_We_3 = 0
+ flow_T2_We_4: x_T2_S7_We_4 + x_T2_S8_We_4 + x_T2_S9_We_4 + x_T2_S10_We_4 + x_T2_S11_We_4 - x_T2_S7_We_4 - x_T2_S8_We_4 - x_T2_S9_We_4 - x_T2_S10_We_4 - x_T2_S11_We_4 = 0
+ flow_T2_We_5: x_T2_S7_We_5 + x_T2_S8_We_5 + x_T2_S9_We_5 + x_T2_S10_We_5 + x_T2_S11_We_5 - x_T2_S7_We_5 - x_T2_S8_We_5 - x_T2_S9_We_5 - x_T2_S10_We_5 - x_T2_S11_We_5 = -1
+ flow_T2_Th_1: x_T2_S7_Th_1 + x_T2_S8_Th_1 + x_T2_S9_Th_1 + x_T2_S10_Th_1 + x_T2_S11_Th_1 - x_T2_S7_Th_1 - x_T2_S8_Th_1 - x_T2_S9_Th_1 - x_T2_S10_Th_1 - x_T2_S11_Th_1 = 1
+ flow_T2_Th_2: x_T2_S7_Th_2 + x_T2_S8_Th_2 + x_T2_S9_Th_2 + x_T2_S10_Th_2 + x_T2_S11_Th_2 - x_T2_S7_Th_2 - x_T2_S8_Th_2 - x_T2_S9_Th_2 - x_T2_S10_Th_2 - x_T2_S11_Th_2 = 0
+ flow_T2_Th_3: x_T2_S7_Th_3 + x_T2_S8_Th_3 + x_T2_S9_Th_3 + x_T2_S10_Th_3 + x_T2_S11_Th_3 - x_T2_S7_Th_3 - x_T2_S8_Th_3 - x_T2_S9_Th_3 - x_T2_S10_Th_3 - x_T2_S11_Th_3 = 0
+ flow_T2_Th_4: x_T2_S7_Th_4 + x_T2_S8_Th_4 + x_T2_S9_Th_4 + x_T2_S10_Th_4 + x_T2_S11_Th_4 - x_T2_S7_Th_4 - x_T2_S8_Th_4 - x_T2_S9_Th_4 - x_T2_S10_Th_4 - x_T2_S11_Th_4 = 0
+ flow_T2_Th_5: x_T2_S7_Th_5 + x_T2_S8_Th_5 + x_T2_S9_Th_5 + x_T2_S10_Th_5 + x_T2_S11_Th_5 - x_T2_S7_Th_5 - x_T2_S8_Th_5 - x_T2_S9_Th_5 - x_T2_S10_Th_5 - x_T2_S11_Th_5 = -1
+ flow_T2_Fr_1: x_T2_S7_Fr_1 + x_T2_S8_Fr_1 + x_T2_S9_Fr_1 + x_T2_S10_Fr_1 + x_T2_S11_Fr_1 - x_T2_S7_Fr_1 - x_T2_S8_Fr_1 - x_T2_S9_Fr_1 - x_T2_S10_Fr_1 - x_T2_S11_Fr_1 = 1
+ flow_T2_Fr_2: x_T2_S7_Fr_2 + x_T2_S8_Fr_2 + x_T2_S9_Fr_2 + x_T2_S10_Fr_2 + x_T2_S11_Fr_2 - x_T2_S7_Fr_2 - x_T2_S8_Fr_2 - x_T2_S9_Fr_2 - x_T2_S10_Fr_2 - x_T2_S11_Fr_2 = 0
+ flow_T2_Fr_3: x_T2_S7_Fr_3 + x_T2_S8_Fr_3 + x_T2_S9_Fr_3 + x_T2_S10_Fr_3 + x_T2_S11_Fr_3 - x_T2_S7_Fr_3 - x_T2_S8_Fr_3 - x_T2_S9_Fr_3 - x_T2_S10_Fr_3 - x_T2_S11_Fr_3 = 0
+ flow_T2_Fr_4: x_T2_S7_Fr_4 + x_T2_S8_Fr_4 + x_T2_S9_Fr_4 + x_T2_S10_Fr_4 + x_T2_S11_Fr_4 - x_T2_S7_Fr_4 - x_T2_S8_Fr_4 - x_T2_S9_Fr_4 - x_T2_S10_Fr_4 - x_T2_S11_Fr_4 = 0
+ flow_T2_Fr_5: x_T2_S7_Fr_5 + x_T2_S8_Fr_5 + x_T2_S9_Fr_5 + x_T2_S10_Fr_5 + x_T2_S11_Fr_5 - x_T2_S7_Fr_5 - x_T2_S8_Fr_5 - x_T2_S9_Fr_5 - x_T2_S10_Fr_5 - x_T2_S11_Fr_5 = -1
+ flow_T14_Mo_1: x_T14_S1_Mo_1 + x_T14_S2_Mo_1 + x_T14_S3_Mo_1 + x_T14_S10_Mo_1 + x_T14_S13_Mo_1 + x_T14_S16_Mo_1 + x_T14_S17_Mo_1 - x_T14_S1_Mo_1 - x_T14_S2_Mo_1 - x_T14_S3_Mo_1 - x_T14_S10_Mo_1 - x_T14_S13_Mo_1 - x_T14_S16_Mo_1 - x_T14_S17_Mo_1 = 1
+ flow_T14_Mo_2: x_T14_S1_Mo_2 + x_T14_S2_Mo_2 + x_T14_S3_Mo_2 + x_T14_S10_Mo_2 + x_T14_S13_Mo_2 + x_T14_S16_Mo_2 + x_T14_S17_Mo_2 - x_T14_S1_Mo_2 - x_T14_S2_Mo_2 - x_T14_S3_Mo_2 - x_T14_S10_Mo_2 - x_T14_S13_Mo_2 - x_T14_S16_Mo_2 - x_T14_S17_Mo_2 = 0
+ flow_T14_Mo_3: x_T14_S1_Mo_3 + x_T14_S2_Mo_3 + x_T14_S3_Mo_3 + x_T14_S10_Mo_3 + x_T14_S13_Mo_3 + x_T14_S16_Mo_3 + x_T14_S17_Mo_3 - x_T14_S1_Mo_3 - x_T14_S2_Mo_3 - x_T14_S3_Mo_3 - x_T14_S10_Mo_3 - x_T14_S13_Mo_3 - x_T14_S16_Mo_3 - x_T14_S17_Mo_3 = 0
+ flow_T14_Mo_4: x_T14_S1_Mo_4 + x_T14_S2_Mo_4 + x_T14_S3_Mo_4 + x_T14_S10_Mo_4 + x_T14_S13_Mo_4 + x_T14_S16_Mo_4 + x_T14_S17_Mo_4 - x_T14_S1_Mo_4 - x_T14_S2_Mo_4 - x_T14_S3_Mo_4 - x_T14_S10_Mo_4 - x_T14_S13_Mo_4 - x_T14_S16_Mo_4 - x_T14_S17_Mo_4 = 0
+ flow_T14_Mo_5: x_T14_S1_Mo_5 + x_T14_S2_Mo_5 + x_T14_S3_Mo_5 + x_T14_S10_Mo_5 + x_T14_S13_Mo_5 + x_T14_S16_Mo_5 + x_T14_S17_Mo_5 - x_T14_S1_Mo_5 - x_T14_S2_Mo_5 - x_T14_S3_Mo_5 - x_T14_S10_Mo_5 - x_T14_S13_Mo_5 - x_T14_S16_Mo_5 - x_T14_S17_Mo_5 = -1
+ flow_T14_Tu_1: x_T14_S1_Tu_1 + x_T14_S2_Tu_1 + x_T14_S3_Tu_1 + x_T14_S10_Tu_1 + x_T14_S13_Tu_1 + x_T14_S16_Tu_1 + x_T14_S17_Tu_1 - x_T14_S1_Tu_1 - x_T14_S2_Tu_1 - x_T14_S3_Tu_1 - x_T14_S10_Tu_1 - x_T14_S13_Tu_1 - x_T14_S16_Tu_1 - x_T14_S17_Tu_1 = 1
+ flow_T14_Tu_2: x_T14_S1_Tu_2 + x_T14_S2_Tu_2 + x_T14_S3_Tu_2 + x_T14_S10_Tu_2 + x_T14_S13_Tu_2 + x_T14_S16_Tu_2 + x_T14_S17_Tu_2 - x_T14_S1_Tu_2 - x_T14_S2_Tu_2 - x_T14_S3_Tu_2 - x_T14_S10_Tu_2 - x_T14_S13_Tu_2 - x_T14_S16_Tu_2 - x_T14_S17_Tu_2 = 0
+ flow_T14_Tu_3: x_T14_S1_Tu_3 + x_T14_S2_Tu_3 + x_T14_S3_Tu_3 + x_T14_S10_Tu_3 + x_T14_S13_Tu_3 + x_T14_S16_Tu_3 + x_T14_S17_Tu_3 - x_T14_S1_Tu_3 - x_T14_S2_Tu_3 - x_T14_S3_Tu_3 - x_T14_S10_Tu_3 - x_T14_S13_Tu_3 - x_T14_S16_Tu_3 - x_T14_S17_Tu_3 = 0
+ flow_T14_Tu_4: x_T14_S1_Tu_4 + x_T14_S2_Tu_4 + x_T14_S3_Tu_4 + x_T14_S10_Tu_4 + x_T14_S13_Tu_4 + x_T14_S16_Tu_4 + x_T14_S17_Tu_4 - x_T14_S1_Tu_4 - x_T14_S2_Tu_4 - x_T14_S3_Tu_4 - x_T14_S10_Tu_4 - x_T14_S13_Tu_4 - x_T14_S16_Tu_4 - x_T14_S17_Tu_4 = 0
+ flow_T14_Tu_5: x_T14_S1_Tu_5 + x_T14_S2_Tu_5 + x_T14_S3_Tu_5 + x_T14_S10_Tu_5 + x_T14_S13_Tu_5 + x_T14_S16_Tu_5 + x_T14_S17_Tu_5 - x_T14_S1_Tu_5 - x_T14_S2_Tu_5 - x_T14_S3_Tu_5 - x_T14_S10_Tu_5 - x_T14_S13_Tu_5 - x_T14_S16_Tu_5 - x_T14_S17_Tu_5 = -1
+ flow_T14_We_1: x_T14_S1_We_1 + x_T14_S2_We_1 + x_T14_S3_We_1 + x_T14_S10_We_1 + x_T14_S13_We_1 + x_T14_S16_We_1 + x_T14_S17_We_1 - x_T14_S1_We_1 - x_T14_S2_We_1 - x_T14_S3_We_1 - x_T14_S10_We_1 - x_T14_S13_We_1 - x_T14_S16_We_1 - x_T14_S17_We_1 = 1
+ flow_T14_We_2: x_T14_S1_We_2 + x_T14_S2_We_2 + x_T14_S3_We_2 + x_T14_S10_We_2 + x_T14_S13_We_2 + x_T14_S16_We_2 + x_T14_S17_We_2 - x_T14_S1_We_2 - x_T14_S2_We_2 - x_T14_S3_We_2 - x_T14_S10_We_2 - x_T14_S13_We_2 - x_T14_S16_We_2 - x_T14_S17_We_2 = 0
+ flow_T14_We_3: x_T14_S1_We_3 + x_T14_S2_We_3 + x_T14_S3_We_3 + x_T14_S10_We_3 + x_T14_S13_We_3 + x_T14_S16_We_3 + x_T14_S17_We_3 - x_T14_S1_We_3 - x_T14_S2_We_3 - x_T14_S3_We_3 - x_T14_S10_We_3 - x_T14_S13_We_3 - x_T14_S16_We_3 - x_T14_S17_We_3 = 0
+ flow_T14_We_4: x_T14_S1_We_4 + x_T14_S2_We_4 + x_T14_S3_We_4 + x_T14_S10_We_4 + x_T14_S13_We_4 + x_T14_S16_We_4 + x_T14_S17_We_4 - x_T14_S1_We_4 - x_T14_S2_We_4 - x_T14_S3_We_4 - x_T14_S10_We_4 - x_T14_S13_We_4 - x_T14_S16_We_4 - x_T14_S17_We_4 = 0
+ flow_T14_We_5: x_T14_S1_We_5 + x_T14_S2_We_5 + x_T14_S3_We_5 + x_T14_S10_We_5 + x_T14_S13_We_5 + x_T14_S16_We_5 + x_T14_S17_We_5 - x_T14_S1_We_5 - x_T14_S2_We_5 - x_T14_S3_We_5 - x_T14_S10_We_5 - x_T14_S13_We_5 - x_T14_S16_We_5 - x_T14_S17_We_5 = -1
+ flow_T14_Th_1: x_T14_S1_Th_1 + x_T14_S2_Th_1 + x_T14_S3_Th_1 + x_T14_S10_Th_1 + x_T14_S13_Th_1 + x_T14_S16_Th_1 + x_T14_S17_Th_1 - x_T14_S1_Th_1 - x_T14_S2_Th_1 - x_T14_S3_Th_1 - x_T14_S10_Th_1 - x_T14_S13_Th_1 - x_T14_S16_Th_1 - x_T14_S17_Th_1 = 1
+ flow_T14_Th_2: x_T14_S1_Th_2 + x_T14_S2_Th_2 + x_T14_S3_Th_2 + x_T14_S10_Th_2 + x_T14_S13_Th_2 + x_T14_S16_Th_2 + x_T14_S17_Th_2 - x_T14_S1_Th_2 - x_T14_S2_Th_2 - x_T14_S3_Th_2 - x_T14_S10_Th_2 - x_T14_S13_Th_2 - x_T14_S16_Th_2 - x_T14_S17_Th_2 = 0
+ flow_T14_Th_3: x_T14_S1_Th_3 + x_T14_S2_Th_3 + x_T14_S3_Th_3 + x_T14_S10_Th_3 + x_T14_S13_Th_3 + x_T14_S16_Th_3 + x_T14_S17_Th_3 - x_T14_S1_Th_3 - x_T14_S2_Th_3 - x_T14_S3_Th_3 - x_T14_S10_Th_3 - x_T14_S13_Th_3 - x_T14_S16_Th_3 - x_T14_S17_Th_3 = 0
+ flow_T14_Th_4: x_T14_S1_Th_4 + x_T14_S2_Th_4 + x_T14_S3_Th_4 + x_T14_S10_Th_4 + x_T14_S13_Th_4 + x_T14_S16_Th_4 + x_T14_S17_Th_4 - x_T14_S1_Th_4 - x_T14_S2_Th_4 - x_T14_S3_Th_4 - x_T14_S10_Th_4 - x_T14_S13_Th_4 - x_T14_S16_Th_4 - x_T14_S17_Th_4 = 0
+ flow_T14_Th_5: x_T14_S1_Th_5 + x_T14_S2_Th_5 + x_T14_S3_Th_5 + x_T14_S10_Th_5 + x_T14_S13_Th_5 + x_T14_S16_Th_5 + x_T14_S17_Th_5 - x_T14_S1_Th_5 - x_T14_S2_Th_5 - x_T14_S3_Th_5 - x_T14_S10_Th_5 - x_T14_S13_Th_5 - x_T14_S16_Th_5 - x_T14_S17_Th_5 = -1
+ flow_T14_Fr_1: x_T14_S1_Fr_1 + x_T14_S2_Fr_1 + x_T14_S3_Fr_1 + x_T14_S10_Fr_1 + x_T14_S13_Fr_1 + x_T14_S16_Fr_1 + x_T14_S17_Fr_1 - x_T14_S1_Fr_1 - x_T14_S2_Fr_1 - x_T14_S3_Fr_1 - x_T14_S10_Fr_1 - x_T14_S13_Fr_1 - x_T14_S16_Fr_1 - x_T14_S17_Fr_1 = 1
+ flow_T14_Fr_2: x_T14_S1_Fr_2 + x_T14_S2_Fr_2 + x_T14_S3_Fr_2 + x_T14_S10_Fr_2 + x_T14_S13_Fr_2 + x_T14_S16_Fr_2 + x_T14_S17_Fr_2 - x_T14_S1_Fr_2 - x_T14_S2_Fr_2 - x_T14_S3_Fr_2 - x_T14_S10_Fr_2 - x_T14_S13_Fr_2 - x_T14_S16_Fr_2 - x_T14_S17_Fr_2 = 0
+ flow_T14_Fr_3: x_T14_S1_Fr_3 + x_T14_S2_Fr_3 + x_T14_S3_Fr_3 + x_T14_S10_Fr_3 + x_T14_S13_Fr_3 + x_T14_S16_Fr_3 + x_T14_S17_Fr_3 - x_T14_S1_Fr_3 - x_T14_S2_Fr_3 - x_T14_S3_Fr_3 - x_T14_S10_Fr_3 - x_T14_S13_Fr_3 - x_T14_S16_Fr_3 - x_T14_S17_Fr_3 = 0
+ flow_T14_Fr_4: x_T14_S1_Fr_4 + x_T14_S2_Fr_4 + x_T14_S3_Fr_4 + x_T14_S10_Fr_4 + x_T14_S13_Fr_4 + x_T14_S16_Fr_4 + x_T14_S17_Fr_4 - x_T14_S1_Fr_4 - x_T14_S2_Fr_4 - x_T14_S3_Fr_4 - x_T14_S10_Fr_4 - x_T14_S13_Fr_4 - x_T14_S16_Fr_4 - x_T14_S17_Fr_4 = 0
+ flow_T14_Fr_5: x_T14_S1_Fr_5 + x_T14_S2_Fr_5 + x_T14_S3_Fr_5 + x_T14_S10_Fr_5 + x_T14_S13_Fr_5 + x_T14_S16_Fr_5 + x_T14_S17_Fr_5 - x_T14_S1_Fr_5 - x_T14_S2_Fr_5 - x_T14_S3_Fr_5 - x_T14_S10_Fr_5 - x_T14_S13_Fr_5 - x_T14_S16_Fr_5 - x_T14_S17_Fr_5 = -1
+ flow_T16_Mo_1: x_T16_S7_Mo_1 + x_T16_S8_Mo_1 + x_T16_S9_Mo_1 + x_T16_S12_Mo_1 + x_T16_S15_Mo_1 + x_T16_S20_Mo_1 - x_T16_S7_Mo_1 - x_T16_S8_Mo_1 - x_T16_S9_Mo_1 - x_T16_S12_Mo_1 - x_T16_S15_Mo_1 - x_T16_S20_Mo_1 = 1
+ flow_T16_Mo_2: x_T16_S7_Mo_2 + x_T16_S8_Mo_2 + x_T16_S9_Mo_2 + x_T16_S12_Mo_2 + x_T16_S15_Mo_2 + x_T16_S20_Mo_2 - x_T16_S7_Mo_2 - x_T16_S8_Mo_2 - x_T16_S9_Mo_2 - x_T16_S12_Mo_2 - x_T16_S15_Mo_2 - x_T16_S20_Mo_2 = 0
+ flow_T16_Mo_3: x_T16_S7_Mo_3 + x_T16_S8_Mo_3 + x_T16_S9_Mo_3 + x_T16_S12_Mo_3 + x_T16_S15_Mo_3 + x_T16_S20_Mo_3 - x_T16_S7_Mo_3 - x_T16_S8_Mo_3 - x_T16_S9_Mo_3 - x_T16_S12_Mo_3 - x_T16_S15_Mo_3 - x_T16_S20_Mo_3 = 0
+ flow_T16_Mo_4: x_T16_S7_Mo_4 + x_T16_S8_Mo_4 + x_T16_S9_Mo_4 + x_T16_S12_Mo_4 + x_T16_S15_Mo_4 + x_T16_S20_Mo_4 - x_T16_S7_Mo_4 - x_T16_S8_Mo_4 - x_T16_S9_Mo_4 - x_T16_S12_Mo_4 - x_T16_S15_Mo_4 - x_T16_S20_Mo_4 = 0
+ flow_T16_Mo_5: x_T16_S7_Mo_5 + x_T16_S8_Mo_5 + x_T16_S9_Mo_5 + x_T16_S12_Mo_5 + x_T16_S15_Mo_5 + x_T16_S20_Mo_5 - x_T16_S7_Mo_5 - x_T16_S8_Mo_5 - x_T16_S9_Mo_5 - x_T16_S12_Mo_5 - x_T16_S15_Mo_5 - x_T16_S20_Mo_5 = -1
+ flow_T16_Tu_1: x_T16_S7_Tu_1 + x_T16_S8_Tu_1 + x_T16_S9_Tu_1 + x_T16_S12_Tu_1 + x_T16_S15_Tu_1 + x_T16_S20_Tu_1 - x_T16_S7_Tu_1 - x_T16_S8_Tu_1 - x_T16_S9_Tu_1 - x_T16_S12_Tu_1 - x_T16_S15_Tu_1 - x_T16_S20_Tu_1 = 1
+ flow_T16_Tu_2: x_T16_S7_Tu_2 + x_T16_S8_Tu_2 + x_T16_S9_Tu_2 + x_T16_S12_Tu_2 + x_T16_S15_Tu_2 + x_T16_S20_Tu_2 - x_T16_S7_Tu_2 - x_T16_S8_Tu_2 - x_T16_S9_Tu_2 - x_T16_S12_Tu_2 - x_T16_S15_Tu_2 - x_T16_S20_Tu_2 = 0
+ flow_T16_Tu_3: x_T16_S7_Tu_3 + x_T16_S8_Tu_3 + x_T16_S9_Tu_3 + x_T16_S12_Tu_3 + x_T16_S15_Tu_3 + x_T16_S20_Tu_3 - x_T16_S7_Tu_3 - x_T16_S8_Tu_3 - x_T16_S9_Tu_3 - x_T16_S12_Tu_3 - x_T16_S15_Tu_3 - x_T16_S20_Tu_3 = 0
+ flow_T16_Tu_4: x_T16_S7_Tu_4 + x_T16_S8_Tu_4 + x_T16_S9_Tu_4 + x_T16_S12_Tu_4 + x_T16_S15_Tu_4 + x_T16_S20_Tu_4 - x_T16_S7_Tu_4 - x_T16_S8_Tu_4 - x_T16_S9_Tu_4 - x_T16_S12_Tu_4 - x_T16_S15_Tu_4 - x_T16_S20_Tu_4 = 0
+ flow_T16_Tu_5: x_T16_S7_Tu_5 + x_T16_S8_Tu_5 + x_T16_S9_Tu_5 + x_T16_S12_Tu_5 + x_T16_S15_Tu_5 + x_T16_S20_Tu_5 - x_T16_S7_Tu_5 - x_T16_S8_Tu_5 - x_T16_S9_Tu_5 - x_T16_S12_Tu_5 - x_T16_S15_Tu_5 - x_T16_S20_Tu_5 = -1
+ flow_T16_We_1: x_T16_S7_We_1 + x_T16_S8_We_1 + x_T16_S9_We_1 + x_T16_S12_We_1 + x_T16_S15_We_1 + x_T16_S20_We_1 - x_T16_S7_We_1 - x_T16_S8_We_1 - x_T16_S9_We_1 - x_T16_S12_We_1 - x_T16_S15_We_1 - x_T16_S20_We_1 = 1
+ flow_T16_We_2: x_T16_S7_We_2 + x_T16_S8_We_2 + x_T16_S9_We_2 + x_T16_S12_We_2 + x_T16_S15_We_2 + x_T16_S20_We_2 - x_T16_S7_We_2 - x_T16_S8_We_2 - x_T16_S9_We_2 - x_T16_S12_We_2 - x_T16_S15_We_2 - x_T16_S20_We_2 = 0
+ flow_T16_We_3: x_T16_S7_We_3 + x_T16_S8_We_3 + x_T16_S9_We_3 + x_T16_S12_We_3 + x_T16_S15_We_3 + x_T16_S20_We_3 - x_T16_S7_We_3 - x_T16_S8_We_3 - x_T16_S9_We_3 - x_T16_S12_We_3 - x_T16_S15_We_3 - x_T16_S20_We_3 = 0
+ flow_T16_We_4: x_T16_S7_We_4 + x_T16_S8_We_4 + x_T16_S9_We_4 + x_T16_S12_We_4 + x_T16_S15_We_4 + x_T16_S20_We_4 - x_T16_S7_We_4 - x_T16_S8_We_4 - x_T16_S9_We_4 - x_T16_S12_We_4 - x_T16_S15_We_4 - x_T16_S20_We_4 = 0
+ flow_T16_We_5: x_T16_S7_We_5 + x_T16_S8_We_5 + x_T16_S9_We_5 + x_T16_S12_We_5 + x_T16_S15_We_5 + x_T16_S20_We_5 - x_T16_S7_We_5 - x_T16_S8_We_5 - x_T16_S9_We_5 - x_T16_S12_We_5 - x_T16_S15_We_5 - x_T16_S20_We_5 = -1
+ flow_T16_Th_1: x_T16_S7_Th_1 + x_T16_S8_Th_1 + x_T16_S9_Th_1 + x_T16_S12_Th_1 + x_T16_S15_Th_1 + x_T16_S20_Th_1 - x_T16_S7_Th_1 - x_T16_S8_Th_1 - x_T16_S9_Th_1 - x_T16_S12_Th_1 - x_T16_S15_Th_1 - x_T16_S20_Th_1 = 1
+ flow_T16_Th_2: x_T16_S7_Th_2 + x_T16_S8_Th_2 + x_T16_S9_Th_2 + x_T16_S12_Th_2 + x_T16_S15_Th_2 + x_T16_S20_Th_2 - x_T16_S7_Th_2 - x_T16_S8_Th_2 - x_T16_S9_Th_2 - x_T16_S12_Th_2 - x_T16_S15_Th_2 - x_T16_S20_Th_2 = 0
+ flow_T16_Th_3: x_T16_S7_Th_3 + x_T16_S8_Th_3 + x_T16_S9_Th_3 + x_T16_S12_Th_3 + x_T16_S15_Th_3 + x_T16_S20_Th_3 - x_T16_S7_Th_3 - x_T16_S8_Th_3 - x_T16_S9_Th_3 - x_T16_S12_Th_3 - x_T16_S15_Th_3 - x_T16_S20_Th_3 = 0
+ flow_T16_Th_4: x_T16_S7_Th_4 + x_T16_S8_Th_4 + x_T16_S9_Th_4 + x_T16_S12_Th_4 + x_T16_S15_Th_4 + x_T16_S20_Th_4 - x_T16_S7_Th_4 - x_T16_S8_Th_4 - x_T16_S9_Th_4 - x_T16_S12_Th_4 - x_T16_S15_Th_4 - x_T16_S20_Th_4 = 0
+ flow_T16_Th_5: x_T16_S7_Th_5 + x_T16_S8_Th_5 + x_T16_S9_Th_5 + x_T16_S12_Th_5 + x_T16_S15_Th_5 + x_T16_S20_Th_5 - x_T16_S7_Th_5 - x_T16_S8_Th_5 - x_T16_S9_Th_5 - x_T16_S12_Th_5 - x_T16_S15_Th_5 - x_T16_S20_Th_5 = -1
+ flow_T16_Fr_1: x_T16_S7_Fr_1 + x_T16_S8_Fr_1 + x_T16_S9_Fr_1 + x_T16_S12_Fr_1 + x_T16_S15_Fr_1 + x_T16_S20_Fr_1 - x_T16_S7_Fr_1 - x_T16_S8_Fr_1 - x_T16_S9_Fr_1 - x_T16_S12_Fr_1 - x_T16_S15_Fr_1 - x_T16_S20_Fr_1 = 1
+ flow_T16_Fr_2: x_T16_S7_Fr_2 + x_T16_S8_Fr_2 + x_T16_S9_Fr_2 + x_T16_S12_Fr_2 + x_T16_S15_Fr_2 + x_T16_S20_Fr_2 - x_T16_S7_Fr_2 - x_T16_S8_Fr_2 - x_T16_S9_Fr_2 - x_T16_S12_Fr_2 - x_T16_S15_Fr_2 - x_T16_S20_Fr_2 = 0
+ flow_T16_Fr_3: x_T16_S7_Fr_3 + x_T16_S8_Fr_3 + x_T16_S9_Fr_3 + x_T16_S12_Fr_3 + x_T16_S15_Fr_3 + x_T16_S20_Fr_3 - x_T16_S7_Fr_3 - x_T16_S8_Fr_3 - x_T16_S9_Fr_3 - x_T16_S12_Fr_3 - x_T16_S15_Fr_3 - x_T16_S20_Fr_3 = 0
+ flow_T16_Fr_4: x_T16_S7_Fr_4 + x_T16_S8_Fr_4 + x_T16_S9_Fr_4 + x_T16_S12_Fr_4 + x_T16_S15_Fr_4 + x_T16_S20_Fr_4 - x_T16_S7_Fr_4 - x_T16_S8_Fr_4 - x_T16_S9_Fr_4 - x_T16_S12_Fr_4 - x_T16_S15_Fr_4 - x_T16_S20_Fr_4 = 0
+ flow_T16_Fr_5: x_T16_S7_Fr_5 + x_T16_S8_Fr_5 + x_T16_S9_Fr_5 + x_T16_S12_Fr_5 + x_T16_S15_Fr_5 + x_T16_S20_Fr_5 - x_T16_S7_Fr_5 - x_T16_S8_Fr_5 - x_T16_S9_Fr_5 - x_T16_S12_Fr_5 - x_T16_S15_Fr_5 - x_T16_S20_Fr_5 = -1
+ flow_T15_Mo_1: x_T15_S4_Mo_1 + x_T15_S5_Mo_1 + x_T15_S6_Mo_1 + x_T15_S11_Mo_1 + x_T15_S14_Mo_1 + x_T15_S18_Mo_1 + x_T15_S19_Mo_1 - x_T15_S4_Mo_1 - x_T15_S5_Mo_1 - x_T15_S6_Mo_1 - x_T15_S11_Mo_1 - x_T15_S14_Mo_1 - x_T15_S18_Mo_1 - x_T15_S19_Mo_1 = 1
+ flow_T15_Mo_2: x_T15_S4_Mo_2 + x_T15_S5_Mo_2 + x_T15_S6_Mo_2 + x_T15_S11_Mo_2 + x_T15_S14_Mo_2 + x_T15_S18_Mo_2 + x_T15_S19_Mo_2 - x_T15_S4_Mo_2 - x_T15_S5_Mo_2 - x_T15_S6_Mo_2 - x_T15_S11_Mo_2 - x_T15_S14_Mo_2 - x_T15_S18_Mo_2 - x_T15_S19_Mo_2 = 0
+ flow_T15_Mo_3: x_T15_S4_Mo_3 + x_T15_S5_Mo_3 + x_T15_S6_Mo_3 + x_T15_S11_Mo_3 + x_T15_S14_Mo_3 + x_T15_S18_Mo_3 + x_T15_S19_Mo_3 - x_T15_S4_Mo_3 - x_T15_S5_Mo_3 - x_T15_S6_Mo_3 - x_T15_S11_Mo_3 - x_T15_S14_Mo_3 - x_T15_S18_Mo_3 - x_T15_S19_Mo_3 = 0
+ flow_T15_Mo_4: x_T15_S4_Mo_4 + x_T15_S5_Mo_4 + x_T15_S6_Mo_4 + x_T15_S11_Mo_4 + x_T15_S14_Mo_4 + x_T15_S18_Mo_4 + x_T15_S19_Mo_4 - x_T15_S4_Mo_4 - x_T15_S5_Mo_4 - x_T15_S6_Mo_4 - x_T15_S11_Mo_4 - x_T15_S14_Mo_4 - x_T15_S18_Mo_4 - x_T15_S19_Mo_4 = 0
+ flow_T15_Mo_5: x_T15_S4_Mo_5 + x_T15_S5_Mo_5 + x_T15_S6_Mo_5 + x_T15_S11_Mo_5 + x_T15_S14_Mo_5 + x_T15_S18_Mo_5 + x_T15_S19_Mo_5 - x_T15_S4_Mo_5 - x_T15_S5_Mo_5 - x_T15_S6_Mo_5 - x_T15_S11_Mo_5 - x_T15_S14_Mo_5 - x_T15_S18_Mo_5 - x_T15_S19_Mo_5 = -1
+ flow_T15_Tu_1: x_T15_S4_Tu_1 + x_T15_S5_Tu_1 + x_T15_S6_Tu_1 + x_T15_S11_Tu_1 + x_T15_S14_Tu_1 + x_T15_S18_Tu_1 + x_T15_S19_Tu_1 - x_T15_S4_Tu_1 - x_T15_S5_Tu_1 - x_T15_S6_Tu_1 - x_T15_S11_Tu_1 - x_T15_S14_Tu_1 - x_T15_S18_Tu_1 - x_T15_S19_Tu_1 = 1
+ flow_T15_Tu_2: x_T15_S4_Tu_2 + x_T15_S5_Tu_2 + x_T15_S6_Tu_2 + x_T15_S11_Tu_2 + x_T15_S14_Tu_2 + x_T15_S18_Tu_2 + x_T15_S19_Tu_2 - x_T15_S4_Tu_2 - x_T15_S5_Tu_2 - x_T15_S6_Tu_2 - x_T15_S11_Tu_2 - x_T15_S14_Tu_2 - x_T15_S18_Tu_2 - x_T15_S19_Tu_2 = 0
+ flow_T15_Tu_3: x_T15_S4_Tu_3 + x_T15_S5_Tu_3 + x_T15_S6_Tu_3 + x_T15_S11_Tu_3 + x_T15_S14_Tu_3 + x_T15_S18_Tu_3 + x_T15_S19_Tu_3 - x_T15_S4_Tu_3 - x_T15_S5_Tu_3 - x_T15_S6_Tu_3 - x_T15_S11_Tu_3 - x_T15_S14_Tu_3 - x_T15_S18_Tu_3 - x_T15_S19_Tu_3 = 0
+ flow_T15_Tu_4: x_T15_S4_Tu_4 + x_T15_S5_Tu_4 + x_T15_S6_Tu_4 + x_T15_S11_Tu_4 + x_T15_S14_Tu_4 + x_T15_S18_Tu_4 + x_T15_S19_Tu_4 - x_T15_S4_Tu_4 - x_T15_S5_Tu_4 - x_T15_S6_Tu_4 - x_T15_S11_Tu_4 - x_T15_S14_Tu_4 - x_T15_S18_Tu_4 - x_T15_S19_Tu_4 = 0
+ flow_T15_Tu_5: x_T15_S4_Tu_5 + x_T15_S5_Tu_5 + x_T15_S6_Tu_5 + x_T15_S11_Tu_5 + x_T15_S14_Tu_5 + x_T15_S18_Tu_5 + x_T15_S19_Tu_5 - x_T15_S4_Tu_5 - x_T15_S5_Tu_5 - x_T15_S6_Tu_5 - x_T15_S11_Tu_5 - x_T15_S14_Tu_5 - x_T15_S18_Tu_5 - x_T15_S19_Tu_5 = -1
+ flow_T15_We_1: x_T15_S4_We_1 + x_T15_S5_We_1 + x_T15_S6_We_1 + x_T15_S11_We_1 + x_T15_S14_We_1 + x_T15_S18_We_1 + x_T15_S19_We_1 - x_T15_S4_We_1 - x_T15_S5_We_1 - x_T15_S6_We_1 - x_T15_S11_We_1 - x_T15_S14_We_1 - x_T15_S18_We_1 - x_T15_S19_We_1 = 1
+ flow_T15_We_2: x_T15_S4_We_2 + x_T15_S5_We_2 + x_T15_S6_We_2 + x_T15_S11_We_2 + x_T15_S14_We_2 + x_T15_S18_We_2 + x_T15_S19_We_2 - x_T15_S4_We_2 - x_T15_S5_We_2 - x_T15_S6_We_2 - x_T15_S11_We_2 - x_T15_S14_We_2 - x_T15_S18_We_2 - x_T15_S19_We_2 = 0
+ flow_T15_We_3: x_T15_S4_We_3 + x_T15_S5_We_3 + x_T15_S6_We_3 + x_T15_S11_We_3 + x_T15_S14_We_3 + x_T15_S18_We_3 + x_T15_S19_We_3 - x_T15_S4_We_3 - x_T15_S5_We_3 - x_T15_S6_We_3 - x_T15_S11_We_3 - x_T15_S14_We_3 - x_T15_S18_We_3 - x_T15_S19_We_3 = 0
+ flow_T15_We_4: x_T15_S4_We_4 + x_T15_S5_We_4 + x_T15_S6_We_4 + x_T15_S11_We_4 + x_T15_S14_We_4 + x_T15_S18_We_4 + x_T15_S19_We_4 - x_T15_S4_We_4 - x_T15_S5_We_4 - x_T15_S6_We_4 - x_T15_S11_We_4 - x_T15_S14_We_4 - x_T15_S18_We_4 - x_T15_S19_We_4 = 0
+ flow_T15_We_5: x_T15_S4_We_5 + x_T15_S5_We_5 + x_T15_S6_We_5 + x_T15_S11_We_5 + x_T15_S14_We_5 + x_T15_S18_We_5 + x_T15_S19_We_5 - x_T15_S4_We_5 - x_T15_S5_We_5 - x_T15_S6_We_5 - x_T15_S11_We_5 - x_T15_S14_We_5 - x_T15_S18_We_5 - x_T15_S19_We_5 = -1
+ flow_T15_Th_1: x_T15_S4_Th_1 + x_T15_S5_Th_1 + x_T15_S6_Th_1 + x_T15_S11_Th_1 + x_T15_S14_Th_1 + x_T15_S18_Th_1 + x_T15_S19_Th_1 - x_T15_S4_Th_1 - x_T15_S5_Th_1 - x_T15_S6_Th_1 - x_T15_S11_Th_1 - x_T15_S14_Th_1 - x_T15_S18_Th_1 - x_T15_S19_Th_1 = 1
+ flow_T15_Th_2: x_T15_S4_Th_2 + x_T15_S5_Th_2 + x_T15_S6_Th_2 + x_T15_S11_Th_2 + x_T15_S14_Th_2 + x_T15_S18_Th_2 + x_T15_S19_Th_2 - x_T15_S4_Th_2 - x_T15_S5_Th_2 - x_T15_S6_Th_2 - x_T15_S11_Th_2 - x_T15_S14_Th_2 - x_T15_S18_Th_2 - x_T15_S19_Th_2 = 0
+ flow_T15_Th_3: x_T15_S4_Th_3 + x_T15_S5_Th_3 + x_T15_S6_Th_3 + x_T15_S11_Th_3 + x_T15_S14_Th_3 + x_T15_S18_Th_3 + x_T15_S19_Th_3 - x_T15_S4_Th_3 - x_T15_S5_Th_3 - x_T15_S6_Th_3 - x_T15_S11_Th_3 - x_T15_S14_Th_3 - x_T15_S18_Th_3 - x_T15_S19_Th_3 = 0
+ flow_T15_Th_4: x_T15_S4_Th_4 + x_T15_S5_Th_4 + x_T15_S6_Th_4 + x_T15_S11_Th_4 + x_T15_S14_Th_4 + x_T15_S18_Th_4 + x_T15_S19_Th_4 - x_T15_S4_Th_4 - x_T15_S5_Th_4 - x_T15_S6_Th_4 - x_T15_S11_Th_4 - x_T15_S14_Th_4 - x_T15_S18_Th_4 - x_T15_S19_Th_4 = 0
+ flow_T15_Th_5: x_T15_S4_Th_5 + x_T15_S5_Th_5 + x_T15_S6_Th_5 + x_T15_S11_Th_5 + x_T15_S14_Th_5 + x_T15_S18_Th_5 + x_T15_S19_Th_5 - x_T15_S4_Th_5 - x_T15_S5_Th_5 - x_T15_S6_Th_5 - x_T15_S11_Th_5 - x_T15_S14_Th_5 - x_T15_S18_Th_5 - x_T15_S19_Th_5 = -1
+ flow_T15_Fr_1: x_T15_S4_Fr_1 + x_T15_S5_Fr_1 + x_T15_S6_Fr_1 + x_T15_S11_Fr_1 + x_T15_S14_Fr_1 + x_T15_S18_Fr_1 + x_T15_S19_Fr_1 - x_T15_S4_Fr_1 - x_T15_S5_Fr_1 - x_T15_S6_Fr_1 - x_T15_S11_Fr_1 - x_T15_S14_Fr_1 - x_T15_S18_Fr_1 - x_T15_S19_Fr_1 = 1
+ flow_T15_Fr_2: x_T15_S4_Fr_2 + x_T15_S5_Fr_2 + x_T15_S6_Fr_2 + x_T15_S11_Fr_2 + x_T15_S14_Fr_2 + x_T15_S18_Fr_2 + x_T15_S19_Fr_2 - x_T15_S4_Fr_2 - x_T15_S5_Fr_2 - x_T15_S6_Fr_2 - x_T15_S11_Fr_2 - x_T15_S14_Fr_2 - x_T15_S18_Fr_2 - x_T15_S19_Fr_2 = 0
+ flow_T15_Fr_3: x_T15_S4_Fr_3 + x_T15_S5_Fr_3 + x_T15_S6_Fr_3 + x_T15_S11_Fr_3 + x_T15_S14_Fr_3 + x_T15_S18_Fr_3 + x_T15_S19_Fr_3 - x_T15_S4_Fr_3 - x_T15_S5_Fr_3 - x_T15_S6_Fr_3 - x_T15_S11_Fr_3 - x_T15_S14_Fr_3 - x_T15_S18_Fr_3 - x_T15_S19_Fr_3 = 0
+ flow_T15_Fr_4: x_T15_S4_Fr_4 + x_T15_S5_Fr_4 + x_T15_S6_Fr_4 + x_T15_S11_Fr_4 + x_T15_S14_Fr_4 + x_T15_S18_Fr_4 + x_T15_S19_Fr_4 - x_T15_S4_Fr_4 - x_T15_S5_Fr_4 - x_T15_S6_Fr_4 - x_T15_S11_Fr_4 - x_T15_S14_Fr_4 - x_T15_S18_Fr_4 - x_T15_S19_Fr_4 = 0
+ flow_T15_Fr_5: x_T15_S4_Fr_5 + x_T15_S5_Fr_5 + x_T15_S6_Fr_5 + x_T15_S11_Fr_5 + x_T15_S14_Fr_5 + x_T15_S18_Fr_5 + x_T15_S19_Fr_5 - x_T15_S4_Fr_5 - x_T15_S5_Fr_5 - x_T15_S6_Fr_5 - x_T15_S11_Fr_5 - x_T15_S14_Fr_5 - x_T15_S18_Fr_5 - x_T15_S19_Fr_5 = -1
+ flow_T8_Mo_1: x_T8_S11_Mo_1 + x_T8_S13_Mo_1 + x_T8_S14_Mo_1 + x_T8_S15_Mo_1 + x_T8_S16_Mo_1 - x_T8_S11_Mo_1 - x_T8_S13_Mo_1 - x_T8_S14_Mo_1 - x_T8_S15_Mo_1 - x_T8_S16_Mo_1 = 1
+ flow_T8_Mo_2: x_T8_S11_Mo_2 + x_T8_S13_Mo_2 + x_T8_S14_Mo_2 + x_T8_S15_Mo_2 + x_T8_S16_Mo_2 - x_T8_S11_Mo_2 - x_T8_S13_Mo_2 - x_T8_S14_Mo_2 - x_T8_S15_Mo_2 - x_T8_S16_Mo_2 = 0
+ flow_T8_Mo_3: x_T8_S11_Mo_3 + x_T8_S13_Mo_3 + x_T8_S14_Mo_3 + x_T8_S15_Mo_3 + x_T8_S16_Mo_3 - x_T8_S11_Mo_3 - x_T8_S13_Mo_3 - x_T8_S14_Mo_3 - x_T8_S15_Mo_3 - x_T8_S16_Mo_3 = 0
+ flow_T8_Mo_4: x_T8_S11_Mo_4 + x_T8_S13_Mo_4 + x_T8_S14_Mo_4 + x_T8_S15_Mo_4 + x_T8_S16_Mo_4 - x_T8_S11_Mo_4 - x_T8_S13_Mo_4 - x_T8_S14_Mo_4 - x_T8_S15_Mo_4 - x_T8_S16_Mo_4 = 0
+ flow_T8_Mo_5: x_T8_S11_Mo_5 + x_T8_S13_Mo_5 + x_T8_S14_Mo_5 + x_T8_S15_Mo_5 + x_T8_S16_Mo_5 - x_T8_S11_Mo_5 - x_T8_S13_Mo_5 - x_T8_S14_Mo_5 - x_T8_S15_Mo_5 - x_T8_S16_Mo_5 = -1
+ flow_T8_Tu_1: x_T8_S11_Tu_1 + x_T8_S13_Tu_1 + x_T8_S14_Tu_1 + x_T8_S15_Tu_1 + x_T8_S16_Tu_1 - x_T8_S11_Tu_1 - x_T8_S13_Tu_1 - x_T8_S14_Tu_1 - x_T8_S15_Tu_1 - x_T8_S16_Tu_1 = 1
+ flow_T8_Tu_2: x_T8_S11_Tu_2 + x_T8_S13_Tu_2 + x_T8_S14_Tu_2 + x_T8_S15_Tu_2 + x_T8_S16_Tu_2 - x_T8_S11_Tu_2 - x_T8_S13_Tu_2 - x_T8_S14_Tu_2 - x_T8_S15_Tu_2 - x_T8_S16_Tu_2 = 0
+ flow_T8_Tu_3: x_T8_S11_Tu_3 + x_T8_S13_Tu_3 + x_T8_S14_Tu_3 + x_T8_S15_Tu_3 + x_T8_S16_Tu_3 - x_T8_S11_Tu_3 - x_T8_S13_Tu_3 - x_T8_S14_Tu_3 - x_T8_S15_Tu_3 - x_T8_S16_Tu_3 = 0
+ flow_T8_Tu_4: x_T8_S11_Tu_4 + x_T8_S13_Tu_4 + x_T8_S14_Tu_4 + x_T8_S15_Tu_4 + x_T8_S16_Tu_4 - x_T8_S11_Tu_4 - x_T8_S13_Tu_4 - x_T8_S14_Tu_4 - x_T8_S15_Tu_4 - x_T8_S16_Tu_4 = 0
+ flow_T8_Tu_5: x_T8_S11_Tu_5 + x_T8_S13_Tu_5 + x_T8_S14_Tu_5 + x_T8_S15_Tu_5 + x_T8_S16_Tu_5 - x_T8_S11_Tu_5 - x_T8_S13_Tu_5 - x_T8_S14_Tu_5 - x_T8_S15_Tu_5 - x_T8_S16_Tu_5 = -1
+ flow_T8_We_1: x_T8_S11_We_1 + x_T8_S13_We_1 + x_T8_S14_We_1 + x_T8_S15_We_1 + x_T8_S16_We_1 - x_T8_S11_We_1 - x_T8_S13_We_1 - x_T8_S14_We_1 - x_T8_S15_We_1 - x_T8_S16_We_1 = 1
+ flow_T8_We_2: x_T8_S11_We_2 + x_T8_S13_We_2 + x_T8_S14_We_2 + x_T8_S15_We_2 + x_T8_S16_We_2 - x_T8_S11_We_2 - x_T8_S13_We_2 - x_T8_S14_We_2 - x_T8_S15_We_2 - x_T8_S16_We_2 = 0
+ flow_T8_We_3: x_T8_S11_We_3 + x_T8_S13_We_3 + x_T8_S14_We_3 + x_T8_S15_We_3 + x_T8_S16_We_3 - x_T8_S11_We_3 - x_T8_S13_We_3 - x_T8_S14_We_3 - x_T8_S15_We_3 - x_T8_S16_We_3 = 0
+ flow_T8_We_4: x_T8_S11_We_4 + x_T8_S13_We_4 + x_T8_S14_We_4 + x_T8_S15_We_4 + x_T8_S16_We_4 - x_T8_S11_We_4 - x_T8_S13_We_4 - x_T8_S14_We_4 - x_T8_S15_We_4 - x_T8_S16_We_4 = 0
+ flow_T8_We_5: x_T8_S11_We_5 + x_T8_S13_We_5 + x_T8_S14_We_5 + x_T8_S15_We_5 + x_T8_S16_We_5 - x_T8_S11_We_5 - x_T8_S13_We_5 - x_T8_S14_We_5 - x_T8_S15_We_5 - x_T8_S16_We_5 = -1
+ flow_T8_Th_1: x_T8_S11_Th_1 + x_T8_S13_Th_1 + x_T8_S14_Th_1 + x_T8_S15_Th_1 + x_T8_S16_Th_1 - x_T8_S11_Th_1 - x_T8_S13_Th_1 - x_T8_S14_Th_1 - x_T8_S15_Th_1 - x_T8_S16_Th_1 = 1
+ flow_T8_Th_2: x_T8_S11_Th_2 + x_T8_S13_Th_2 + x_T8_S14_Th_2 + x_T8_S15_Th_2 + x_T8_S16_Th_2 - x_T8_S11_Th_2 - x_T8_S13_Th_2 - x_T8_S14_Th_2 - x_T8_S15_Th_2 - x_T8_S16_Th_2 = 0
+ flow_T8_Th_3: x_T8_S11_Th_3 + x_T8_S13_Th_3 + x_T8_S14_Th_3 + x_T8_S15_Th_3 + x_T8_S16_Th_3 - x_T8_S11_Th_3 - x_T8_S13_Th_3 - x_T8_S14_Th_3 - x_T8_S15_Th_3 - x_T8_S16_Th_3 = 0
+ flow_T8_Th_4: x_T8_S11_Th_4 + x_T8_S13_Th_4 + x_T8_S14_Th_4 + x_T8_S15_Th_4 + x_T8_S16_Th_4 - x_T8_S11_Th_4 - x_T8_S13_Th_4 - x_T8_S14_Th_4 - x_T8_S15_Th_4 - x_T8_S16_Th_4 = 0
+ flow_T8_Th_5: x_T8_S11_Th_5 + x_T8_S13_Th_5 + x_T8_S14_Th_5 + x_T8_S15_Th_5 + x_T8_S16_Th_5 - x_T8_S11_Th_5 - x_T8_S13_Th_5 - x_T8_S14_Th_5 - x_T8_S15_Th_5 - x_T8_S16_Th_5 = -1
+ flow_T8_Fr_1: x_T8_S11_Fr_1 + x_T8_S13_Fr_1 + x_T8_S14_Fr_1 + x_T8_S15_Fr_1 + x_T8_S16_Fr_1 - x_T8_S11_Fr_1 - x_T8_S13_Fr_1 - x_T8_S14_Fr_1 - x_T8_S15_Fr_1 - x_T8_S16_Fr_1 = 1
+ flow_T8_Fr_2: x_T8_S11_Fr_2 + x_T8_S13_Fr_2 + x_T8_S14_Fr_2 + x_T8_S15_Fr_2 + x_T8_S16_Fr_2 - x_T8_S11_Fr_2 - x_T8_S13_Fr_2 - x_T8_S14_Fr_2 - x_T8_S15_Fr_2 - x_T8_S16_Fr_2 = 0
+ flow_T8_Fr_3: x_T8_S11_Fr_3 + x_T8_S13_Fr_3 + x_T8_S14_Fr_3 + x_T8_S15_Fr_3 + x_T8_S16_Fr_3 - x_T8_S11_Fr_3 - x_T8_S13_Fr_3 - x_T8_S14_Fr_3 - x_T8_S15_Fr_3 - x_T8_S16_Fr_3 = 0
+ flow_T8_Fr_4: x_T8_S11_Fr_4 + x_T8_S13_Fr_4 + x_T8_S14_Fr_4 + x_T8_S15_Fr_4 + x_T8_S16_Fr_4 - x_T8_S11_Fr_4 - x_T8_S13_Fr_4 - x_T8_S14_Fr_4 - x_T8_S15_Fr_4 - x_T8_S16_Fr_4 = 0
+ flow_T8_Fr_5: x_T8_S11_Fr_5 + x_T8_S13_Fr_5 + x_T8_S14_Fr_5 + x_T8_S15_Fr_5 + x_T8_S16_Fr_5 - x_T8_S11_Fr_5 - x_T8_S13_Fr_5 - x_T8_S14_Fr_5 - x_T8_S15_Fr_5 - x_T8_S16_Fr_5 = -1
+ flow_T19_Mo_1: x_T19_S7_Mo_1 + x_T19_S8_Mo_1 + x_T19_S9_Mo_1 + x_T19_S12_Mo_1 + x_T19_S15_Mo_1 + x_T19_S20_Mo_1 - x_T19_S7_Mo_1 - x_T19_S8_Mo_1 - x_T19_S9_Mo_1 - x_T19_S12_Mo_1 - x_T19_S15_Mo_1 - x_T19_S20_Mo_1 = 1
+ flow_T19_Mo_2: x_T19_S7_Mo_2 + x_T19_S8_Mo_2 + x_T19_S9_Mo_2 + x_T19_S12_Mo_2 + x_T19_S15_Mo_2 + x_T19_S20_Mo_2 - x_T19_S7_Mo_2 - x_T19_S8_Mo_2 - x_T19_S9_Mo_2 - x_T19_S12_Mo_2 - x_T19_S15_Mo_2 - x_T19_S20_Mo_2 = 0
+ flow_T19_Mo_3: x_T19_S7_Mo_3 + x_T19_S8_Mo_3 + x_T19_S9_Mo_3 + x_T19_S12_Mo_3 + x_T19_S15_Mo_3 + x_T19_S20_Mo_3 - x_T19_S7_Mo_3 - x_T19_S8_Mo_3 - x_T19_S9_Mo_3 - x_T19_S12_Mo_3 - x_T19_S15_Mo_3 - x_T19_S20_Mo_3 = 0
+ flow_T19_Mo_4: x_T19_S7_Mo_4 + x_T19_S8_Mo_4 + x_T19_S9_Mo_4 + x_T19_S12_Mo_4 + x_T19_S15_Mo_4 + x_T19_S20_Mo_4 - x_T19_S7_Mo_4 - x_T19_S8_Mo_4 - x_T19_S9_Mo_4 - x_T19_S12_Mo_4 - x_T19_S15_Mo_4 - x_T19_S20_Mo_4 = 0
+ flow_T19_Mo_5: x_T19_S7_Mo_5 + x_T19_S8_Mo_5 + x_T19_S9_Mo_5 + x_T19_S12_Mo_5 + x_T19_S15_Mo_5 + x_T19_S20_Mo_5 - x_T19_S7_Mo_5 - x_T19_S8_Mo_5 - x_T19_S9_Mo_5 - x_T19_S12_Mo_5 - x_T19_S15_Mo_5 - x_T19_S20_Mo_5 = -1
+ flow_T19_Tu_1: x_T19_S7_Tu_1 + x_T19_S8_Tu_1 + x_T19_S9_Tu_1 + x_T19_S12_Tu_1 + x_T19_S15_Tu_1 + x_T19_S20_Tu_1 - x_T19_S7_Tu_1 - x_T19_S8_Tu_1 - x_T19_S9_Tu_1 - x_T19_S12_Tu_1 - x_T19_S15_Tu_1 - x_T19_S20_Tu_1 = 1
+ flow_T19_Tu_2: x_T19_S7_Tu_2 + x_T19_S8_Tu_2 + x_T19_S9_Tu_2 + x_T19_S12_Tu_2 + x_T19_S15_Tu_2 + x_T19_S20_Tu_2 - x_T19_S7_Tu_2 - x_T19_S8_Tu_2 - x_T19_S9_Tu_2 - x_T19_S12_Tu_2 - x_T19_S15_Tu_2 - x_T19_S20_Tu_2 = 0
+ flow_T19_Tu_3: x_T19_S7_Tu_3 + x_T19_S8_Tu_3 + x_T19_S9_Tu_3 + x_T19_S12_Tu_3 + x_T19_S15_Tu_3 + x_T19_S20_Tu_3 - x_T19_S7_Tu_3 - x_T19_S8_Tu_3 - x_T19_S9_Tu_3 - x_T19_S12_Tu_3 - x_T19_S15_Tu_3 - x_T19_S20_Tu_3 = 0
+ flow_T19_Tu_4: x_T19_S7_Tu_4 + x_T19_S8_Tu_4 + x_T19_S9_Tu_4 + x_T19_S12_Tu_4 + x_T19_S15_Tu_4 + x_T19_S20_Tu_4 - x_T19_S7_Tu_4 - x_T19_S8_Tu_4 - x_T19_S9_Tu_4 - x_T19_S12_Tu_4 - x_T19_S15_Tu_4 - x_T19_S20_Tu_4 = 0
+ flow_T19_Tu_5: x_T19_S7_Tu_5 + x_T19_S8_Tu_5 + x_T19_S9_Tu_5 + x_T19_S12_Tu_5 + x_T19_S15_Tu_5 + x_T19_S20_Tu_5 - x_T19_S7_Tu_5 - x_T19_S8_Tu_5 - x_T19_S9_Tu_5 - x_T19_S12_Tu_5 - x_T19_S15_Tu_5 - x_T19_S20_Tu_5 = -1
+ flow_T19_We_1: x_T19_S7_We_1 + x_T19_S8_We_1 + x_T19_S9_We_1 + x_T19_S12_We_1 + x_T19_S15_We_1 + x_T19_S20_We_1 - x_T19_S7_We_1 - x_T19_S8_We_1 - x_T19_S9_We_1 - x_T19_S12_We_1 - x_T19_S15_We_1 - x_T19_S20_We_1 = 1
+ flow_T19_We_2: x_T19_S7_We_2 + x_T19_S8_We_2 + x_T19_S9_We_2 + x_T19_S12_We_2 + x_T19_S15_We_2 + x_T19_S20_We_2 - x_T19_S7_We_2 - x_T19_S8_We_2 - x_T19_S9_We_2 - x_T19_S12_We_2 - x_T19_S15_We_2 - x_T19_S20_We_2 = 0
+ flow_T19_We_3: x_T19_S7_We_3 + x_T19_S8_We_3 + x_T19_S9_We_3 + x_T19_S12_We_3 + x_T19_S15_We_3 + x_T19_S20_We_3 - x_T19_S7_We_3 - x_T19_S8_We_3 - x_T19_S9_We_3 - x_T19_S12_We_3 - x_T19_S15_We_3 - x_T19_S20_We_3 = 0
+ flow_T19_We_4: x_T19_S7_We_4 + x_T19_S8_We_4 + x_T19_S9_We_4 + x_T19_S12_We_4 + x_T19_S15_We_4 + x_T19_S20_We_4 - x_T19_S7_We_4 - x_T19_S8_We_4 - x_T19_S9_We_4 - x_T19_S12_We_4 - x_T19_S15_We_4 - x_T19_S20_We_4 = 0
+ flow_T19_We_5: x_T19_S7_We_5 + x_T19_S8_We_5 + x_T19_S9_We_5 + x_T19_S12_We_5 + x_T19_S15_We_5 + x_T19_S20_We_5 - x_T19_S7_We_5 - x_T19_S8_We_5 - x_T19_S9_We_5 - x_T19_S12_We_5 - x_T19_S15_We_5 - x_T19_S20_We_5 = -1
+ flow_T19_Th_1: x_T19_S7_Th_1 + x_T19_S8_Th_1 + x_T19_S9_Th_1 + x_T19_S12_Th_1 + x_T19_S15_Th_1 + x_T19_S20_Th_1 - x_T19_S7_Th_1 - x_T19_S8_Th_1 - x_T19_S9_Th_1 - x_T19_S12_Th_1 - x_T19_S15_Th_1 - x_T19_S20_Th_1 = 1
+ flow_T19_Th_2: x_T19_S7_Th_2 + x_T19_S8_Th_2 + x_T19_S9_Th_2 + x_T19_S12_Th_2 + x_T19_S15_Th_2 + x_T19_S20_Th_2 - x_T19_S7_Th_2 - x_T19_S8_Th_2 - x_T19_S9_Th_2 - x_T19_S12_Th_2 - x_T19_S15_Th_2 - x_T19_S20_Th_2 = 0
+ flow_T19_Th_3: x_T19_S7_Th_3 + x_T19_S8_Th_3 + x_T19_S9_Th_3 + x_T19_S12_Th_3 + x_T19_S15_Th_3 + x_T19_S20_Th_3 - x_T19_S7_Th_3 - x_T19_S8_Th_3 - x_T19_S9_Th_3 - x_T19_S12_Th_3 - x_T19_S15_Th_3 - x_T19_S20_Th_3 = 0
+ flow_T19_Th_4: x_T19_S7_Th_4 + x_T19_S8_Th_4 + x_T19_S9_Th_4 + x_T19_S12_Th_4 + x_T19_S15_Th_4 + x_T19_S20_Th_4 - x_T19_S7_Th_4 - x_T19_S8_Th_4 - x_T19_S9_Th_4 - x_T19_S12_Th_4 - x_T19_S15_Th_4 - x_T19_S20_Th_4 = 0
+ flow_T19_Th_5: x_T19_S7_Th_5 + x_T19_S8_Th_5 + x_T19_S9_Th_5 + x_T19_S12_Th_5 + x_T19_S15_Th_5 + x_T19_S20_Th_5 - x_T19_S7_Th_5 - x_T19_S8_Th_5 - x_T19_S9_Th_5 - x_T19_S12_Th_5 - x_T19_S15_Th_5 - x_T19_S20_Th_5 = -1
+ flow_T19_Fr_1: x_T19_S7_Fr_1 + x_T19_S8_Fr_1 + x_T19_S9_Fr_1 + x_T19_S12_Fr_1 + x_T19_S15_Fr_1 + x_T19_S20_Fr_1 - x_T19_S7_Fr_1 - x_T19_S8_Fr_1 - x_T19_S9_Fr_1 - x_T19_S12_Fr_1 - x_T19_S15_Fr_1 - x_T19_S20_Fr_1 = 1
+ flow_T19_Fr_2: x_T19_S7_Fr_2 + x_T19_S8_Fr_2 + x_T19_S9_Fr_2 + x_T19_S12_Fr_2 + x_T19_S15_Fr_2 + x_T19_S20_Fr_2 - x_T19_S7_Fr_2 - x_T19_S8_Fr_2 - x_T19_S9_Fr_2 - x_T19_S12_Fr_2 - x_T19_S15_Fr_2 - x_T19_S20_Fr_2 = 0
+ flow_T19_Fr_3: x_T19_S7_Fr_3 + x_T19_S8_Fr_3 + x_T19_S9_Fr_3 + x_T19_S12_Fr_3 + x_T19_S15_Fr_3 + x_T19_S20_Fr_3 - x_T19_S7_Fr_3 - x_T19_S8_Fr_3 - x_T19_S9_Fr_3 - x_T19_S12_Fr_3 - x_T19_S15_Fr_3 - x_T19_S20_Fr_3 = 0
+ flow_T19_Fr_4: x_T19_S7_Fr_4 + x_T19_S8_Fr_4 + x_T19_S9_Fr_4 + x_T19_S12_Fr_4 + x_T19_S15_Fr_4 + x_T19_S20_Fr_4 - x_T19_S7_Fr_4 - x_T19_S8_Fr_4 - x_T19_S9_Fr_4 - x_T19_S12_Fr_4 - x_T19_S15_Fr_4 - x_T19_S20_Fr_4 = 0
+ flow_T19_Fr_5: x_T19_S7_Fr_5 + x_T19_S8_Fr_5 + x_T19_S9_Fr_5 + x_T19_S12_Fr_5 + x_T19_S15_Fr_5 + x_T19_S20_Fr_5 - x_T19_S7_Fr_5 - x_T19_S8_Fr_5 - x_T19_S9_Fr_5 - x_T19_S12_Fr_5 - x_T19_S15_Fr_5 - x_T19_S20_Fr_5 = -1
+ flow_T20_Mo_1: x_T20_S1_Mo_1 + x_T20_S2_Mo_1 + x_T20_S3_Mo_1 + x_T20_S4_Mo_1 + x_T20_S5_Mo_1 + x_T20_S6_Mo_1 + x_T20_S7_Mo_1 - x_T20_S1_Mo_1 - x_T20_S2_Mo_1 - x_T20_S3_Mo_1 - x_T20_S4_Mo_1 - x_T20_S5_Mo_1 - x_T20_S6_Mo_1 - x_T20_S7_Mo_1 = 1
+ flow_T20_Mo_2: x_T20_S1_Mo_2 + x_T20_S2_Mo_2 + x_T20_S3_Mo_2 + x_T20_S4_Mo_2 + x_T20_S5_Mo_2 + x_T20_S6_Mo_2 + x_T20_S7_Mo_2 - x_T20_S1_Mo_2 - x_T20_S2_Mo_2 - x_T20_S3_Mo_2 - x_T20_S4_Mo_2 - x_T20_S5_Mo_2 - x_T20_S6_Mo_2 - x_T20_S7_Mo_2 = 0
+ flow_T20_Mo_3: x_T20_S1_Mo_3 + x_T20_S2_Mo_3 + x_T20_S3_Mo_3 + x_T20_S4_Mo_3 + x_T20_S5_Mo_3 + x_T20_S6_Mo_3 + x_T20_S7_Mo_3 - x_T20_S1_Mo_3 - x_T20_S2_Mo_3 - x_T20_S3_Mo_3 - x_T20_S4_Mo_3 - x_T20_S5_Mo_3 - x_T20_S6_Mo_3 - x_T20_S7_Mo_3 = 0
+ flow_T20_Mo_4: x_T20_S1_Mo_4 + x_T20_S2_Mo_4 + x_T20_S3_Mo_4 + x_T20_S4_Mo_4 + x_T20_S5_Mo_4 + x_T20_S6_Mo_4 + x_T20_S7_Mo_4 - x_T20_S1_Mo_4 - x_T20_S2_Mo_4 - x_T20_S3_Mo_4 - x_T20_S4_Mo_4 - x_T20_S5_Mo_4 - x_T20_S6_Mo_4 - x_T20_S7_Mo_4 = 0
+ flow_T20_Mo_5: x_T20_S1_Mo_5 + x_T20_S2_Mo_5 + x_T20_S3_Mo_5 + x_T20_S4_Mo_5 + x_T20_S5_Mo_5 + x_T20_S6_Mo_5 + x_T20_S7_Mo_5 - x_T20_S1_Mo_5 - x_T20_S2_Mo_5 - x_T20_S3_Mo_5 - x_T20_S4_Mo_5 - x_T20_S5_Mo_5 - x_T20_S6_Mo_5 - x_T20_S7_Mo_5 = -1
+ flow_T20_Tu_1: x_T20_S1_Tu_1 + x_T20_S2_Tu_1 + x_T20_S3_Tu_1 + x_T20_S4_Tu_1 + x_T20_S5_Tu_1 + x_T20_S6_Tu_1 + x_T20_S7_Tu_1 - x_T20_S1_Tu_1 - x_T20_S2_Tu_1 - x_T20_S3_Tu_1 - x_T20_S4_Tu_1 - x_T20_S5_Tu_1 - x_T20_S6_Tu_1 - x_T20_S7_Tu_1 = 1
+ flow_T20_Tu_2: x_T20_S1_Tu_2 + x_T20_S2_Tu_2 + x_T20_S3_Tu_2 + x_T20_S4_Tu_2 + x_T20_S5_Tu_2 + x_T20_S6_Tu_2 + x_T20_S7_Tu_2 - x_T20_S1_Tu_2 - x_T20_S2_Tu_2 - x_T20_S3_Tu_2 - x_T20_S4_Tu_2 - x_T20_S5_Tu_2 - x_T20_S6_Tu_2 - x_T20_S7_Tu_2 = 0
+ flow_T20_Tu_3: x_T20_S1_Tu_3 + x_T20_S2_Tu_3 + x_T20_S3_Tu_3 + x_T20_S4_Tu_3 + x_T20_S5_Tu_3 + x_T20_S6_Tu_3 + x_T20_S7_Tu_3 - x_T20_S1_Tu_3 - x_T20_S2_Tu_3 - x_T20_S3_Tu_3 - x_T20_S4_Tu_3 - x_T20_S5_Tu_3 - x_T20_S6_Tu_3 - x_T20_S7_Tu_3 = 0
+ flow_T20_Tu_4: x_T20_S1_Tu_4 + x_T20_S2_Tu_4 + x_T20_S3_Tu_4 + x_T20_S4_Tu_4 + x_T20_S5_Tu_4 + x_T20_S6_Tu_4 + x_T20_S7_Tu_4 - x_T20_S1_Tu_4 - x_T20_S2_Tu_4 - x_T20_S3_Tu_4 - x_T20_S4_Tu_4 - x_T20_S5_Tu_4 - x_T20_S6_Tu_4 - x_T20_S7_Tu_4 = 0
+ flow_T20_Tu_5: x_T20_S1_Tu_5 + x_T20_S2_Tu_5 + x_T20_S3_Tu_5 + x_T20_S4_Tu_5 + x_T20_S5_Tu_5 + x_T20_S6_Tu_5 + x_T20_S7_Tu_5 - x_T20_S1_Tu_5 - x_T20_S2_Tu_5 - x_T20_S3_Tu_5 - x_T20_S4_Tu_5 - x_T20_S5_Tu_5 - x_T20_S6_Tu_5 - x_T20_S7_Tu_5 = -1
+ flow_T20_We_1: x_T20_S1_We_1 + x_T20_S2_We_1 + x_T20_S3_We_1 + x_T20_S4_We_1 + x_T20_S5_We_1 + x_T20_S6_We_1 + x_T20_S7_We_1 - x_T20_S1_We_1 - x_T20_S2_We_1 - x_T20_S3_We_1 - x_T20_S4_We_1 - x_T20_S5_We_1 - x_T20_S6_We_1 - x_T20_S7_We_1 = 1
+ flow_T20_We_2: x_T20_S1_We_2 + x_T20_S2_We_2 + x_T20_S3_We_2 + x_T20_S4_We_2 + x_T20_S5_We_2 + x_T20_S6_We_2 + x_T20_S7_We_2 - x_T20_S1_We_2 - x_T20_S2_We_2 - x_T20_S3_We_2 - x_T20_S4_We_2 - x_T20_S5_We_2 - x_T20_S6_We_2 - x_T20_S7_We_2 = 0
+ flow_T20_We_3: x_T20_S1_We_3 + x_T20_S2_We_3 + x_T20_S3_We_3 + x_T20_S4_We_3 + x_T20_S5_We_3 + x_T20_S6_We_3 + x_T20_S7_We_3 - x_T20_S1_We_3 - x_T20_S2_We_3 - x_T20_S3_We_3 - x_T20_S4_We_3 - x_T20_S5_We_3 - x_T20_S6_We_3 - x_T20_S7_We_3 = 0
+ flow_T20_We_4: x_T20_S1_We_4 + x_T20_S2_We_4 + x_T20_S3_We_4 + x_T20_S4_We_4 + x_T20_S5_We_4 + x_T20_S6_We_4 + x_T20_S7_We_4 - x_T20_S1_We_4 - x_T20_S2_We_4 - x_T20_S3_We_4 - x_T20_S4_We_4 - x_T20_S5_We_4 - x_T20_S6_We_4 - x_T20_S7_We_4 = 0
+ flow_T20_We_5: x_T20_S1_We_5 + x_T20_S2_We_5 + x_T20_S3_We_5 + x_T20_S4_We_5 + x_T20_S5_We_5 + x_T20_S6_We_5 + x_T20_S7_We_5 - x_T20_S1_We_5 - x_T20_S2_We_5 - x_T20_S3_We_5 - x_T20_S4_We_5 - x_T20_S5_We_5 - x_T20_S6_We_5 - x_T20_S7_We_5 = -1
+ flow_T20_Th_1: x_T20_S1_Th_1 + x_T20_S2_Th_1 + x_T20_S3_Th_1 + x_T20_S4_Th_1 + x_T20_S5_Th_1 + x_T20_S6_Th_1 + x_T20_S7_Th_1 - x_T20_S1_Th_1 - x_T20_S2_Th_1 - x_T20_S3_Th_1 - x_T20_S4_Th_1 - x_T20_S5_Th_1 - x_T20_S6_Th_1 - x_T20_S7_Th_1 = 1
+ flow_T20_Th_2: x_T20_S1_Th_2 + x_T20_S2_Th_2 + x_T20_S3_Th_2 + x_T20_S4_Th_2 + x_T20_S5_Th_2 + x_T20_S6_Th_2 + x_T20_S7_Th_2 - x_T20_S1_Th_2 - x_T20_S2_Th_2 - x_T20_S3_Th_2 - x_T20_S4_Th_2 - x_T20_S5_Th_2 - x_T20_S6_Th_2 - x_T20_S7_Th_2 = 0
+ flow_T20_Th_3: x_T20_S1_Th_3 + x_T20_S2_Th_3 + x_T20_S3_Th_3 + x_T20_S4_Th_3 + x_T20_S5_Th_3 + x_T20_S6_Th_3 + x_T20_S7_Th_3 - x_T20_S1_Th_3 - x_T20_S2_Th_3 - x_T20_S3_Th_3 - x_T20_S4_Th_3 - x_T20_S5_Th_3 - x_T20_S6_Th_3 - x_T20_S7_Th_3 = 0
+ flow_T20_Th_4: x_T20_S1_Th_4 + x_T20_S2_Th_4 + x_T20_S3_Th_4 + x_T20_S4_Th_4 + x_T20_S5_Th_4 + x_T20_S6_Th_4 + x_T20_S7_Th_4 - x_T20_S1_Th_4 - x_T20_S2_Th_4 - x_T20_S3_Th_4 - x_T20_S4_Th_4 - x_T20_S5_Th_4 - x_T20_S6_Th_4 - x_T20_S7_Th_4 = 0
+ flow_T20_Th_5: x_T20_S1_Th_5 + x_T20_S2_Th_5 + x_T20_S3_Th_5 + x_T20_S4_Th_5 + x_T20_S5_Th_5 + x_T20_S6_Th_5 + x_T20_S7_Th_5 - x_T20_S1_Th_5 - x_T20_S2_Th_5 - x_T20_S3_Th_5 - x_T20_S4_Th_5 - x_T20_S5_Th_5 - x_T20_S6_Th_5 - x_T20_S7_Th_5 = -1
+ flow_T20_Fr_1: x_T20_S1_Fr_1 + x_T20_S2_Fr_1 + x_T20_S3_Fr_1 + x_T20_S4_Fr_1 + x_T20_S5_Fr_1 + x_T20_S6_Fr_1 + x_T20_S7_Fr_1 - x_T20_S1_Fr_1 - x_T20_S2_Fr_1 - x_T20_S3_Fr_1 - x_T20_S4_Fr_1 - x_T20_S5_Fr_1 - x_T20_S6_Fr_1 - x_T20_S7_Fr_1 = 1
+ flow_T20_Fr_2: x_T20_S1_Fr_2 + x_T20_S2_Fr_2 + x_T20_S3_Fr_2 + x_T20_S4_Fr_2 + x_T20_S5_Fr_2 + x_T20_S6_Fr_2 + x_T20_S7_Fr_2 - x_T20_S1_Fr_2 - x_T20_S2_Fr_2 - x_T20_S3_Fr_2 - x_T20_S4_Fr_2 - x_T20_S5_Fr_2 - x_T20_S6_Fr_2 - x_T20_S7_Fr_2 = 0
+ flow_T20_Fr_3: x_T20_S1_Fr_3 + x_T20_S2_Fr_3 + x_T20_S3_Fr_3 + x_T20_S4_Fr_3 + x_T20_S5_Fr_3 + x_T20_S6_Fr_3 + x_T20_S7_Fr_3 - x_T20_S1_Fr_3 - x_T20_S2_Fr_3 - x_T20_S3_Fr_3 - x_T20_S4_Fr_3 - x_T20_S5_Fr_3 - x_T20_S6_Fr_3 - x_T20_S7_Fr_3 = 0
+ flow_T20_Fr_4: x_T20_S1_Fr_4 + x_T20_S2_Fr_4 + x_T20_S3_Fr_4 + x_T20_S4_Fr_4 + x_T20_S5_Fr_4 + x_T20_S6_Fr_4 + x_T20_S7_Fr_4 - x_T20_S1_Fr_4 - x_T20_S2_Fr_4 - x_T20_S3_Fr_4 - x_T20_S4_Fr_4 - x_T20_S5_Fr_4 - x_T20_S6_Fr_4 - x_T20_S7_Fr_4 = 0
+ flow_T20_Fr_5: x_T20_S1_Fr_5 + x_T20_S2_Fr_5 + x_T20_S3_Fr_5 + x_T20_S4_Fr_5 + x_T20_S5_Fr_5 + x_T20_S6_Fr_5 + x_T20_S7_Fr_5 - x_T20_S1_Fr_5 - x_T20_S2_Fr_5 - x_T20_S3_Fr_5 - x_T20_S4_Fr_5 - x_T20_S5_Fr_5 - x_T20_S6_Fr_5 - x_T20_S7_Fr_5 = -1
+ flow_T7_Mo_1: x_T7_S9_Mo_1 + x_T7_S10_Mo_1 + x_T7_S11_Mo_1 + x_T7_S12_Mo_1 + x_T7_S13_Mo_1 - x_T7_S9_Mo_1 - x_T7_S10_Mo_1 - x_T7_S11_Mo_1 - x_T7_S12_Mo_1 - x_T7_S13_Mo_1 = 1
+ flow_T7_Mo_2: x_T7_S9_Mo_2 + x_T7_S10_Mo_2 + x_T7_S11_Mo_2 + x_T7_S12_Mo_2 + x_T7_S13_Mo_2 - x_T7_S9_Mo_2 - x_T7_S10_Mo_2 - x_T7_S11_Mo_2 - x_T7_S12_Mo_2 - x_T7_S13_Mo_2 = 0
+ flow_T7_Mo_3: x_T7_S9_Mo_3 + x_T7_S10_Mo_3 + x_T7_S11_Mo_3 + x_T7_S12_Mo_3 + x_T7_S13_Mo_3 - x_T7_S9_Mo_3 - x_T7_S10_Mo_3 - x_T7_S11_Mo_3 - x_T7_S12_Mo_3 - x_T7_S13_Mo_3 = 0
+ flow_T7_Mo_4: x_T7_S9_Mo_4 + x_T7_S10_Mo_4 + x_T7_S11_Mo_4 + x_T7_S12_Mo_4 + x_T7_S13_Mo_4 - x_T7_S9_Mo_4 - x_T7_S10_Mo_4 - x_T7_S11_Mo_4 - x_T7_S12_Mo_4 - x_T7_S13_Mo_4 = 0
+ flow_T7_Mo_5: x_T7_S9_Mo_5 + x_T7_S10_Mo_5 + x_T7_S11_Mo_5 + x_T7_S12_Mo_5 + x_T7_S13_Mo_5 - x_T7_S9_Mo_5 - x_T7_S10_Mo_5 - x_T7_S11_Mo_5 - x_T7_S12_Mo_5 - x_T7_S13_Mo_5 = -1
+ flow_T7_Tu_1: x_T7_S9_Tu_1 + x_T7_S10_Tu_1 + x_T7_S11_Tu_1 + x_T7_S12_Tu_1 + x_T7_S13_Tu_1 - x_T7_S9_Tu_1 - x_T7_S10_Tu_1 - x_T7_S11_Tu_1 - x_T7_S12_Tu_1 - x_T7_S13_Tu_1 = 1
+ flow_T7_Tu_2: x_T7_S9_Tu_2 + x_T7_S10_Tu_2 + x_T7_S11_Tu_2 + x_T7_S12_Tu_2 + x_T7_S13_Tu_2 - x_T7_S9_Tu_2 - x_T7_S10_Tu_2 - x_T7_S11_Tu_2 - x_T7_S12_Tu_2 - x_T7_S13_Tu_2 = 0
+ flow_T7_Tu_3: x_T7_S9_Tu_3 + x_T7_S10_Tu_3 + x_T7_S11_Tu_3 + x_T7_S12_Tu_3 + x_T7_S13_Tu_3 - x_T7_S9_Tu_3 - x_T7_S10_Tu_3 - x_T7_S11_Tu_3 - x_T7_S12_Tu_3 - x_T7_S13_Tu_3 = 0
+ flow_T7_Tu_4: x_T7_S9_Tu_4 + x_T7_S10_Tu_4 + x_T7_S11_Tu_4 + x_T7_S12_Tu_4 + x_T7_S13_Tu_4 - x_T7_S9_Tu_4 - x_T7_S10_Tu_4 - x_T7_S11_Tu_4 - x_T7_S12_Tu_4 - x_T7_S13_Tu_4 = 0
+ flow_T7_Tu_5: x_T7_S9_Tu_5 + x_T7_S10_Tu_5 + x_T7_S11_Tu_5 + x_T7_S12_Tu_5 + x_T7_S13_Tu_5 - x_T7_S9_Tu_5 - x_T7_S10_Tu_5 - x_T7_S11_Tu_5 - x_T7_S12_Tu_5 - x_T7_S13_Tu_5 = -1
+ flow_T7_We_1: x_T7_S9_We_1 + x_T7_S10_We_1 + x_T7_S11_We_1 + x_T7_S12_We_1 + x_T7_S13_We_1 - x_T7_S9_We_1 - x_T7_S10_We_1 - x_T7_S11_We_1 - x_T7_S12_We_1 - x_T7_S13_We_1 = 1
+ flow_T7_We_2: x_T7_S9_We_2 + x_T7_S10_We_2 + x_T7_S11_We_2 + x_T7_S12_We_2 + x_T7_S13_We_2 - x_T7_S9_We_2 - x_T7_S10_We_2 - x_T7_S11_We_2 - x_T7_S12_We_2 - x_T7_S13_We_2 = 0
+ flow_T7_We_3: x_T7_S9_We_3 + x_T7_S10_We_3 + x_T7_S11_We_3 + x_T7_S12_We_3 + x_T7_S13_We_3 - x_T7_S9_We_3 - x_T7_S10_We_3 - x_T7_S11_We_3 - x_T7_S12_We_3 - x_T7_S13_We_3 = 0
+ flow_T7_We_4: x_T7_S9_We_4 + x_T7_S10_We_4 + x_T7_S11_We_4 + x_T7_S12_We_4 + x_T7_S13_We_4 - x_T7_S9_We_4 - x_T7_S10_We_4 - x_T7_S11_We_4 - x_T7_S12_We_4 - x_T7_S13_We_4 = 0
+ flow_T7_We_5: x_T7_S9_We_5 + x_T7_S10_We_5 + x_T7_S11_We_5 + x_T7_S12_We_5 + x_T7_S13_We_5 - x_T7_S9_We_5 - x_T7_S10_We_5 - x_T7_S11_We_5 - x_T7_S12_We_5 - x_T7_S13_We_5 = -1
+ flow_T7_Th_1: x_T7_S9_Th_1 + x_T7_S10_Th_1 + x_T7_S11_Th_1 + x_T7_S12_Th_1 + x_T7_S13_Th_1 - x_T7_S9_Th_1 - x_T7_S10_Th_1 - x_T7_S11_Th_1 - x_T7_S12_Th_1 - x_T7_S13_Th_1 = 1
+ flow_T7_Th_2: x_T7_S9_Th_2 + x_T7_S10_Th_2 + x_T7_S11_Th_2 + x_T7_S12_Th_2 + x_T7_S13_Th_2 - x_T7_S9_Th_2 - x_T7_S10_Th_2 - x_T7_S11_Th_2 - x_T7_S12_Th_2 - x_T7_S13_Th_2 = 0
+ flow_T7_Th_3: x_T7_S9_Th_3 + x_T7_S10_Th_3 + x_T7_S11_Th_3 + x_T7_S12_Th_3 + x_T7_S13_Th_3 - x_T7_S9_Th_3 - x_T7_S10_Th_3 - x_T7_S11_Th_3 - x_T7_S12_Th_3 - x_T7_S13_Th_3 = 0
+ flow_T7_Th_4: x_T7_S9_Th_4 + x_T7_S10_Th_4 + x_T7_S11_Th_4 + x_T7_S12_Th_4 + x_T7_S13_Th_4 - x_T7_S9_Th_4 - x_T7_S10_Th_4 - x_T7_S11_Th_4 - x_T7_S12_Th_4 - x_T7_S13_Th_4 = 0
+ flow_T7_Th_5: x_T7_S9_Th_5 + x_T7_S10_Th_5 + x_T7_S11_Th_5 + x_T7_S12_Th_5 + x_T7_S13_Th_5 - x_T7_S9_Th_5 - x_T7_S10_Th_5 - x_T7_S11_Th_5 - x_T7_S12_Th_5 - x_T7_S13_Th_5 = -1
+ flow_T7_Fr_1: x_T7_S9_Fr_1 + x_T7_S10_Fr_1 + x_T7_S11_Fr_1 + x_T7_S12_Fr_1 + x_T7_S13_Fr_1 - x_T7_S9_Fr_1 - x_T7_S10_Fr_1 - x_T7_S11_Fr_1 - x_T7_S12_Fr_1 - x_T7_S13_Fr_1 = 1
+ flow_T7_Fr_2: x_T7_S9_Fr_2 + x_T7_S10_Fr_2 + x_T7_S11_Fr_2 + x_T7_S12_Fr_2 + x_T7_S13_Fr_2 - x_T7_S9_Fr_2 - x_T7_S10_Fr_2 - x_T7_S11_Fr_2 - x_T7_S12_Fr_2 - x_T7_S13_Fr_2 = 0
+ flow_T7_Fr_3: x_T7_S9_Fr_3 + x_T7_S10_Fr_3 + x_T7_S11_Fr_3 + x_T7_S12_Fr_3 + x_T7_S13_Fr_3 - x_T7_S9_Fr_3 - x_T7_S10_Fr_3 - x_T7_S11_Fr_3 - x_T7_S12_Fr_3 - x_T7_S13_Fr_3 = 0
+ flow_T7_Fr_4: x_T7_S9_Fr_4 + x_T7_S10_Fr_4 + x_T7_S11_Fr_4 + x_T7_S12_Fr_4 + x_T7_S13_Fr_4 - x_T7_S9_Fr_4 - x_T7_S10_Fr_4 - x_T7_S11_Fr_4 - x_T7_S12_Fr_4 - x_T7_S13_Fr_4 = 0
+ flow_T7_Fr_5: x_T7_S9_Fr_5 + x_T7_S10_Fr_5 + x_T7_S11_Fr_5 + x_T7_S12_Fr_5 + x_T7_S13_Fr_5 - x_T7_S9_Fr_5 - x_T7_S10_Fr_5 - x_T7_S11_Fr_5 - x_T7_S12_Fr_5 - x_T7_S13_Fr_5 = -1
+ flow_T17_Mo_1: x_T17_S1_Mo_1 + x_T17_S2_Mo_1 + x_T17_S3_Mo_1 + x_T17_S10_Mo_1 + x_T17_S13_Mo_1 + x_T17_S16_Mo_1 + x_T17_S17_Mo_1 - x_T17_S1_Mo_1 - x_T17_S2_Mo_1 - x_T17_S3_Mo_1 - x_T17_S10_Mo_1 - x_T17_S13_Mo_1 - x_T17_S16_Mo_1 - x_T17_S17_Mo_1 = 1
+ flow_T17_Mo_2: x_T17_S1_Mo_2 + x_T17_S2_Mo_2 + x_T17_S3_Mo_2 + x_T17_S10_Mo_2 + x_T17_S13_Mo_2 + x_T17_S16_Mo_2 + x_T17_S17_Mo_2 - x_T17_S1_Mo_2 - x_T17_S2_Mo_2 - x_T17_S3_Mo_2 - x_T17_S10_Mo_2 - x_T17_S13_Mo_2 - x_T17_S16_Mo_2 - x_T17_S17_Mo_2 = 0
+ flow_T17_Mo_3: x_T17_S1_Mo_3 + x_T17_S2_Mo_3 + x_T17_S3_Mo_3 + x_T17_S10_Mo_3 + x_T17_S13_Mo_3 + x_T17_S16_Mo_3 + x_T17_S17_Mo_3 - x_T17_S1_Mo_3 - x_T17_S2_Mo_3 - x_T17_S3_Mo_3 - x_T17_S10_Mo_3 - x_T17_S13_Mo_3 - x_T17_S16_Mo_3 - x_T17_S17_Mo_3 = 0
+ flow_T17_Mo_4: x_T17_S1_Mo_4 + x_T17_S2_Mo_4 + x_T17_S3_Mo_4 + x_T17_S10_Mo_4 + x_T17_S13_Mo_4 + x_T17_S16_Mo_4 + x_T17_S17_Mo_4 - x_T17_S1_Mo_4 - x_T17_S2_Mo_4 - x_T17_S3_Mo_4 - x_T17_S10_Mo_4 - x_T17_S13_Mo_4 - x_T17_S16_Mo_4 - x_T17_S17_Mo_4 = 0
+ flow_T17_Mo_5: x_T17_S1_Mo_5 + x_T17_S2_Mo_5 + x_T17_S3_Mo_5 + x_T17_S10_Mo_5 + x_T17_S13_Mo_5 + x_T17_S16_Mo_5 + x_T17_S17_Mo_5 - x_T17_S1_Mo_5 - x_T17_S2_Mo_5 - x_T17_S3_Mo_5 - x_T17_S10_Mo_5 - x_T17_S13_Mo_5 - x_T17_S16_Mo_5 - x_T17_S17_Mo_5 = -1
+ flow_T17_Tu_1: x_T17_S1_Tu_1 + x_T17_S2_Tu_1 + x_T17_S3_Tu_1 + x_T17_S10_Tu_1 + x_T17_S13_Tu_1 + x_T17_S16_Tu_1 + x_T17_S17_Tu_1 - x_T17_S1_Tu_1 - x_T17_S2_Tu_1 - x_T17_S3_Tu_1 - x_T17_S10_Tu_1 - x_T17_S13_Tu_1 - x_T17_S16_Tu_1 - x_T17_S17_Tu_1 = 1
+ flow_T17_Tu_2: x_T17_S1_Tu_2 + x_T17_S2_Tu_2 + x_T17_S3_Tu_2 + x_T17_S10_Tu_2 + x_T17_S13_Tu_2 + x_T17_S16_Tu_2 + x_T17_S17_Tu_2 - x_T17_S1_Tu_2 - x_T17_S2_Tu_2 - x_T17_S3_Tu_2 - x_T17_S10_Tu_2 - x_T17_S13_Tu_2 - x_T17_S16_Tu_2 - x_T17_S17_Tu_2 = 0
+ flow_T17_Tu_3: x_T17_S1_Tu_3 + x_T17_S2_Tu_3 + x_T17_S3_Tu_3 + x_T17_S10_Tu_3 + x_T17_S13_Tu_3 + x_T17_S16_Tu_3 + x_T17_S17_Tu_3 - x_T17_S1_Tu_3 - x_T17_S2_Tu_3 - x_T17_S3_Tu_3 - x_T17_S10_Tu_3 - x_T17_S13_Tu_3 - x_T17_S16_Tu_3 - x_T17_S17_Tu_3 = 0
+ flow_T17_Tu_4: x_T17_S1_Tu_4 + x_T17_S2_Tu_4 + x_T17_S3_Tu_4 + x_T17_S10_Tu_4 + x_T17_S13_Tu_4 + x_T17_S16_Tu_4 + x_T17_S17_Tu_4 - x_T17_S1_Tu_4 - x_T17_S2_Tu_4 - x_T17_S3_Tu_4 - x_T17_S10_Tu_4 - x_T17_S13_Tu_4 - x_T17_S16_Tu_4 - x_T17_S17_Tu_4 = 0
+ flow_T17_Tu_5: x_T17_S1_Tu_5 + x_T17_S2_Tu_5 + x_T17_S3_Tu_5 + x_T17_S10_Tu_5 + x_T17_S13_Tu_5 + x_T17_S16_Tu_5 + x_T17_S17_Tu_5 - x_T17_S1_Tu_5 - x_T17_S2_Tu_5 - x_T17_S3_Tu_5 - x_T17_S10_Tu_5 - x_T17_S13_Tu_5 - x_T17_S16_Tu_5 - x_T17_S17_Tu_5 = -1
+ flow_T17_We_1: x_T17_S1_We_1 + x_T17_S2_We_1 + x_T17_S3_We_1 + x_T17_S10_We_1 + x_T17_S13_We_1 + x_T17_S16_We_1 + x_T17_S17_We_1 - x_T17_S1_We_1 - x_T17_S2_We_1 - x_T17_S3_We_1 - x_T17_S10_We_1 - x_T17_S13_We_1 - x_T17_S16_We_1 - x_T17_S17_We_1 = 1
+ flow_T17_We_2: x_T17_S1_We_2 + x_T17_S2_We_2 + x_T17_S3_We_2 + x_T17_S10_We_2 + x_T17_S13_We_2 + x_T17_S16_We_2 + x_T17_S17_We_2 - x_T17_S1_We_2 - x_T17_S2_We_2 - x_T17_S3_We_2 - x_T17_S10_We_2 - x_T17_S13_We_2 - x_T17_S16_We_2 - x_T17_S17_We_2 = 0
+ flow_T17_We_3: x_T17_S1_We_3 + x_T17_S2_We_3 + x_T17_S3_We_3 + x_T17_S10_We_3 + x_T17_S13_We_3 + x_T17_S16_We_3 + x_T17_S17_We_3 - x_T17_S1_We_3 - x_T17_S2_We_3 - x_T17_S3_We_3 - x_T17_S10_We_3 - x_T17_S13_We_3 - x_T17_S16_We_3 - x_T17_S17_We_3 = 0
+ flow_T17_We_4: x_T17_S1_We_4 + x_T17_S2_We_4 + x_T17_S3_We_4 + x_T17_S10_We_4 + x_T17_S13_We_4 + x_T17_S16_We_4 + x_T17_S17_We_4 - x_T17_S1_We_4 - x_T17_S2_We_4 - x_T17_S3_We_4 - x_T17_S10_We_4 - x_T17_S13_We_4 - x_T17_S16_We_4 - x_T17_S17_We_4 = 0
+ flow_T17_We_5: x_T17_S1_We_5 + x_T17_S2_We_5 + x_T17_S3_We_5 + x_T17_S10_We_5 + x_T17_S13_We_5 + x_T17_S16_We_5 + x_T17_S17_We_5 - x_T17_S1_We_5 - x_T17_S2_We_5 - x_T17_S3_We_5 - x_T17_S10_We_5 - x_T17_S13_We_5 - x_T17_S16_We_5 - x_T17_S17_We_5 = -1
+ flow_T17_Th_1: x_T17_S1_Th_1 + x_T17_S2_Th_1 + x_T17_S3_Th_1 + x_T17_S10_Th_1 + x_T17_S13_Th_1 + x_T17_S16_Th_1 + x_T17_S17_Th_1 - x_T17_S1_Th_1 - x_T17_S2_Th_1 - x_T17_S3_Th_1 - x_T17_S10_Th_1 - x_T17_S13_Th_1 - x_T17_S16_Th_1 - x_T17_S17_Th_1 = 1
+ flow_T17_Th_2: x_T17_S1_Th_2 + x_T17_S2_Th_2 + x_T17_S3_Th_2 + x_T17_S10_Th_2 + x_T17_S13_Th_2 + x_T17_S16_Th_2 + x_T17_S17_Th_2 - x_T17_S1_Th_2 - x_T17_S2_Th_2 - x_T17_S3_Th_2 - x_T17_S10_Th_2 - x_T17_S13_Th_2 - x_T17_S16_Th_2 - x_T17_S17_Th_2 = 0
+ flow_T17_Th_3: x_T17_S1_Th_3 + x_T17_S2_Th_3 + x_T17_S3_Th_3 + x_T17_S10_Th_3 + x_T17_S13_Th_3 + x_T17_S16_Th_3 + x_T17_S17_Th_3 - x_T17_S1_Th_3 - x_T17_S2_Th_3 - x_T17_S3_Th_3 - x_T17_S10_Th_3 - x_T17_S13_Th_3 - x_T17_S16_Th_3 - x_T17_S17_Th_3 = 0
+ flow_T17_Th_4: x_T17_S1_Th_4 + x_T17_S2_Th_4 + x_T17_S3_Th_4 + x_T17_S10_Th_4 + x_T17_S13_Th_4 + x_T17_S16_Th_4 + x_T17_S17_Th_4 - x_T17_S1_Th_4 - x_T17_S2_Th_4 - x_T17_S3_Th_4 - x_T17_S10_Th_4 - x_T17_S13_Th_4 - x_T17_S16_Th_4 - x_T17_S17_Th_4 = 0
+ flow_T17_Th_5: x_T17_S1_Th_5 + x_T17_S2_Th_5 + x_T17_S3_Th_5 + x_T17_S10_Th_5 + x_T17_S13_Th_5 + x_T17_S16_Th_5 + x_T17_S17_Th_5 - x_T17_S1_Th_5 - x_T17_S2_Th_5 - x_T17_S3_Th_5 - x_T17_S10_Th_5 - x_T17_S13_Th_5 - x_T17_S16_Th_5 - x_T17_S17_Th_5 = -1
+ flow_T17_Fr_1: x_T17_S1_Fr_1 + x_T17_S2_Fr_1 + x_T17_S3_Fr_1 + x_T17_S10_Fr_1 + x_T17_S13_Fr_1 + x_T17_S16_Fr_1 + x_T17_S17_Fr_1 - x_T17_S1_Fr_1 - x_T17_S2_Fr_1 - x_T17_S3_Fr_1 - x_T17_S10_Fr_1 - x_T17_S13_Fr_1 - x_T17_S16_Fr_1 - x_T17_S17_Fr_1 = 1
+ flow_T17_Fr_2: x_T17_S1_Fr_2 + x_T17_S2_Fr_2 + x_T17_S3_Fr_2 + x_T17_S10_Fr_2 + x_T17_S13_Fr_2 + x_T17_S16_Fr_2 + x_T17_S17_Fr_2 - x_T17_S1_Fr_2 - x_T17_S2_Fr_2 - x_T17_S3_Fr_2 - x_T17_S10_Fr_2 - x_T17_S13_Fr_2 - x_T17_S16_Fr_2 - x_T17_S17_Fr_2 = 0
+ flow_T17_Fr_3: x_T17_S1_Fr_3 + x_T17_S2_Fr_3 + x_T17_S3_Fr_3 + x_T17_S10_Fr_3 + x_T17_S13_Fr_3 + x_T17_S16_Fr_3 + x_T17_S17_Fr_3 - x_T17_S1_Fr_3 - x_T17_S2_Fr_3 - x_T17_S3_Fr_3 - x_T17_S10_Fr_3 - x_T17_S13_Fr_3 - x_T17_S16_Fr_3 - x_T17_S17_Fr_3 = 0
+ flow_T17_Fr_4: x_T17_S1_Fr_4 + x_T17_S2_Fr_4 + x_T17_S3_Fr_4 + x_T17_S10_Fr_4 + x_T17_S13_Fr_4 + x_T17_S16_Fr_4 + x_T17_S17_Fr_4 - x_T17_S1_Fr_4 - x_T17_S2_Fr_4 - x_T17_S3_Fr_4 - x_T17_S10_Fr_4 - x_T17_S13_Fr_4 - x_T17_S16_Fr_4 - x_T17_S17_Fr_4 = 0
+ flow_T17_Fr_5: x_T17_S1_Fr_5 + x_T17_S2_Fr_5 + x_T17_S3_Fr_5 + x_T17_S10_Fr_5 + x_T17_S13_Fr_5 + x_T17_S16_Fr_5 + x_T17_S17_Fr_5 - x_T17_S1_Fr_5 - x_T17_S2_Fr_5 - x_T17_S3_Fr_5 - x_T17_S10_Fr_5 - x_T17_S13_Fr_5 - x_T17_S16_Fr_5 - x_T17_S17_Fr_5 = -1
+ flow_T18_Mo_1: x_T18_S4_Mo_1 + x_T18_S5_Mo_1 + x_T18_S6_Mo_1 + x_T18_S11_Mo_1 + x_T18_S14_Mo_1 + x_T18_S18_Mo_1 + x_T18_S19_Mo_1 - x_T18_S4_Mo_1 - x_T18_S5_Mo_1 - x_T18_S6_Mo_1 - x_T18_S11_Mo_1 - x_T18_S14_Mo_1 - x_T18_S18_Mo_1 - x_T18_S19_Mo_1 = 1
+ flow_T18_Mo_2: x_T18_S4_Mo_2 + x_T18_S5_Mo_2 + x_T18_S6_Mo_2 + x_T18_S11_Mo_2 + x_T18_S14_Mo_2 + x_T18_S18_Mo_2 + x_T18_S19_Mo_2 - x_T18_S4_Mo_2 - x_T18_S5_Mo_2 - x_T18_S6_Mo_2 - x_T18_S11_Mo_2 - x_T18_S14_Mo_2 - x_T18_S18_Mo_2 - x_T18_S19_Mo_2 = 0
+ flow_T18_Mo_3: x_T18_S4_Mo_3 + x_T18_S5_Mo_3 + x_T18_S6_Mo_3 + x_T18_S11_Mo_3 + x_T18_S14_Mo_3 + x_T18_S18_Mo_3 + x_T18_S19_Mo_3 - x_T18_S4_Mo_3 - x_T18_S5_Mo_3 - x_T18_S6_Mo_3 - x_T18_S11_Mo_3 - x_T18_S14_Mo_3 - x_T18_S18_Mo_3 - x_T18_S19_Mo_3 = 0
+ flow_T18_Mo_4: x_T18_S4_Mo_4 + x_T18_S5_Mo_4 + x_T18_S6_Mo_4 + x_T18_S11_Mo_4 + x_T18_S14_Mo_4 + x_T18_S18_Mo_4 + x_T18_S19_Mo_4 - x_T18_S4_Mo_4 - x_T18_S5_Mo_4 - x_T18_S6_Mo_4 - x_T18_S11_Mo_4 - x_T18_S14_Mo_4 - x_T18_S18_Mo_4 - x_T18_S19_Mo_4 = 0
+ flow_T18_Mo_5: x_T18_S4_Mo_5 + x_T18_S5_Mo_5 + x_T18_S6_Mo_5 + x_T18_S11_Mo_5 + x_T18_S14_Mo_5 + x_T18_S18_Mo_5 + x_T18_S19_Mo_5 - x_T18_S4_Mo_5 - x_T18_S5_Mo_5 - x_T18_S6_Mo_5 - x_T18_S11_Mo_5 - x_T18_S14_Mo_5 - x_T18_S18_Mo_5 - x_T18_S19_Mo_5 = -1
+ flow_T18_Tu_1: x_T18_S4_Tu_1 + x_T18_S5_Tu_1 + x_T18_S6_Tu_1 + x_T18_S11_Tu_1 + x_T18_S14_Tu_1 + x_T18_S18_Tu_1 + x_T18_S19_Tu_1 - x_T18_S4_Tu_1 - x_T18_S5_Tu_1 - x_T18_S6_Tu_1 - x_T18_S11_Tu_1 - x_T18_S14_Tu_1 - x_T18_S18_Tu_1 - x_T18_S19_Tu_1 = 1
+ flow_T18_Tu_2: x_T18_S4_Tu_2 + x_T18_S5_Tu_2 + x_T18_S6_Tu_2 + x_T18_S11_Tu_2 + x_T18_S14_Tu_2 + x_T18_S18_Tu_2 + x_T18_S19_Tu_2 - x_T18_S4_Tu_2 - x_T18_S5_Tu_2 - x_T18_S6_Tu_2 - x_T18_S11_Tu_2 - x_T18_S14_Tu_2 - x_T18_S18_Tu_2 - x_T18_S19_Tu_2 = 0
+ flow_T18_Tu_3: x_T18_S4_Tu_3 + x_T18_S5_Tu_3 + x_T18_S6_Tu_3 + x_T18_S11_Tu_3 + x_T18_S14_Tu_3 + x_T18_S18_Tu_3 + x_T18_S19_Tu_3 - x_T18_S4_Tu_3 - x_T18_S5_Tu_3 - x_T18_S6_Tu_3 - x_T18_S11_Tu_3 - x_T18_S14_Tu_3 - x_T18_S18_Tu_3 - x_T18_S19_Tu_3 = 0
+ flow_T18_Tu_4: x_T18_S4_Tu_4 + x_T18_S5_Tu_4 + x_T18_S6_Tu_4 + x_T18_S11_Tu_4 + x_T18_S14_Tu_4 + x_T18_S18_Tu_4 + x_T18_S19_Tu_4 - x_T18_S4_Tu_4 - x_T18_S5_Tu_4 - x_T18_S6_Tu_4 - x_T18_S11_Tu_4 - x_T18_S14_Tu_4 - x_T18_S18_Tu_4 - x_T18_S19_Tu_4 = 0
+ flow_T18_Tu_5: x_T18_S4_Tu_5 + x_T18_S5_Tu_5 + x_T18_S6_Tu_5 + x_T18_S11_Tu_5 + x_T18_S14_Tu_5 + x_T18_S18_Tu_5 + x_T18_S19_Tu_5 - x_T18_S4_Tu_5 - x_T18_S5_Tu_5 - x_T18_S6_Tu_5 - x_T18_S11_Tu_5 - x_T18_S14_Tu_5 - x_T18_S18_Tu_5 - x_T18_S19_Tu_5 = -1
+ flow_T18_We_1: x_T18_S4_We_1 + x_T18_S5_We_1 + x_T18_S6_We_1 + x_T18_S11_We_1 + x_T18_S14_We_1 + x_T18_S18_We_1 + x_T18_S19_We_1 - x_T18_S4_We_1 - x_T18_S5_We_1 - x_T18_S6_We_1 - x_T18_S11_We_1 - x_T18_S14_We_1 - x_T18_S18_We_1 - x_T18_S19_We_1 = 1
+ flow_T18_We_2: x_T18_S4_We_2 + x_T18_S5_We_2 + x_T18_S6_We_2 + x_T18_S11_We_2 + x_T18_S14_We_2 + x_T18_S18_We_2 + x_T18_S19_We_2 - x_T18_S4_We_2 - x_T18_S5_We_2 - x_T18_S6_We_2 - x_T18_S11_We_2 - x_T18_S14_We_2 - x_T18_S18_We_2 - x_T18_S19_We_2 = 0
+ flow_T18_We_3: x_T18_S4_We_3 + x_T18_S5_We_3 + x_T18_S6_We_3 + x_T18_S11_We_3 + x_T18_S14_We_3 + x_T18_S18_We_3 + x_T18_S19_We_3 - x_T18_S4_We_3 - x_T18_S5_We_3 - x_T18_S6_We_3 - x_T18_S11_We_3 - x_T18_S14_We_3 - x_T18_S18_We_3 - x_T18_S19_We_3 = 0
+ flow_T18_We_4: x_T18_S4_We_4 + x_T18_S5_We_4 + x_T18_S6_We_4 + x_T18_S11_We_4 + x_T18_S14_We_4 + x_T18_S18_We_4 + x_T18_S19_We_4 - x_T18_S4_We_4 - x_T18_S5_We_4 - x_T18_S6_We_4 - x_T18_S11_We_4 - x_T18_S14_We_4 - x_T18_S18_We_4 - x_T18_S19_We_4 = 0
+ flow_T18_We_5: x_T18_S4_We_5 + x_T18_S5_We_5 + x_T18_S6_We_5 + x_T18_S11_We_5 + x_T18_S14_We_5 + x_T18_S18_We_5 + x_T18_S19_We_5 - x_T18_S4_We_5 - x_T18_S5_We_5 - x_T18_S6_We_5 - x_T18_S11_We_5 - x_T18_S14_We_5 - x_T18_S18_We_5 - x_T18_S19_We_5 = -1
+ flow_T18_Th_1: x_T18_S4_Th_1 + x_T18_S5_Th_1 + x_T18_S6_Th_1 + x_T18_S11_Th_1 + x_T18_S14_Th_1 + x_T18_S18_Th_1 + x_T18_S19_Th_1 - x_T18_S4_Th_1 - x_T18_S5_Th_1 - x_T18_S6_Th_1 - x_T18_S11_Th_1 - x_T18_S14_Th_1 - x_T18_S18_Th_1 - x_T18_S19_Th_1 = 1
+ flow_T18_Th_2: x_T18_S4_Th_2 + x_T18_S5_Th_2 + x_T18_S6_Th_2 + x_T18_S11_Th_2 + x_T18_S14_Th_2 + x_T18_S18_Th_2 + x_T18_S19_Th_2 - x_T18_S4_Th_2 - x_T18_S5_Th_2 - x_T18_S6_Th_2 - x_T18_S11_Th_2 - x_T18_S14_Th_2 - x_T18_S18_Th_2 - x_T18_S19_Th_2 = 0
+ flow_T18_Th_3: x_T18_S4_Th_3 + x_T18_S5_Th_3 + x_T18_S6_Th_3 + x_T18_S11_Th_3 + x_T18_S14_Th_3 + x_T18_S18_Th_3 + x_T18_S19_Th_3 - x_T18_S4_Th_3 - x_T18_S5_Th_3 - x_T18_S6_Th_3 - x_T18_S11_Th_3 - x_T18_S14_Th_3 - x_T18_S18_Th_3 - x_T18_S19_Th_3 = 0
+ flow_T18_Th_4: x_T18_S4_Th_4 + x_T18_S5_Th_4 + x_T18_S6_Th_4 + x_T18_S11_Th_4 + x_T18_S14_Th_4 + x_T18_S18_Th_4 + x_T18_S19_Th_4 - x_T18_S4_Th_4 - x_T18_S5_Th_4 - x_T18_S6_Th_4 - x_T18_S11_Th_4 - x_T18_S14_Th_4 - x_T18_S18_Th_4 - x_T18_S19_Th_4 = 0
+ flow_T18_Th_5: x_T18_S4_Th_5 + x_T18_S5_Th_5 + x_T18_S6_Th_5 + x_T18_S11_Th_5 + x_T18_S14_Th_5 + x_T18_S18_Th_5 + x_T18_S19_Th_5 - x_T18_S4_Th_5 - x_T18_S5_Th_5 - x_T18_S6_Th_5 - x_T18_S11_Th_5 - x_T18_S14_Th_5 - x_T18_S18_Th_5 - x_T18_S19_Th_5 = -1
+ flow_T18_Fr_1: x_T18_S4_Fr_1 + x_T18_S5_Fr_1 + x_T18_S6_Fr_1 + x_T18_S11_Fr_1 + x_T18_S14_Fr_1 + x_T18_S18_Fr_1 + x_T18_S19_Fr_1 - x_T18_S4_Fr_1 - x_T18_S5_Fr_1 - x_T18_S6_Fr_1 - x_T18_S11_Fr_1 - x_T18_S14_Fr_1 - x_T18_S18_Fr_1 - x_T18_S19_Fr_1 = 1
+ flow_T18_Fr_2: x_T18_S4_Fr_2 + x_T18_S5_Fr_2 + x_T18_S6_Fr_2 + x_T18_S11_Fr_2 + x_T18_S14_Fr_2 + x_T18_S18_Fr_2 + x_T18_S19_Fr_2 - x_T18_S4_Fr_2 - x_T18_S5_Fr_2 - x_T18_S6_Fr_2 - x_T18_S11_Fr_2 - x_T18_S14_Fr_2 - x_T18_S18_Fr_2 - x_T18_S19_Fr_2 = 0
+ flow_T18_Fr_3: x_T18_S4_Fr_3 + x_T18_S5_Fr_3 + x_T18_S6_Fr_3 + x_T18_S11_Fr_3 + x_T18_S14_Fr_3 + x_T18_S18_Fr_3 + x_T18_S19_Fr_3 - x_T18_S4_Fr_3 - x_T18_S5_Fr_3 - x_T18_S6_Fr_3 - x_T18_S11_Fr_3 - x_T18_S14_Fr_3 - x_T18_S18_Fr_3 - x_T18_S19_Fr_3 = 0
+ flow_T18_Fr_4: x_T18_S4_Fr_4 + x_T18_S5_Fr_4 + x_T18_S6_Fr_4 + x_T18_S11_Fr_4 + x_T18_S14_Fr_4 + x_T18_S18_Fr_4 + x_T18_S19_Fr_4 - x_T18_S4_Fr_4 - x_T18_S5_Fr_4 - x_T18_S6_Fr_4 - x_T18_S11_Fr_4 - x_T18_S14_Fr_4 - x_T18_S18_Fr_4 - x_T18_S19_Fr_4 = 0
+ flow_T18_Fr_5: x_T18_S4_Fr_5 + x_T18_S5_Fr_5 + x_T18_S6_Fr_5 + x_T18_S11_Fr_5 + x_T18_S14_Fr_5 + x_T18_S18_Fr_5 + x_T18_S19_Fr_5 - x_T18_S4_Fr_5 - x_T18_S5_Fr_5 - x_T18_S6_Fr_5 - x_T18_S11_Fr_5 - x_T18_S14_Fr_5 - x_T18_S18_Fr_5 - x_T18_S19_Fr_5 = -1
+ flow_T32_Mo_1: x_T32_S1_Mo_1 + x_T32_S2_Mo_1 + x_T32_S3_Mo_1 + x_T32_S4_Mo_1 + x_T32_S5_Mo_1 + x_T32_S6_Mo_1 + x_T32_S7_Mo_1 + x_T32_S8_Mo_1 + x_T32_S9_Mo_1 + x_T32_S16_Mo_1 + x_T32_S17_Mo_1 + x_T32_S18_Mo_1 + x_T32_S19_Mo_1 + x_T32_S20_Mo_1 - x_T32_S1_Mo_1 - x_T32_S2_Mo_1 - x_T32_S3_Mo_1 - x_T32_S4_Mo_1 - x_T32_S5_Mo_1 - x_T32_S6_Mo_1 - x_T32_S7_Mo_1 - x_T32_S8_Mo_1 - x_T32_S9_Mo_1 - x_T32_S16_Mo_1 - x_T32_S17_Mo_1 - x_T32_S18_Mo_1 - x_T32_S19_Mo_1 - x_T32_S20_Mo_1 = 1
+ flow_T32_Mo_2: x_T32_S1_Mo_2 + x_T32_S2_Mo_2 + x_T32_S3_Mo_2 + x_T32_S4_Mo_2 + x_T32_S5_Mo_2 + x_T32_S6_Mo_2 + x_T32_S7_Mo_2 + x_T32_S8_Mo_2 + x_T32_S9_Mo_2 + x_T32_S16_Mo_2 + x_T32_S17_Mo_2 + x_T32_S18_Mo_2 + x_T32_S19_Mo_2 + x_T32_S20_Mo_2 - x_T32_S1_Mo_2 - x_T32_S2_Mo_2 - x_T32_S3_Mo_2 - x_T32_S4_Mo_2 - x_T32_S5_Mo_2 - x_T32_S6_Mo_2 - x_T32_S7_Mo_2 - x_T32_S8_Mo_2 - x_T32_S9_Mo_2 - x_T32_S16_Mo_2 - x_T32_S17_Mo_2 - x_T32_S18_Mo_2 - x_T32_S19_Mo_2 - x_T32_S20_Mo_2 = 0
+ flow_T32_Mo_3: x_T32_S1_Mo_3 + x_T32_S2_Mo_3 + x_T32_S3_Mo_3 + x_T32_S4_Mo_3 + x_T32_S5_Mo_3 + x_T32_S6_Mo_3 + x_T32_S7_Mo_3 + x_T32_S8_Mo_3 + x_T32_S9_Mo_3 + x_T32_S16_Mo_3 + x_T32_S17_Mo_3 + x_T32_S18_Mo_3 + x_T32_S19_Mo_3 + x_T32_S20_Mo_3 - x_T32_S1_Mo_3 - x_T32_S2_Mo_3 - x_T32_S3_Mo_3 - x_T32_S4_Mo_3 - x_T32_S5_Mo_3 - x_T32_S6_Mo_3 - x_T32_S7_Mo_3 - x_T32_S8_Mo_3 - x_T32_S9_Mo_3 - x_T32_S16_Mo_3 - x_T32_S17_Mo_3 - x_T32_S18_Mo_3 - x_T32_S19_Mo_3 - x_T32_S20_Mo_3 = 0
+ flow_T32_Mo_4: x_T32_S1_Mo_4 + x_T32_S2_Mo_4 + x_T32_S3_Mo_4 + x_T32_S4_Mo_4 + x_T32_S5_Mo_4 + x_T32_S6_Mo_4 + x_T32_S7_Mo_4 + x_T32_S8_Mo_4 + x_T32_S9_Mo_4 + x_T32_S16_Mo_4 + x_T32_S17_Mo_4 + x_T32_S18_Mo_4 + x_T32_S19_Mo_4 + x_T32_S20_Mo_4 - x_T32_S1_Mo_4 - x_T32_S2_Mo_4 - x_T32_S3_Mo_4 - x_T32_S4_Mo_4 - x_T32_S5_Mo_4 - x_T32_S6_Mo_4 - x_T32_S7_Mo_4 - x_T32_S8_Mo_4 - x_T32_S9_Mo_4 - x_T32_S16_Mo_4 - x_T32_S17_Mo_4 - x_T32_S18_Mo_4 - x_T32_S19_Mo_4 - x_T32_S20_Mo_4 = 0
+ flow_T32_Mo_5: x_T32_S1_Mo_5 + x_T32_S2_Mo_5 + x_T32_S3_Mo_5 + x_T32_S4_Mo_5 + x_T32_S5_Mo_5 + x_T32_S6_Mo_5 + x_T32_S7_Mo_5 + x_T32_S8_Mo_5 + x_T32_S9_Mo_5 + x_T32_S16_Mo_5 + x_T32_S17_Mo_5 + x_T32_S18_Mo_5 + x_T32_S19_Mo_5 + x_T32_S20_Mo_5 - x_T32_S1_Mo_5 - x_T32_S2_Mo_5 - x_T32_S3_Mo_5 - x_T32_S4_Mo_5 - x_T32_S5_Mo_5 - x_T32_S6_Mo_5 - x_T32_S7_Mo_5 - x_T32_S8_Mo_5 - x_T32_S9_Mo_5 - x_T32_S16_Mo_5 - x_T32_S17_Mo_5 - x_T32_S18_Mo_5 - x_T32_S19_Mo_5 - x_T32_S20_Mo_5 = -1
+ flow_T32_Tu_1: x_T32_S1_Tu_1 + x_T32_S2_Tu_1 + x_T32_S3_Tu_1 + x_T32_S4_Tu_1 + x_T32_S5_Tu_1 + x_T32_S6_Tu_1 + x_T32_S7_Tu_1 + x_T32_S8_Tu_1 + x_T32_S9_Tu_1 + x_T32_S16_Tu_1 + x_T32_S17_Tu_1 + x_T32_S18_Tu_1 + x_T32_S19_Tu_1 + x_T32_S20_Tu_1 - x_T32_S1_Tu_1 - x_T32_S2_Tu_1 - x_T32_S3_Tu_1 - x_T32_S4_Tu_1 - x_T32_S5_Tu_1 - x_T32_S6_Tu_1 - x_T32_S7_Tu_1 - x_T32_S8_Tu_1 - x_T32_S9_Tu_1 - x_T32_S16_Tu_1 - x_T32_S17_Tu_1 - x_T32_S18_Tu_1 - x_T32_S19_Tu_1 - x_T32_S20_Tu_1 = 1
+ flow_T32_Tu_2: x_T32_S1_Tu_2 + x_T32_S2_Tu_2 + x_T32_S3_Tu_2 + x_T32_S4_Tu_2 + x_T32_S5_Tu_2 + x_T32_S6_Tu_2 + x_T32_S7_Tu_2 + x_T32_S8_Tu_2 + x_T32_S9_Tu_2 + x_T32_S16_Tu_2 + x_T32_S17_Tu_2 + x_T32_S18_Tu_2 + x_T32_S19_Tu_2 + x_T32_S20_Tu_2 - x_T32_S1_Tu_2 - x_T32_S2_Tu_2 - x_T32_S3_Tu_2 - x_T32_S4_Tu_2 - x_T32_S5_Tu_2 - x_T32_S6_Tu_2 - x_T32_S7_Tu_2 - x_T32_S8_Tu_2 - x_T32_S9_Tu_2 - x_T32_S16_Tu_2 - x_T32_S17_Tu_2 - x_T32_S18_Tu_2 - x_T32_S19_Tu_2 - x_T32_S20_Tu_2 = 0
+ flow_T32_Tu_3: x_T32_S1_Tu_3 + x_T32_S2_Tu_3 + x_T32_S3_Tu_3 + x_T32_S4_Tu_3 + x_T32_S5_Tu_3 + x_T32_S6_Tu_3 + x_T32_S7_Tu_3 + x_T32_S8_Tu_3 + x_T32_S9_Tu_3 + x_T32_S16_Tu_3 + x_T32_S17_Tu_3 + x_T32_S18_Tu_3 + x_T32_S19_Tu_3 + x_T32_S20_Tu_3 - x_T32_S1_Tu_3 - x_T32_S2_Tu_3 - x_T32_S3_Tu_3 - x_T32_S4_Tu_3 - x_T32_S5_Tu_3 - x_T32_S6_Tu_3 - x_T32_S7_Tu_3 - x_T32_S8_Tu_3 - x_T32_S9_Tu_3 - x_T32_S16_Tu_3 - x_T32_S17_Tu_3 - x_T32_S18_Tu_3 - x_T32_S19_Tu_3 - x_T32_S20_Tu_3 = 0
+ flow_T32_Tu_4: x_T32_S1_Tu_4 + x_T32_S2_Tu_4 + x_T32_S3_Tu_4 + x_T32_S4_Tu_4 + x_T32_S5_Tu_4 + x_T32_S6_Tu_4 + x_T32_S7_Tu_4 + x_T32_S8_Tu_4 + x_T32_S9_Tu_4 + x_T32_S16_Tu_4 + x_T32_S17_Tu_4 + x_T32_S18_Tu_4 + x_T32_S19_Tu_4 + x_T32_S20_Tu_4 - x_T32_S1_Tu_4 - x_T32_S2_Tu_4 - x_T32_S3_Tu_4 - x_T32_S4_Tu_4 - x_T32_S5_Tu_4 - x_T32_S6_Tu_4 - x_T32_S7_Tu_4 - x_T32_S8_Tu_4 - x_T32_S9_Tu_4 - x_T32_S16_Tu_4 - x_T32_S17_Tu_4 - x_T32_S18_Tu_4 - x_T32_S19_Tu_4 - x_T32_S20_Tu_4 = 0
+ flow_T32_Tu_5: x_T32_S1_Tu_5 + x_T32_S2_Tu_5 + x_T32_S3_Tu_5 + x_T32_S4_Tu_5 + x_T32_S5_Tu_5 + x_T32_S6_Tu_5 + x_T32_S7_Tu_5 + x_T32_S8_Tu_5 + x_T32_S9_Tu_5 + x_T32_S16_Tu_5 + x_T32_S17_Tu_5 + x_T32_S18_Tu_5 + x_T32_S19_Tu_5 + x_T32_S20_Tu_5 - x_T32_S1_Tu_5 - x_T32_S2_Tu_5 - x_T32_S3_Tu_5 - x_T32_S4_Tu_5 - x_T32_S5_Tu_5 - x_T32_S6_Tu_5 - x_T32_S7_Tu_5 - x_T32_S8_Tu_5 - x_T32_S9_Tu_5 - x_T32_S16_Tu_5 - x_T32_S17_Tu_5 - x_T32_S18_Tu_5 - x_T32_S19_Tu_5 - x_T32_S20_Tu_5 = -1
+ flow_T32_We_1: x_T32_S1_We_1 + x_T32_S2_We_1 + x_T32_S3_We_1 + x_T32_S4_We_1 + x_T32_S5_We_1 + x_T32_S6_We_1 + x_T32_S7_We_1 + x_T32_S8_We_1 + x_T32_S9_We_1 + x_T32_S16_We_1 + x_T32_S17_We_1 + x_T32_S18_We_1 + x_T32_S19_We_1 + x_T32_S20_We_1 - x_T32_S1_We_1 - x_T32_S2_We_1 - x_T32_S3_We_1 - x_T32_S4_We_1 - x_T32_S5_We_1 - x_T32_S6_We_1 - x_T32_S7_We_1 - x_T32_S8_We_1 - x_T32_S9_We_1 - x_T32_S16_We_1 - x_T32_S17_We_1 - x_T32_S18_We_1 - x_T32_S19_We_1 - x_T32_S20_We_1 = 1
+ flow_T32_We_2: x_T32_S1_We_2 + x_T32_S2_We_2 + x_T32_S3_We_2 + x_T32_S4_We_2 + x_T32_S5_We_2 + x_T32_S6_We_2 + x_T32_S7_We_2 + x_T32_S8_We_2 + x_T32_S9_We_2 + x_T32_S16_We_2 + x_T32_S17_We_2 + x_T32_S18_We_2 + x_T32_S19_We_2 + x_T32_S20_We_2 - x_T32_S1_We_2 - x_T32_S2_We_2 - x_T32_S3_We_2 - x_T32_S4_We_2 - x_T32_S5_We_2 - x_T32_S6_We_2 - x_T32_S7_We_2 - x_T32_S8_We_2 - x_T32_S9_We_2 - x_T32_S16_We_2 - x_T32_S17_We_2 - x_T32_S18_We_2 - x_T32_S19_We_2 - x_T32_S20_We_2 = 0
+ flow_T32_We_3: x_T32_S1_We_3 + x_T32_S2_We_3 + x_T32_S3_We_3 + x_T32_S4_We_3 + x_T32_S5_We_3 + x_T32_S6_We_3 + x_T32_S7_We_3 + x_T32_S8_We_3 + x_T32_S9_We_3 + x_T32_S16_We_3 + x_T32_S17_We_3 + x_T32_S18_We_3 + x_T32_S19_We_3 + x_T32_S20_We_3 - x_T32_S1_We_3 - x_T32_S2_We_3 - x_T32_S3_We_3 - x_T32_S4_We_3 - x_T32_S5_We_3 - x_T32_S6_We_3 - x_T32_S7_We_3 - x_T32_S8_We_3 - x_T32_S9_We_3 - x_T32_S16_We_3 - x_T32_S17_We_3 - x_T32_S18_We_3 - x_T32_S19_We_3 - x_T32_S20_We_3 = 0
+ flow_T32_We_4: x_T32_S1_We_4 + x_T32_S2_We_4 + x_T32_S3_We_4 + x_T32_S4_We_4 + x_T32_S5_We_4 + x_T32_S6_We_4 + x_T32_S7_We_4 + x_T32_S8_We_4 + x_T32_S9_We_4 + x_T32_S16_We_4 + x_T32_S17_We_4 + x_T32_S18_We_4 + x_T32_S19_We_4 + x_T32_S20_We_4 - x_T32_S1_We_4 - x_T32_S2_We_4 - x_T32_S3_We_4 - x_T32_S4_We_4 - x_T32_S5_We_4 - x_T32_S6_We_4 - x_T32_S7_We_4 - x_T32_S8_We_4 - x_T32_S9_We_4 - x_T32_S16_We_4 - x_T32_S17_We_4 - x_T32_S18_We_4 - x_T32_S19_We_4 - x_T32_S20_We_4 = 0
+ flow_T32_We_5: x_T32_S1_We_5 + x_T32_S2_We_5 + x_T32_S3_We_5 + x_T32_S4_We_5 + x_T32_S5_We_5 + x_T32_S6_We_5 + x_T32_S7_We_5 + x_T32_S8_We_5 + x_T32_S9_We_5 + x_T32_S16_We_5 + x_T32_S17_We_5 + x_T32_S18_We_5 + x_T32_S19_We_5 + x_T32_S20_We_5 - x_T32_S1_We_5 - x_T32_S2_We_5 - x_T32_S3_We_5 - x_T32_S4_We_5 - x_T32_S5_We_5 - x_T32_S6_We_5 - x_T32_S7_We_5 - x_T32_S8_We_5 - x_T32_S9_We_5 - x_T32_S16_We_5 - x_T32_S17_We_5 - x_T32_S18_We_5 - x_T32_S19_We_5 - x_T32_S20_We_5 = -1
+ flow_T32_Th_1: x_T32_S1_Th_1 + x_T32_S2_Th_1 + x_T32_S3_Th_1 + x_T32_S4_Th_1 + x_T32_S5_Th_1 + x_T32_S6_Th_1 + x_T32_S7_Th_1 + x_T32_S8_Th_1 + x_T32_S9_Th_1 + x_T32_S16_Th_1 + x_T32_S17_Th_1 + x_T32_S18_Th_1 + x_T32_S19_Th_1 + x_T32_S20_Th_1 - x_T32_S1_Th_1 - x_T32_S2_Th_1 - x_T32_S3_Th_1 - x_T32_S4_Th_1 - x_T32_S5_Th_1 - x_T32_S6_Th_1 - x_T32_S7_Th_1 - x_T32_S8_Th_1 - x_T32_S9_Th_1 - x_T32_S16_Th_1 - x_T32_S17_Th_1 - x_T32_S18_Th_1 - x_T32_S19_Th_1 - x_T32_S20_Th_1 = 1
+ flow_T32_Th_2: x_T32_S1_Th_2 + x_T32_S2_Th_2 + x_T32_S3_Th_2 + x_T32_S4_Th_2 + x_T32_S5_Th_2 + x_T32_S6_Th_2 + x_T32_S7_Th_2 + x_T32_S8_Th_2 + x_T32_S9_Th_2 + x_T32_S16_Th_2 + x_T32_S17_Th_2 + x_T32_S18_Th_2 + x_T32_S19_Th_2 + x_T32_S20_Th_2 - x_T32_S1_Th_2 - x_T32_S2_Th_2 - x_T32_S3_Th_2 - x_T32_S4_Th_2 - x_T32_S5_Th_2 - x_T32_S6_Th_2 - x_T32_S7_Th_2 - x_T32_S8_Th_2 - x_T32_S9_Th_2 - x_T32_S16_Th_2 - x_T32_S17_Th_2 - x_T32_S18_Th_2 - x_T32_S19_Th_2 - x_T32_S20_Th_2 = 0
+ flow_T32_Th_3: x_T32_S1_Th_3 + x_T32_S2_Th_3 + x_T32_S3_Th_3 + x_T32_S4_Th_3 + x_T32_S5_Th_3 + x_T32_S6_Th_3 + x_T32_S7_Th_3 + x_T32_S8_Th_3 + x_T32_S9_Th_3 + x_T32_S16_Th_3 + x_T32_S17_Th_3 + x_T32_S18_Th_3 + x_T32_S19_Th_3 + x_T32_S20_Th_3 - x_T32_S1_Th_3 - x_T32_S2_Th_3 - x_T32_S3_Th_3 - x_T32_S4_Th_3 - x_T32_S5_Th_3 - x_T32_S6_Th_3 - x_T32_S7_Th_3 - x_T32_S8_Th_3 - x_T32_S9_Th_3 - x_T32_S16_Th_3 - x_T32_S17_Th_3 - x_T32_S18_Th_3 - x_T32_S19_Th_3 - x_T32_S20_Th_3 = 0
+ flow_T32_Th_4: x_T32_S1_Th_4 + x_T32_S2_Th_4 + x_T32_S3_Th_4 + x_T32_S4_Th_4 + x_T32_S5_Th_4 + x_T32_S6_Th_4 + x_T32_S7_Th_4 + x_T32_S8_Th_4 + x_T32_S9_Th_4 + x_T32_S16_Th_4 + x_T32_S17_Th_4 + x_T32_S18_Th_4 + x_T32_S19_Th_4 + x_T32_S20_Th_4 - x_T32_S1_Th_4 - x_T32_S2_Th_4 - x_T32_S3_Th_4 - x_T32_S4_Th_4 - x_T32_S5_Th_4 - x_T32_S6_Th_4 - x_T32_S7_Th_4 - x_T32_S8_Th_4 - x_T32_S9_Th_4 - x_T32_S16_Th_4 - x_T32_S17_Th_4 - x_T32_S18_Th_4 - x_T32_S19_Th_4 - x_T32_S20_Th_4 = 0
+ flow_T32_Th_5: x_T32_S1_Th_5 + x_T32_S2_Th_5 + x_T32_S3_Th_5 + x_T32_S4_Th_5 + x_T32_S5_Th_5 + x_T32_S6_Th_5 + x_T32_S7_Th_5 + x_T32_S8_Th_5 + x_T32_S9_Th_5 + x_T32_S16_Th_5 + x_T32_S17_Th_5 + x_T32_S18_Th_5 + x_T32_S19_Th_5 + x_T32_S20_Th_5 - x_T32_S1_Th_5 - x_T32_S2_Th_5 - x_T32_S3_Th_5 - x_T32_S4_Th_5 - x_T32_S5_Th_5 - x_T32_S6_Th_5 - x_T32_S7_Th_5 - x_T32_S8_Th_5 - x_T32_S9_Th_5 - x_T32_S16_Th_5 - x_T32_S17_Th_5 - x_T32_S18_Th_5 - x_T32_S19_Th_5 - x_T32_S20_Th_5 = -1
+ flow_T32_Fr_1: x_T32_S1_Fr_1 + x_T32_S2_Fr_1 + x_T32_S3_Fr_1 + x_T32_S4_Fr_1 + x_T32_S5_Fr_1 + x_T32_S6_Fr_1 + x_T32_S7_Fr_1 + x_T32_S8_Fr_1 + x_T32_S9_Fr_1 + x_T32_S16_Fr_1 + x_T32_S17_Fr_1 + x_T32_S18_Fr_1 + x_T32_S19_Fr_1 + x_T32_S20_Fr_1 - x_T32_S1_Fr_1 - x_T32_S2_Fr_1 - x_T32_S3_Fr_1 - x_T32_S4_Fr_1 - x_T32_S5_Fr_1 - x_T32_S6_Fr_1 - x_T32_S7_Fr_1 - x_T32_S8_Fr_1 - x_T32_S9_Fr_1 - x_T32_S16_Fr_1 - x_T32_S17_Fr_1 - x_T32_S18_Fr_1 - x_T32_S19_Fr_1 - x_T32_S20_Fr_1 = 1
+ flow_T32_Fr_2: x_T32_S1_Fr_2 + x_T32_S2_Fr_2 + x_T32_S3_Fr_2 + x_T32_S4_Fr_2 + x_T32_S5_Fr_2 + x_T32_S6_Fr_2 + x_T32_S7_Fr_2 + x_T32_S8_Fr_2 + x_T32_S9_Fr_2 + x_T32_S16_Fr_2 + x_T32_S17_Fr_2 + x_T32_S18_Fr_2 + x_T32_S19_Fr_2 + x_T32_S20_Fr_2 - x_T32_S1_Fr_2 - x_T32_S2_Fr_2 - x_T32_S3_Fr_2 - x_T32_S4_Fr_2 - x_T32_S5_Fr_2 - x_T32_S6_Fr_2 - x_T32_S7_Fr_2 - x_T32_S8_Fr_2 - x_T32_S9_Fr_2 - x_T32_S16_Fr_2 - x_T32_S17_Fr_2 - x_T32_S18_Fr_2 - x_T32_S19_Fr_2 - x_T32_S20_Fr_2 = 0
+ flow_T32_Fr_3: x_T32_S1_Fr_3 + x_T32_S2_Fr_3 + x_T32_S3_Fr_3 + x_T32_S4_Fr_3 + x_T32_S5_Fr_3 + x_T32_S6_Fr_3 + x_T32_S7_Fr_3 + x_T32_S8_Fr_3 + x_T32_S9_Fr_3 + x_T32_S16_Fr_3 + x_T32_S17_Fr_3 + x_T32_S18_Fr_3 + x_T32_S19_Fr_3 + x_T32_S20_Fr_3 - x_T32_S1_Fr_3 - x_T32_S2_Fr_3 - x_T32_S3_Fr_3 - x_T32_S4_Fr_3 - x_T32_S5_Fr_3 - x_T32_S6_Fr_3 - x_T32_S7_Fr_3 - x_T32_S8_Fr_3 - x_T32_S9_Fr_3 - x_T32_S16_Fr_3 - x_T32_S17_Fr_3 - x_T32_S18_Fr_3 - x_T32_S19_Fr_3 - x_T32_S20_Fr_3 = 0
+ flow_T32_Fr_4: x_T32_S1_Fr_4 + x_T32_S2_Fr_4 + x_T32_S3_Fr_4 + x_T32_S4_Fr_4 + x_T32_S5_Fr_4 + x_T32_S6_Fr_4 + x_T32_S7_Fr_4 + x_T32_S8_Fr_4 + x_T32_S9_Fr_4 + x_T32_S16_Fr_4 + x_T32_S17_Fr_4 + x_T32_S18_Fr_4 + x_T32_S19_Fr_4 + x_T32_S20_Fr_4 - x_T32_S1_Fr_4 - x_T32_S2_Fr_4 - x_T32_S3_Fr_4 - x_T32_S4_Fr_4 - x_T32_S5_Fr_4 - x_T32_S6_Fr_4 - x_T32_S7_Fr_4 - x_T32_S8_Fr_4 - x_T32_S9_Fr_4 - x_T32_S16_Fr_4 - x_T32_S17_Fr_4 - x_T32_S18_Fr_4 - x_T32_S19_Fr_4 - x_T32_S20_Fr_4 = 0
+ flow_T32_Fr_5: x_T32_S1_Fr_5 + x_T32_S2_Fr_5 + x_T32_S3_Fr_5 + x_T32_S4_Fr_5 + x_T32_S5_Fr_5 + x_T32_S6_Fr_5 + x_T32_S7_Fr_5 + x_T32_S8_Fr_5 + x_T32_S9_Fr_5 + x_T32_S16_Fr_5 + x_T32_S17_Fr_5 + x_T32_S18_Fr_5 + x_T32_S19_Fr_5 + x_T32_S20_Fr_5 - x_T32_S1_Fr_5 - x_T32_S2_Fr_5 - x_T32_S3_Fr_5 - x_T32_S4_Fr_5 - x_T32_S5_Fr_5 - x_T32_S6_Fr_5 - x_T32_S7_Fr_5 - x_T32_S8_Fr_5 - x_T32_S9_Fr_5 - x_T32_S16_Fr_5 - x_T32_S17_Fr_5 - x_T32_S18_Fr_5 - x_T32_S19_Fr_5 - x_T32_S20_Fr_5 = -1
+ flow_T24_Mo_1: x_T24_S4_Mo_1 + x_T24_S5_Mo_1 + x_T24_S6_Mo_1 + x_T24_S13_Mo_1 + x_T24_S14_Mo_1 + x_T24_S15_Mo_1 + x_T24_S20_Mo_1 - x_T24_S4_Mo_1 - x_T24_S5_Mo_1 - x_T24_S6_Mo_1 - x_T24_S13_Mo_1 - x_T24_S14_Mo_1 - x_T24_S15_Mo_1 - x_T24_S20_Mo_1 = 1
+ flow_T24_Mo_2: x_T24_S4_Mo_2 + x_T24_S5_Mo_2 + x_T24_S6_Mo_2 + x_T24_S13_Mo_2 + x_T24_S14_Mo_2 + x_T24_S15_Mo_2 + x_T24_S20_Mo_2 - x_T24_S4_Mo_2 - x_T24_S5_Mo_2 - x_T24_S6_Mo_2 - x_T24_S13_Mo_2 - x_T24_S14_Mo_2 - x_T24_S15_Mo_2 - x_T24_S20_Mo_2 = 0
+ flow_T24_Mo_3: x_T24_S4_Mo_3 + x_T24_S5_Mo_3 + x_T24_S6_Mo_3 + x_T24_S13_Mo_3 + x_T24_S14_Mo_3 + x_T24_S15_Mo_3 + x_T24_S20_Mo_3 - x_T24_S4_Mo_3 - x_T24_S5_Mo_3 - x_T24_S6_Mo_3 - x_T24_S13_Mo_3 - x_T24_S14_Mo_3 - x_T24_S15_Mo_3 - x_T24_S20_Mo_3 = 0
+ flow_T24_Mo_4: x_T24_S4_Mo_4 + x_T24_S5_Mo_4 + x_T24_S6_Mo_4 + x_T24_S13_Mo_4 + x_T24_S14_Mo_4 + x_T24_S15_Mo_4 + x_T24_S20_Mo_4 - x_T24_S4_Mo_4 - x_T24_S5_Mo_4 - x_T24_S6_Mo_4 - x_T24_S13_Mo_4 - x_T24_S14_Mo_4 - x_T24_S15_Mo_4 - x_T24_S20_Mo_4 = 0
+ flow_T24_Mo_5: x_T24_S4_Mo_5 + x_T24_S5_Mo_5 + x_T24_S6_Mo_5 + x_T24_S13_Mo_5 + x_T24_S14_Mo_5 + x_T24_S15_Mo_5 + x_T24_S20_Mo_5 - x_T24_S4_Mo_5 - x_T24_S5_Mo_5 - x_T24_S6_Mo_5 - x_T24_S13_Mo_5 - x_T24_S14_Mo_5 - x_T24_S15_Mo_5 - x_T24_S20_Mo_5 = -1
+ flow_T24_Tu_1: x_T24_S4_Tu_1 + x_T24_S5_Tu_1 + x_T24_S6_Tu_1 + x_T24_S13_Tu_1 + x_T24_S14_Tu_1 + x_T24_S15_Tu_1 + x_T24_S20_Tu_1 - x_T24_S4_Tu_1 - x_T24_S5_Tu_1 - x_T24_S6_Tu_1 - x_T24_S13_Tu_1 - x_T24_S14_Tu_1 - x_T24_S15_Tu_1 - x_T24_S20_Tu_1 = 1
+ flow_T24_Tu_2: x_T24_S4_Tu_2 + x_T24_S5_Tu_2 + x_T24_S6_Tu_2 + x_T24_S13_Tu_2 + x_T24_S14_Tu_2 + x_T24_S15_Tu_2 + x_T24_S20_Tu_2 - x_T24_S4_Tu_2 - x_T24_S5_Tu_2 - x_T24_S6_Tu_2 - x_T24_S13_Tu_2 - x_T24_S14_Tu_2 - x_T24_S15_Tu_2 - x_T24_S20_Tu_2 = 0
+ flow_T24_Tu_3: x_T24_S4_Tu_3 + x_T24_S5_Tu_3 + x_T24_S6_Tu_3 + x_T24_S13_Tu_3 + x_T24_S14_Tu_3 + x_T24_S15_Tu_3 + x_T24_S20_Tu_3 - x_T24_S4_Tu_3 - x_T24_S5_Tu_3 - x_T24_S6_Tu_3 - x_T24_S13_Tu_3 - x_T24_S14_Tu_3 - x_T24_S15_Tu_3 - x_T24_S20_Tu_3 = 0
+ flow_T24_Tu_4: x_T24_S4_Tu_4 + x_T24_S5_Tu_4 + x_T24_S6_Tu_4 + x_T24_S13_Tu_4 + x_T24_S14_Tu_4 + x_T24_S15_Tu_4 + x_T24_S20_Tu_4 - x_T24_S4_Tu_4 - x_T24_S5_Tu_4 - x_T24_S6_Tu_4 - x_T24_S13_Tu_4 - x_T24_S14_Tu_4 - x_T24_S15_Tu_4 - x_T24_S20_Tu_4 = 0
+ flow_T24_Tu_5: x_T24_S4_Tu_5 + x_T24_S5_Tu_5 + x_T24_S6_Tu_5 + x_T24_S13_Tu_5 + x_T24_S14_Tu_5 + x_T24_S15_Tu_5 + x_T24_S20_Tu_5 - x_T24_S4_Tu_5 - x_T24_S5_Tu_5 - x_T24_S6_Tu_5 - x_T24_S13_Tu_5 - x_T24_S14_Tu_5 - x_T24_S15_Tu_5 - x_T24_S20_Tu_5 = -1
+ flow_T24_We_1: x_T24_S4_We_1 + x_T24_S5_We_1 + x_T24_S6_We_1 + x_T24_S13_We_1 + x_T24_S14_We_1 + x_T24_S15_We_1 + x_T24_S20_We_1 - x_T24_S4_We_1 - x_T24_S5_We_1 - x_T24_S6_We_1 - x_T24_S13_We_1 - x_T24_S14_We_1 - x_T24_S15_We_1 - x_T24_S20_We_1 = 1
+ flow_T24_We_2: x_T24_S4_We_2 + x_T24_S5_We_2 + x_T24_S6_We_2 + x_T24_S13_We_2 + x_T24_S14_We_2 + x_T24_S15_We_2 + x_T24_S20_We_2 - x_T24_S4_We_2 - x_T24_S5_We_2 - x_T24_S6_We_2 - x_T24_S13_We_2 - x_T24_S14_We_2 - x_T24_S15_We_2 - x_T24_S20_We_2 = 0
+ flow_T24_We_3: x_T24_S4_We_3 + x_T24_S5_We_3 + x_T24_S6_We_3 + x_T24_S13_We_3 + x_T24_S14_We_3 + x_T24_S15_We_3 + x_T24_S20_We_3 - x_T24_S4_We_3 - x_T24_S5_We_3 - x_T24_S6_We_3 - x_T24_S13_We_3 - x_T24_S14_We_3 - x_T24_S15_We_3 - x_T24_S20_We_3 = 0
+ flow_T24_We_4: x_T24_S4_We_4 + x_T24_S5_We_4 + x_T24_S6_We_4 + x_T24_S13_We_4 + x_T24_S14_We_4 + x_T24_S15_We_4 + x_T24_S20_We_4 - x_T24_S4_We_4 - x_T24_S5_We_4 - x_T24_S6_We_4 - x_T24_S13_We_4 - x_T24_S14_We_4 - x_T24_S15_We_4 - x_T24_S20_We_4 = 0
+ flow_T24_We_5: x_T24_S4_We_5 + x_T24_S5_We_5 + x_T24_S6_We_5 + x_T24_S13_We_5 + x_T24_S14_We_5 + x_T24_S15_We_5 + x_T24_S20_We_5 - x_T24_S4_We_5 - x_T24_S5_We_5 - x_T24_S6_We_5 - x_T24_S13_We_5 - x_T24_S14_We_5 - x_T24_S15_We_5 - x_T24_S20_We_5 = -1
+ flow_T24_Th_1: x_T24_S4_Th_1 + x_T24_S5_Th_1 + x_T24_S6_Th_1 + x_T24_S13_Th_1 + x_T24_S14_Th_1 + x_T24_S15_Th_1 + x_T24_S20_Th_1 - x_T24_S4_Th_1 - x_T24_S5_Th_1 - x_T24_S6_Th_1 - x_T24_S13_Th_1 - x_T24_S14_Th_1 - x_T24_S15_Th_1 - x_T24_S20_Th_1 = 1
+ flow_T24_Th_2: x_T24_S4_Th_2 + x_T24_S5_Th_2 + x_T24_S6_Th_2 + x_T24_S13_Th_2 + x_T24_S14_Th_2 + x_T24_S15_Th_2 + x_T24_S20_Th_2 - x_T24_S4_Th_2 - x_T24_S5_Th_2 - x_T24_S6_Th_2 - x_T24_S13_Th_2 - x_T24_S14_Th_2 - x_T24_S15_Th_2 - x_T24_S20_Th_2 = 0
+ flow_T24_Th_3: x_T24_S4_Th_3 + x_T24_S5_Th_3 + x_T24_S6_Th_3 + x_T24_S13_Th_3 + x_T24_S14_Th_3 + x_T24_S15_Th_3 + x_T24_S20_Th_3 - x_T24_S4_Th_3 - x_T24_S5_Th_3 - x_T24_S6_Th_3 - x_T24_S13_Th_3 - x_T24_S14_Th_3 - x_T24_S15_Th_3 - x_T24_S20_Th_3 = 0
+ flow_T24_Th_4: x_T24_S4_Th_4 + x_T24_S5_Th_4 + x_T24_S6_Th_4 + x_T24_S13_Th_4 + x_T24_S14_Th_4 + x_T24_S15_Th_4 + x_T24_S20_Th_4 - x_T24_S4_Th_4 - x_T24_S5_Th_4 - x_T24_S6_Th_4 - x_T24_S13_Th_4 - x_T24_S14_Th_4 - x_T24_S15_Th_4 - x_T24_S20_Th_4 = 0
+ flow_T24_Th_5: x_T24_S4_Th_5 + x_T24_S5_Th_5 + x_T24_S6_Th_5 + x_T24_S13_Th_5 + x_T24_S14_Th_5 + x_T24_S15_Th_5 + x_T24_S20_Th_5 - x_T24_S4_Th_5 - x_T24_S5_Th_5 - x_T24_S6_Th_5 - x_T24_S13_Th_5 - x_T24_S14_Th_5 - x_T24_S15_Th_5 - x_T24_S20_Th_5 = -1
+ flow_T24_Fr_1: x_T24_S4_Fr_1 + x_T24_S5_Fr_1 + x_T24_S6_Fr_1 + x_T24_S13_Fr_1 + x_T24_S14_Fr_1 + x_T24_S15_Fr_1 + x_T24_S20_Fr_1 - x_T24_S4_Fr_1 - x_T24_S5_Fr_1 - x_T24_S6_Fr_1 - x_T24_S13_Fr_1 - x_T24_S14_Fr_1 - x_T24_S15_Fr_1 - x_T24_S20_Fr_1 = 1
+ flow_T24_Fr_2: x_T24_S4_Fr_2 + x_T24_S5_Fr_2 + x_T24_S6_Fr_2 + x_T24_S13_Fr_2 + x_T24_S14_Fr_2 + x_T24_S15_Fr_2 + x_T24_S20_Fr_2 - x_T24_S4_Fr_2 - x_T24_S5_Fr_2 - x_T24_S6_Fr_2 - x_T24_S13_Fr_2 - x_T24_S14_Fr_2 - x_T24_S15_Fr_2 - x_T24_S20_Fr_2 = 0
+ flow_T24_Fr_3: x_T24_S4_Fr_3 + x_T24_S5_Fr_3 + x_T24_S6_Fr_3 + x_T24_S13_Fr_3 + x_T24_S14_Fr_3 + x_T24_S15_Fr_3 + x_T24_S20_Fr_3 - x_T24_S4_Fr_3 - x_T24_S5_Fr_3 - x_T24_S6_Fr_3 - x_T24_S13_Fr_3 - x_T24_S14_Fr_3 - x_T24_S15_Fr_3 - x_T24_S20_Fr_3 = 0
+ flow_T24_Fr_4: x_T24_S4_Fr_4 + x_T24_S5_Fr_4 + x_T24_S6_Fr_4 + x_T24_S13_Fr_4 + x_T24_S14_Fr_4 + x_T24_S15_Fr_4 + x_T24_S20_Fr_4 - x_T24_S4_Fr_4 - x_T24_S5_Fr_4 - x_T24_S6_Fr_4 - x_T24_S13_Fr_4 - x_T24_S14_Fr_4 - x_T24_S15_Fr_4 - x_T24_S20_Fr_4 = 0
+ flow_T24_Fr_5: x_T24_S4_Fr_5 + x_T24_S5_Fr_5 + x_T24_S6_Fr_5 + x_T24_S13_Fr_5 + x_T24_S14_Fr_5 + x_T24_S15_Fr_5 + x_T24_S20_Fr_5 - x_T24_S4_Fr_5 - x_T24_S5_Fr_5 - x_T24_S6_Fr_5 - x_T24_S13_Fr_5 - x_T24_S14_Fr_5 - x_T24_S15_Fr_5 - x_T24_S20_Fr_5 = -1
+ flow_T28_Mo_1: x_T28_S3_Mo_1 + x_T28_S6_Mo_1 + x_T28_S9_Mo_1 + x_T28_S12_Mo_1 + x_T28_S15_Mo_1 + x_T28_S18_Mo_1 - x_T28_S3_Mo_1 - x_T28_S6_Mo_1 - x_T28_S9_Mo_1 - x_T28_S12_Mo_1 - x_T28_S15_Mo_1 - x_T28_S18_Mo_1 = 1
+ flow_T28_Mo_2: x_T28_S3_Mo_2 + x_T28_S6_Mo_2 + x_T28_S9_Mo_2 + x_T28_S12_Mo_2 + x_T28_S15_Mo_2 + x_T28_S18_Mo_2 - x_T28_S3_Mo_2 - x_T28_S6_Mo_2 - x_T28_S9_Mo_2 - x_T28_S12_Mo_2 - x_T28_S15_Mo_2 - x_T28_S18_Mo_2 = 0
+ flow_T28_Mo_3: x_T28_S3_Mo_3 + x_T28_S6_Mo_3 + x_T28_S9_Mo_3 + x_T28_S12_Mo_3 + x_T28_S15_Mo_3 + x_T28_S18_Mo_3 - x_T28_S3_Mo_3 - x_T28_S6_Mo_3 - x_T28_S9_Mo_3 - x_T28_S12_Mo_3 - x_T28_S15_Mo_3 - x_T28_S18_Mo_3 = 0
+ flow_T28_Mo_4: x_T28_S3_Mo_4 + x_T28_S6_Mo_4 + x_T28_S9_Mo_4 + x_T28_S12_Mo_4 + x_T28_S15_Mo_4 + x_T28_S18_Mo_4 - x_T28_S3_Mo_4 - x_T28_S6_Mo_4 - x_T28_S9_Mo_4 - x_T28_S12_Mo_4 - x_T28_S15_Mo_4 - x_T28_S18_Mo_4 = 0
+ flow_T28_Mo_5: x_T28_S3_Mo_5 + x_T28_S6_Mo_5 + x_T28_S9_Mo_5 + x_T28_S12_Mo_5 + x_T28_S15_Mo_5 + x_T28_S18_Mo_5 - x_T28_S3_Mo_5 - x_T28_S6_Mo_5 - x_T28_S9_Mo_5 - x_T28_S12_Mo_5 - x_T28_S15_Mo_5 - x_T28_S18_Mo_5 = -1
+ flow_T28_Tu_1: x_T28_S3_Tu_1 + x_T28_S6_Tu_1 + x_T28_S9_Tu_1 + x_T28_S12_Tu_1 + x_T28_S15_Tu_1 + x_T28_S18_Tu_1 - x_T28_S3_Tu_1 - x_T28_S6_Tu_1 - x_T28_S9_Tu_1 - x_T28_S12_Tu_1 - x_T28_S15_Tu_1 - x_T28_S18_Tu_1 = 1
+ flow_T28_Tu_2: x_T28_S3_Tu_2 + x_T28_S6_Tu_2 + x_T28_S9_Tu_2 + x_T28_S12_Tu_2 + x_T28_S15_Tu_2 + x_T28_S18_Tu_2 - x_T28_S3_Tu_2 - x_T28_S6_Tu_2 - x_T28_S9_Tu_2 - x_T28_S12_Tu_2 - x_T28_S15_Tu_2 - x_T28_S18_Tu_2 = 0
+ flow_T28_Tu_3: x_T28_S3_Tu_3 + x_T28_S6_Tu_3 + x_T28_S9_Tu_3 + x_T28_S12_Tu_3 + x_T28_S15_Tu_3 + x_T28_S18_Tu_3 - x_T28_S3_Tu_3 - x_T28_S6_Tu_3 - x_T28_S9_Tu_3 - x_T28_S12_Tu_3 - x_T28_S15_Tu_3 - x_T28_S18_Tu_3 = 0
+ flow_T28_Tu_4: x_T28_S3_Tu_4 + x_T28_S6_Tu_4 + x_T28_S9_Tu_4 + x_T28_S12_Tu_4 + x_T28_S15_Tu_4 + x_T28_S18_Tu_4 - x_T28_S3_Tu_4 - x_T28_S6_Tu_4 - x_T28_S9_Tu_4 - x_T28_S12_Tu_4 - x_T28_S15_Tu_4 - x_T28_S18_Tu_4 = 0
+ flow_T28_Tu_5: x_T28_S3_Tu_5 + x_T28_S6_Tu_5 + x_T28_S9_Tu_5 + x_T28_S12_Tu_5 + x_T28_S15_Tu_5 + x_T28_S18_Tu_5 - x_T28_S3_Tu_5 - x_T28_S6_Tu_5 - x_T28_S9_Tu_5 - x_T28_S12_Tu_5 - x_T28_S15_Tu_5 - x_T28_S18_Tu_5 = -1
+ flow_T28_We_1: x_T28_S3_We_1 + x_T28_S6_We_1 + x_T28_S9_We_1 + x_T28_S12_We_1 + x_T28_S15_We_1 + x_T28_S18_We_1 - x_T28_S3_We_1 - x_T28_S6_We_1 - x_T28_S9_We_1 - x_T28_S12_We_1 - x_T28_S15_We_1 - x_T28_S18_We_1 = 1
+ flow_T28_We_2: x_T28_S3_We_2 + x_T28_S6_We_2 + x_T28_S9_We_2 + x_T28_S12_We_2 + x_T28_S15_We_2 + x_T28_S18_We_2 - x_T28_S3_We_2 - x_T28_S6_We_2 - x_T28_S9_We_2 - x_T28_S12_We_2 - x_T28_S15_We_2 - x_T28_S18_We_2 = 0
+ flow_T28_We_3: x_T28_S3_We_3 + x_T28_S6_We_3 + x_T28_S9_We_3 + x_T28_S12_We_3 + x_T28_S15_We_3 + x_T28_S18_We_3 - x_T28_S3_We_3 - x_T28_S6_We_3 - x_T28_S9_We_3 - x_T28_S12_We_3 - x_T28_S15_We_3 - x_T28_S18_We_3 = 0
+ flow_T28_We_4: x_T28_S3_We_4 + x_T28_S6_We_4 + x_T28_S9_We_4 + x_T28_S12_We_4 + x_T28_S15_We_4 + x_T28_S18_We_4 - x_T28_S3_We_4 - x_T28_S6_We_4 - x_T28_S9_We_4 - x_T28_S12_We_4 - x_T28_S15_We_4 - x_T28_S18_We_4 = 0
+ flow_T28_We_5: x_T28_S3_We_5 + x_T28_S6_We_5 + x_T28_S9_We_5 + x_T28_S12_We_5 + x_T28_S15_We_5 + x_T28_S18_We_5 - x_T28_S3_We_5 - x_T28_S6_We_5 - x_T28_S9_We_5 - x_T28_S12_We_5 - x_T28_S15_We_5 - x_T28_S18_We_5 = -1
+ flow_T28_Th_1: x_T28_S3_Th_1 + x_T28_S6_Th_1 + x_T28_S9_Th_1 + x_T28_S12_Th_1 + x_T28_S15_Th_1 + x_T28_S18_Th_1 - x_T28_S3_Th_1 - x_T28_S6_Th_1 - x_T28_S9_Th_1 - x_T28_S12_Th_1 - x_T28_S15_Th_1 - x_T28_S18_Th_1 = 1
+ flow_T28_Th_2: x_T28_S3_Th_2 + x_T28_S6_Th_2 + x_T28_S9_Th_2 + x_T28_S12_Th_2 + x_T28_S15_Th_2 + x_T28_S18_Th_2 - x_T28_S3_Th_2 - x_T28_S6_Th_2 - x_T28_S9_Th_2 - x_T28_S12_Th_2 - x_T28_S15_Th_2 - x_T28_S18_Th_2 = 0
+ flow_T28_Th_3: x_T28_S3_Th_3 + x_T28_S6_Th_3 + x_T28_S9_Th_3 + x_T28_S12_Th_3 + x_T28_S15_Th_3 + x_T28_S18_Th_3 - x_T28_S3_Th_3 - x_T28_S6_Th_3 - x_T28_S9_Th_3 - x_T28_S12_Th_3 - x_T28_S15_Th_3 - x_T28_S18_Th_3 = 0
+ flow_T28_Th_4: x_T28_S3_Th_4 + x_T28_S6_Th_4 + x_T28_S9_Th_4 + x_T28_S12_Th_4 + x_T28_S15_Th_4 + x_T28_S18_Th_4 - x_T28_S3_Th_4 - x_T28_S6_Th_4 - x_T28_S9_Th_4 - x_T28_S12_Th_4 - x_T28_S15_Th_4 - x_T28_S18_Th_4 = 0
+ flow_T28_Th_5: x_T28_S3_Th_5 + x_T28_S6_Th_5 + x_T28_S9_Th_5 + x_T28_S12_Th_5 + x_T28_S15_Th_5 + x_T28_S18_Th_5 - x_T28_S3_Th_5 - x_T28_S6_Th_5 - x_T28_S9_Th_5 - x_T28_S12_Th_5 - x_T28_S15_Th_5 - x_T28_S18_Th_5 = -1
+ flow_T28_Fr_1: x_T28_S3_Fr_1 + x_T28_S6_Fr_1 + x_T28_S9_Fr_1 + x_T28_S12_Fr_1 + x_T28_S15_Fr_1 + x_T28_S18_Fr_1 - x_T28_S3_Fr_1 - x_T28_S6_Fr_1 - x_T28_S9_Fr_1 - x_T28_S12_Fr_1 - x_T28_S15_Fr_1 - x_T28_S18_Fr_1 = 1
+ flow_T28_Fr_2: x_T28_S3_Fr_2 + x_T28_S6_Fr_2 + x_T28_S9_Fr_2 + x_T28_S12_Fr_2 + x_T28_S15_Fr_2 + x_T28_S18_Fr_2 - x_T28_S3_Fr_2 - x_T28_S6_Fr_2 - x_T28_S9_Fr_2 - x_T28_S12_Fr_2 - x_T28_S15_Fr_2 - x_T28_S18_Fr_2 = 0
+ flow_T28_Fr_3: x_T28_S3_Fr_3 + x_T28_S6_Fr_3 + x_T28_S9_Fr_3 + x_T28_S12_Fr_3 + x_T28_S15_Fr_3 + x_T28_S18_Fr_3 - x_T28_S3_Fr_3 - x_T28_S6_Fr_3 - x_T28_S9_Fr_3 - x_T28_S12_Fr_3 - x_T28_S15_Fr_3 - x_T28_S18_Fr_3 = 0
+ flow_T28_Fr_4: x_T28_S3_Fr_4 + x_T28_S6_Fr_4 + x_T28_S9_Fr_4 + x_T28_S12_Fr_4 + x_T28_S15_Fr_4 + x_T28_S18_Fr_4 - x_T28_S3_Fr_4 - x_T28_S6_Fr_4 - x_T28_S9_Fr_4 - x_T28_S12_Fr_4 - x_T28_S15_Fr_4 - x_T28_S18_Fr_4 = 0
+ flow_T28_Fr_5: x_T28_S3_Fr_5 + x_T28_S6_Fr_5 + x_T28_S9_Fr_5 + x_T28_S12_Fr_5 + x_T28_S15_Fr_5 + x_T28_S18_Fr_5 - x_T28_S3_Fr_5 - x_T28_S6_Fr_5 - x_T28_S9_Fr_5 - x_T28_S12_Fr_5 - x_T28_S15_Fr_5 - x_T28_S18_Fr_5 = -1
+ flow_T22_Mo_1: x_T22_S15_Mo_1 + x_T22_S16_Mo_1 + x_T22_S17_Mo_1 + x_T22_S18_Mo_1 + x_T22_S19_Mo_1 + x_T22_S20_Mo_1 - x_T22_S15_Mo_1 - x_T22_S16_Mo_1 - x_T22_S17_Mo_1 - x_T22_S18_Mo_1 - x_T22_S19_Mo_1 - x_T22_S20_Mo_1 = 1
+ flow_T22_Mo_2: x_T22_S15_Mo_2 + x_T22_S16_Mo_2 + x_T22_S17_Mo_2 + x_T22_S18_Mo_2 + x_T22_S19_Mo_2 + x_T22_S20_Mo_2 - x_T22_S15_Mo_2 - x_T22_S16_Mo_2 - x_T22_S17_Mo_2 - x_T22_S18_Mo_2 - x_T22_S19_Mo_2 - x_T22_S20_Mo_2 = 0
+ flow_T22_Mo_3: x_T22_S15_Mo_3 + x_T22_S16_Mo_3 + x_T22_S17_Mo_3 + x_T22_S18_Mo_3 + x_T22_S19_Mo_3 + x_T22_S20_Mo_3 - x_T22_S15_Mo_3 - x_T22_S16_Mo_3 - x_T22_S17_Mo_3 - x_T22_S18_Mo_3 - x_T22_S19_Mo_3 - x_T22_S20_Mo_3 = 0
+ flow_T22_Mo_4: x_T22_S15_Mo_4 + x_T22_S16_Mo_4 + x_T22_S17_Mo_4 + x_T22_S18_Mo_4 + x_T22_S19_Mo_4 + x_T22_S20_Mo_4 - x_T22_S15_Mo_4 - x_T22_S16_Mo_4 - x_T22_S17_Mo_4 - x_T22_S18_Mo_4 - x_T22_S19_Mo_4 - x_T22_S20_Mo_4 = 0
+ flow_T22_Mo_5: x_T22_S15_Mo_5 + x_T22_S16_Mo_5 + x_T22_S17_Mo_5 + x_T22_S18_Mo_5 + x_T22_S19_Mo_5 + x_T22_S20_Mo_5 - x_T22_S15_Mo_5 - x_T22_S16_Mo_5 - x_T22_S17_Mo_5 - x_T22_S18_Mo_5 - x_T22_S19_Mo_5 - x_T22_S20_Mo_5 = -1
+ flow_T22_Tu_1: x_T22_S15_Tu_1 + x_T22_S16_Tu_1 + x_T22_S17_Tu_1 + x_T22_S18_Tu_1 + x_T22_S19_Tu_1 + x_T22_S20_Tu_1 - x_T22_S15_Tu_1 - x_T22_S16_Tu_1 - x_T22_S17_Tu_1 - x_T22_S18_Tu_1 - x_T22_S19_Tu_1 - x_T22_S20_Tu_1 = 1
+ flow_T22_Tu_2: x_T22_S15_Tu_2 + x_T22_S16_Tu_2 + x_T22_S17_Tu_2 + x_T22_S18_Tu_2 + x_T22_S19_Tu_2 + x_T22_S20_Tu_2 - x_T22_S15_Tu_2 - x_T22_S16_Tu_2 - x_T22_S17_Tu_2 - x_T22_S18_Tu_2 - x_T22_S19_Tu_2 - x_T22_S20_Tu_2 = 0
+ flow_T22_Tu_3: x_T22_S15_Tu_3 + x_T22_S16_Tu_3 + x_T22_S17_Tu_3 + x_T22_S18_Tu_3 + x_T22_S19_Tu_3 + x_T22_S20_Tu_3 - x_T22_S15_Tu_3 - x_T22_S16_Tu_3 - x_T22_S17_Tu_3 - x_T22_S18_Tu_3 - x_T22_S19_Tu_3 - x_T22_S20_Tu_3 = 0
+ flow_T22_Tu_4: x_T22_S15_Tu_4 + x_T22_S16_Tu_4 + x_T22_S17_Tu_4 + x_T22_S18_Tu_4 + x_T22_S19_Tu_4 + x_T22_S20_Tu_4 - x_T22_S15_Tu_4 - x_T22_S16_Tu_4 - x_T22_S17_Tu_4 - x_T22_S18_Tu_4 - x_T22_S19_Tu_4 - x_T22_S20_Tu_4 = 0
+ flow_T22_Tu_5: x_T22_S15_Tu_5 + x_T22_S16_Tu_5 + x_T22_S17_Tu_5 + x_T22_S18_Tu_5 + x_T22_S19_Tu_5 + x_T22_S20_Tu_5 - x_T22_S15_Tu_5 - x_T22_S16_Tu_5 - x_T22_S17_Tu_5 - x_T22_S18_Tu_5 - x_T22_S19_Tu_5 - x_T22_S20_Tu_5 = -1
+ flow_T22_We_1: x_T22_S15_We_1 + x_T22_S16_We_1 + x_T22_S17_We_1 + x_T22_S18_We_1 + x_T22_S19_We_1 + x_T22_S20_We_1 - x_T22_S15_We_1 - x_T22_S16_We_1 - x_T22_S17_We_1 - x_T22_S18_We_1 - x_T22_S19_We_1 - x_T22_S20_We_1 = 1
+ flow_T22_We_2: x_T22_S15_We_2 + x_T22_S16_We_2 + x_T22_S17_We_2 + x_T22_S18_We_2 + x_T22_S19_We_2 + x_T22_S20_We_2 - x_T22_S15_We_2 - x_T22_S16_We_2 - x_T22_S17_We_2 - x_T22_S18_We_2 - x_T22_S19_We_2 - x_T22_S20_We_2 = 0
+ flow_T22_We_3: x_T22_S15_We_3 + x_T22_S16_We_3 + x_T22_S17_We_3 + x_T22_S18_We_3 + x_T22_S19_We_3 + x_T22_S20_We_3 - x_T22_S15_We_3 - x_T22_S16_We_3 - x_T22_S17_We_3 - x_T22_S18_We_3 - x_T22_S19_We_3 - x_T22_S20_We_3 = 0
+ flow_T22_We_4: x_T22_S15_We_4 + x_T22_S16_We_4 + x_T22_S17_We_4 + x_T22_S18_We_4 + x_T22_S19_We_4 + x_T22_S20_We_4 - x_T22_S15_We_4 - x_T22_S16_We_4 - x_T22_S17_We_4 - x_T22_S18_We_4 - x_T22_S19_We_4 - x_T22_S20_We_4 = 0
+ flow_T22_We_5: x_T22_S15_We_5 + x_T22_S16_We_5 + x_T22_S17_We_5 + x_T22_S18_We_5 + x_T22_S19_We_5 + x_T22_S20_We_5 - x_T22_S15_We_5 - x_T22_S16_We_5 - x_T22_S17_We_5 - x_T22_S18_We_5 - x_T22_S19_We_5 - x_T22_S20_We_5 = -1
+ flow_T22_Th_1: x_T22_S15_Th_1 + x_T22_S16_Th_1 + x_T22_S17_Th_1 + x_T22_S18_Th_1 + x_T22_S19_Th_1 + x_T22_S20_Th_1 - x_T22_S15_Th_1 - x_T22_S16_Th_1 - x_T22_S17_Th_1 - x_T22_S18_Th_1 - x_T22_S19_Th_1 - x_T22_S20_Th_1 = 1
+ flow_T22_Th_2: x_T22_S15_Th_2 + x_T22_S16_Th_2 + x_T22_S17_Th_2 + x_T22_S18_Th_2 + x_T22_S19_Th_2 + x_T22_S20_Th_2 - x_T22_S15_Th_2 - x_T22_S16_Th_2 - x_T22_S17_Th_2 - x_T22_S18_Th_2 - x_T22_S19_Th_2 - x_T22_S20_Th_2 = 0
+ flow_T22_Th_3: x_T22_S15_Th_3 + x_T22_S16_Th_3 + x_T22_S17_Th_3 + x_T22_S18_Th_3 + x_T22_S19_Th_3 + x_T22_S20_Th_3 - x_T22_S15_Th_3 - x_T22_S16_Th_3 - x_T22_S17_Th_3 - x_T22_S18_Th_3 - x_T22_S19_Th_3 - x_T22_S20_Th_3 = 0
+ flow_T22_Th_4: x_T22_S15_Th_4 + x_T22_S16_Th_4 + x_T22_S17_Th_4 + x_T22_S18_Th_4 + x_T22_S19_Th_4 + x_T22_S20_Th_4 - x_T22_S15_Th_4 - x_T22_S16_Th_4 - x_T22_S17_Th_4 - x_T22_S18_Th_4 - x_T22_S19_Th_4 - x_T22_S20_Th_4 = 0
+ flow_T22_Th_5: x_T22_S15_Th_5 + x_T22_S16_Th_5 + x_T22_S17_Th_5 + x_T22_S18_Th_5 + x_T22_S19_Th_5 + x_T22_S20_Th_5 - x_T22_S15_Th_5 - x_T22_S16_Th_5 - x_T22_S17_Th_5 - x_T22_S18_Th_5 - x_T22_S19_Th_5 - x_T22_S20_Th_5 = -1
+ flow_T22_Fr_1: x_T22_S15_Fr_1 + x_T22_S16_Fr_1 + x_T22_S17_Fr_1 + x_T22_S18_Fr_1 + x_T22_S19_Fr_1 + x_T22_S20_Fr_1 - x_T22_S15_Fr_1 - x_T22_S16_Fr_1 - x_T22_S17_Fr_1 - x_T22_S18_Fr_1 - x_T22_S19_Fr_1 - x_T22_S20_Fr_1 = 1
+ flow_T22_Fr_2: x_T22_S15_Fr_2 + x_T22_S16_Fr_2 + x_T22_S17_Fr_2 + x_T22_S18_Fr_2 + x_T22_S19_Fr_2 + x_T22_S20_Fr_2 - x_T22_S15_Fr_2 - x_T22_S16_Fr_2 - x_T22_S17_Fr_2 - x_T22_S18_Fr_2 - x_T22_S19_Fr_2 - x_T22_S20_Fr_2 = 0
+ flow_T22_Fr_3: x_T22_S15_Fr_3 + x_T22_S16_Fr_3 + x_T22_S17_Fr_3 + x_T22_S18_Fr_3 + x_T22_S19_Fr_3 + x_T22_S20_Fr_3 - x_T22_S15_Fr_3 - x_T22_S16_Fr_3 - x_T22_S17_Fr_3 - x_T22_S18_Fr_3 - x_T22_S19_Fr_3 - x_T22_S20_Fr_3 = 0
+ flow_T22_Fr_4: x_T22_S15_Fr_4 + x_T22_S16_Fr_4 + x_T22_S17_Fr_4 + x_T22_S18_Fr_4 + x_T22_S19_Fr_4 + x_T22_S20_Fr_4 - x_T22_S15_Fr_4 - x_T22_S16_Fr_4 - x_T22_S17_Fr_4 - x_T22_S18_Fr_4 - x_T22_S19_Fr_4 - x_T22_S20_Fr_4 = 0
+ flow_T22_Fr_5: x_T22_S15_Fr_5 + x_T22_S16_Fr_5 + x_T22_S17_Fr_5 + x_T22_S18_Fr_5 + x_T22_S19_Fr_5 + x_T22_S20_Fr_5 - x_T22_S15_Fr_5 - x_T22_S16_Fr_5 - x_T22_S17_Fr_5 - x_T22_S18_Fr_5 - x_T22_S19_Fr_5 - x_T22_S20_Fr_5 = -1
+ flow_T9_Mo_1: x_T9_S15_Mo_1 + x_T9_S17_Mo_1 + x_T9_S18_Mo_1 + x_T9_S19_Mo_1 + x_T9_S20_Mo_1 - x_T9_S15_Mo_1 - x_T9_S17_Mo_1 - x_T9_S18_Mo_1 - x_T9_S19_Mo_1 - x_T9_S20_Mo_1 = 1
+ flow_T9_Mo_2: x_T9_S15_Mo_2 + x_T9_S17_Mo_2 + x_T9_S18_Mo_2 + x_T9_S19_Mo_2 + x_T9_S20_Mo_2 - x_T9_S15_Mo_2 - x_T9_S17_Mo_2 - x_T9_S18_Mo_2 - x_T9_S19_Mo_2 - x_T9_S20_Mo_2 = 0
+ flow_T9_Mo_3: x_T9_S15_Mo_3 + x_T9_S17_Mo_3 + x_T9_S18_Mo_3 + x_T9_S19_Mo_3 + x_T9_S20_Mo_3 - x_T9_S15_Mo_3 - x_T9_S17_Mo_3 - x_T9_S18_Mo_3 - x_T9_S19_Mo_3 - x_T9_S20_Mo_3 = 0
+ flow_T9_Mo_4: x_T9_S15_Mo_4 + x_T9_S17_Mo_4 + x_T9_S18_Mo_4 + x_T9_S19_Mo_4 + x_T9_S20_Mo_4 - x_T9_S15_Mo_4 - x_T9_S17_Mo_4 - x_T9_S18_Mo_4 - x_T9_S19_Mo_4 - x_T9_S20_Mo_4 = 0
+ flow_T9_Mo_5: x_T9_S15_Mo_5 + x_T9_S17_Mo_5 + x_T9_S18_Mo_5 + x_T9_S19_Mo_5 + x_T9_S20_Mo_5 - x_T9_S15_Mo_5 - x_T9_S17_Mo_5 - x_T9_S18_Mo_5 - x_T9_S19_Mo_5 - x_T9_S20_Mo_5 = -1
+ flow_T9_Tu_1: x_T9_S15_Tu_1 + x_T9_S17_Tu_1 + x_T9_S18_Tu_1 + x_T9_S19_Tu_1 + x_T9_S20_Tu_1 - x_T9_S15_Tu_1 - x_T9_S17_Tu_1 - x_T9_S18_Tu_1 - x_T9_S19_Tu_1 - x_T9_S20_Tu_1 = 1
+ flow_T9_Tu_2: x_T9_S15_Tu_2 + x_T9_S17_Tu_2 + x_T9_S18_Tu_2 + x_T9_S19_Tu_2 + x_T9_S20_Tu_2 - x_T9_S15_Tu_2 - x_T9_S17_Tu_2 - x_T9_S18_Tu_2 - x_T9_S19_Tu_2 - x_T9_S20_Tu_2 = 0
+ flow_T9_Tu_3: x_T9_S15_Tu_3 + x_T9_S17_Tu_3 + x_T9_S18_Tu_3 + x_T9_S19_Tu_3 + x_T9_S20_Tu_3 - x_T9_S15_Tu_3 - x_T9_S17_Tu_3 - x_T9_S18_Tu_3 - x_T9_S19_Tu_3 - x_T9_S20_Tu_3 = 0
+ flow_T9_Tu_4: x_T9_S15_Tu_4 + x_T9_S17_Tu_4 + x_T9_S18_Tu_4 + x_T9_S19_Tu_4 + x_T9_S20_Tu_4 - x_T9_S15_Tu_4 - x_T9_S17_Tu_4 - x_T9_S18_Tu_4 - x_T9_S19_Tu_4 - x_T9_S20_Tu_4 = 0
+ flow_T9_Tu_5: x_T9_S15_Tu_5 + x_T9_S17_Tu_5 + x_T9_S18_Tu_5 + x_T9_S19_Tu_5 + x_T9_S20_Tu_5 - x_T9_S15_Tu_5 - x_T9_S17_Tu_5 - x_T9_S18_Tu_5 - x_T9_S19_Tu_5 - x_T9_S20_Tu_5 = -1
+ flow_T9_We_1: x_T9_S15_We_1 + x_T9_S17_We_1 + x_T9_S18_We_1 + x_T9_S19_We_1 + x_T9_S20_We_1 - x_T9_S15_We_1 - x_T9_S17_We_1 - x_T9_S18_We_1 - x_T9_S19_We_1 - x_T9_S20_We_1 = 1
+ flow_T9_We_2: x_T9_S15_We_2 + x_T9_S17_We_2 + x_T9_S18_We_2 + x_T9_S19_We_2 + x_T9_S20_We_2 - x_T9_S15_We_2 - x_T9_S17_We_2 - x_T9_S18_We_2 - x_T9_S19_We_2 - x_T9_S20_We_2 = 0
+ flow_T9_We_3: x_T9_S15_We_3 + x_T9_S17_We_3 + x_T9_S18_We_3 + x_T9_S19_We_3 + x_T9_S20_We_3 - x_T9_S15_We_3 - x_T9_S17_We_3 - x_T9_S18_We_3 - x_T9_S19_We_3 - x_T9_S20_We_3 = 0
+ flow_T9_We_4: x_T9_S15_We_4 + x_T9_S17_We_4 + x_T9_S18_We_4 + x_T9_S19_We_4 + x_T9_S20_We_4 - x_T9_S15_We_4 - x_T9_S17_We_4 - x_T9_S18_We_4 - x_T9_S19_We_4 - x_T9_S20_We_4 = 0
+ flow_T9_We_5: x_T9_S15_We_5 + x_T9_S17_We_5 + x_T9_S18_We_5 + x_T9_S19_We_5 + x_T9_S20_We_5 - x_T9_S15_We_5 - x_T9_S17_We_5 - x_T9_S18_We_5 - x_T9_S19_We_5 - x_T9_S20_We_5 = -1
+ flow_T9_Th_1: x_T9_S15_Th_1 + x_T9_S17_Th_1 + x_T9_S18_Th_1 + x_T9_S19_Th_1 + x_T9_S20_Th_1 - x_T9_S15_Th_1 - x_T9_S17_Th_1 - x_T9_S18_Th_1 - x_T9_S19_Th_1 - x_T9_S20_Th_1 = 1
+ flow_T9_Th_2: x_T9_S15_Th_2 + x_T9_S17_Th_2 + x_T9_S18_Th_2 + x_T9_S19_Th_2 + x_T9_S20_Th_2 - x_T9_S15_Th_2 - x_T9_S17_Th_2 - x_T9_S18_Th_2 - x_T9_S19_Th_2 - x_T9_S20_Th_2 = 0
+ flow_T9_Th_3: x_T9_S15_Th_3 + x_T9_S17_Th_3 + x_T9_S18_Th_3 + x_T9_S19_Th_3 + x_T9_S20_Th_3 - x_T9_S15_Th_3 - x_T9_S17_Th_3 - x_T9_S18_Th_3 - x_T9_S19_Th_3 - x_T9_S20_Th_3 = 0
+ flow_T9_Th_4: x_T9_S15_Th_4 + x_T9_S17_Th_4 + x_T9_S18_Th_4 + x_T9_S19_Th_4 + x_T9_S20_Th_4 - x_T9_S15_Th_4 - x_T9_S17_Th_4 - x_T9_S18_Th_4 - x_T9_S19_Th_4 - x_T9_S20_Th_4 = 0
+ flow_T9_Th_5: x_T9_S15_Th_5 + x_T9_S17_Th_5 + x_T9_S18_Th_5 + x_T9_S19_Th_5 + x_T9_S20_Th_5 - x_T9_S15_Th_5 - x_T9_S17_Th_5 - x_T9_S18_Th_5 - x_T9_S19_Th_5 - x_T9_S20_Th_5 = -1
+ flow_T9_Fr_1: x_T9_S15_Fr_1 + x_T9_S17_Fr_1 + x_T9_S18_Fr_1 + x_T9_S19_Fr_1 + x_T9_S20_Fr_1 - x_T9_S15_Fr_1 - x_T9_S17_Fr_1 - x_T9_S18_Fr_1 - x_T9_S19_Fr_1 - x_T9_S20_Fr_1 = 1
+ flow_T9_Fr_2: x_T9_S15_Fr_2 + x_T9_S17_Fr_2 + x_T9_S18_Fr_2 + x_T9_S19_Fr_2 + x_T9_S20_Fr_2 - x_T9_S15_Fr_2 - x_T9_S17_Fr_2 - x_T9_S18_Fr_2 - x_T9_S19_Fr_2 - x_T9_S20_Fr_2 = 0
+ flow_T9_Fr_3: x_T9_S15_Fr_3 + x_T9_S17_Fr_3 + x_T9_S18_Fr_3 + x_T9_S19_Fr_3 + x_T9_S20_Fr_3 - x_T9_S15_Fr_3 - x_T9_S17_Fr_3 - x_T9_S18_Fr_3 - x_T9_S19_Fr_3 - x_T9_S20_Fr_3 = 0
+ flow_T9_Fr_4: x_T9_S15_Fr_4 + x_T9_S17_Fr_4 + x_T9_S18_Fr_4 + x_T9_S19_Fr_4 + x_T9_S20_Fr_4 - x_T9_S15_Fr_4 - x_T9_S17_Fr_4 - x_T9_S18_Fr_4 - x_T9_S19_Fr_4 - x_T9_S20_Fr_4 = 0
+ flow_T9_Fr_5: x_T9_S15_Fr_5 + x_T9_S17_Fr_5 + x_T9_S18_Fr_5 + x_T9_S19_Fr_5 + x_T9_S20_Fr_5 - x_T9_S15_Fr_5 - x_T9_S17_Fr_5 - x_T9_S18_Fr_5 - x_T9_S19_Fr_5 - x_T9_S20_Fr_5 = -1
+ flow_T4_Mo_1: x_T4_S5_Mo_1 + x_T4_S6_Mo_1 + x_T4_S18_Mo_1 + x_T4_S19_Mo_1 + x_T4_S20_Mo_1 - x_T4_S5_Mo_1 - x_T4_S6_Mo_1 - x_T4_S18_Mo_1 - x_T4_S19_Mo_1 - x_T4_S20_Mo_1 = 1
+ flow_T4_Mo_2: x_T4_S5_Mo_2 + x_T4_S6_Mo_2 + x_T4_S18_Mo_2 + x_T4_S19_Mo_2 + x_T4_S20_Mo_2 - x_T4_S5_Mo_2 - x_T4_S6_Mo_2 - x_T4_S18_Mo_2 - x_T4_S19_Mo_2 - x_T4_S20_Mo_2 = 0
+ flow_T4_Mo_3: x_T4_S5_Mo_3 + x_T4_S6_Mo_3 + x_T4_S18_Mo_3 + x_T4_S19_Mo_3 + x_T4_S20_Mo_3 - x_T4_S5_Mo_3 - x_T4_S6_Mo_3 - x_T4_S18_Mo_3 - x_T4_S19_Mo_3 - x_T4_S20_Mo_3 = 0
+ flow_T4_Mo_4: x_T4_S5_Mo_4 + x_T4_S6_Mo_4 + x_T4_S18_Mo_4 + x_T4_S19_Mo_4 + x_T4_S20_Mo_4 - x_T4_S5_Mo_4 - x_T4_S6_Mo_4 - x_T4_S18_Mo_4 - x_T4_S19_Mo_4 - x_T4_S20_Mo_4 = 0
+ flow_T4_Mo_5: x_T4_S5_Mo_5 + x_T4_S6_Mo_5 + x_T4_S18_Mo_5 + x_T4_S19_Mo_5 + x_T4_S20_Mo_5 - x_T4_S5_Mo_5 - x_T4_S6_Mo_5 - x_T4_S18_Mo_5 - x_T4_S19_Mo_5 - x_T4_S20_Mo_5 = -1
+ flow_T4_Tu_1: x_T4_S5_Tu_1 + x_T4_S6_Tu_1 + x_T4_S18_Tu_1 + x_T4_S19_Tu_1 + x_T4_S20_Tu_1 - x_T4_S5_Tu_1 - x_T4_S6_Tu_1 - x_T4_S18_Tu_1 - x_T4_S19_Tu_1 - x_T4_S20_Tu_1 = 1
+ flow_T4_Tu_2: x_T4_S5_Tu_2 + x_T4_S6_Tu_2 + x_T4_S18_Tu_2 + x_T4_S19_Tu_2 + x_T4_S20_Tu_2 - x_T4_S5_Tu_2 - x_T4_S6_Tu_2 - x_T4_S18_Tu_2 - x_T4_S19_Tu_2 - x_T4_S20_Tu_2 = 0
+ flow_T4_Tu_3: x_T4_S5_Tu_3 + x_T4_S6_Tu_3 + x_T4_S18_Tu_3 + x_T4_S19_Tu_3 + x_T4_S20_Tu_3 - x_T4_S5_Tu_3 - x_T4_S6_Tu_3 - x_T4_S18_Tu_3 - x_T4_S19_Tu_3 - x_T4_S20_Tu_3 = 0
+ flow_T4_Tu_4: x_T4_S5_Tu_4 + x_T4_S6_Tu_4 + x_T4_S18_Tu_4 + x_T4_S19_Tu_4 + x_T4_S20_Tu_4 - x_T4_S5_Tu_4 - x_T4_S6_Tu_4 - x_T4_S18_Tu_4 - x_T4_S19_Tu_4 - x_T4_S20_Tu_4 = 0
+ flow_T4_Tu_5: x_T4_S5_Tu_5 + x_T4_S6_Tu_5 + x_T4_S18_Tu_5 + x_T4_S19_Tu_5 + x_T4_S20_Tu_5 - x_T4_S5_Tu_5 - x_T4_S6_Tu_5 - x_T4_S18_Tu_5 - x_T4_S19_Tu_5 - x_T4_S20_Tu_5 = -1
+ flow_T4_We_1: x_T4_S5_We_1 + x_T4_S6_We_1 + x_T4_S18_We_1 + x_T4_S19_We_1 + x_T4_S20_We_1 - x_T4_S5_We_1 - x_T4_S6_We_1 - x_T4_S18_We_1 - x_T4_S19_We_1 - x_T4_S20_We_1 = 1
+ flow_T4_We_2: x_T4_S5_We_2 + x_T4_S6_We_2 + x_T4_S18_We_2 + x_T4_S19_We_2 + x_T4_S20_We_2 - x_T4_S5_We_2 - x_T4_S6_We_2 - x_T4_S18_We_2 - x_T4_S19_We_2 - x_T4_S20_We_2 = 0
+ flow_T4_We_3: x_T4_S5_We_3 + x_T4_S6_We_3 + x_T4_S18_We_3 + x_T4_S19_We_3 + x_T4_S20_We_3 - x_T4_S5_We_3 - x_T4_S6_We_3 - x_T4_S18_We_3 - x_T4_S19_We_3 - x_T4_S20_We_3 = 0
+ flow_T4_We_4: x_T4_S5_We_4 + x_T4_S6_We_4 + x_T4_S18_We_4 + x_T4_S19_We_4 + x_T4_S20_We_4 - x_T4_S5_We_4 - x_T4_S6_We_4 - x_T4_S18_We_4 - x_T4_S19_We_4 - x_T4_S20_We_4 = 0
+ flow_T4_We_5: x_T4_S5_We_5 + x_T4_S6_We_5 + x_T4_S18_We_5 + x_T4_S19_We_5 + x_T4_S20_We_5 - x_T4_S5_We_5 - x_T4_S6_We_5 - x_T4_S18_We_5 - x_T4_S19_We_5 - x_T4_S20_We_5 = -1
+ flow_T4_Th_1: x_T4_S5_Th_1 + x_T4_S6_Th_1 + x_T4_S18_Th_1 + x_T4_S19_Th_1 + x_T4_S20_Th_1 - x_T4_S5_Th_1 - x_T4_S6_Th_1 - x_T4_S18_Th_1 - x_T4_S19_Th_1 - x_T4_S20_Th_1 = 1
+ flow_T4_Th_2: x_T4_S5_Th_2 + x_T4_S6_Th_2 + x_T4_S18_Th_2 + x_T4_S19_Th_2 + x_T4_S20_Th_2 - x_T4_S5_Th_2 - x_T4_S6_Th_2 - x_T4_S18_Th_2 - x_T4_S19_Th_2 - x_T4_S20_Th_2 = 0
+ flow_T4_Th_3: x_T4_S5_Th_3 + x_T4_S6_Th_3 + x_T4_S18_Th_3 + x_T4_S19_Th_3 + x_T4_S20_Th_3 - x_T4_S5_Th_3 - x_T4_S6_Th_3 - x_T4_S18_Th_3 - x_T4_S19_Th_3 - x_T4_S20_Th_3 = 0
+ flow_T4_Th_4: x_T4_S5_Th_4 + x_T4_S6_Th_4 + x_T4_S18_Th_4 + x_T4_S19_Th_4 + x_T4_S20_Th_4 - x_T4_S5_Th_4 - x_T4_S6_Th_4 - x_T4_S18_Th_4 - x_T4_S19_Th_4 - x_T4_S20_Th_4 = 0
+ flow_T4_Th_5: x_T4_S5_Th_5 + x_T4_S6_Th_5 + x_T4_S18_Th_5 + x_T4_S19_Th_5 + x_T4_S20_Th_5 - x_T4_S5_Th_5 - x_T4_S6_Th_5 - x_T4_S18_Th_5 - x_T4_S19_Th_5 - x_T4_S20_Th_5 = -1
+ flow_T4_Fr_1: x_T4_S5_Fr_1 + x_T4_S6_Fr_1 + x_T4_S18_Fr_1 + x_T4_S19_Fr_1 + x_T4_S20_Fr_1 - x_T4_S5_Fr_1 - x_T4_S6_Fr_1 - x_T4_S18_Fr_1 - x_T4_S19_Fr_1 - x_T4_S20_Fr_1 = 1
+ flow_T4_Fr_2: x_T4_S5_Fr_2 + x_T4_S6_Fr_2 + x_T4_S18_Fr_2 + x_T4_S19_Fr_2 + x_T4_S20_Fr_2 - x_T4_S5_Fr_2 - x_T4_S6_Fr_2 - x_T4_S18_Fr_2 - x_T4_S19_Fr_2 - x_T4_S20_Fr_2 = 0
+ flow_T4_Fr_3: x_T4_S5_Fr_3 + x_T4_S6_Fr_3 + x_T4_S18_Fr_3 + x_T4_S19_Fr_3 + x_T4_S20_Fr_3 - x_T4_S5_Fr_3 - x_T4_S6_Fr_3 - x_T4_S18_Fr_3 - x_T4_S19_Fr_3 - x_T4_S20_Fr_3 = 0
+ flow_T4_Fr_4: x_T4_S5_Fr_4 + x_T4_S6_Fr_4 + x_T4_S18_Fr_4 + x_T4_S19_Fr_4 + x_T4_S20_Fr_4 - x_T4_S5_Fr_4 - x_T4_S6_Fr_4 - x_T4_S18_Fr_4 - x_T4_S19_Fr_4 - x_T4_S20_Fr_4 = 0
+ flow_T4_Fr_5: x_T4_S5_Fr_5 + x_T4_S6_Fr_5 + x_T4_S18_Fr_5 + x_T4_S19_Fr_5 + x_T4_S20_Fr_5 - x_T4_S5_Fr_5 - x_T4_S6_Fr_5 - x_T4_S18_Fr_5 - x_T4_S19_Fr_5 - x_T4_S20_Fr_5 = -1
+ flow_T21_Mo_1: x_T21_S8_Mo_1 + x_T21_S9_Mo_1 + x_T21_S10_Mo_1 + x_T21_S11_Mo_1 + x_T21_S12_Mo_1 + x_T21_S13_Mo_1 + x_T21_S14_Mo_1 - x_T21_S8_Mo_1 - x_T21_S9_Mo_1 - x_T21_S10_Mo_1 - x_T21_S11_Mo_1 - x_T21_S12_Mo_1 - x_T21_S13_Mo_1 - x_T21_S14_Mo_1 = 1
+ flow_T21_Mo_2: x_T21_S8_Mo_2 + x_T21_S9_Mo_2 + x_T21_S10_Mo_2 + x_T21_S11_Mo_2 + x_T21_S12_Mo_2 + x_T21_S13_Mo_2 + x_T21_S14_Mo_2 - x_T21_S8_Mo_2 - x_T21_S9_Mo_2 - x_T21_S10_Mo_2 - x_T21_S11_Mo_2 - x_T21_S12_Mo_2 - x_T21_S13_Mo_2 - x_T21_S14_Mo_2 = 0
+ flow_T21_Mo_3: x_T21_S8_Mo_3 + x_T21_S9_Mo_3 + x_T21_S10_Mo_3 + x_T21_S11_Mo_3 + x_T21_S12_Mo_3 + x_T21_S13_Mo_3 + x_T21_S14_Mo_3 - x_T21_S8_Mo_3 - x_T21_S9_Mo_3 - x_T21_S10_Mo_3 - x_T21_S11_Mo_3 - x_T21_S12_Mo_3 - x_T21_S13_Mo_3 - x_T21_S14_Mo_3 = 0
+ flow_T21_Mo_4: x_T21_S8_Mo_4 + x_T21_S9_Mo_4 + x_T21_S10_Mo_4 + x_T21_S11_Mo_4 + x_T21_S12_Mo_4 + x_T21_S13_Mo_4 + x_T21_S14_Mo_4 - x_T21_S8_Mo_4 - x_T21_S9_Mo_4 - x_T21_S10_Mo_4 - x_T21_S11_Mo_4 - x_T21_S12_Mo_4 - x_T21_S13_Mo_4 - x_T21_S14_Mo_4 = 0
+ flow_T21_Mo_5: x_T21_S8_Mo_5 + x_T21_S9_Mo_5 + x_T21_S10_Mo_5 + x_T21_S11_Mo_5 + x_T21_S12_Mo_5 + x_T21_S13_Mo_5 + x_T21_S14_Mo_5 - x_T21_S8_Mo_5 - x_T21_S9_Mo_5 - x_T21_S10_Mo_5 - x_T21_S11_Mo_5 - x_T21_S12_Mo_5 - x_T21_S13_Mo_5 - x_T21_S14_Mo_5 = -1
+ flow_T21_Tu_1: x_T21_S8_Tu_1 + x_T21_S9_Tu_1 + x_T21_S10_Tu_1 + x_T21_S11_Tu_1 + x_T21_S12_Tu_1 + x_T21_S13_Tu_1 + x_T21_S14_Tu_1 - x_T21_S8_Tu_1 - x_T21_S9_Tu_1 - x_T21_S10_Tu_1 - x_T21_S11_Tu_1 - x_T21_S12_Tu_1 - x_T21_S13_Tu_1 - x_T21_S14_Tu_1 = 1
+ flow_T21_Tu_2: x_T21_S8_Tu_2 + x_T21_S9_Tu_2 + x_T21_S10_Tu_2 + x_T21_S11_Tu_2 + x_T21_S12_Tu_2 + x_T21_S13_Tu_2 + x_T21_S14_Tu_2 - x_T21_S8_Tu_2 - x_T21_S9_Tu_2 - x_T21_S10_Tu_2 - x_T21_S11_Tu_2 - x_T21_S12_Tu_2 - x_T21_S13_Tu_2 - x_T21_S14_Tu_2 = 0
+ flow_T21_Tu_3: x_T21_S8_Tu_3 + x_T21_S9_Tu_3 + x_T21_S10_Tu_3 + x_T21_S11_Tu_3 + x_T21_S12_Tu_3 + x_T21_S13_Tu_3 + x_T21_S14_Tu_3 - x_T21_S8_Tu_3 - x_T21_S9_Tu_3 - x_T21_S10_Tu_3 - x_T21_S11_Tu_3 - x_T21_S12_Tu_3 - x_T21_S13_Tu_3 - x_T21_S14_Tu_3 = 0
+ flow_T21_Tu_4: x_T21_S8_Tu_4 + x_T21_S9_Tu_4 + x_T21_S10_Tu_4 + x_T21_S11_Tu_4 + x_T21_S12_Tu_4 + x_T21_S13_Tu_4 + x_T21_S14_Tu_4 - x_T21_S8_Tu_4 - x_T21_S9_Tu_4 - x_T21_S10_Tu_4 - x_T21_S11_Tu_4 - x_T21_S12_Tu_4 - x_T21_S13_Tu_4 - x_T21_S14_Tu_4 = 0
+ flow_T21_Tu_5: x_T21_S8_Tu_5 + x_T21_S9_Tu_5 + x_T21_S10_Tu_5 + x_T21_S11_Tu_5 + x_T21_S12_Tu_5 + x_T21_S13_Tu_5 + x_T21_S14_Tu_5 - x_T21_S8_Tu_5 - x_T21_S9_Tu_5 - x_T21_S10_Tu_5 - x_T21_S11_Tu_5 - x_T21_S12_Tu_5 - x_T21_S13_Tu_5 - x_T21_S14_Tu_5 = -1
+ flow_T21_We_1: x_T21_S8_We_1 + x_T21_S9_We_1 + x_T21_S10_We_1 + x_T21_S11_We_1 + x_T21_S12_We_1 + x_T21_S13_We_1 + x_T21_S14_We_1 - x_T21_S8_We_1 - x_T21_S9_We_1 - x_T21_S10_We_1 - x_T21_S11_We_1 - x_T21_S12_We_1 - x_T21_S13_We_1 - x_T21_S14_We_1 = 1
+ flow_T21_We_2: x_T21_S8_We_2 + x_T21_S9_We_2 + x_T21_S10_We_2 + x_T21_S11_We_2 + x_T21_S12_We_2 + x_T21_S13_We_2 + x_T21_S14_We_2 - x_T21_S8_We_2 - x_T21_S9_We_2 - x_T21_S10_We_2 - x_T21_S11_We_2 - x_T21_S12_We_2 - x_T21_S13_We_2 - x_T21_S14_We_2 = 0
+ flow_T21_We_3: x_T21_S8_We_3 + x_T21_S9_We_3 + x_T21_S10_We_3 + x_T21_S11_We_3 + x_T21_S12_We_3 + x_T21_S13_We_3 + x_T21_S14_We_3 - x_T21_S8_We_3 - x_T21_S9_We_3 - x_T21_S10_We_3 - x_T21_S11_We_3 - x_T21_S12_We_3 - x_T21_S13_We_3 - x_T21_S14_We_3 = 0
+ flow_T21_We_4: x_T21_S8_We_4 + x_T21_S9_We_4 + x_T21_S10_We_4 + x_T21_S11_We_4 + x_T21_S12_We_4 + x_T21_S13_We_4 + x_T21_S14_We_4 - x_T21_S8_We_4 - x_T21_S9_We_4 - x_T21_S10_We_4 - x_T21_S11_We_4 - x_T21_S12_We_4 - x_T21_S13_We_4 - x_T21_S14_We_4 = 0
+ flow_T21_We_5: x_T21_S8_We_5 + x_T21_S9_We_5 + x_T21_S10_We_5 + x_T21_S11_We_5 + x_T21_S12_We_5 + x_T21_S13_We_5 + x_T21_S14_We_5 - x_T21_S8_We_5 - x_T21_S9_We_5 - x_T21_S10_We_5 - x_T21_S11_We_5 - x_T21_S12_We_5 - x_T21_S13_We_5 - x_T21_S14_We_5 = -1
+ flow_T21_Th_1: x_T21_S8_Th_1 + x_T21_S9_Th_1 + x_T21_S10_Th_1 + x_T21_S11_Th_1 + x_T21_S12_Th_1 + x_T21_S13_Th_1 + x_T21_S14_Th_1 - x_T21_S8_Th_1 - x_T21_S9_Th_1 - x_T21_S10_Th_1 - x_T21_S11_Th_1 - x_T21_S12_Th_1 - x_T21_S13_Th_1 - x_T21_S14_Th_1 = 1
+ flow_T21_Th_2: x_T21_S8_Th_2 + x_T21_S9_Th_2 + x_T21_S10_Th_2 + x_T21_S11_Th_2 + x_T21_S12_Th_2 + x_T21_S13_Th_2 + x_T21_S14_Th_2 - x_T21_S8_Th_2 - x_T21_S9_Th_2 - x_T21_S10_Th_2 - x_T21_S11_Th_2 - x_T21_S12_Th_2 - x_T21_S13_Th_2 - x_T21_S14_Th_2 = 0
+ flow_T21_Th_3: x_T21_S8_Th_3 + x_T21_S9_Th_3 + x_T21_S10_Th_3 + x_T21_S11_Th_3 + x_T21_S12_Th_3 + x_T21_S13_Th_3 + x_T21_S14_Th_3 - x_T21_S8_Th_3 - x_T21_S9_Th_3 - x_T21_S10_Th_3 - x_T21_S11_Th_3 - x_T21_S12_Th_3 - x_T21_S13_Th_3 - x_T21_S14_Th_3 = 0
+ flow_T21_Th_4: x_T21_S8_Th_4 + x_T21_S9_Th_4 + x_T21_S10_Th_4 + x_T21_S11_Th_4 + x_T21_S12_Th_4 + x_T21_S13_Th_4 + x_T21_S14_Th_4 - x_T21_S8_Th_4 - x_T21_S9_Th_4 - x_T21_S10_Th_4 - x_T21_S11_Th_4 - x_T21_S12_Th_4 - x_T21_S13_Th_4 - x_T21_S14_Th_4 = 0
+ flow_T21_Th_5: x_T21_S8_Th_5 + x_T21_S9_Th_5 + x_T21_S10_Th_5 + x_T21_S11_Th_5 + x_T21_S12_Th_5 + x_T21_S13_Th_5 + x_T21_S14_Th_5 - x_T21_S8_Th_5 - x_T21_S9_Th_5 - x_T21_S10_Th_5 - x_T21_S11_Th_5 - x_T21_S12_Th_5 - x_T21_S13_Th_5 - x_T21_S14_Th_5 = -1
+ flow_T21_Fr_1: x_T21_S8_Fr_1 + x_T21_S9_Fr_1 + x_T21_S10_Fr_1 + x_T21_S11_Fr_1 + x_T21_S12_Fr_1 + x_T21_S13_Fr_1 + x_T21_S14_Fr_1 - x_T21_S8_Fr_1 - x_T21_S9_Fr_1 - x_T21_S10_Fr_1 - x_T21_S11_Fr_1 - x_T21_S12_Fr_1 - x_T21_S13_Fr_1 - x_T21_S14_Fr_1 = 1
+ flow_T21_Fr_2: x_T21_S8_Fr_2 + x_T21_S9_Fr_2 + x_T21_S10_Fr_2 + x_T21_S11_Fr_2 + x_T21_S12_Fr_2 + x_T21_S13_Fr_2 + x_T21_S14_Fr_2 - x_T21_S8_Fr_2 - x_T21_S9_Fr_2 - x_T21_S10_Fr_2 - x_T21_S11_Fr_2 - x_T21_S12_Fr_2 - x_T21_S13_Fr_2 - x_T21_S14_Fr_2 = 0
+ flow_T21_Fr_3: x_T21_S8_Fr_3 + x_T21_S9_Fr_3 + x_T21_S10_Fr_3 + x_T21_S11_Fr_3 + x_T21_S12_Fr_3 + x_T21_S13_Fr_3 + x_T21_S14_Fr_3 - x_T21_S8_Fr_3 - x_T21_S9_Fr_3 - x_T21_S10_Fr_3 - x_T21_S11_Fr_3 - x_T21_S12_Fr_3 - x_T21_S13_Fr_3 - x_T21_S14_Fr_3 = 0
+ flow_T21_Fr_4: x_T21_S8_Fr_4 + x_T21_S9_Fr_4 + x_T21_S10_Fr_4 + x_T21_S11_Fr_4 + x_T21_S12_Fr_4 + x_T21_S13_Fr_4 + x_T21_S14_Fr_4 - x_T21_S8_Fr_4 - x_T21_S9_Fr_4 - x_T21_S10_Fr_4 - x_T21_S11_Fr_4 - x_T21_S12_Fr_4 - x_T21_S13_Fr_4 - x_T21_S14_Fr_4 = 0
+ flow_T21_Fr_5: x_T21_S8_Fr_5 + x_T21_S9_Fr_5 + x_T21_S10_Fr_5 + x_T21_S11_Fr_5 + x_T21_S12_Fr_5 + x_T21_S13_Fr_5 + x_T21_S14_Fr_5 - x_T21_S8_Fr_5 - x_T21_S9_Fr_5 - x_T21_S10_Fr_5 - x_T21_S11_Fr_5 - x_T21_S12_Fr_5 - x_T21_S13_Fr_5 - x_T21_S14_Fr_5 = -1
+ flow_T1_Mo_1: x_T1_S1_Mo_1 + x_T1_S2_Mo_1 + x_T1_S3_Mo_1 + x_T1_S4_Mo_1 + x_T1_S16_Mo_1 + x_T1_S17_Mo_1 - x_T1_S1_Mo_1 - x_T1_S2_Mo_1 - x_T1_S3_Mo_1 - x_T1_S4_Mo_1 - x_T1_S16_Mo_1 - x_T1_S17_Mo_1 = 1
+ flow_T1_Mo_2: x_T1_S1_Mo_2 + x_T1_S2_Mo_2 + x_T1_S3_Mo_2 + x_T1_S4_Mo_2 + x_T1_S16_Mo_2 + x_T1_S17_Mo_2 - x_T1_S1_Mo_2 - x_T1_S2_Mo_2 - x_T1_S3_Mo_2 - x_T1_S4_Mo_2 - x_T1_S16_Mo_2 - x_T1_S17_Mo_2 = 0
+ flow_T1_Mo_3: x_T1_S1_Mo_3 + x_T1_S2_Mo_3 + x_T1_S3_Mo_3 + x_T1_S4_Mo_3 + x_T1_S16_Mo_3 + x_T1_S17_Mo_3 - x_T1_S1_Mo_3 - x_T1_S2_Mo_3 - x_T1_S3_Mo_3 - x_T1_S4_Mo_3 - x_T1_S16_Mo_3 - x_T1_S17_Mo_3 = 0
+ flow_T1_Mo_4: x_T1_S1_Mo_4 + x_T1_S2_Mo_4 + x_T1_S3_Mo_4 + x_T1_S4_Mo_4 + x_T1_S16_Mo_4 + x_T1_S17_Mo_4 - x_T1_S1_Mo_4 - x_T1_S2_Mo_4 - x_T1_S3_Mo_4 - x_T1_S4_Mo_4 - x_T1_S16_Mo_4 - x_T1_S17_Mo_4 = 0
+ flow_T1_Mo_5: x_T1_S1_Mo_5 + x_T1_S2_Mo_5 + x_T1_S3_Mo_5 + x_T1_S4_Mo_5 + x_T1_S16_Mo_5 + x_T1_S17_Mo_5 - x_T1_S1_Mo_5 - x_T1_S2_Mo_5 - x_T1_S3_Mo_5 - x_T1_S4_Mo_5 - x_T1_S16_Mo_5 - x_T1_S17_Mo_5 = -1
+ flow_T1_Tu_1: x_T1_S1_Tu_1 + x_T1_S2_Tu_1 + x_T1_S3_Tu_1 + x_T1_S4_Tu_1 + x_T1_S16_Tu_1 + x_T1_S17_Tu_1 - x_T1_S1_Tu_1 - x_T1_S2_Tu_1 - x_T1_S3_Tu_1 - x_T1_S4_Tu_1 - x_T1_S16_Tu_1 - x_T1_S17_Tu_1 = 1
+ flow_T1_Tu_2: x_T1_S1_Tu_2 + x_T1_S2_Tu_2 + x_T1_S3_Tu_2 + x_T1_S4_Tu_2 + x_T1_S16_Tu_2 + x_T1_S17_Tu_2 - x_T1_S1_Tu_2 - x_T1_S2_Tu_2 - x_T1_S3_Tu_2 - x_T1_S4_Tu_2 - x_T1_S16_Tu_2 - x_T1_S17_Tu_2 = 0
+ flow_T1_Tu_3: x_T1_S1_Tu_3 + x_T1_S2_Tu_3 + x_T1_S3_Tu_3 + x_T1_S4_Tu_3 + x_T1_S16_Tu_3 + x_T1_S17_Tu_3 - x_T1_S1_Tu_3 - x_T1_S2_Tu_3 - x_T1_S3_Tu_3 - x_T1_S4_Tu_3 - x_T1_S16_Tu_3 - x_T1_S17_Tu_3 = 0
+ flow_T1_Tu_4: x_T1_S1_Tu_4 + x_T1_S2_Tu_4 + x_T1_S3_Tu_4 + x_T1_S4_Tu_4 + x_T1_S16_Tu_4 + x_T1_S17_Tu_4 - x_T1_S1_Tu_4 - x_T1_S2_Tu_4 - x_T1_S3_Tu_4 - x_T1_S4_Tu_4 - x_T1_S16_Tu_4 - x_T1_S17_Tu_4 = 0
+ flow_T1_Tu_5: x_T1_S1_Tu_5 + x_T1_S2_Tu_5 + x_T1_S3_Tu_5 + x_T1_S4_Tu_5 + x_T1_S16_Tu_5 + x_T1_S17_Tu_5 - x_T1_S1_Tu_5 - x_T1_S2_Tu_5 - x_T1_S3_Tu_5 - x_T1_S4_Tu_5 - x_T1_S16_Tu_5 - x_T1_S17_Tu_5 = -1
+ flow_T1_We_1: x_T1_S1_We_1 + x_T1_S2_We_1 + x_T1_S3_We_1 + x_T1_S4_We_1 + x_T1_S16_We_1 + x_T1_S17_We_1 - x_T1_S1_We_1 - x_T1_S2_We_1 - x_T1_S3_We_1 - x_T1_S4_We_1 - x_T1_S16_We_1 - x_T1_S17_We_1 = 1
+ flow_T1_We_2: x_T1_S1_We_2 + x_T1_S2_We_2 + x_T1_S3_We_2 + x_T1_S4_We_2 + x_T1_S16_We_2 + x_T1_S17_We_2 - x_T1_S1_We_2 - x_T1_S2_We_2 - x_T1_S3_We_2 - x_T1_S4_We_2 - x_T1_S16_We_2 - x_T1_S17_We_2 = 0
+ flow_T1_We_3: x_T1_S1_We_3 + x_T1_S2_We_3 + x_T1_S3_We_3 + x_T1_S4_We_3 + x_T1_S16_We_3 + x_T1_S17_We_3 - x_T1_S1_We_3 - x_T1_S2_We_3 - x_T1_S3_We_3 - x_T1_S4_We_3 - x_T1_S16_We_3 - x_T1_S17_We_3 = 0
+ flow_T1_We_4: x_T1_S1_We_4 + x_T1_S2_We_4 + x_T1_S3_We_4 + x_T1_S4_We_4 + x_T1_S16_We_4 + x_T1_S17_We_4 - x_T1_S1_We_4 - x_T1_S2_We_4 - x_T1_S3_We_4 - x_T1_S4_We_4 - x_T1_S16_We_4 - x_T1_S17_We_4 = 0
+ flow_T1_We_5: x_T1_S1_We_5 + x_T1_S2_We_5 + x_T1_S3_We_5 + x_T1_S4_We_5 + x_T1_S16_We_5 + x_T1_S17_We_5 - x_T1_S1_We_5 - x_T1_S2_We_5 - x_T1_S3_We_5 - x_T1_S4_We_5 - x_T1_S16_We_5 - x_T1_S17_We_5 = -1
+ flow_T1_Th_1: x_T1_S1_Th_1 + x_T1_S2_Th_1 + x_T1_S3_Th_1 + x_T1_S4_Th_1 + x_T1_S16_Th_1 + x_T1_S17_Th_1 - x_T1_S1_Th_1 - x_T1_S2_Th_1 - x_T1_S3_Th_1 - x_T1_S4_Th_1 - x_T1_S16_Th_1 - x_T1_S17_Th_1 = 1
+ flow_T1_Th_2: x_T1_S1_Th_2 + x_T1_S2_Th_2 + x_T1_S3_Th_2 + x_T1_S4_Th_2 + x_T1_S16_Th_2 + x_T1_S17_Th_2 - x_T1_S1_Th_2 - x_T1_S2_Th_2 - x_T1_S3_Th_2 - x_T1_S4_Th_2 - x_T1_S16_Th_2 - x_T1_S17_Th_2 = 0
+ flow_T1_Th_3: x_T1_S1_Th_3 + x_T1_S2_Th_3 + x_T1_S3_Th_3 + x_T1_S4_Th_3 + x_T1_S16_Th_3 + x_T1_S17_Th_3 - x_T1_S1_Th_3 - x_T1_S2_Th_3 - x_T1_S3_Th_3 - x_T1_S4_Th_3 - x_T1_S16_Th_3 - x_T1_S17_Th_3 = 0
+ flow_T1_Th_4: x_T1_S1_Th_4 + x_T1_S2_Th_4 + x_T1_S3_Th_4 + x_T1_S4_Th_4 + x_T1_S16_Th_4 + x_T1_S17_Th_4 - x_T1_S1_Th_4 - x_T1_S2_Th_4 - x_T1_S3_Th_4 - x_T1_S4_Th_4 - x_T1_S16_Th_4 - x_T1_S17_Th_4 = 0
+ flow_T1_Th_5: x_T1_S1_Th_5 + x_T1_S2_Th_5 + x_T1_S3_Th_5 + x_T1_S4_Th_5 + x_T1_S16_Th_5 + x_T1_S17_Th_5 - x_T1_S1_Th_5 - x_T1_S2_Th_5 - x_T1_S3_Th_5 - x_T1_S4_Th_5 - x_T1_S16_Th_5 - x_T1_S17_Th_5 = -1
+ flow_T1_Fr_1: x_T1_S1_Fr_1 + x_T1_S2_Fr_1 + x_T1_S3_Fr_1 + x_T1_S4_Fr_1 + x_T1_S16_Fr_1 + x_T1_S17_Fr_1 - x_T1_S1_Fr_1 - x_T1_S2_Fr_1 - x_T1_S3_Fr_1 - x_T1_S4_Fr_1 - x_T1_S16_Fr_1 - x_T1_S17_Fr_1 = 1
+ flow_T1_Fr_2: x_T1_S1_Fr_2 + x_T1_S2_Fr_2 + x_T1_S3_Fr_2 + x_T1_S4_Fr_2 + x_T1_S16_Fr_2 + x_T1_S17_Fr_2 - x_T1_S1_Fr_2 - x_T1_S2_Fr_2 - x_T1_S3_Fr_2 - x_T1_S4_Fr_2 - x_T1_S16_Fr_2 - x_T1_S17_Fr_2 = 0
+ flow_T1_Fr_3: x_T1_S1_Fr_3 + x_T1_S2_Fr_3 + x_T1_S3_Fr_3 + x_T1_S4_Fr_3 + x_T1_S16_Fr_3 + x_T1_S17_Fr_3 - x_T1_S1_Fr_3 - x_T1_S2_Fr_3 - x_T1_S3_Fr_3 - x_T1_S4_Fr_3 - x_T1_S16_Fr_3 - x_T1_S17_Fr_3 = 0
+ flow_T1_Fr_4: x_T1_S1_Fr_4 + x_T1_S2_Fr_4 + x_T1_S3_Fr_4 + x_T1_S4_Fr_4 + x_T1_S16_Fr_4 + x_T1_S17_Fr_4 - x_T1_S1_Fr_4 - x_T1_S2_Fr_4 - x_T1_S3_Fr_4 - x_T1_S4_Fr_4 - x_T1_S16_Fr_4 - x_T1_S17_Fr_4 = 0
+ flow_T1_Fr_5: x_T1_S1_Fr_5 + x_T1_S2_Fr_5 + x_T1_S3_Fr_5 + x_T1_S4_Fr_5 + x_T1_S16_Fr_5 + x_T1_S17_Fr_5 - x_T1_S1_Fr_5 - x_T1_S2_Fr_5 - x_T1_S3_Fr_5 - x_T1_S4_Fr_5 - x_T1_S16_Fr_5 - x_T1_S17_Fr_5 = -1
+ flow_T33_Mo_1: x_T33_S16_Mo_1 + x_T33_S17_Mo_1 + x_T33_S18_Mo_1 + x_T33_S19_Mo_1 + x_T33_S20_Mo_1 - x_T33_S16_Mo_1 - x_T33_S17_Mo_1 - x_T33_S18_Mo_1 - x_T33_S19_Mo_1 - x_T33_S20_Mo_1 = 1
+ flow_T33_Mo_2: x_T33_S16_Mo_2 + x_T33_S17_Mo_2 + x_T33_S18_Mo_2 + x_T33_S19_Mo_2 + x_T33_S20_Mo_2 - x_T33_S16_Mo_2 - x_T33_S17_Mo_2 - x_T33_S18_Mo_2 - x_T33_S19_Mo_2 - x_T33_S20_Mo_2 = 0
+ flow_T33_Mo_3: x_T33_S16_Mo_3 + x_T33_S17_Mo_3 + x_T33_S18_Mo_3 + x_T33_S19_Mo_3 + x_T33_S20_Mo_3 - x_T33_S16_Mo_3 - x_T33_S17_Mo_3 - x_T33_S18_Mo_3 - x_T33_S19_Mo_3 - x_T33_S20_Mo_3 = 0
+ flow_T33_Mo_4: x_T33_S16_Mo_4 + x_T33_S17_Mo_4 + x_T33_S18_Mo_4 + x_T33_S19_Mo_4 + x_T33_S20_Mo_4 - x_T33_S16_Mo_4 - x_T33_S17_Mo_4 - x_T33_S18_Mo_4 - x_T33_S19_Mo_4 - x_T33_S20_Mo_4 = 0
+ flow_T33_Mo_5: x_T33_S16_Mo_5 + x_T33_S17_Mo_5 + x_T33_S18_Mo_5 + x_T33_S19_Mo_5 + x_T33_S20_Mo_5 - x_T33_S16_Mo_5 - x_T33_S17_Mo_5 - x_T33_S18_Mo_5 - x_T33_S19_Mo_5 - x_T33_S20_Mo_5 = -1
+ flow_T33_Tu_1: x_T33_S16_Tu_1 + x_T33_S17_Tu_1 + x_T33_S18_Tu_1 + x_T33_S19_Tu_1 + x_T33_S20_Tu_1 - x_T33_S16_Tu_1 - x_T33_S17_Tu_1 - x_T33_S18_Tu_1 - x_T33_S19_Tu_1 - x_T33_S20_Tu_1 = 1
+ flow_T33_Tu_2: x_T33_S16_Tu_2 + x_T33_S17_Tu_2 + x_T33_S18_Tu_2 + x_T33_S19_Tu_2 + x_T33_S20_Tu_2 - x_T33_S16_Tu_2 - x_T33_S17_Tu_2 - x_T33_S18_Tu_2 - x_T33_S19_Tu_2 - x_T33_S20_Tu_2 = 0
+ flow_T33_Tu_3: x_T33_S16_Tu_3 + x_T33_S17_Tu_3 + x_T33_S18_Tu_3 + x_T33_S19_Tu_3 + x_T33_S20_Tu_3 - x_T33_S16_Tu_3 - x_T33_S17_Tu_3 - x_T33_S18_Tu_3 - x_T33_S19_Tu_3 - x_T33_S20_Tu_3 = 0
+ flow_T33_Tu_4: x_T33_S16_Tu_4 + x_T33_S17_Tu_4 + x_T33_S18_Tu_4 + x_T33_S19_Tu_4 + x_T33_S20_Tu_4 - x_T33_S16_Tu_4 - x_T33_S17_Tu_4 - x_T33_S18_Tu_4 - x_T33_S19_Tu_4 - x_T33_S20_Tu_4 = 0
+ flow_T33_Tu_5: x_T33_S16_Tu_5 + x_T33_S17_Tu_5 + x_T33_S18_Tu_5 + x_T33_S19_Tu_5 + x_T33_S20_Tu_5 - x_T33_S16_Tu_5 - x_T33_S17_Tu_5 - x_T33_S18_Tu_5 - x_T33_S19_Tu_5 - x_T33_S20_Tu_5 = -1
+ flow_T33_We_1: x_T33_S16_We_1 + x_T33_S17_We_1 + x_T33_S18_We_1 + x_T33_S19_We_1 + x_T33_S20_We_1 - x_T33_S16_We_1 - x_T33_S17_We_1 - x_T33_S18_We_1 - x_T33_S19_We_1 - x_T33_S20_We_1 = 1
+ flow_T33_We_2: x_T33_S16_We_2 + x_T33_S17_We_2 + x_T33_S18_We_2 + x_T33_S19_We_2 + x_T33_S20_We_2 - x_T33_S16_We_2 - x_T33_S17_We_2 - x_T33_S18_We_2 - x_T33_S19_We_2 - x_T33_S20_We_2 = 0
+ flow_T33_We_3: x_T33_S16_We_3 + x_T33_S17_We_3 + x_T33_S18_We_3 + x_T33_S19_We_3 + x_T33_S20_We_3 - x_T33_S16_We_3 - x_T33_S17_We_3 - x_T33_S18_We_3 - x_T33_S19_We_3 - x_T33_S20_We_3 = 0
+ flow_T33_We_4: x_T33_S16_We_4 + x_T33_S17_We_4 + x_T33_S18_We_4 + x_T33_S19_We_4 + x_T33_S20_We_4 - x_T33_S16_We_4 - x_T33_S17_We_4 - x_T33_S18_We_4 - x_T33_S19_We_4 - x_T33_S20_We_4 = 0
+ flow_T33_We_5: x_T33_S16_We_5 + x_T33_S17_We_5 + x_T33_S18_We_5 + x_T33_S19_We_5 + x_T33_S20_We_5 - x_T33_S16_We_5 - x_T33_S17_We_5 - x_T33_S18_We_5 - x_T33_S19_We_5 - x_T33_S20_We_5 = -1
+ flow_T33_Th_1: x_T33_S16_Th_1 + x_T33_S17_Th_1 + x_T33_S18_Th_1 + x_T33_S19_Th_1 + x_T33_S20_Th_1 - x_T33_S16_Th_1 - x_T33_S17_Th_1 - x_T33_S18_Th_1 - x_T33_S19_Th_1 - x_T33_S20_Th_1 = 1
+ flow_T33_Th_2: x_T33_S16_Th_2 + x_T33_S17_Th_2 + x_T33_S18_Th_2 + x_T33_S19_Th_2 + x_T33_S20_Th_2 - x_T33_S16_Th_2 - x_T33_S17_Th_2 - x_T33_S18_Th_2 - x_T33_S19_Th_2 - x_T33_S20_Th_2 = 0
+ flow_T33_Th_3: x_T33_S16_Th_3 + x_T33_S17_Th_3 + x_T33_S18_Th_3 + x_T33_S19_Th_3 + x_T33_S20_Th_3 - x_T33_S16_Th_3 - x_T33_S17_Th_3 - x_T33_S18_Th_3 - x_T33_S19_Th_3 - x_T33_S20_Th_3 = 0
+ flow_T33_Th_4: x_T33_S16_Th_4 + x_T33_S17_Th_4 + x_T33_S18_Th_4 + x_T33_S19_Th_4 + x_T33_S20_Th_4 - x_T33_S16_Th_4 - x_T33_S17_Th_4 - x_T33_S18_Th_4 - x_T33_S19_Th_4 - x_T33_S20_Th_4 = 0
+ flow_T33_Th_5: x_T33_S16_Th_5 + x_T33_S17_Th_5 + x_T33_S18_Th_5 + x_T33_S19_Th_5 + x_T33_S20_Th_5 - x_T33_S16_Th_5 - x_T33_S17_Th_5 - x_T33_S18_Th_5 - x_T33_S19_Th_5 - x_T33_S20_Th_5 = -1
+ flow_T33_Fr_1: x_T33_S16_Fr_1 + x_T33_S17_Fr_1 + x_T33_S18_Fr_1 + x_T33_S19_Fr_1 + x_T33_S20_Fr_1 - x_T33_S16_Fr_1 - x_T33_S17_Fr_1 - x_T33_S18_Fr_1 - x_T33_S19_Fr_1 - x_T33_S20_Fr_1 = 1
+ flow_T33_Fr_2: x_T33_S16_Fr_2 + x_T33_S17_Fr_2 + x_T33_S18_Fr_2 + x_T33_S19_Fr_2 + x_T33_S20_Fr_2 - x_T33_S16_Fr_2 - x_T33_S17_Fr_2 - x_T33_S18_Fr_2 - x_T33_S19_Fr_2 - x_T33_S20_Fr_2 = 0
+ flow_T33_Fr_3: x_T33_S16_Fr_3 + x_T33_S17_Fr_3 + x_T33_S18_Fr_3 + x_T33_S19_Fr_3 + x_T33_S20_Fr_3 - x_T33_S16_Fr_3 - x_T33_S17_Fr_3 - x_T33_S18_Fr_3 - x_T33_S19_Fr_3 - x_T33_S20_Fr_3 = 0
+ flow_T33_Fr_4: x_T33_S16_Fr_4 + x_T33_S17_Fr_4 + x_T33_S18_Fr_4 + x_T33_S19_Fr_4 + x_T33_S20_Fr_4 - x_T33_S16_Fr_4 - x_T33_S17_Fr_4 - x_T33_S18_Fr_4 - x_T33_S19_Fr_4 - x_T33_S20_Fr_4 = 0
+ flow_T33_Fr_5: x_T33_S16_Fr_5 + x_T33_S17_Fr_5 + x_T33_S18_Fr_5 + x_T33_S19_Fr_5 + x_T33_S20_Fr_5 - x_T33_S16_Fr_5 - x_T33_S17_Fr_5 - x_T33_S18_Fr_5 - x_T33_S19_Fr_5 - x_T33_S20_Fr_5 = -1
+ flow_T12_Mo_1: x_T12_S11_Mo_1 + x_T12_S12_Mo_1 + x_T12_S13_Mo_1 + x_T12_S14_Mo_1 + x_T12_S15_Mo_1 - x_T12_S11_Mo_1 - x_T12_S12_Mo_1 - x_T12_S13_Mo_1 - x_T12_S14_Mo_1 - x_T12_S15_Mo_1 = 1
+ flow_T12_Mo_2: x_T12_S11_Mo_2 + x_T12_S12_Mo_2 + x_T12_S13_Mo_2 + x_T12_S14_Mo_2 + x_T12_S15_Mo_2 - x_T12_S11_Mo_2 - x_T12_S12_Mo_2 - x_T12_S13_Mo_2 - x_T12_S14_Mo_2 - x_T12_S15_Mo_2 = 0
+ flow_T12_Mo_3: x_T12_S11_Mo_3 + x_T12_S12_Mo_3 + x_T12_S13_Mo_3 + x_T12_S14_Mo_3 + x_T12_S15_Mo_3 - x_T12_S11_Mo_3 - x_T12_S12_Mo_3 - x_T12_S13_Mo_3 - x_T12_S14_Mo_3 - x_T12_S15_Mo_3 = 0
+ flow_T12_Mo_4: x_T12_S11_Mo_4 + x_T12_S12_Mo_4 + x_T12_S13_Mo_4 + x_T12_S14_Mo_4 + x_T12_S15_Mo_4 - x_T12_S11_Mo_4 - x_T12_S12_Mo_4 - x_T12_S13_Mo_4 - x_T12_S14_Mo_4 - x_T12_S15_Mo_4 = 0
+ flow_T12_Mo_5: x_T12_S11_Mo_5 + x_T12_S12_Mo_5 + x_T12_S13_Mo_5 + x_T12_S14_Mo_5 + x_T12_S15_Mo_5 - x_T12_S11_Mo_5 - x_T12_S12_Mo_5 - x_T12_S13_Mo_5 - x_T12_S14_Mo_5 - x_T12_S15_Mo_5 = -1
+ flow_T12_Tu_1: x_T12_S11_Tu_1 + x_T12_S12_Tu_1 + x_T12_S13_Tu_1 + x_T12_S14_Tu_1 + x_T12_S15_Tu_1 - x_T12_S11_Tu_1 - x_T12_S12_Tu_1 - x_T12_S13_Tu_1 - x_T12_S14_Tu_1 - x_T12_S15_Tu_1 = 1
+ flow_T12_Tu_2: x_T12_S11_Tu_2 + x_T12_S12_Tu_2 + x_T12_S13_Tu_2 + x_T12_S14_Tu_2 + x_T12_S15_Tu_2 - x_T12_S11_Tu_2 - x_T12_S12_Tu_2 - x_T12_S13_Tu_2 - x_T12_S14_Tu_2 - x_T12_S15_Tu_2 = 0
+ flow_T12_Tu_3: x_T12_S11_Tu_3 + x_T12_S12_Tu_3 + x_T12_S13_Tu_3 + x_T12_S14_Tu_3 + x_T12_S15_Tu_3 - x_T12_S11_Tu_3 - x_T12_S12_Tu_3 - x_T12_S13_Tu_3 - x_T12_S14_Tu_3 - x_T12_S15_Tu_3 = 0
+ flow_T12_Tu_4: x_T12_S11_Tu_4 + x_T12_S12_Tu_4 + x_T12_S13_Tu_4 + x_T12_S14_Tu_4 + x_T12_S15_Tu_4 - x_T12_S11_Tu_4 - x_T12_S12_Tu_4 - x_T12_S13_Tu_4 - x_T12_S14_Tu_4 - x_T12_S15_Tu_4 = 0
+ flow_T12_Tu_5: x_T12_S11_Tu_5 + x_T12_S12_Tu_5 + x_T12_S13_Tu_5 + x_T12_S14_Tu_5 + x_T12_S15_Tu_5 - x_T12_S11_Tu_5 - x_T12_S12_Tu_5 - x_T12_S13_Tu_5 - x_T12_S14_Tu_5 - x_T12_S15_Tu_5 = -1
+ flow_T12_We_1: x_T12_S11_We_1 + x_T12_S12_We_1 + x_T12_S13_We_1 + x_T12_S14_We_1 + x_T12_S15_We_1 - x_T12_S11_We_1 - x_T12_S12_We_1 - x_T12_S13_We_1 - x_T12_S14_We_1 - x_T12_S15_We_1 = 1
+ flow_T12_We_2: x_T12_S11_We_2 + x_T12_S12_We_2 + x_T12_S13_We_2 + x_T12_S14_We_2 + x_T12_S15_We_2 - x_T12_S11_We_2 - x_T12_S12_We_2 - x_T12_S13_We_2 - x_T12_S14_We_2 - x_T12_S15_We_2 = 0
+ flow_T12_We_3: x_T12_S11_We_3 + x_T12_S12_We_3 + x_T12_S13_We_3 + x_T12_S14_We_3 + x_T12_S15_We_3 - x_T12_S11_We_3 - x_T12_S12_We_3 - x_T12_S13_We_3 - x_T12_S14_We_3 - x_T12_S15_We_3 = 0
+ flow_T12_We_4: x_T12_S11_We_4 + x_T12_S12_We_4 + x_T12_S13_We_4 + x_T12_S14_We_4 + x_T12_S15_We_4 - x_T12_S11_We_4 - x_T12_S12_We_4 - x_T12_S13_We_4 - x_T12_S14_We_4 - x_T12_S15_We_4 = 0
+ flow_T12_We_5: x_T12_S11_We_5 + x_T12_S12_We_5 + x_T12_S13_We_5 + x_T12_S14_We_5 + x_T12_S15_We_5 - x_T12_S11_We_5 - x_T12_S12_We_5 - x_T12_S13_We_5 - x_T12_S14_We_5 - x_T12_S15_We_5 = -1
+ flow_T12_Th_1: x_T12_S11_Th_1 + x_T12_S12_Th_1 + x_T12_S13_Th_1 + x_T12_S14_Th_1 + x_T12_S15_Th_1 - x_T12_S11_Th_1 - x_T12_S12_Th_1 - x_T12_S13_Th_1 - x_T12_S14_Th_1 - x_T12_S15_Th_1 = 1
+ flow_T12_Th_2: x_T12_S11_Th_2 + x_T12_S12_Th_2 + x_T12_S13_Th_2 + x_T12_S14_Th_2 + x_T12_S15_Th_2 - x_T12_S11_Th_2 - x_T12_S12_Th_2 - x_T12_S13_Th_2 - x_T12_S14_Th_2 - x_T12_S15_Th_2 = 0
+ flow_T12_Th_3: x_T12_S11_Th_3 + x_T12_S12_Th_3 + x_T12_S13_Th_3 + x_T12_S14_Th_3 + x_T12_S15_Th_3 - x_T12_S11_Th_3 - x_T12_S12_Th_3 - x_T12_S13_Th_3 - x_T12_S14_Th_3 - x_T12_S15_Th_3 = 0
+ flow_T12_Th_4: x_T12_S11_Th_4 + x_T12_S12_Th_4 + x_T12_S13_Th_4 + x_T12_S14_Th_4 + x_T12_S15_Th_4 - x_T12_S11_Th_4 - x_T12_S12_Th_4 - x_T12_S13_Th_4 - x_T12_S14_Th_4 - x_T12_S15_Th_4 = 0
+ flow_T12_Th_5: x_T12_S11_Th_5 + x_T12_S12_Th_5 + x_T12_S13_Th_5 + x_T12_S14_Th_5 + x_T12_S15_Th_5 - x_T12_S11_Th_5 - x_T12_S12_Th_5 - x_T12_S13_Th_5 - x_T12_S14_Th_5 - x_T12_S15_Th_5 = -1
+ flow_T12_Fr_1: x_T12_S11_Fr_1 + x_T12_S12_Fr_1 + x_T12_S13_Fr_1 + x_T12_S14_Fr_1 + x_T12_S15_Fr_1 - x_T12_S11_Fr_1 - x_T12_S12_Fr_1 - x_T12_S13_Fr_1 - x_T12_S14_Fr_1 - x_T12_S15_Fr_1 = 1
+ flow_T12_Fr_2: x_T12_S11_Fr_2 + x_T12_S12_Fr_2 + x_T12_S13_Fr_2 + x_T12_S14_Fr_2 + x_T12_S15_Fr_2 - x_T12_S11_Fr_2 - x_T12_S12_Fr_2 - x_T12_S13_Fr_2 - x_T12_S14_Fr_2 - x_T12_S15_Fr_2 = 0
+ flow_T12_Fr_3: x_T12_S11_Fr_3 + x_T12_S12_Fr_3 + x_T12_S13_Fr_3 + x_T12_S14_Fr_3 + x_T12_S15_Fr_3 - x_T12_S11_Fr_3 - x_T12_S12_Fr_3 - x_T12_S13_Fr_3 - x_T12_S14_Fr_3 - x_T12_S15_Fr_3 = 0
+ flow_T12_Fr_4: x_T12_S11_Fr_4 + x_T12_S12_Fr_4 + x_T12_S13_Fr_4 + x_T12_S14_Fr_4 + x_T12_S15_Fr_4 - x_T12_S11_Fr_4 - x_T12_S12_Fr_4 - x_T12_S13_Fr_4 - x_T12_S14_Fr_4 - x_T12_S15_Fr_4 = 0
+ flow_T12_Fr_5: x_T12_S11_Fr_5 + x_T12_S12_Fr_5 + x_T12_S13_Fr_5 + x_T12_S14_Fr_5 + x_T12_S15_Fr_5 - x_T12_S11_Fr_5 - x_T12_S12_Fr_5 - x_T12_S13_Fr_5 - x_T12_S14_Fr_5 - x_T12_S15_Fr_5 = -1
+ flow_T26_Mo_1: x_T26_S1_Mo_1 + x_T26_S4_Mo_1 + x_T26_S7_Mo_1 + x_T26_S10_Mo_1 + x_T26_S13_Mo_1 + x_T26_S16_Mo_1 + x_T26_S19_Mo_1 - x_T26_S1_Mo_1 - x_T26_S4_Mo_1 - x_T26_S7_Mo_1 - x_T26_S10_Mo_1 - x_T26_S13_Mo_1 - x_T26_S16_Mo_1 - x_T26_S19_Mo_1 = 1
+ flow_T26_Mo_2: x_T26_S1_Mo_2 + x_T26_S4_Mo_2 + x_T26_S7_Mo_2 + x_T26_S10_Mo_2 + x_T26_S13_Mo_2 + x_T26_S16_Mo_2 + x_T26_S19_Mo_2 - x_T26_S1_Mo_2 - x_T26_S4_Mo_2 - x_T26_S7_Mo_2 - x_T26_S10_Mo_2 - x_T26_S13_Mo_2 - x_T26_S16_Mo_2 - x_T26_S19_Mo_2 = 0
+ flow_T26_Mo_3: x_T26_S1_Mo_3 + x_T26_S4_Mo_3 + x_T26_S7_Mo_3 + x_T26_S10_Mo_3 + x_T26_S13_Mo_3 + x_T26_S16_Mo_3 + x_T26_S19_Mo_3 - x_T26_S1_Mo_3 - x_T26_S4_Mo_3 - x_T26_S7_Mo_3 - x_T26_S10_Mo_3 - x_T26_S13_Mo_3 - x_T26_S16_Mo_3 - x_T26_S19_Mo_3 = 0
+ flow_T26_Mo_4: x_T26_S1_Mo_4 + x_T26_S4_Mo_4 + x_T26_S7_Mo_4 + x_T26_S10_Mo_4 + x_T26_S13_Mo_4 + x_T26_S16_Mo_4 + x_T26_S19_Mo_4 - x_T26_S1_Mo_4 - x_T26_S4_Mo_4 - x_T26_S7_Mo_4 - x_T26_S10_Mo_4 - x_T26_S13_Mo_4 - x_T26_S16_Mo_4 - x_T26_S19_Mo_4 = 0
+ flow_T26_Mo_5: x_T26_S1_Mo_5 + x_T26_S4_Mo_5 + x_T26_S7_Mo_5 + x_T26_S10_Mo_5 + x_T26_S13_Mo_5 + x_T26_S16_Mo_5 + x_T26_S19_Mo_5 - x_T26_S1_Mo_5 - x_T26_S4_Mo_5 - x_T26_S7_Mo_5 - x_T26_S10_Mo_5 - x_T26_S13_Mo_5 - x_T26_S16_Mo_5 - x_T26_S19_Mo_5 = -1
+ flow_T26_Tu_1: x_T26_S1_Tu_1 + x_T26_S4_Tu_1 + x_T26_S7_Tu_1 + x_T26_S10_Tu_1 + x_T26_S13_Tu_1 + x_T26_S16_Tu_1 + x_T26_S19_Tu_1 - x_T26_S1_Tu_1 - x_T26_S4_Tu_1 - x_T26_S7_Tu_1 - x_T26_S10_Tu_1 - x_T26_S13_Tu_1 - x_T26_S16_Tu_1 - x_T26_S19_Tu_1 = 1
+ flow_T26_Tu_2: x_T26_S1_Tu_2 + x_T26_S4_Tu_2 + x_T26_S7_Tu_2 + x_T26_S10_Tu_2 + x_T26_S13_Tu_2 + x_T26_S16_Tu_2 + x_T26_S19_Tu_2 - x_T26_S1_Tu_2 - x_T26_S4_Tu_2 - x_T26_S7_Tu_2 - x_T26_S10_Tu_2 - x_T26_S13_Tu_2 - x_T26_S16_Tu_2 - x_T26_S19_Tu_2 = 0
+ flow_T26_Tu_3: x_T26_S1_Tu_3 + x_T26_S4_Tu_3 + x_T26_S7_Tu_3 + x_T26_S10_Tu_3 + x_T26_S13_Tu_3 + x_T26_S16_Tu_3 + x_T26_S19_Tu_3 - x_T26_S1_Tu_3 - x_T26_S4_Tu_3 - x_T26_S7_Tu_3 - x_T26_S10_Tu_3 - x_T26_S13_Tu_3 - x_T26_S16_Tu_3 - x_T26_S19_Tu_3 = 0
+ flow_T26_Tu_4: x_T26_S1_Tu_4 + x_T26_S4_Tu_4 + x_T26_S7_Tu_4 + x_T26_S10_Tu_4 + x_T26_S13_Tu_4 + x_T26_S16_Tu_4 + x_T26_S19_Tu_4 - x_T26_S1_Tu_4 - x_T26_S4_Tu_4 - x_T26_S7_Tu_4 - x_T26_S10_Tu_4 - x_T26_S13_Tu_4 - x_T26_S16_Tu_4 - x_T26_S19_Tu_4 = 0
+ flow_T26_Tu_5: x_T26_S1_Tu_5 + x_T26_S4_Tu_5 + x_T26_S7_Tu_5 + x_T26_S10_Tu_5 + x_T26_S13_Tu_5 + x_T26_S16_Tu_5 + x_T26_S19_Tu_5 - x_T26_S1_Tu_5 - x_T26_S4_Tu_5 - x_T26_S7_Tu_5 - x_T26_S10_Tu_5 - x_T26_S13_Tu_5 - x_T26_S16_Tu_5 - x_T26_S19_Tu_5 = -1
+ flow_T26_We_1: x_T26_S1_We_1 + x_T26_S4_We_1 + x_T26_S7_We_1 + x_T26_S10_We_1 + x_T26_S13_We_1 + x_T26_S16_We_1 + x_T26_S19_We_1 - x_T26_S1_We_1 - x_T26_S4_We_1 - x_T26_S7_We_1 - x_T26_S10_We_1 - x_T26_S13_We_1 - x_T26_S16_We_1 - x_T26_S19_We_1 = 1
+ flow_T26_We_2: x_T26_S1_We_2 + x_T26_S4_We_2 + x_T26_S7_We_2 + x_T26_S10_We_2 + x_T26_S13_We_2 + x_T26_S16_We_2 + x_T26_S19_We_2 - x_T26_S1_We_2 - x_T26_S4_We_2 - x_T26_S7_We_2 - x_T26_S10_We_2 - x_T26_S13_We_2 - x_T26_S16_We_2 - x_T26_S19_We_2 = 0
+ flow_T26_We_3: x_T26_S1_We_3 + x_T26_S4_We_3 + x_T26_S7_We_3 + x_T26_S10_We_3 + x_T26_S13_We_3 + x_T26_S16_We_3 + x_T26_S19_We_3 - x_T26_S1_We_3 - x_T26_S4_We_3 - x_T26_S7_We_3 - x_T26_S10_We_3 - x_T26_S13_We_3 - x_T26_S16_We_3 - x_T26_S19_We_3 = 0
+ flow_T26_We_4: x_T26_S1_We_4 + x_T26_S4_We_4 + x_T26_S7_We_4 + x_T26_S10_We_4 + x_T26_S13_We_4 + x_T26_S16_We_4 + x_T26_S19_We_4 - x_T26_S1_We_4 - x_T26_S4_We_4 - x_T26_S7_We_4 - x_T26_S10_We_4 - x_T26_S13_We_4 - x_T26_S16_We_4 - x_T26_S19_We_4 = 0
+ flow_T26_We_5: x_T26_S1_We_5 + x_T26_S4_We_5 + x_T26_S7_We_5 + x_T26_S10_We_5 + x_T26_S13_We_5 + x_T26_S16_We_5 + x_T26_S19_We_5 - x_T26_S1_We_5 - x_T26_S4_We_5 - x_T26_S7_We_5 - x_T26_S10_We_5 - x_T26_S13_We_5 - x_T26_S16_We_5 - x_T26_S19_We_5 = -1
+ flow_T26_Th_1: x_T26_S1_Th_1 + x_T26_S4_Th_1 + x_T26_S7_Th_1 + x_T26_S10_Th_1 + x_T26_S13_Th_1 + x_T26_S16_Th_1 + x_T26_S19_Th_1 - x_T26_S1_Th_1 - x_T26_S4_Th_1 - x_T26_S7_Th_1 - x_T26_S10_Th_1 - x_T26_S13_Th_1 - x_T26_S16_Th_1 - x_T26_S19_Th_1 = 1
+ flow_T26_Th_2: x_T26_S1_Th_2 + x_T26_S4_Th_2 + x_T26_S7_Th_2 + x_T26_S10_Th_2 + x_T26_S13_Th_2 + x_T26_S16_Th_2 + x_T26_S19_Th_2 - x_T26_S1_Th_2 - x_T26_S4_Th_2 - x_T26_S7_Th_2 - x_T26_S10_Th_2 - x_T26_S13_Th_2 - x_T26_S16_Th_2 - x_T26_S19_Th_2 = 0
+ flow_T26_Th_3: x_T26_S1_Th_3 + x_T26_S4_Th_3 + x_T26_S7_Th_3 + x_T26_S10_Th_3 + x_T26_S13_Th_3 + x_T26_S16_Th_3 + x_T26_S19_Th_3 - x_T26_S1_Th_3 - x_T26_S4_Th_3 - x_T26_S7_Th_3 - x_T26_S10_Th_3 - x_T26_S13_Th_3 - x_T26_S16_Th_3 - x_T26_S19_Th_3 = 0
+ flow_T26_Th_4: x_T26_S1_Th_4 + x_T26_S4_Th_4 + x_T26_S7_Th_4 + x_T26_S10_Th_4 + x_T26_S13_Th_4 + x_T26_S16_Th_4 + x_T26_S19_Th_4 - x_T26_S1_Th_4 - x_T26_S4_Th_4 - x_T26_S7_Th_4 - x_T26_S10_Th_4 - x_T26_S13_Th_4 - x_T26_S16_Th_4 - x_T26_S19_Th_4 = 0
+ flow_T26_Th_5: x_T26_S1_Th_5 + x_T26_S4_Th_5 + x_T26_S7_Th_5 + x_T26_S10_Th_5 + x_T26_S13_Th_5 + x_T26_S16_Th_5 + x_T26_S19_Th_5 - x_T26_S1_Th_5 - x_T26_S4_Th_5 - x_T26_S7_Th_5 - x_T26_S10_Th_5 - x_T26_S13_Th_5 - x_T26_S16_Th_5 - x_T26_S19_Th_5 = -1
+ flow_T26_Fr_1: x_T26_S1_Fr_1 + x_T26_S4_Fr_1 + x_T26_S7_Fr_1 + x_T26_S10_Fr_1 + x_T26_S13_Fr_1 + x_T26_S16_Fr_1 + x_T26_S19_Fr_1 - x_T26_S1_Fr_1 - x_T26_S4_Fr_1 - x_T26_S7_Fr_1 - x_T26_S10_Fr_1 - x_T26_S13_Fr_1 - x_T26_S16_Fr_1 - x_T26_S19_Fr_1 = 1
+ flow_T26_Fr_2: x_T26_S1_Fr_2 + x_T26_S4_Fr_2 + x_T26_S7_Fr_2 + x_T26_S10_Fr_2 + x_T26_S13_Fr_2 + x_T26_S16_Fr_2 + x_T26_S19_Fr_2 - x_T26_S1_Fr_2 - x_T26_S4_Fr_2 - x_T26_S7_Fr_2 - x_T26_S10_Fr_2 - x_T26_S13_Fr_2 - x_T26_S16_Fr_2 - x_T26_S19_Fr_2 = 0
+ flow_T26_Fr_3: x_T26_S1_Fr_3 + x_T26_S4_Fr_3 + x_T26_S7_Fr_3 + x_T26_S10_Fr_3 + x_T26_S13_Fr_3 + x_T26_S16_Fr_3 + x_T26_S19_Fr_3 - x_T26_S1_Fr_3 - x_T26_S4_Fr_3 - x_T26_S7_Fr_3 - x_T26_S10_Fr_3 - x_T26_S13_Fr_3 - x_T26_S16_Fr_3 - x_T26_S19_Fr_3 = 0
+ flow_T26_Fr_4: x_T26_S1_Fr_4 + x_T26_S4_Fr_4 + x_T26_S7_Fr_4 + x_T26_S10_Fr_4 + x_T26_S13_Fr_4 + x_T26_S16_Fr_4 + x_T26_S19_Fr_4 - x_T26_S1_Fr_4 - x_T26_S4_Fr_4 - x_T26_S7_Fr_4 - x_T26_S10_Fr_4 - x_T26_S13_Fr_4 - x_T26_S16_Fr_4 - x_T26_S19_Fr_4 = 0
+ flow_T26_Fr_5: x_T26_S1_Fr_5 + x_T26_S4_Fr_5 + x_T26_S7_Fr_5 + x_T26_S10_Fr_5 + x_T26_S13_Fr_5 + x_T26_S16_Fr_5 + x_T26_S19_Fr_5 - x_T26_S1_Fr_5 - x_T26_S4_Fr_5 - x_T26_S7_Fr_5 - x_T26_S10_Fr_5 - x_T26_S13_Fr_5 - x_T26_S16_Fr_5 - x_T26_S19_Fr_5 = -1
+ flow_T10_Mo_1: x_T10_S1_Mo_1 + x_T10_S2_Mo_1 + x_T10_S3_Mo_1 + x_T10_S4_Mo_1 + x_T10_S5_Mo_1 - x_T10_S1_Mo_1 - x_T10_S2_Mo_1 - x_T10_S3_Mo_1 - x_T10_S4_Mo_1 - x_T10_S5_Mo_1 = 1
+ flow_T10_Mo_2: x_T10_S1_Mo_2 + x_T10_S2_Mo_2 + x_T10_S3_Mo_2 + x_T10_S4_Mo_2 + x_T10_S5_Mo_2 - x_T10_S1_Mo_2 - x_T10_S2_Mo_2 - x_T10_S3_Mo_2 - x_T10_S4_Mo_2 - x_T10_S5_Mo_2 = 0
+ flow_T10_Mo_3: x_T10_S1_Mo_3 + x_T10_S2_Mo_3 + x_T10_S3_Mo_3 + x_T10_S4_Mo_3 + x_T10_S5_Mo_3 - x_T10_S1_Mo_3 - x_T10_S2_Mo_3 - x_T10_S3_Mo_3 - x_T10_S4_Mo_3 - x_T10_S5_Mo_3 = 0
+ flow_T10_Mo_4: x_T10_S1_Mo_4 + x_T10_S2_Mo_4 + x_T10_S3_Mo_4 + x_T10_S4_Mo_4 + x_T10_S5_Mo_4 - x_T10_S1_Mo_4 - x_T10_S2_Mo_4 - x_T10_S3_Mo_4 - x_T10_S4_Mo_4 - x_T10_S5_Mo_4 = 0
+ flow_T10_Mo_5: x_T10_S1_Mo_5 + x_T10_S2_Mo_5 + x_T10_S3_Mo_5 + x_T10_S4_Mo_5 + x_T10_S5_Mo_5 - x_T10_S1_Mo_5 - x_T10_S2_Mo_5 - x_T10_S3_Mo_5 - x_T10_S4_Mo_5 - x_T10_S5_Mo_5 = -1
+ flow_T10_Tu_1: x_T10_S1_Tu_1 + x_T10_S2_Tu_1 + x_T10_S3_Tu_1 + x_T10_S4_Tu_1 + x_T10_S5_Tu_1 - x_T10_S1_Tu_1 - x_T10_S2_Tu_1 - x_T10_S3_Tu_1 - x_T10_S4_Tu_1 - x_T10_S5_Tu_1 = 1
+ flow_T10_Tu_2: x_T10_S1_Tu_2 + x_T10_S2_Tu_2 + x_T10_S3_Tu_2 + x_T10_S4_Tu_2 + x_T10_S5_Tu_2 - x_T10_S1_Tu_2 - x_T10_S2_Tu_2 - x_T10_S3_Tu_2 - x_T10_S4_Tu_2 - x_T10_S5_Tu_2 = 0
+ flow_T10_Tu_3: x_T10_S1_Tu_3 + x_T10_S2_Tu_3 + x_T10_S3_Tu_3 + x_T10_S4_Tu_3 + x_T10_S5_Tu_3 - x_T10_S1_Tu_3 - x_T10_S2_Tu_3 - x_T10_S3_Tu_3 - x_T10_S4_Tu_3 - x_T10_S5_Tu_3 = 0
+ flow_T10_Tu_4: x_T10_S1_Tu_4 + x_T10_S2_Tu_4 + x_T10_S3_Tu_4 + x_T10_S4_Tu_4 + x_T10_S5_Tu_4 - x_T10_S1_Tu_4 - x_T10_S2_Tu_4 - x_T10_S3_Tu_4 - x_T10_S4_Tu_4 - x_T10_S5_Tu_4 = 0
+ flow_T10_Tu_5: x_T10_S1_Tu_5 + x_T10_S2_Tu_5 + x_T10_S3_Tu_5 + x_T10_S4_Tu_5 + x_T10_S5_Tu_5 - x_T10_S1_Tu_5 - x_T10_S2_Tu_5 - x_T10_S3_Tu_5 - x_T10_S4_Tu_5 - x_T10_S5_Tu_5 = -1
+ flow_T10_We_1: x_T10_S1_We_1 + x_T10_S2_We_1 + x_T10_S3_We_1 + x_T10_S4_We_1 + x_T10_S5_We_1 - x_T10_S1_We_1 - x_T10_S2_We_1 - x_T10_S3_We_1 - x_T10_S4_We_1 - x_T10_S5_We_1 = 1
+ flow_T10_We_2: x_T10_S1_We_2 + x_T10_S2_We_2 + x_T10_S3_We_2 + x_T10_S4_We_2 + x_T10_S5_We_2 - x_T10_S1_We_2 - x_T10_S2_We_2 - x_T10_S3_We_2 - x_T10_S4_We_2 - x_T10_S5_We_2 = 0
+ flow_T10_We_3: x_T10_S1_We_3 + x_T10_S2_We_3 + x_T10_S3_We_3 + x_T10_S4_We_3 + x_T10_S5_We_3 - x_T10_S1_We_3 - x_T10_S2_We_3 - x_T10_S3_We_3 - x_T10_S4_We_3 - x_T10_S5_We_3 = 0
+ flow_T10_We_4: x_T10_S1_We_4 + x_T10_S2_We_4 + x_T10_S3_We_4 + x_T10_S4_We_4 + x_T10_S5_We_4 - x_T10_S1_We_4 - x_T10_S2_We_4 - x_T10_S3_We_4 - x_T10_S4_We_4 - x_T10_S5_We_4 = 0
+ flow_T10_We_5: x_T10_S1_We_5 + x_T10_S2_We_5 + x_T10_S3_We_5 + x_T10_S4_We_5 + x_T10_S5_We_5 - x_T10_S1_We_5 - x_T10_S2_We_5 - x_T10_S3_We_5 - x_T10_S4_We_5 - x_T10_S5_We_5 = -1
+ flow_T10_Th_1: x_T10_S1_Th_1 + x_T10_S2_Th_1 + x_T10_S3_Th_1 + x_T10_S4_Th_1 + x_T10_S5_Th_1 - x_T10_S1_Th_1 - x_T10_S2_Th_1 - x_T10_S3_Th_1 - x_T10_S4_Th_1 - x_T10_S5_Th_1 = 1
+ flow_T10_Th_2: x_T10_S1_Th_2 + x_T10_S2_Th_2 + x_T10_S3_Th_2 + x_T10_S4_Th_2 + x_T10_S5_Th_2 - x_T10_S1_Th_2 - x_T10_S2_Th_2 - x_T10_S3_Th_2 - x_T10_S4_Th_2 - x_T10_S5_Th_2 = 0
+ flow_T10_Th_3: x_T10_S1_Th_3 + x_T10_S2_Th_3 + x_T10_S3_Th_3 + x_T10_S4_Th_3 + x_T10_S5_Th_3 - x_T10_S1_Th_3 - x_T10_S2_Th_3 - x_T10_S3_Th_3 - x_T10_S4_Th_3 - x_T10_S5_Th_3 = 0
+ flow_T10_Th_4: x_T10_S1_Th_4 + x_T10_S2_Th_4 + x_T10_S3_Th_4 + x_T10_S4_Th_4 + x_T10_S5_Th_4 - x_T10_S1_Th_4 - x_T10_S2_Th_4 - x_T10_S3_Th_4 - x_T10_S4_Th_4 - x_T10_S5_Th_4 = 0
+ flow_T10_Th_5: x_T10_S1_Th_5 + x_T10_S2_Th_5 + x_T10_S3_Th_5 + x_T10_S4_Th_5 + x_T10_S5_Th_5 - x_T10_S1_Th_5 - x_T10_S2_Th_5 - x_T10_S3_Th_5 - x_T10_S4_Th_5 - x_T10_S5_Th_5 = -1
+ flow_T10_Fr_1: x_T10_S1_Fr_1 + x_T10_S2_Fr_1 + x_T10_S3_Fr_1 + x_T10_S4_Fr_1 + x_T10_S5_Fr_1 - x_T10_S1_Fr_1 - x_T10_S2_Fr_1 - x_T10_S3_Fr_1 - x_T10_S4_Fr_1 - x_T10_S5_Fr_1 = 1
+ flow_T10_Fr_2: x_T10_S1_Fr_2 + x_T10_S2_Fr_2 + x_T10_S3_Fr_2 + x_T10_S4_Fr_2 + x_T10_S5_Fr_2 - x_T10_S1_Fr_2 - x_T10_S2_Fr_2 - x_T10_S3_Fr_2 - x_T10_S4_Fr_2 - x_T10_S5_Fr_2 = 0
+ flow_T10_Fr_3: x_T10_S1_Fr_3 + x_T10_S2_Fr_3 + x_T10_S3_Fr_3 + x_T10_S4_Fr_3 + x_T10_S5_Fr_3 - x_T10_S1_Fr_3 - x_T10_S2_Fr_3 - x_T10_S3_Fr_3 - x_T10_S4_Fr_3 - x_T10_S5_Fr_3 = 0
+ flow_T10_Fr_4: x_T10_S1_Fr_4 + x_T10_S2_Fr_4 + x_T10_S3_Fr_4 + x_T10_S4_Fr_4 + x_T10_S5_Fr_4 - x_T10_S1_Fr_4 - x_T10_S2_Fr_4 - x_T10_S3_Fr_4 - x_T10_S4_Fr_4 - x_T10_S5_Fr_4 = 0
+ flow_T10_Fr_5: x_T10_S1_Fr_5 + x_T10_S2_Fr_5 + x_T10_S3_Fr_5 + x_T10_S4_Fr_5 + x_T10_S5_Fr_5 - x_T10_S1_Fr_5 - x_T10_S2_Fr_5 - x_T10_S3_Fr_5 - x_T10_S4_Fr_5 - x_T10_S5_Fr_5 = -1
+ flow_T25_Mo_1: x_T25_S7_Mo_1 + x_T25_S8_Mo_1 + x_T25_S9_Mo_1 + x_T25_S16_Mo_1 + x_T25_S17_Mo_1 + x_T25_S18_Mo_1 - x_T25_S7_Mo_1 - x_T25_S8_Mo_1 - x_T25_S9_Mo_1 - x_T25_S16_Mo_1 - x_T25_S17_Mo_1 - x_T25_S18_Mo_1 = 1
+ flow_T25_Mo_2: x_T25_S7_Mo_2 + x_T25_S8_Mo_2 + x_T25_S9_Mo_2 + x_T25_S16_Mo_2 + x_T25_S17_Mo_2 + x_T25_S18_Mo_2 - x_T25_S7_Mo_2 - x_T25_S8_Mo_2 - x_T25_S9_Mo_2 - x_T25_S16_Mo_2 - x_T25_S17_Mo_2 - x_T25_S18_Mo_2 = 0
+ flow_T25_Mo_3: x_T25_S7_Mo_3 + x_T25_S8_Mo_3 + x_T25_S9_Mo_3 + x_T25_S16_Mo_3 + x_T25_S17_Mo_3 + x_T25_S18_Mo_3 - x_T25_S7_Mo_3 - x_T25_S8_Mo_3 - x_T25_S9_Mo_3 - x_T25_S16_Mo_3 - x_T25_S17_Mo_3 - x_T25_S18_Mo_3 = 0
+ flow_T25_Mo_4: x_T25_S7_Mo_4 + x_T25_S8_Mo_4 + x_T25_S9_Mo_4 + x_T25_S16_Mo_4 + x_T25_S17_Mo_4 + x_T25_S18_Mo_4 - x_T25_S7_Mo_4 - x_T25_S8_Mo_4 - x_T25_S9_Mo_4 - x_T25_S16_Mo_4 - x_T25_S17_Mo_4 - x_T25_S18_Mo_4 = 0
+ flow_T25_Mo_5: x_T25_S7_Mo_5 + x_T25_S8_Mo_5 + x_T25_S9_Mo_5 + x_T25_S16_Mo_5 + x_T25_S17_Mo_5 + x_T25_S18_Mo_5 - x_T25_S7_Mo_5 - x_T25_S8_Mo_5 - x_T25_S9_Mo_5 - x_T25_S16_Mo_5 - x_T25_S17_Mo_5 - x_T25_S18_Mo_5 = -1
+ flow_T25_Tu_1: x_T25_S7_Tu_1 + x_T25_S8_Tu_1 + x_T25_S9_Tu_1 + x_T25_S16_Tu_1 + x_T25_S17_Tu_1 + x_T25_S18_Tu_1 - x_T25_S7_Tu_1 - x_T25_S8_Tu_1 - x_T25_S9_Tu_1 - x_T25_S16_Tu_1 - x_T25_S17_Tu_1 - x_T25_S18_Tu_1 = 1
+ flow_T25_Tu_2: x_T25_S7_Tu_2 + x_T25_S8_Tu_2 + x_T25_S9_Tu_2 + x_T25_S16_Tu_2 + x_T25_S17_Tu_2 + x_T25_S18_Tu_2 - x_T25_S7_Tu_2 - x_T25_S8_Tu_2 - x_T25_S9_Tu_2 - x_T25_S16_Tu_2 - x_T25_S17_Tu_2 - x_T25_S18_Tu_2 = 0
+ flow_T25_Tu_3: x_T25_S7_Tu_3 + x_T25_S8_Tu_3 + x_T25_S9_Tu_3 + x_T25_S16_Tu_3 + x_T25_S17_Tu_3 + x_T25_S18_Tu_3 - x_T25_S7_Tu_3 - x_T25_S8_Tu_3 - x_T25_S9_Tu_3 - x_T25_S16_Tu_3 - x_T25_S17_Tu_3 - x_T25_S18_Tu_3 = 0
+ flow_T25_Tu_4: x_T25_S7_Tu_4 + x_T25_S8_Tu_4 + x_T25_S9_Tu_4 + x_T25_S16_Tu_4 + x_T25_S17_Tu_4 + x_T25_S18_Tu_4 - x_T25_S7_Tu_4 - x_T25_S8_Tu_4 - x_T25_S9_Tu_4 - x_T25_S16_Tu_4 - x_T25_S17_Tu_4 - x_T25_S18_Tu_4 = 0
+ flow_T25_Tu_5: x_T25_S7_Tu_5 + x_T25_S8_Tu_5 + x_T25_S9_Tu_5 + x_T25_S16_Tu_5 + x_T25_S17_Tu_5 + x_T25_S18_Tu_5 - x_T25_S7_Tu_5 - x_T25_S8_Tu_5 - x_T25_S9_Tu_5 - x_T25_S16_Tu_5 - x_T25_S17_Tu_5 - x_T25_S18_Tu_5 = -1
+ flow_T25_We_1: x_T25_S7_We_1 + x_T25_S8_We_1 + x_T25_S9_We_1 + x_T25_S16_We_1 + x_T25_S17_We_1 + x_T25_S18_We_1 - x_T25_S7_We_1 - x_T25_S8_We_1 - x_T25_S9_We_1 - x_T25_S16_We_1 - x_T25_S17_We_1 - x_T25_S18_We_1 = 1
+ flow_T25_We_2: x_T25_S7_We_2 + x_T25_S8_We_2 + x_T25_S9_We_2 + x_T25_S16_We_2 + x_T25_S17_We_2 + x_T25_S18_We_2 - x_T25_S7_We_2 - x_T25_S8_We_2 - x_T25_S9_We_2 - x_T25_S16_We_2 - x_T25_S17_We_2 - x_T25_S18_We_2 = 0
+ flow_T25_We_3: x_T25_S7_We_3 + x_T25_S8_We_3 + x_T25_S9_We_3 + x_T25_S16_We_3 + x_T25_S17_We_3 + x_T25_S18_We_3 - x_T25_S7_We_3 - x_T25_S8_We_3 - x_T25_S9_We_3 - x_T25_S16_We_3 - x_T25_S17_We_3 - x_T25_S18_We_3 = 0
+ flow_T25_We_4: x_T25_S7_We_4 + x_T25_S8_We_4 + x_T25_S9_We_4 + x_T25_S16_We_4 + x_T25_S17_We_4 + x_T25_S18_We_4 - x_T25_S7_We_4 - x_T25_S8_We_4 - x_T25_S9_We_4 - x_T25_S16_We_4 - x_T25_S17_We_4 - x_T25_S18_We_4 = 0
+ flow_T25_We_5: x_T25_S7_We_5 + x_T25_S8_We_5 + x_T25_S9_We_5 + x_T25_S16_We_5 + x_T25_S17_We_5 + x_T25_S18_We_5 - x_T25_S7_We_5 - x_T25_S8_We_5 - x_T25_S9_We_5 - x_T25_S16_We_5 - x_T25_S17_We_5 - x_T25_S18_We_5 = -1
+ flow_T25_Th_1: x_T25_S7_Th_1 + x_T25_S8_Th_1 + x_T25_S9_Th_1 + x_T25_S16_Th_1 + x_T25_S17_Th_1 + x_T25_S18_Th_1 - x_T25_S7_Th_1 - x_T25_S8_Th_1 - x_T25_S9_Th_1 - x_T25_S16_Th_1 - x_T25_S17_Th_1 - x_T25_S18_Th_1 = 1
+ flow_T25_Th_2: x_T25_S7_Th_2 + x_T25_S8_Th_2 + x_T25_S9_Th_2 + x_T25_S16_Th_2 + x_T25_S17_Th_2 + x_T25_S18_Th_2 - x_T25_S7_Th_2 - x_T25_S8_Th_2 - x_T25_S9_Th_2 - x_T25_S16_Th_2 - x_T25_S17_Th_2 - x_T25_S18_Th_2 = 0
+ flow_T25_Th_3: x_T25_S7_Th_3 + x_T25_S8_Th_3 + x_T25_S9_Th_3 + x_T25_S16_Th_3 + x_T25_S17_Th_3 + x_T25_S18_Th_3 - x_T25_S7_Th_3 - x_T25_S8_Th_3 - x_T25_S9_Th_3 - x_T25_S16_Th_3 - x_T25_S17_Th_3 - x_T25_S18_Th_3 = 0
+ flow_T25_Th_4: x_T25_S7_Th_4 + x_T25_S8_Th_4 + x_T25_S9_Th_4 + x_T25_S16_Th_4 + x_T25_S17_Th_4 + x_T25_S18_Th_4 - x_T25_S7_Th_4 - x_T25_S8_Th_4 - x_T25_S9_Th_4 - x_T25_S16_Th_4 - x_T25_S17_Th_4 - x_T25_S18_Th_4 = 0
+ flow_T25_Th_5: x_T25_S7_Th_5 + x_T25_S8_Th_5 + x_T25_S9_Th_5 + x_T25_S16_Th_5 + x_T25_S17_Th_5 + x_T25_S18_Th_5 - x_T25_S7_Th_5 - x_T25_S8_Th_5 - x_T25_S9_Th_5 - x_T25_S16_Th_5 - x_T25_S17_Th_5 - x_T25_S18_Th_5 = -1
+ flow_T25_Fr_1: x_T25_S7_Fr_1 + x_T25_S8_Fr_1 + x_T25_S9_Fr_1 + x_T25_S16_Fr_1 + x_T25_S17_Fr_1 + x_T25_S18_Fr_1 - x_T25_S7_Fr_1 - x_T25_S8_Fr_1 - x_T25_S9_Fr_1 - x_T25_S16_Fr_1 - x_T25_S17_Fr_1 - x_T25_S18_Fr_1 = 1
+ flow_T25_Fr_2: x_T25_S7_Fr_2 + x_T25_S8_Fr_2 + x_T25_S9_Fr_2 + x_T25_S16_Fr_2 + x_T25_S17_Fr_2 + x_T25_S18_Fr_2 - x_T25_S7_Fr_2 - x_T25_S8_Fr_2 - x_T25_S9_Fr_2 - x_T25_S16_Fr_2 - x_T25_S17_Fr_2 - x_T25_S18_Fr_2 = 0
+ flow_T25_Fr_3: x_T25_S7_Fr_3 + x_T25_S8_Fr_3 + x_T25_S9_Fr_3 + x_T25_S16_Fr_3 + x_T25_S17_Fr_3 + x_T25_S18_Fr_3 - x_T25_S7_Fr_3 - x_T25_S8_Fr_3 - x_T25_S9_Fr_3 - x_T25_S16_Fr_3 - x_T25_S17_Fr_3 - x_T25_S18_Fr_3 = 0
+ flow_T25_Fr_4: x_T25_S7_Fr_4 + x_T25_S8_Fr_4 + x_T25_S9_Fr_4 + x_T25_S16_Fr_4 + x_T25_S17_Fr_4 + x_T25_S18_Fr_4 - x_T25_S7_Fr_4 - x_T25_S8_Fr_4 - x_T25_S9_Fr_4 - x_T25_S16_Fr_4 - x_T25_S17_Fr_4 - x_T25_S18_Fr_4 = 0
+ flow_T25_Fr_5: x_T25_S7_Fr_5 + x_T25_S8_Fr_5 + x_T25_S9_Fr_5 + x_T25_S16_Fr_5 + x_T25_S17_Fr_5 + x_T25_S18_Fr_5 - x_T25_S7_Fr_5 - x_T25_S8_Fr_5 - x_T25_S9_Fr_5 - x_T25_S16_Fr_5 - x_T25_S17_Fr_5 - x_T25_S18_Fr_5 = -1
+ flow_T29_Mo_1: x_T29_S1_Mo_1 + x_T29_S4_Mo_1 + x_T29_S7_Mo_1 + x_T29_S10_Mo_1 + x_T29_S13_Mo_1 + x_T29_S16_Mo_1 + x_T29_S19_Mo_1 - x_T29_S1_Mo_1 - x_T29_S4_Mo_1 - x_T29_S7_Mo_1 - x_T29_S10_Mo_1 - x_T29_S13_Mo_1 - x_T29_S16_Mo_1 - x_T29_S19_Mo_1 = 1
+ flow_T29_Mo_2: x_T29_S1_Mo_2 + x_T29_S4_Mo_2 + x_T29_S7_Mo_2 + x_T29_S10_Mo_2 + x_T29_S13_Mo_2 + x_T29_S16_Mo_2 + x_T29_S19_Mo_2 - x_T29_S1_Mo_2 - x_T29_S4_Mo_2 - x_T29_S7_Mo_2 - x_T29_S10_Mo_2 - x_T29_S13_Mo_2 - x_T29_S16_Mo_2 - x_T29_S19_Mo_2 = 0
+ flow_T29_Mo_3: x_T29_S1_Mo_3 + x_T29_S4_Mo_3 + x_T29_S7_Mo_3 + x_T29_S10_Mo_3 + x_T29_S13_Mo_3 + x_T29_S16_Mo_3 + x_T29_S19_Mo_3 - x_T29_S1_Mo_3 - x_T29_S4_Mo_3 - x_T29_S7_Mo_3 - x_T29_S10_Mo_3 - x_T29_S13_Mo_3 - x_T29_S16_Mo_3 - x_T29_S19_Mo_3 = 0
+ flow_T29_Mo_4: x_T29_S1_Mo_4 + x_T29_S4_Mo_4 + x_T29_S7_Mo_4 + x_T29_S10_Mo_4 + x_T29_S13_Mo_4 + x_T29_S16_Mo_4 + x_T29_S19_Mo_4 - x_T29_S1_Mo_4 - x_T29_S4_Mo_4 - x_T29_S7_Mo_4 - x_T29_S10_Mo_4 - x_T29_S13_Mo_4 - x_T29_S16_Mo_4 - x_T29_S19_Mo_4 = 0
+ flow_T29_Mo_5: x_T29_S1_Mo_5 + x_T29_S4_Mo_5 + x_T29_S7_Mo_5 + x_T29_S10_Mo_5 + x_T29_S13_Mo_5 + x_T29_S16_Mo_5 + x_T29_S19_Mo_5 - x_T29_S1_Mo_5 - x_T29_S4_Mo_5 - x_T29_S7_Mo_5 - x_T29_S10_Mo_5 - x_T29_S13_Mo_5 - x_T29_S16_Mo_5 - x_T29_S19_Mo_5 = -1
+ flow_T29_Tu_1: x_T29_S1_Tu_1 + x_T29_S4_Tu_1 + x_T29_S7_Tu_1 + x_T29_S10_Tu_1 + x_T29_S13_Tu_1 + x_T29_S16_Tu_1 + x_T29_S19_Tu_1 - x_T29_S1_Tu_1 - x_T29_S4_Tu_1 - x_T29_S7_Tu_1 - x_T29_S10_Tu_1 - x_T29_S13_Tu_1 - x_T29_S16_Tu_1 - x_T29_S19_Tu_1 = 1
+ flow_T29_Tu_2: x_T29_S1_Tu_2 + x_T29_S4_Tu_2 + x_T29_S7_Tu_2 + x_T29_S10_Tu_2 + x_T29_S13_Tu_2 + x_T29_S16_Tu_2 + x_T29_S19_Tu_2 - x_T29_S1_Tu_2 - x_T29_S4_Tu_2 - x_T29_S7_Tu_2 - x_T29_S10_Tu_2 - x_T29_S13_Tu_2 - x_T29_S16_Tu_2 - x_T29_S19_Tu_2 = 0
+ flow_T29_Tu_3: x_T29_S1_Tu_3 + x_T29_S4_Tu_3 + x_T29_S7_Tu_3 + x_T29_S10_Tu_3 + x_T29_S13_Tu_3 + x_T29_S16_Tu_3 + x_T29_S19_Tu_3 - x_T29_S1_Tu_3 - x_T29_S4_Tu_3 - x_T29_S7_Tu_3 - x_T29_S10_Tu_3 - x_T29_S13_Tu_3 - x_T29_S16_Tu_3 - x_T29_S19_Tu_3 = 0
+ flow_T29_Tu_4: x_T29_S1_Tu_4 + x_T29_S4_Tu_4 + x_T29_S7_Tu_4 + x_T29_S10_Tu_4 + x_T29_S13_Tu_4 + x_T29_S16_Tu_4 + x_T29_S19_Tu_4 - x_T29_S1_Tu_4 - x_T29_S4_Tu_4 - x_T29_S7_Tu_4 - x_T29_S10_Tu_4 - x_T29_S13_Tu_4 - x_T29_S16_Tu_4 - x_T29_S19_Tu_4 = 0
+ flow_T29_Tu_5: x_T29_S1_Tu_5 + x_T29_S4_Tu_5 + x_T29_S7_Tu_5 + x_T29_S10_Tu_5 + x_T29_S13_Tu_5 + x_T29_S16_Tu_5 + x_T29_S19_Tu_5 - x_T29_S1_Tu_5 - x_T29_S4_Tu_5 - x_T29_S7_Tu_5 - x_T29_S10_Tu_5 - x_T29_S13_Tu_5 - x_T29_S16_Tu_5 - x_T29_S19_Tu_5 = -1
+ flow_T29_We_1: x_T29_S1_We_1 + x_T29_S4_We_1 + x_T29_S7_We_1 + x_T29_S10_We_1 + x_T29_S13_We_1 + x_T29_S16_We_1 + x_T29_S19_We_1 - x_T29_S1_We_1 - x_T29_S4_We_1 - x_T29_S7_We_1 - x_T29_S10_We_1 - x_T29_S13_We_1 - x_T29_S16_We_1 - x_T29_S19_We_1 = 1
+ flow_T29_We_2: x_T29_S1_We_2 + x_T29_S4_We_2 + x_T29_S7_We_2 + x_T29_S10_We_2 + x_T29_S13_We_2 + x_T29_S16_We_2 + x_T29_S19_We_2 - x_T29_S1_We_2 - x_T29_S4_We_2 - x_T29_S7_We_2 - x_T29_S10_We_2 - x_T29_S13_We_2 - x_T29_S16_We_2 - x_T29_S19_We_2 = 0
+ flow_T29_We_3: x_T29_S1_We_3 + x_T29_S4_We_3 + x_T29_S7_We_3 + x_T29_S10_We_3 + x_T29_S13_We_3 + x_T29_S16_We_3 + x_T29_S19_We_3 - x_T29_S1_We_3 - x_T29_S4_We_3 - x_T29_S7_We_3 - x_T29_S10_We_3 - x_T29_S13_We_3 - x_T29_S16_We_3 - x_T29_S19_We_3 = 0
+ flow_T29_We_4: x_T29_S1_We_4 + x_T29_S4_We_4 + x_T29_S7_We_4 + x_T29_S10_We_4 + x_T29_S13_We_4 + x_T29_S16_We_4 + x_T29_S19_We_4 - x_T29_S1_We_4 - x_T29_S4_We_4 - x_T29_S7_We_4 - x_T29_S10_We_4 - x_T29_S13_We_4 - x_T29_S16_We_4 - x_T29_S19_We_4 = 0
+ flow_T29_We_5: x_T29_S1_We_5 + x_T29_S4_We_5 + x_T29_S7_We_5 + x_T29_S10_We_5 + x_T29_S13_We_5 + x_T29_S16_We_5 + x_T29_S19_We_5 - x_T29_S1_We_5 - x_T29_S4_We_5 - x_T29_S7_We_5 - x_T29_S10_We_5 - x_T29_S13_We_5 - x_T29_S16_We_5 - x_T29_S19_We_5 = -1
+ flow_T29_Th_1: x_T29_S1_Th_1 + x_T29_S4_Th_1 + x_T29_S7_Th_1 + x_T29_S10_Th_1 + x_T29_S13_Th_1 + x_T29_S16_Th_1 + x_T29_S19_Th_1 - x_T29_S1_Th_1 - x_T29_S4_Th_1 - x_T29_S7_Th_1 - x_T29_S10_Th_1 - x_T29_S13_Th_1 - x_T29_S16_Th_1 - x_T29_S19_Th_1 = 1
+ flow_T29_Th_2: x_T29_S1_Th_2 + x_T29_S4_Th_2 + x_T29_S7_Th_2 + x_T29_S10_Th_2 + x_T29_S13_Th_2 + x_T29_S16_Th_2 + x_T29_S19_Th_2 - x_T29_S1_Th_2 - x_T29_S4_Th_2 - x_T29_S7_Th_2 - x_T29_S10_Th_2 - x_T29_S13_Th_2 - x_T29_S16_Th_2 - x_T29_S19_Th_2 = 0
+ flow_T29_Th_3: x_T29_S1_Th_3 + x_T29_S4_Th_3 + x_T29_S7_Th_3 + x_T29_S10_Th_3 + x_T29_S13_Th_3 + x_T29_S16_Th_3 + x_T29_S19_Th_3 - x_T29_S1_Th_3 - x_T29_S4_Th_3 - x_T29_S7_Th_3 - x_T29_S10_Th_3 - x_T29_S13_Th_3 - x_T29_S16_Th_3 - x_T29_S19_Th_3 = 0
+ flow_T29_Th_4: x_T29_S1_Th_4 + x_T29_S4_Th_4 + x_T29_S7_Th_4 + x_T29_S10_Th_4 + x_T29_S13_Th_4 + x_T29_S16_Th_4 + x_T29_S19_Th_4 - x_T29_S1_Th_4 - x_T29_S4_Th_4 - x_T29_S7_Th_4 - x_T29_S10_Th_4 - x_T29_S13_Th_4 - x_T29_S16_Th_4 - x_T29_S19_Th_4 = 0
+ flow_T29_Th_5: x_T29_S1_Th_5 + x_T29_S4_Th_5 + x_T29_S7_Th_5 + x_T29_S10_Th_5 + x_T29_S13_Th_5 + x_T29_S16_Th_5 + x_T29_S19_Th_5 - x_T29_S1_Th_5 - x_T29_S4_Th_5 - x_T29_S7_Th_5 - x_T29_S10_Th_5 - x_T29_S13_Th_5 - x_T29_S16_Th_5 - x_T29_S19_Th_5 = -1
+ flow_T29_Fr_1: x_T29_S1_Fr_1 + x_T29_S4_Fr_1 + x_T29_S7_Fr_1 + x_T29_S10_Fr_1 + x_T29_S13_Fr_1 + x_T29_S16_Fr_1 + x_T29_S19_Fr_1 - x_T29_S1_Fr_1 - x_T29_S4_Fr_1 - x_T29_S7_Fr_1 - x_T29_S10_Fr_1 - x_T29_S13_Fr_1 - x_T29_S16_Fr_1 - x_T29_S19_Fr_1 = 1
+ flow_T29_Fr_2: x_T29_S1_Fr_2 + x_T29_S4_Fr_2 + x_T29_S7_Fr_2 + x_T29_S10_Fr_2 + x_T29_S13_Fr_2 + x_T29_S16_Fr_2 + x_T29_S19_Fr_2 - x_T29_S1_Fr_2 - x_T29_S4_Fr_2 - x_T29_S7_Fr_2 - x_T29_S10_Fr_2 - x_T29_S13_Fr_2 - x_T29_S16_Fr_2 - x_T29_S19_Fr_2 = 0
+ flow_T29_Fr_3: x_T29_S1_Fr_3 + x_T29_S4_Fr_3 + x_T29_S7_Fr_3 + x_T29_S10_Fr_3 + x_T29_S13_Fr_3 + x_T29_S16_Fr_3 + x_T29_S19_Fr_3 - x_T29_S1_Fr_3 - x_T29_S4_Fr_3 - x_T29_S7_Fr_3 - x_T29_S10_Fr_3 - x_T29_S13_Fr_3 - x_T29_S16_Fr_3 - x_T29_S19_Fr_3 = 0
+ flow_T29_Fr_4: x_T29_S1_Fr_4 + x_T29_S4_Fr_4 + x_T29_S7_Fr_4 + x_T29_S10_Fr_4 + x_T29_S13_Fr_4 + x_T29_S16_Fr_4 + x_T29_S19_Fr_4 - x_T29_S1_Fr_4 - x_T29_S4_Fr_4 - x_T29_S7_Fr_4 - x_T29_S10_Fr_4 - x_T29_S13_Fr_4 - x_T29_S16_Fr_4 - x_T29_S19_Fr_4 = 0
+ flow_T29_Fr_5: x_T29_S1_Fr_5 + x_T29_S4_Fr_5 + x_T29_S7_Fr_5 + x_T29_S10_Fr_5 + x_T29_S13_Fr_5 + x_T29_S16_Fr_5 + x_T29_S19_Fr_5 - x_T29_S1_Fr_5 - x_T29_S4_Fr_5 - x_T29_S7_Fr_5 - x_T29_S10_Fr_5 - x_T29_S13_Fr_5 - x_T29_S16_Fr_5 - x_T29_S19_Fr_5 = -1
+ flow_T5_Mo_1: x_T5_S1_Mo_1 + x_T5_S2_Mo_1 + x_T5_S3_Mo_1 + x_T5_S4_Mo_1 + x_T5_S14_Mo_1 - x_T5_S1_Mo_1 - x_T5_S2_Mo_1 - x_T5_S3_Mo_1 - x_T5_S4_Mo_1 - x_T5_S14_Mo_1 = 1
+ flow_T5_Mo_2: x_T5_S1_Mo_2 + x_T5_S2_Mo_2 + x_T5_S3_Mo_2 + x_T5_S4_Mo_2 + x_T5_S14_Mo_2 - x_T5_S1_Mo_2 - x_T5_S2_Mo_2 - x_T5_S3_Mo_2 - x_T5_S4_Mo_2 - x_T5_S14_Mo_2 = 0
+ flow_T5_Mo_3: x_T5_S1_Mo_3 + x_T5_S2_Mo_3 + x_T5_S3_Mo_3 + x_T5_S4_Mo_3 + x_T5_S14_Mo_3 - x_T5_S1_Mo_3 - x_T5_S2_Mo_3 - x_T5_S3_Mo_3 - x_T5_S4_Mo_3 - x_T5_S14_Mo_3 = 0
+ flow_T5_Mo_4: x_T5_S1_Mo_4 + x_T5_S2_Mo_4 + x_T5_S3_Mo_4 + x_T5_S4_Mo_4 + x_T5_S14_Mo_4 - x_T5_S1_Mo_4 - x_T5_S2_Mo_4 - x_T5_S3_Mo_4 - x_T5_S4_Mo_4 - x_T5_S14_Mo_4 = 0
+ flow_T5_Mo_5: x_T5_S1_Mo_5 + x_T5_S2_Mo_5 + x_T5_S3_Mo_5 + x_T5_S4_Mo_5 + x_T5_S14_Mo_5 - x_T5_S1_Mo_5 - x_T5_S2_Mo_5 - x_T5_S3_Mo_5 - x_T5_S4_Mo_5 - x_T5_S14_Mo_5 = -1
+ flow_T5_Tu_1: x_T5_S1_Tu_1 + x_T5_S2_Tu_1 + x_T5_S3_Tu_1 + x_T5_S4_Tu_1 + x_T5_S14_Tu_1 - x_T5_S1_Tu_1 - x_T5_S2_Tu_1 - x_T5_S3_Tu_1 - x_T5_S4_Tu_1 - x_T5_S14_Tu_1 = 1
+ flow_T5_Tu_2: x_T5_S1_Tu_2 + x_T5_S2_Tu_2 + x_T5_S3_Tu_2 + x_T5_S4_Tu_2 + x_T5_S14_Tu_2 - x_T5_S1_Tu_2 - x_T5_S2_Tu_2 - x_T5_S3_Tu_2 - x_T5_S4_Tu_2 - x_T5_S14_Tu_2 = 0
+ flow_T5_Tu_3: x_T5_S1_Tu_3 + x_T5_S2_Tu_3 + x_T5_S3_Tu_3 + x_T5_S4_Tu_3 + x_T5_S14_Tu_3 - x_T5_S1_Tu_3 - x_T5_S2_Tu_3 - x_T5_S3_Tu_3 - x_T5_S4_Tu_3 - x_T5_S14_Tu_3 = 0
+ flow_T5_Tu_4: x_T5_S1_Tu_4 + x_T5_S2_Tu_4 + x_T5_S3_Tu_4 + x_T5_S4_Tu_4 + x_T5_S14_Tu_4 - x_T5_S1_Tu_4 - x_T5_S2_Tu_4 - x_T5_S3_Tu_4 - x_T5_S4_Tu_4 - x_T5_S14_Tu_4 = 0
+ flow_T5_Tu_5: x_T5_S1_Tu_5 + x_T5_S2_Tu_5 + x_T5_S3_Tu_5 + x_T5_S4_Tu_5 + x_T5_S14_Tu_5 - x_T5_S1_Tu_5 - x_T5_S2_Tu_5 - x_T5_S3_Tu_5 - x_T5_S4_Tu_5 - x_T5_S14_Tu_5 = -1
+ flow_T5_We_1: x_T5_S1_We_1 + x_T5_S2_We_1 + x_T5_S3_We_1 + x_T5_S4_We_1 + x_T5_S14_We_1 - x_T5_S1_We_1 - x_T5_S2_We_1 - x_T5_S3_We_1 - x_T5_S4_We_1 - x_T5_S14_We_1 = 1
+ flow_T5_We_2: x_T5_S1_We_2 + x_T5_S2_We_2 + x_T5_S3_We_2 + x_T5_S4_We_2 + x_T5_S14_We_2 - x_T5_S1_We_2 - x_T5_S2_We_2 - x_T5_S3_We_2 - x_T5_S4_We_2 - x_T5_S14_We_2 = 0
+ flow_T5_We_3: x_T5_S1_We_3 + x_T5_S2_We_3 + x_T5_S3_We_3 + x_T5_S4_We_3 + x_T5_S14_We_3 - x_T5_S1_We_3 - x_T5_S2_We_3 - x_T5_S3_We_3 - x_T5_S4_We_3 - x_T5_S14_We_3 = 0
+ flow_T5_We_4: x_T5_S1_We_4 + x_T5_S2_We_4 + x_T5_S3_We_4 + x_T5_S4_We_4 + x_T5_S14_We_4 - x_T5_S1_We_4 - x_T5_S2_We_4 - x_T5_S3_We_4 - x_T5_S4_We_4 - x_T5_S14_We_4 = 0
+ flow_T5_We_5: x_T5_S1_We_5 + x_T5_S2_We_5 + x_T5_S3_We_5 + x_T5_S4_We_5 + x_T5_S14_We_5 - x_T5_S1_We_5 - x_T5_S2_We_5 - x_T5_S3_We_5 - x_T5_S4_We_5 - x_T5_S14_We_5 = -1
+ flow_T5_Th_1: x_T5_S1_Th_1 + x_T5_S2_Th_1 + x_T5_S3_Th_1 + x_T5_S4_Th_1 + x_T5_S14_Th_1 - x_T5_S1_Th_1 - x_T5_S2_Th_1 - x_T5_S3_Th_1 - x_T5_S4_Th_1 - x_T5_S14_Th_1 = 1
+ flow_T5_Th_2: x_T5_S1_Th_2 + x_T5_S2_Th_2 + x_T5_S3_Th_2 + x_T5_S4_Th_2 + x_T5_S14_Th_2 - x_T5_S1_Th_2 - x_T5_S2_Th_2 - x_T5_S3_Th_2 - x_T5_S4_Th_2 - x_T5_S14_Th_2 = 0
+ flow_T5_Th_3: x_T5_S1_Th_3 + x_T5_S2_Th_3 + x_T5_S3_Th_3 + x_T5_S4_Th_3 + x_T5_S14_Th_3 - x_T5_S1_Th_3 - x_T5_S2_Th_3 - x_T5_S3_Th_3 - x_T5_S4_Th_3 - x_T5_S14_Th_3 = 0
+ flow_T5_Th_4: x_T5_S1_Th_4 + x_T5_S2_Th_4 + x_T5_S3_Th_4 + x_T5_S4_Th_4 + x_T5_S14_Th_4 - x_T5_S1_Th_4 - x_T5_S2_Th_4 - x_T5_S3_Th_4 - x_T5_S4_Th_4 - x_T5_S14_Th_4 = 0
+ flow_T5_Th_5: x_T5_S1_Th_5 + x_T5_S2_Th_5 + x_T5_S3_Th_5 + x_T5_S4_Th_5 + x_T5_S14_Th_5 - x_T5_S1_Th_5 - x_T5_S2_Th_5 - x_T5_S3_Th_5 - x_T5_S4_Th_5 - x_T5_S14_Th_5 = -1
+ flow_T5_Fr_1: x_T5_S1_Fr_1 + x_T5_S2_Fr_1 + x_T5_S3_Fr_1 + x_T5_S4_Fr_1 + x_T5_S14_Fr_1 - x_T5_S1_Fr_1 - x_T5_S2_Fr_1 - x_T5_S3_Fr_1 - x_T5_S4_Fr_1 - x_T5_S14_Fr_1 = 1
+ flow_T5_Fr_2: x_T5_S1_Fr_2 + x_T5_S2_Fr_2 + x_T5_S3_Fr_2 + x_T5_S4_Fr_2 + x_T5_S14_Fr_2 - x_T5_S1_Fr_2 - x_T5_S2_Fr_2 - x_T5_S3_Fr_2 - x_T5_S4_Fr_2 - x_T5_S14_Fr_2 = 0
+ flow_T5_Fr_3: x_T5_S1_Fr_3 + x_T5_S2_Fr_3 + x_T5_S3_Fr_3 + x_T5_S4_Fr_3 + x_T5_S14_Fr_3 - x_T5_S1_Fr_3 - x_T5_S2_Fr_3 - x_T5_S3_Fr_3 - x_T5_S4_Fr_3 - x_T5_S14_Fr_3 = 0
+ flow_T5_Fr_4: x_T5_S1_Fr_4 + x_T5_S2_Fr_4 + x_T5_S3_Fr_4 + x_T5_S4_Fr_4 + x_T5_S14_Fr_4 - x_T5_S1_Fr_4 - x_T5_S2_Fr_4 - x_T5_S3_Fr_4 - x_T5_S4_Fr_4 - x_T5_S14_Fr_4 = 0
+ flow_T5_Fr_5: x_T5_S1_Fr_5 + x_T5_S2_Fr_5 + x_T5_S3_Fr_5 + x_T5_S4_Fr_5 + x_T5_S14_Fr_5 - x_T5_S1_Fr_5 - x_T5_S2_Fr_5 - x_T5_S3_Fr_5 - x_T5_S4_Fr_5 - x_T5_S14_Fr_5 = -1
+ flow_T13_Mo_1: x_T13_S16_Mo_1 + x_T13_S17_Mo_1 + x_T13_S18_Mo_1 + x_T13_S19_Mo_1 + x_T13_S20_Mo_1 - x_T13_S16_Mo_1 - x_T13_S17_Mo_1 - x_T13_S18_Mo_1 - x_T13_S19_Mo_1 - x_T13_S20_Mo_1 = 1
+ flow_T13_Mo_2: x_T13_S16_Mo_2 + x_T13_S17_Mo_2 + x_T13_S18_Mo_2 + x_T13_S19_Mo_2 + x_T13_S20_Mo_2 - x_T13_S16_Mo_2 - x_T13_S17_Mo_2 - x_T13_S18_Mo_2 - x_T13_S19_Mo_2 - x_T13_S20_Mo_2 = 0
+ flow_T13_Mo_3: x_T13_S16_Mo_3 + x_T13_S17_Mo_3 + x_T13_S18_Mo_3 + x_T13_S19_Mo_3 + x_T13_S20_Mo_3 - x_T13_S16_Mo_3 - x_T13_S17_Mo_3 - x_T13_S18_Mo_3 - x_T13_S19_Mo_3 - x_T13_S20_Mo_3 = 0
+ flow_T13_Mo_4: x_T13_S16_Mo_4 + x_T13_S17_Mo_4 + x_T13_S18_Mo_4 + x_T13_S19_Mo_4 + x_T13_S20_Mo_4 - x_T13_S16_Mo_4 - x_T13_S17_Mo_4 - x_T13_S18_Mo_4 - x_T13_S19_Mo_4 - x_T13_S20_Mo_4 = 0
+ flow_T13_Mo_5: x_T13_S16_Mo_5 + x_T13_S17_Mo_5 + x_T13_S18_Mo_5 + x_T13_S19_Mo_5 + x_T13_S20_Mo_5 - x_T13_S16_Mo_5 - x_T13_S17_Mo_5 - x_T13_S18_Mo_5 - x_T13_S19_Mo_5 - x_T13_S20_Mo_5 = -1
+ flow_T13_Tu_1: x_T13_S16_Tu_1 + x_T13_S17_Tu_1 + x_T13_S18_Tu_1 + x_T13_S19_Tu_1 + x_T13_S20_Tu_1 - x_T13_S16_Tu_1 - x_T13_S17_Tu_1 - x_T13_S18_Tu_1 - x_T13_S19_Tu_1 - x_T13_S20_Tu_1 = 1
+ flow_T13_Tu_2: x_T13_S16_Tu_2 + x_T13_S17_Tu_2 + x_T13_S18_Tu_2 + x_T13_S19_Tu_2 + x_T13_S20_Tu_2 - x_T13_S16_Tu_2 - x_T13_S17_Tu_2 - x_T13_S18_Tu_2 - x_T13_S19_Tu_2 - x_T13_S20_Tu_2 = 0
+ flow_T13_Tu_3: x_T13_S16_Tu_3 + x_T13_S17_Tu_3 + x_T13_S18_Tu_3 + x_T13_S19_Tu_3 + x_T13_S20_Tu_3 - x_T13_S16_Tu_3 - x_T13_S17_Tu_3 - x_T13_S18_Tu_3 - x_T13_S19_Tu_3 - x_T13_S20_Tu_3 = 0
+ flow_T13_Tu_4: x_T13_S16_Tu_4 + x_T13_S17_Tu_4 + x_T13_S18_Tu_4 + x_T13_S19_Tu_4 + x_T13_S20_Tu_4 - x_T13_S16_Tu_4 - x_T13_S17_Tu_4 - x_T13_S18_Tu_4 - x_T13_S19_Tu_4 - x_T13_S20_Tu_4 = 0
+ flow_T13_Tu_5: x_T13_S16_Tu_5 + x_T13_S17_Tu_5 + x_T13_S18_Tu_5 + x_T13_S19_Tu_5 + x_T13_S20_Tu_5 - x_T13_S16_Tu_5 - x_T13_S17_Tu_5 - x_T13_S18_Tu_5 - x_T13_S19_Tu_5 - x_T13_S20_Tu_5 = -1
+ flow_T13_We_1: x_T13_S16_We_1 + x_T13_S17_We_1 + x_T13_S18_We_1 + x_T13_S19_We_1 + x_T13_S20_We_1 - x_T13_S16_We_1 - x_T13_S17_We_1 - x_T13_S18_We_1 - x_T13_S19_We_1 - x_T13_S20_We_1 = 1
+ flow_T13_We_2: x_T13_S16_We_2 + x_T13_S17_We_2 + x_T13_S18_We_2 + x_T13_S19_We_2 + x_T13_S20_We_2 - x_T13_S16_We_2 - x_T13_S17_We_2 - x_T13_S18_We_2 - x_T13_S19_We_2 - x_T13_S20_We_2 = 0
+ flow_T13_We_3: x_T13_S16_We_3 + x_T13_S17_We_3 + x_T13_S18_We_3 + x_T13_S19_We_3 + x_T13_S20_We_3 - x_T13_S16_We_3 - x_T13_S17_We_3 - x_T13_S18_We_3 - x_T13_S19_We_3 - x_T13_S20_We_3 = 0
+ flow_T13_We_4: x_T13_S16_We_4 + x_T13_S17_We_4 + x_T13_S18_We_4 + x_T13_S19_We_4 + x_T13_S20_We_4 - x_T13_S16_We_4 - x_T13_S17_We_4 - x_T13_S18_We_4 - x_T13_S19_We_4 - x_T13_S20_We_4 = 0
+ flow_T13_We_5: x_T13_S16_We_5 + x_T13_S17_We_5 + x_T13_S18_We_5 + x_T13_S19_We_5 + x_T13_S20_We_5 - x_T13_S16_We_5 - x_T13_S17_We_5 - x_T13_S18_We_5 - x_T13_S19_We_5 - x_T13_S20_We_5 = -1
+ flow_T13_Th_1: x_T13_S16_Th_1 + x_T13_S17_Th_1 + x_T13_S18_Th_1 + x_T13_S19_Th_1 + x_T13_S20_Th_1 - x_T13_S16_Th_1 - x_T13_S17_Th_1 - x_T13_S18_Th_1 - x_T13_S19_Th_1 - x_T13_S20_Th_1 = 1
+ flow_T13_Th_2: x_T13_S16_Th_2 + x_T13_S17_Th_2 + x_T13_S18_Th_2 + x_T13_S19_Th_2 + x_T13_S20_Th_2 - x_T13_S16_Th_2 - x_T13_S17_Th_2 - x_T13_S18_Th_2 - x_T13_S19_Th_2 - x_T13_S20_Th_2 = 0
+ flow_T13_Th_3: x_T13_S16_Th_3 + x_T13_S17_Th_3 + x_T13_S18_Th_3 + x_T13_S19_Th_3 + x_T13_S20_Th_3 - x_T13_S16_Th_3 - x_T13_S17_Th_3 - x_T13_S18_Th_3 - x_T13_S19_Th_3 - x_T13_S20_Th_3 = 0
+ flow_T13_Th_4: x_T13_S16_Th_4 + x_T13_S17_Th_4 + x_T13_S18_Th_4 + x_T13_S19_Th_4 + x_T13_S20_Th_4 - x_T13_S16_Th_4 - x_T13_S17_Th_4 - x_T13_S18_Th_4 - x_T13_S19_Th_4 - x_T13_S20_Th_4 = 0
+ flow_T13_Th_5: x_T13_S16_Th_5 + x_T13_S17_Th_5 + x_T13_S18_Th_5 + x_T13_S19_Th_5 + x_T13_S20_Th_5 - x_T13_S16_Th_5 - x_T13_S17_Th_5 - x_T13_S18_Th_5 - x_T13_S19_Th_5 - x_T13_S20_Th_5 = -1
+ flow_T13_Fr_1: x_T13_S16_Fr_1 + x_T13_S17_Fr_1 + x_T13_S18_Fr_1 + x_T13_S19_Fr_1 + x_T13_S20_Fr_1 - x_T13_S16_Fr_1 - x_T13_S17_Fr_1 - x_T13_S18_Fr_1 - x_T13_S19_Fr_1 - x_T13_S20_Fr_1 = 1
+ flow_T13_Fr_2: x_T13_S16_Fr_2 + x_T13_S17_Fr_2 + x_T13_S18_Fr_2 + x_T13_S19_Fr_2 + x_T13_S20_Fr_2 - x_T13_S16_Fr_2 - x_T13_S17_Fr_2 - x_T13_S18_Fr_2 - x_T13_S19_Fr_2 - x_T13_S20_Fr_2 = 0
+ flow_T13_Fr_3: x_T13_S16_Fr_3 + x_T13_S17_Fr_3 + x_T13_S18_Fr_3 + x_T13_S19_Fr_3 + x_T13_S20_Fr_3 - x_T13_S16_Fr_3 - x_T13_S17_Fr_3 - x_T13_S18_Fr_3 - x_T13_S19_Fr_3 - x_T13_S20_Fr_3 = 0
+ flow_T13_Fr_4: x_T13_S16_Fr_4 + x_T13_S17_Fr_4 + x_T13_S18_Fr_4 + x_T13_S19_Fr_4 + x_T13_S20_Fr_4 - x_T13_S16_Fr_4 - x_T13_S17_Fr_4 - x_T13_S18_Fr_4 - x_T13_S19_Fr_4 - x_T13_S20_Fr_4 = 0
+ flow_T13_Fr_5: x_T13_S16_Fr_5 + x_T13_S17_Fr_5 + x_T13_S18_Fr_5 + x_T13_S19_Fr_5 + x_T13_S20_Fr_5 - x_T13_S16_Fr_5 - x_T13_S17_Fr_5 - x_T13_S18_Fr_5 - x_T13_S19_Fr_5 - x_T13_S20_Fr_5 = -1
+ flow_T30_Mo_1: x_T30_S2_Mo_1 + x_T30_S5_Mo_1 + x_T30_S8_Mo_1 + x_T30_S11_Mo_1 + x_T30_S14_Mo_1 + x_T30_S17_Mo_1 - x_T30_S2_Mo_1 - x_T30_S5_Mo_1 - x_T30_S8_Mo_1 - x_T30_S11_Mo_1 - x_T30_S14_Mo_1 - x_T30_S17_Mo_1 = 1
+ flow_T30_Mo_2: x_T30_S2_Mo_2 + x_T30_S5_Mo_2 + x_T30_S8_Mo_2 + x_T30_S11_Mo_2 + x_T30_S14_Mo_2 + x_T30_S17_Mo_2 - x_T30_S2_Mo_2 - x_T30_S5_Mo_2 - x_T30_S8_Mo_2 - x_T30_S11_Mo_2 - x_T30_S14_Mo_2 - x_T30_S17_Mo_2 = 0
+ flow_T30_Mo_3: x_T30_S2_Mo_3 + x_T30_S5_Mo_3 + x_T30_S8_Mo_3 + x_T30_S11_Mo_3 + x_T30_S14_Mo_3 + x_T30_S17_Mo_3 - x_T30_S2_Mo_3 - x_T30_S5_Mo_3 - x_T30_S8_Mo_3 - x_T30_S11_Mo_3 - x_T30_S14_Mo_3 - x_T30_S17_Mo_3 = 0
+ flow_T30_Mo_4: x_T30_S2_Mo_4 + x_T30_S5_Mo_4 + x_T30_S8_Mo_4 + x_T30_S11_Mo_4 + x_T30_S14_Mo_4 + x_T30_S17_Mo_4 - x_T30_S2_Mo_4 - x_T30_S5_Mo_4 - x_T30_S8_Mo_4 - x_T30_S11_Mo_4 - x_T30_S14_Mo_4 - x_T30_S17_Mo_4 = 0
+ flow_T30_Mo_5: x_T30_S2_Mo_5 + x_T30_S5_Mo_5 + x_T30_S8_Mo_5 + x_T30_S11_Mo_5 + x_T30_S14_Mo_5 + x_T30_S17_Mo_5 - x_T30_S2_Mo_5 - x_T30_S5_Mo_5 - x_T30_S8_Mo_5 - x_T30_S11_Mo_5 - x_T30_S14_Mo_5 - x_T30_S17_Mo_5 = -1
+ flow_T30_Tu_1: x_T30_S2_Tu_1 + x_T30_S5_Tu_1 + x_T30_S8_Tu_1 + x_T30_S11_Tu_1 + x_T30_S14_Tu_1 + x_T30_S17_Tu_1 - x_T30_S2_Tu_1 - x_T30_S5_Tu_1 - x_T30_S8_Tu_1 - x_T30_S11_Tu_1 - x_T30_S14_Tu_1 - x_T30_S17_Tu_1 = 1
+ flow_T30_Tu_2: x_T30_S2_Tu_2 + x_T30_S5_Tu_2 + x_T30_S8_Tu_2 + x_T30_S11_Tu_2 + x_T30_S14_Tu_2 + x_T30_S17_Tu_2 - x_T30_S2_Tu_2 - x_T30_S5_Tu_2 - x_T30_S8_Tu_2 - x_T30_S11_Tu_2 - x_T30_S14_Tu_2 - x_T30_S17_Tu_2 = 0
+ flow_T30_Tu_3: x_T30_S2_Tu_3 + x_T30_S5_Tu_3 + x_T30_S8_Tu_3 + x_T30_S11_Tu_3 + x_T30_S14_Tu_3 + x_T30_S17_Tu_3 - x_T30_S2_Tu_3 - x_T30_S5_Tu_3 - x_T30_S8_Tu_3 - x_T30_S11_Tu_3 - x_T30_S14_Tu_3 - x_T30_S17_Tu_3 = 0
+ flow_T30_Tu_4: x_T30_S2_Tu_4 + x_T30_S5_Tu_4 + x_T30_S8_Tu_4 + x_T30_S11_Tu_4 + x_T30_S14_Tu_4 + x_T30_S17_Tu_4 - x_T30_S2_Tu_4 - x_T30_S5_Tu_4 - x_T30_S8_Tu_4 - x_T30_S11_Tu_4 - x_T30_S14_Tu_4 - x_T30_S17_Tu_4 = 0
+ flow_T30_Tu_5: x_T30_S2_Tu_5 + x_T30_S5_Tu_5 + x_T30_S8_Tu_5 + x_T30_S11_Tu_5 + x_T30_S14_Tu_5 + x_T30_S17_Tu_5 - x_T30_S2_Tu_5 - x_T30_S5_Tu_5 - x_T30_S8_Tu_5 - x_T30_S11_Tu_5 - x_T30_S14_Tu_5 - x_T30_S17_Tu_5 = -1
+ flow_T30_We_1: x_T30_S2_We_1 + x_T30_S5_We_1 + x_T30_S8_We_1 + x_T30_S11_We_1 + x_T30_S14_We_1 + x_T30_S17_We_1 - x_T30_S2_We_1 - x_T30_S5_We_1 - x_T30_S8_We_1 - x_T30_S11_We_1 - x_T30_S14_We_1 - x_T30_S17_We_1 = 1
+ flow_T30_We_2: x_T30_S2_We_2 + x_T30_S5_We_2 + x_T30_S8_We_2 + x_T30_S11_We_2 + x_T30_S14_We_2 + x_T30_S17_We_2 - x_T30_S2_We_2 - x_T30_S5_We_2 - x_T30_S8_We_2 - x_T30_S11_We_2 - x_T30_S14_We_2 - x_T30_S17_We_2 = 0
+ flow_T30_We_3: x_T30_S2_We_3 + x_T30_S5_We_3 + x_T30_S8_We_3 + x_T30_S11_We_3 + x_T30_S14_We_3 + x_T30_S17_We_3 - x_T30_S2_We_3 - x_T30_S5_We_3 - x_T30_S8_We_3 - x_T30_S11_We_3 - x_T30_S14_We_3 - x_T30_S17_We_3 = 0
+ flow_T30_We_4: x_T30_S2_We_4 + x_T30_S5_We_4 + x_T30_S8_We_4 + x_T30_S11_We_4 + x_T30_S14_We_4 + x_T30_S17_We_4 - x_T30_S2_We_4 - x_T30_S5_We_4 - x_T30_S8_We_4 - x_T30_S11_We_4 - x_T30_S14_We_4 - x_T30_S17_We_4 = 0
+ flow_T30_We_5: x_T30_S2_We_5 + x_T30_S5_We_5 + x_T30_S8_We_5 + x_T30_S11_We_5 + x_T30_S14_We_5 + x_T30_S17_We_5 - x_T30_S2_We_5 - x_T30_S5_We_5 - x_T30_S8_We_5 - x_T30_S11_We_5 - x_T30_S14_We_5 - x_T30_S17_We_5 = -1
+ flow_T30_Th_1: x_T30_S2_Th_1 + x_T30_S5_Th_1 + x_T30_S8_Th_1 + x_T30_S11_Th_1 + x_T30_S14_Th_1 + x_T30_S17_Th_1 - x_T30_S2_Th_1 - x_T30_S5_Th_1 - x_T30_S8_Th_1 - x_T30_S11_Th_1 - x_T30_S14_Th_1 - x_T30_S17_Th_1 = 1
+ flow_T30_Th_2: x_T30_S2_Th_2 + x_T30_S5_Th_2 + x_T30_S8_Th_2 + x_T30_S11_Th_2 + x_T30_S14_Th_2 + x_T30_S17_Th_2 - x_T30_S2_Th_2 - x_T30_S5_Th_2 - x_T30_S8_Th_2 - x_T30_S11_Th_2 - x_T30_S14_Th_2 - x_T30_S17_Th_2 = 0
+ flow_T30_Th_3: x_T30_S2_Th_3 + x_T30_S5_Th_3 + x_T30_S8_Th_3 + x_T30_S11_Th_3 + x_T30_S14_Th_3 + x_T30_S17_Th_3 - x_T30_S2_Th_3 - x_T30_S5_Th_3 - x_T30_S8_Th_3 - x_T30_S11_Th_3 - x_T30_S14_Th_3 - x_T30_S17_Th_3 = 0
+ flow_T30_Th_4: x_T30_S2_Th_4 + x_T30_S5_Th_4 + x_T30_S8_Th_4 + x_T30_S11_Th_4 + x_T30_S14_Th_4 + x_T30_S17_Th_4 - x_T30_S2_Th_4 - x_T30_S5_Th_4 - x_T30_S8_Th_4 - x_T30_S11_Th_4 - x_T30_S14_Th_4 - x_T30_S17_Th_4 = 0
+ flow_T30_Th_5: x_T30_S2_Th_5 + x_T30_S5_Th_5 + x_T30_S8_Th_5 + x_T30_S11_Th_5 + x_T30_S14_Th_5 + x_T30_S17_Th_5 - x_T30_S2_Th_5 - x_T30_S5_Th_5 - x_T30_S8_Th_5 - x_T30_S11_Th_5 - x_T30_S14_Th_5 - x_T30_S17_Th_5 = -1
+ flow_T30_Fr_1: x_T30_S2_Fr_1 + x_T30_S5_Fr_1 + x_T30_S8_Fr_1 + x_T30_S11_Fr_1 + x_T30_S14_Fr_1 + x_T30_S17_Fr_1 - x_T30_S2_Fr_1 - x_T30_S5_Fr_1 - x_T30_S8_Fr_1 - x_T30_S11_Fr_1 - x_T30_S14_Fr_1 - x_T30_S17_Fr_1 = 1
+ flow_T30_Fr_2: x_T30_S2_Fr_2 + x_T30_S5_Fr_2 + x_T30_S8_Fr_2 + x_T30_S11_Fr_2 + x_T30_S14_Fr_2 + x_T30_S17_Fr_2 - x_T30_S2_Fr_2 - x_T30_S5_Fr_2 - x_T30_S8_Fr_2 - x_T30_S11_Fr_2 - x_T30_S14_Fr_2 - x_T30_S17_Fr_2 = 0
+ flow_T30_Fr_3: x_T30_S2_Fr_3 + x_T30_S5_Fr_3 + x_T30_S8_Fr_3 + x_T30_S11_Fr_3 + x_T30_S14_Fr_3 + x_T30_S17_Fr_3 - x_T30_S2_Fr_3 - x_T30_S5_Fr_3 - x_T30_S8_Fr_3 - x_T30_S11_Fr_3 - x_T30_S14_Fr_3 - x_T30_S17_Fr_3 = 0
+ flow_T30_Fr_4: x_T30_S2_Fr_4 + x_T30_S5_Fr_4 + x_T30_S8_Fr_4 + x_T30_S11_Fr_4 + x_T30_S14_Fr_4 + x_T30_S17_Fr_4 - x_T30_S2_Fr_4 - x_T30_S5_Fr_4 - x_T30_S8_Fr_4 - x_T30_S11_Fr_4 - x_T30_S14_Fr_4 - x_T30_S17_Fr_4 = 0
+ flow_T30_Fr_5: x_T30_S2_Fr_5 + x_T30_S5_Fr_5 + x_T30_S8_Fr_5 + x_T30_S11_Fr_5 + x_T30_S14_Fr_5 + x_T30_S17_Fr_5 - x_T30_S2_Fr_5 - x_T30_S5_Fr_5 - x_T30_S8_Fr_5 - x_T30_S11_Fr_5 - x_T30_S14_Fr_5 - x_T30_S17_Fr_5 = -1
+ flow_T3_Mo_1: x_T3_S12_Mo_1 + x_T3_S13_Mo_1 + x_T3_S14_Mo_1 + x_T3_S15_Mo_1 - x_T3_S12_Mo_1 - x_T3_S13_Mo_1 - x_T3_S14_Mo_1 - x_T3_S15_Mo_1 = 1
+ flow_T3_Mo_2: x_T3_S12_Mo_2 + x_T3_S13_Mo_2 + x_T3_S14_Mo_2 + x_T3_S15_Mo_2 - x_T3_S12_Mo_2 - x_T3_S13_Mo_2 - x_T3_S14_Mo_2 - x_T3_S15_Mo_2 = 0
+ flow_T3_Mo_3: x_T3_S12_Mo_3 + x_T3_S13_Mo_3 + x_T3_S14_Mo_3 + x_T3_S15_Mo_3 - x_T3_S12_Mo_3 - x_T3_S13_Mo_3 - x_T3_S14_Mo_3 - x_T3_S15_Mo_3 = 0
+ flow_T3_Mo_4: x_T3_S12_Mo_4 + x_T3_S13_Mo_4 + x_T3_S14_Mo_4 + x_T3_S15_Mo_4 - x_T3_S12_Mo_4 - x_T3_S13_Mo_4 - x_T3_S14_Mo_4 - x_T3_S15_Mo_4 = 0
+ flow_T3_Mo_5: x_T3_S12_Mo_5 + x_T3_S13_Mo_5 + x_T3_S14_Mo_5 + x_T3_S15_Mo_5 - x_T3_S12_Mo_5 - x_T3_S13_Mo_5 - x_T3_S14_Mo_5 - x_T3_S15_Mo_5 = -1
+ flow_T3_Tu_1: x_T3_S12_Tu_1 + x_T3_S13_Tu_1 + x_T3_S14_Tu_1 + x_T3_S15_Tu_1 - x_T3_S12_Tu_1 - x_T3_S13_Tu_1 - x_T3_S14_Tu_1 - x_T3_S15_Tu_1 = 1
+ flow_T3_Tu_2: x_T3_S12_Tu_2 + x_T3_S13_Tu_2 + x_T3_S14_Tu_2 + x_T3_S15_Tu_2 - x_T3_S12_Tu_2 - x_T3_S13_Tu_2 - x_T3_S14_Tu_2 - x_T3_S15_Tu_2 = 0
+ flow_T3_Tu_3: x_T3_S12_Tu_3 + x_T3_S13_Tu_3 + x_T3_S14_Tu_3 + x_T3_S15_Tu_3 - x_T3_S12_Tu_3 - x_T3_S13_Tu_3 - x_T3_S14_Tu_3 - x_T3_S15_Tu_3 = 0
+ flow_T3_Tu_4: x_T3_S12_Tu_4 + x_T3_S13_Tu_4 + x_T3_S14_Tu_4 + x_T3_S15_Tu_4 - x_T3_S12_Tu_4 - x_T3_S13_Tu_4 - x_T3_S14_Tu_4 - x_T3_S15_Tu_4 = 0
+ flow_T3_Tu_5: x_T3_S12_Tu_5 + x_T3_S13_Tu_5 + x_T3_S14_Tu_5 + x_T3_S15_Tu_5 - x_T3_S12_Tu_5 - x_T3_S13_Tu_5 - x_T3_S14_Tu_5 - x_T3_S15_Tu_5 = -1
+ flow_T3_We_1: x_T3_S12_We_1 + x_T3_S13_We_1 + x_T3_S14_We_1 + x_T3_S15_We_1 - x_T3_S12_We_1 - x_T3_S13_We_1 - x_T3_S14_We_1 - x_T3_S15_We_1 = 1
+ flow_T3_We_2: x_T3_S12_We_2 + x_T3_S13_We_2 + x_T3_S14_We_2 + x_T3_S15_We_2 - x_T3_S12_We_2 - x_T3_S13_We_2 - x_T3_S14_We_2 - x_T3_S15_We_2 = 0
+ flow_T3_We_3: x_T3_S12_We_3 + x_T3_S13_We_3 + x_T3_S14_We_3 + x_T3_S15_We_3 - x_T3_S12_We_3 - x_T3_S13_We_3 - x_T3_S14_We_3 - x_T3_S15_We_3 = 0
+ flow_T3_We_4: x_T3_S12_We_4 + x_T3_S13_We_4 + x_T3_S14_We_4 + x_T3_S15_We_4 - x_T3_S12_We_4 - x_T3_S13_We_4 - x_T3_S14_We_4 - x_T3_S15_We_4 = 0
+ flow_T3_We_5: x_T3_S12_We_5 + x_T3_S13_We_5 + x_T3_S14_We_5 + x_T3_S15_We_5 - x_T3_S12_We_5 - x_T3_S13_We_5 - x_T3_S14_We_5 - x_T3_S15_We_5 = -1
+ flow_T3_Th_1: x_T3_S12_Th_1 + x_T3_S13_Th_1 + x_T3_S14_Th_1 + x_T3_S15_Th_1 - x_T3_S12_Th_1 - x_T3_S13_Th_1 - x_T3_S14_Th_1 - x_T3_S15_Th_1 = 1
+ flow_T3_Th_2: x_T3_S12_Th_2 + x_T3_S13_Th_2 + x_T3_S14_Th_2 + x_T3_S15_Th_2 - x_T3_S12_Th_2 - x_T3_S13_Th_2 - x_T3_S14_Th_2 - x_T3_S15_Th_2 = 0
+ flow_T3_Th_3: x_T3_S12_Th_3 + x_T3_S13_Th_3 + x_T3_S14_Th_3 + x_T3_S15_Th_3 - x_T3_S12_Th_3 - x_T3_S13_Th_3 - x_T3_S14_Th_3 - x_T3_S15_Th_3 = 0
+ flow_T3_Th_4: x_T3_S12_Th_4 + x_T3_S13_Th_4 + x_T3_S14_Th_4 + x_T3_S15_Th_4 - x_T3_S12_Th_4 - x_T3_S13_Th_4 - x_T3_S14_Th_4 - x_T3_S15_Th_4 = 0
+ flow_T3_Th_5: x_T3_S12_Th_5 + x_T3_S13_Th_5 + x_T3_S14_Th_5 + x_T3_S15_Th_5 - x_T3_S12_Th_5 - x_T3_S13_Th_5 - x_T3_S14_Th_5 - x_T3_S15_Th_5 = -1
+ flow_T3_Fr_1: x_T3_S12_Fr_1 + x_T3_S13_Fr_1 + x_T3_S14_Fr_1 + x_T3_S15_Fr_1 - x_T3_S12_Fr_1 - x_T3_S13_Fr_1 - x_T3_S14_Fr_1 - x_T3_S15_Fr_1 = 1
+ flow_T3_Fr_2: x_T3_S12_Fr_2 + x_T3_S13_Fr_2 + x_T3_S14_Fr_2 + x_T3_S15_Fr_2 - x_T3_S12_Fr_2 - x_T3_S13_Fr_2 - x_T3_S14_Fr_2 - x_T3_S15_Fr_2 = 0
+ flow_T3_Fr_3: x_T3_S12_Fr_3 + x_T3_S13_Fr_3 + x_T3_S14_Fr_3 + x_T3_S15_Fr_3 - x_T3_S12_Fr_3 - x_T3_S13_Fr_3 - x_T3_S14_Fr_3 - x_T3_S15_Fr_3 = 0
+ flow_T3_Fr_4: x_T3_S12_Fr_4 + x_T3_S13_Fr_4 + x_T3_S14_Fr_4 + x_T3_S15_Fr_4 - x_T3_S12_Fr_4 - x_T3_S13_Fr_4 - x_T3_S14_Fr_4 - x_T3_S15_Fr_4 = 0
+ flow_T3_Fr_5: x_T3_S12_Fr_5 + x_T3_S13_Fr_5 + x_T3_S14_Fr_5 + x_T3_S15_Fr_5 - x_T3_S12_Fr_5 - x_T3_S13_Fr_5 - x_T3_S14_Fr_5 - x_T3_S15_Fr_5 = -1
+ flow_T23_Mo_1: x_T23_S1_Mo_1 + x_T23_S2_Mo_1 + x_T23_S3_Mo_1 + x_T23_S10_Mo_1 + x_T23_S11_Mo_1 + x_T23_S12_Mo_1 + x_T23_S19_Mo_1 - x_T23_S1_Mo_1 - x_T23_S2_Mo_1 - x_T23_S3_Mo_1 - x_T23_S10_Mo_1 - x_T23_S11_Mo_1 - x_T23_S12_Mo_1 - x_T23_S19_Mo_1 = 1
+ flow_T23_Mo_2: x_T23_S1_Mo_2 + x_T23_S2_Mo_2 + x_T23_S3_Mo_2 + x_T23_S10_Mo_2 + x_T23_S11_Mo_2 + x_T23_S12_Mo_2 + x_T23_S19_Mo_2 - x_T23_S1_Mo_2 - x_T23_S2_Mo_2 - x_T23_S3_Mo_2 - x_T23_S10_Mo_2 - x_T23_S11_Mo_2 - x_T23_S12_Mo_2 - x_T23_S19_Mo_2 = 0
+ flow_T23_Mo_3: x_T23_S1_Mo_3 + x_T23_S2_Mo_3 + x_T23_S3_Mo_3 + x_T23_S10_Mo_3 + x_T23_S11_Mo_3 + x_T23_S12_Mo_3 + x_T23_S19_Mo_3 - x_T23_S1_Mo_3 - x_T23_S2_Mo_3 - x_T23_S3_Mo_3 - x_T23_S10_Mo_3 - x_T23_S11_Mo_3 - x_T23_S12_Mo_3 - x_T23_S19_Mo_3 = 0
+ flow_T23_Mo_4: x_T23_S1_Mo_4 + x_T23_S2_Mo_4 + x_T23_S3_Mo_4 + x_T23_S10_Mo_4 + x_T23_S11_Mo_4 + x_T23_S12_Mo_4 + x_T23_S19_Mo_4 - x_T23_S1_Mo_4 - x_T23_S2_Mo_4 - x_T23_S3_Mo_4 - x_T23_S10_Mo_4 - x_T23_S11_Mo_4 - x_T23_S12_Mo_4 - x_T23_S19_Mo_4 = 0
+ flow_T23_Mo_5: x_T23_S1_Mo_5 + x_T23_S2_Mo_5 + x_T23_S3_Mo_5 + x_T23_S10_Mo_5 + x_T23_S11_Mo_5 + x_T23_S12_Mo_5 + x_T23_S19_Mo_5 - x_T23_S1_Mo_5 - x_T23_S2_Mo_5 - x_T23_S3_Mo_5 - x_T23_S10_Mo_5 - x_T23_S11_Mo_5 - x_T23_S12_Mo_5 - x_T23_S19_Mo_5 = -1
+ flow_T23_Tu_1: x_T23_S1_Tu_1 + x_T23_S2_Tu_1 + x_T23_S3_Tu_1 + x_T23_S10_Tu_1 + x_T23_S11_Tu_1 + x_T23_S12_Tu_1 + x_T23_S19_Tu_1 - x_T23_S1_Tu_1 - x_T23_S2_Tu_1 - x_T23_S3_Tu_1 - x_T23_S10_Tu_1 - x_T23_S11_Tu_1 - x_T23_S12_Tu_1 - x_T23_S19_Tu_1 = 1
+ flow_T23_Tu_2: x_T23_S1_Tu_2 + x_T23_S2_Tu_2 + x_T23_S3_Tu_2 + x_T23_S10_Tu_2 + x_T23_S11_Tu_2 + x_T23_S12_Tu_2 + x_T23_S19_Tu_2 - x_T23_S1_Tu_2 - x_T23_S2_Tu_2 - x_T23_S3_Tu_2 - x_T23_S10_Tu_2 - x_T23_S11_Tu_2 - x_T23_S12_Tu_2 - x_T23_S19_Tu_2 = 0
+ flow_T23_Tu_3: x_T23_S1_Tu_3 + x_T23_S2_Tu_3 + x_T23_S3_Tu_3 + x_T23_S10_Tu_3 + x_T23_S11_Tu_3 + x_T23_S12_Tu_3 + x_T23_S19_Tu_3 - x_T23_S1_Tu_3 - x_T23_S2_Tu_3 - x_T23_S3_Tu_3 - x_T23_S10_Tu_3 - x_T23_S11_Tu_3 - x_T23_S12_Tu_3 - x_T23_S19_Tu_3 = 0
+ flow_T23_Tu_4: x_T23_S1_Tu_4 + x_T23_S2_Tu_4 + x_T23_S3_Tu_4 + x_T23_S10_Tu_4 + x_T23_S11_Tu_4 + x_T23_S12_Tu_4 + x_T23_S19_Tu_4 - x_T23_S1_Tu_4 - x_T23_S2_Tu_4 - x_T23_S3_Tu_4 - x_T23_S10_Tu_4 - x_T23_S11_Tu_4 - x_T23_S12_Tu_4 - x_T23_S19_Tu_4 = 0
+ flow_T23_Tu_5: x_T23_S1_Tu_5 + x_T23_S2_Tu_5 + x_T23_S3_Tu_5 + x_T23_S10_Tu_5 + x_T23_S11_Tu_5 + x_T23_S12_Tu_5 + x_T23_S19_Tu_5 - x_T23_S1_Tu_5 - x_T23_S2_Tu_5 - x_T23_S3_Tu_5 - x_T23_S10_Tu_5 - x_T23_S11_Tu_5 - x_T23_S12_Tu_5 - x_T23_S19_Tu_5 = -1
+ flow_T23_We_1: x_T23_S1_We_1 + x_T23_S2_We_1 + x_T23_S3_We_1 + x_T23_S10_We_1 + x_T23_S11_We_1 + x_T23_S12_We_1 + x_T23_S19_We_1 - x_T23_S1_We_1 - x_T23_S2_We_1 - x_T23_S3_We_1 - x_T23_S10_We_1 - x_T23_S11_We_1 - x_T23_S12_We_1 - x_T23_S19_We_1 = 1
+ flow_T23_We_2: x_T23_S1_We_2 + x_T23_S2_We_2 + x_T23_S3_We_2 + x_T23_S10_We_2 + x_T23_S11_We_2 + x_T23_S12_We_2 + x_T23_S19_We_2 - x_T23_S1_We_2 - x_T23_S2_We_2 - x_T23_S3_We_2 - x_T23_S10_We_2 - x_T23_S11_We_2 - x_T23_S12_We_2 - x_T23_S19_We_2 = 0
+ flow_T23_We_3: x_T23_S1_We_3 + x_T23_S2_We_3 + x_T23_S3_We_3 + x_T23_S10_We_3 + x_T23_S11_We_3 + x_T23_S12_We_3 + x_T23_S19_We_3 - x_T23_S1_We_3 - x_T23_S2_We_3 - x_T23_S3_We_3 - x_T23_S10_We_3 - x_T23_S11_We_3 - x_T23_S12_We_3 - x_T23_S19_We_3 = 0
+ flow_T23_We_4: x_T23_S1_We_4 + x_T23_S2_We_4 + x_T23_S3_We_4 + x_T23_S10_We_4 + x_T23_S11_We_4 + x_T23_S12_We_4 + x_T23_S19_We_4 - x_T23_S1_We_4 - x_T23_S2_We_4 - x_T23_S3_We_4 - x_T23_S10_We_4 - x_T23_S11_We_4 - x_T23_S12_We_4 - x_T23_S19_We_4 = 0
+ flow_T23_We_5: x_T23_S1_We_5 + x_T23_S2_We_5 + x_T23_S3_We_5 + x_T23_S10_We_5 + x_T23_S11_We_5 + x_T23_S12_We_5 + x_T23_S19_We_5 - x_T23_S1_We_5 - x_T23_S2_We_5 - x_T23_S3_We_5 - x_T23_S10_We_5 - x_T23_S11_We_5 - x_T23_S12_We_5 - x_T23_S19_We_5 = -1
+ flow_T23_Th_1: x_T23_S1_Th_1 + x_T23_S2_Th_1 + x_T23_S3_Th_1 + x_T23_S10_Th_1 + x_T23_S11_Th_1 + x_T23_S12_Th_1 + x_T23_S19_Th_1 - x_T23_S1_Th_1 - x_T23_S2_Th_1 - x_T23_S3_Th_1 - x_T23_S10_Th_1 - x_T23_S11_Th_1 - x_T23_S12_Th_1 - x_T23_S19_Th_1 = 1
+ flow_T23_Th_2: x_T23_S1_Th_2 + x_T23_S2_Th_2 + x_T23_S3_Th_2 + x_T23_S10_Th_2 + x_T23_S11_Th_2 + x_T23_S12_Th_2 + x_T23_S19_Th_2 - x_T23_S1_Th_2 - x_T23_S2_Th_2 - x_T23_S3_Th_2 - x_T23_S10_Th_2 - x_T23_S11_Th_2 - x_T23_S12_Th_2 - x_T23_S19_Th_2 = 0
+ flow_T23_Th_3: x_T23_S1_Th_3 + x_T23_S2_Th_3 + x_T23_S3_Th_3 + x_T23_S10_Th_3 + x_T23_S11_Th_3 + x_T23_S12_Th_3 + x_T23_S19_Th_3 - x_T23_S1_Th_3 - x_T23_S2_Th_3 - x_T23_S3_Th_3 - x_T23_S10_Th_3 - x_T23_S11_Th_3 - x_T23_S12_Th_3 - x_T23_S19_Th_3 = 0
+ flow_T23_Th_4: x_T23_S1_Th_4 + x_T23_S2_Th_4 + x_T23_S3_Th_4 + x_T23_S10_Th_4 + x_T23_S11_Th_4 + x_T23_S12_Th_4 + x_T23_S19_Th_4 - x_T23_S1_Th_4 - x_T23_S2_Th_4 - x_T23_S3_Th_4 - x_T23_S10_Th_4 - x_T23_S11_Th_4 - x_T23_S12_Th_4 - x_T23_S19_Th_4 = 0
+ flow_T23_Th_5: x_T23_S1_Th_5 + x_T23_S2_Th_5 + x_T23_S3_Th_5 + x_T23_S10_Th_5 + x_T23_S11_Th_5 + x_T23_S12_Th_5 + x_T23_S19_Th_5 - x_T23_S1_Th_5 - x_T23_S2_Th_5 - x_T23_S3_Th_5 - x_T23_S10_Th_5 - x_T23_S11_Th_5 - x_T23_S12_Th_5 - x_T23_S19_Th_5 = -1
+ flow_T23_Fr_1: x_T23_S1_Fr_1 + x_T23_S2_Fr_1 + x_T23_S3_Fr_1 + x_T23_S10_Fr_1 + x_T23_S11_Fr_1 + x_T23_S12_Fr_1 + x_T23_S19_Fr_1 - x_T23_S1_Fr_1 - x_T23_S2_Fr_1 - x_T23_S3_Fr_1 - x_T23_S10_Fr_1 - x_T23_S11_Fr_1 - x_T23_S12_Fr_1 - x_T23_S19_Fr_1 = 1
+ flow_T23_Fr_2: x_T23_S1_Fr_2 + x_T23_S2_Fr_2 + x_T23_S3_Fr_2 + x_T23_S10_Fr_2 + x_T23_S11_Fr_2 + x_T23_S12_Fr_2 + x_T23_S19_Fr_2 - x_T23_S1_Fr_2 - x_T23_S2_Fr_2 - x_T23_S3_Fr_2 - x_T23_S10_Fr_2 - x_T23_S11_Fr_2 - x_T23_S12_Fr_2 - x_T23_S19_Fr_2 = 0
+ flow_T23_Fr_3: x_T23_S1_Fr_3 + x_T23_S2_Fr_3 + x_T23_S3_Fr_3 + x_T23_S10_Fr_3 + x_T23_S11_Fr_3 + x_T23_S12_Fr_3 + x_T23_S19_Fr_3 - x_T23_S1_Fr_3 - x_T23_S2_Fr_3 - x_T23_S3_Fr_3 - x_T23_S10_Fr_3 - x_T23_S11_Fr_3 - x_T23_S12_Fr_3 - x_T23_S19_Fr_3 = 0
+ flow_T23_Fr_4: x_T23_S1_Fr_4 + x_T23_S2_Fr_4 + x_T23_S3_Fr_4 + x_T23_S10_Fr_4 + x_T23_S11_Fr_4 + x_T23_S12_Fr_4 + x_T23_S19_Fr_4 - x_T23_S1_Fr_4 - x_T23_S2_Fr_4 - x_T23_S3_Fr_4 - x_T23_S10_Fr_4 - x_T23_S11_Fr_4 - x_T23_S12_Fr_4 - x_T23_S19_Fr_4 = 0
+ flow_T23_Fr_5: x_T23_S1_Fr_5 + x_T23_S2_Fr_5 + x_T23_S3_Fr_5 + x_T23_S10_Fr_5 + x_T23_S11_Fr_5 + x_T23_S12_Fr_5 + x_T23_S19_Fr_5 - x_T23_S1_Fr_5 - x_T23_S2_Fr_5 - x_T23_S3_Fr_5 - x_T23_S10_Fr_5 - x_T23_S11_Fr_5 - x_T23_S12_Fr_5 - x_T23_S19_Fr_5 = -1
+ flow_T6_Mo_1: x_T6_S5_Mo_1 + x_T6_S6_Mo_1 + x_T6_S7_Mo_1 + x_T6_S8_Mo_1 + x_T6_S10_Mo_1 + x_T6_S12_Mo_1 - x_T6_S5_Mo_1 - x_T6_S6_Mo_1 - x_T6_S7_Mo_1 - x_T6_S8_Mo_1 - x_T6_S10_Mo_1 - x_T6_S12_Mo_1 = 1
+ flow_T6_Mo_2: x_T6_S5_Mo_2 + x_T6_S6_Mo_2 + x_T6_S7_Mo_2 + x_T6_S8_Mo_2 + x_T6_S10_Mo_2 + x_T6_S12_Mo_2 - x_T6_S5_Mo_2 - x_T6_S6_Mo_2 - x_T6_S7_Mo_2 - x_T6_S8_Mo_2 - x_T6_S10_Mo_2 - x_T6_S12_Mo_2 = 0
+ flow_T6_Mo_3: x_T6_S5_Mo_3 + x_T6_S6_Mo_3 + x_T6_S7_Mo_3 + x_T6_S8_Mo_3 + x_T6_S10_Mo_3 + x_T6_S12_Mo_3 - x_T6_S5_Mo_3 - x_T6_S6_Mo_3 - x_T6_S7_Mo_3 - x_T6_S8_Mo_3 - x_T6_S10_Mo_3 - x_T6_S12_Mo_3 = 0
+ flow_T6_Mo_4: x_T6_S5_Mo_4 + x_T6_S6_Mo_4 + x_T6_S7_Mo_4 + x_T6_S8_Mo_4 + x_T6_S10_Mo_4 + x_T6_S12_Mo_4 - x_T6_S5_Mo_4 - x_T6_S6_Mo_4 - x_T6_S7_Mo_4 - x_T6_S8_Mo_4 - x_T6_S10_Mo_4 - x_T6_S12_Mo_4 = 0
+ flow_T6_Mo_5: x_T6_S5_Mo_5 + x_T6_S6_Mo_5 + x_T6_S7_Mo_5 + x_T6_S8_Mo_5 + x_T6_S10_Mo_5 + x_T6_S12_Mo_5 - x_T6_S5_Mo_5 - x_T6_S6_Mo_5 - x_T6_S7_Mo_5 - x_T6_S8_Mo_5 - x_T6_S10_Mo_5 - x_T6_S12_Mo_5 = -1
+ flow_T6_Tu_1: x_T6_S5_Tu_1 + x_T6_S6_Tu_1 + x_T6_S7_Tu_1 + x_T6_S8_Tu_1 + x_T6_S10_Tu_1 + x_T6_S12_Tu_1 - x_T6_S5_Tu_1 - x_T6_S6_Tu_1 - x_T6_S7_Tu_1 - x_T6_S8_Tu_1 - x_T6_S10_Tu_1 - x_T6_S12_Tu_1 = 1
+ flow_T6_Tu_2: x_T6_S5_Tu_2 + x_T6_S6_Tu_2 + x_T6_S7_Tu_2 + x_T6_S8_Tu_2 + x_T6_S10_Tu_2 + x_T6_S12_Tu_2 - x_T6_S5_Tu_2 - x_T6_S6_Tu_2 - x_T6_S7_Tu_2 - x_T6_S8_Tu_2 - x_T6_S10_Tu_2 - x_T6_S12_Tu_2 = 0
+ flow_T6_Tu_3: x_T6_S5_Tu_3 + x_T6_S6_Tu_3 + x_T6_S7_Tu_3 + x_T6_S8_Tu_3 + x_T6_S10_Tu_3 + x_T6_S12_Tu_3 - x_T6_S5_Tu_3 - x_T6_S6_Tu_3 - x_T6_S7_Tu_3 - x_T6_S8_Tu_3 - x_T6_S10_Tu_3 - x_T6_S12_Tu_3 = 0
+ flow_T6_Tu_4: x_T6_S5_Tu_4 + x_T6_S6_Tu_4 + x_T6_S7_Tu_4 + x_T6_S8_Tu_4 + x_T6_S10_Tu_4 + x_T6_S12_Tu_4 - x_T6_S5_Tu_4 - x_T6_S6_Tu_4 - x_T6_S7_Tu_4 - x_T6_S8_Tu_4 - x_T6_S10_Tu_4 - x_T6_S12_Tu_4 = 0
+ flow_T6_Tu_5: x_T6_S5_Tu_5 + x_T6_S6_Tu_5 + x_T6_S7_Tu_5 + x_T6_S8_Tu_5 + x_T6_S10_Tu_5 + x_T6_S12_Tu_5 - x_T6_S5_Tu_5 - x_T6_S6_Tu_5 - x_T6_S7_Tu_5 - x_T6_S8_Tu_5 - x_T6_S10_Tu_5 - x_T6_S12_Tu_5 = -1
+ flow_T6_We_1: x_T6_S5_We_1 + x_T6_S6_We_1 + x_T6_S7_We_1 + x_T6_S8_We_1 + x_T6_S10_We_1 + x_T6_S12_We_1 - x_T6_S5_We_1 - x_T6_S6_We_1 - x_T6_S7_We_1 - x_T6_S8_We_1 - x_T6_S10_We_1 - x_T6_S12_We_1 = 1
+ flow_T6_We_2: x_T6_S5_We_2 + x_T6_S6_We_2 + x_T6_S7_We_2 + x_T6_S8_We_2 + x_T6_S10_We_2 + x_T6_S12_We_2 - x_T6_S5_We_2 - x_T6_S6_We_2 - x_T6_S7_We_2 - x_T6_S8_We_2 - x_T6_S10_We_2 - x_T6_S12_We_2 = 0
+ flow_T6_We_3: x_T6_S5_We_3 + x_T6_S6_We_3 + x_T6_S7_We_3 + x_T6_S8_We_3 + x_T6_S10_We_3 + x_T6_S12_We_3 - x_T6_S5_We_3 - x_T6_S6_We_3 - x_T6_S7_We_3 - x_T6_S8_We_3 - x_T6_S10_We_3 - x_T6_S12_We_3 = 0
+ flow_T6_We_4: x_T6_S5_We_4 + x_T6_S6_We_4 + x_T6_S7_We_4 + x_T6_S8_We_4 + x_T6_S10_We_4 + x_T6_S12_We_4 - x_T6_S5_We_4 - x_T6_S6_We_4 - x_T6_S7_We_4 - x_T6_S8_We_4 - x_T6_S10_We_4 - x_T6_S12_We_4 = 0
+ flow_T6_We_5: x_T6_S5_We_5 + x_T6_S6_We_5 + x_T6_S7_We_5 + x_T6_S8_We_5 + x_T6_S10_We_5 + x_T6_S12_We_5 - x_T6_S5_We_5 - x_T6_S6_We_5 - x_T6_S7_We_5 - x_T6_S8_We_5 - x_T6_S10_We_5 - x_T6_S12_We_5 = -1
+ flow_T6_Th_1: x_T6_S5_Th_1 + x_T6_S6_Th_1 + x_T6_S7_Th_1 + x_T6_S8_Th_1 + x_T6_S10_Th_1 + x_T6_S12_Th_1 - x_T6_S5_Th_1 - x_T6_S6_Th_1 - x_T6_S7_Th_1 - x_T6_S8_Th_1 - x_T6_S10_Th_1 - x_T6_S12_Th_1 = 1
+ flow_T6_Th_2: x_T6_S5_Th_2 + x_T6_S6_Th_2 + x_T6_S7_Th_2 + x_T6_S8_Th_2 + x_T6_S10_Th_2 + x_T6_S12_Th_2 - x_T6_S5_Th_2 - x_T6_S6_Th_2 - x_T6_S7_Th_2 - x_T6_S8_Th_2 - x_T6_S10_Th_2 - x_T6_S12_Th_2 = 0
+ flow_T6_Th_3: x_T6_S5_Th_3 + x_T6_S6_Th_3 + x_T6_S7_Th_3 + x_T6_S8_Th_3 + x_T6_S10_Th_3 + x_T6_S12_Th_3 - x_T6_S5_Th_3 - x_T6_S6_Th_3 - x_T6_S7_Th_3 - x_T6_S8_Th_3 - x_T6_S10_Th_3 - x_T6_S12_Th_3 = 0
+ flow_T6_Th_4: x_T6_S5_Th_4 + x_T6_S6_Th_4 + x_T6_S7_Th_4 + x_T6_S8_Th_4 + x_T6_S10_Th_4 + x_T6_S12_Th_4 - x_T6_S5_Th_4 - x_T6_S6_Th_4 - x_T6_S7_Th_4 - x_T6_S8_Th_4 - x_T6_S10_Th_4 - x_T6_S12_Th_4 = 0
+ flow_T6_Th_5: x_T6_S5_Th_5 + x_T6_S6_Th_5 + x_T6_S7_Th_5 + x_T6_S8_Th_5 + x_T6_S10_Th_5 + x_T6_S12_Th_5 - x_T6_S5_Th_5 - x_T6_S6_Th_5 - x_T6_S7_Th_5 - x_T6_S8_Th_5 - x_T6_S10_Th_5 - x_T6_S12_Th_5 = -1
+ flow_T6_Fr_1: x_T6_S5_Fr_1 + x_T6_S6_Fr_1 + x_T6_S7_Fr_1 + x_T6_S8_Fr_1 + x_T6_S10_Fr_1 + x_T6_S12_Fr_1 - x_T6_S5_Fr_1 - x_T6_S6_Fr_1 - x_T6_S7_Fr_1 - x_T6_S8_Fr_1 - x_T6_S10_Fr_1 - x_T6_S12_Fr_1 = 1
+ flow_T6_Fr_2: x_T6_S5_Fr_2 + x_T6_S6_Fr_2 + x_T6_S7_Fr_2 + x_T6_S8_Fr_2 + x_T6_S10_Fr_2 + x_T6_S12_Fr_2 - x_T6_S5_Fr_2 - x_T6_S6_Fr_2 - x_T6_S7_Fr_2 - x_T6_S8_Fr_2 - x_T6_S10_Fr_2 - x_T6_S12_Fr_2 = 0
+ flow_T6_Fr_3: x_T6_S5_Fr_3 + x_T6_S6_Fr_3 + x_T6_S7_Fr_3 + x_T6_S8_Fr_3 + x_T6_S10_Fr_3 + x_T6_S12_Fr_3 - x_T6_S5_Fr_3 - x_T6_S6_Fr_3 - x_T6_S7_Fr_3 - x_T6_S8_Fr_3 - x_T6_S10_Fr_3 - x_T6_S12_Fr_3 = 0
+ flow_T6_Fr_4: x_T6_S5_Fr_4 + x_T6_S6_Fr_4 + x_T6_S7_Fr_4 + x_T6_S8_Fr_4 + x_T6_S10_Fr_4 + x_T6_S12_Fr_4 - x_T6_S5_Fr_4 - x_T6_S6_Fr_4 - x_T6_S7_Fr_4 - x_T6_S8_Fr_4 - x_T6_S10_Fr_4 - x_T6_S12_Fr_4 = 0
+ flow_T6_Fr_5: x_T6_S5_Fr_5 + x_T6_S6_Fr_5 + x_T6_S7_Fr_5 + x_T6_S8_Fr_5 + x_T6_S10_Fr_5 + x_T6_S12_Fr_5 - x_T6_S5_Fr_5 - x_T6_S6_Fr_5 - x_T6_S7_Fr_5 - x_T6_S8_Fr_5 - x_T6_S10_Fr_5 - x_T6_S12_Fr_5 = -1
+ flow_T11_Mo_1: x_T11_S6_Mo_1 + x_T11_S7_Mo_1 + x_T11_S8_Mo_1 + x_T11_S9_Mo_1 + x_T11_S10_Mo_1 - x_T11_S6_Mo_1 - x_T11_S7_Mo_1 - x_T11_S8_Mo_1 - x_T11_S9_Mo_1 - x_T11_S10_Mo_1 = 1
+ flow_T11_Mo_2: x_T11_S6_Mo_2 + x_T11_S7_Mo_2 + x_T11_S8_Mo_2 + x_T11_S9_Mo_2 + x_T11_S10_Mo_2 - x_T11_S6_Mo_2 - x_T11_S7_Mo_2 - x_T11_S8_Mo_2 - x_T11_S9_Mo_2 - x_T11_S10_Mo_2 = 0
+ flow_T11_Mo_3: x_T11_S6_Mo_3 + x_T11_S7_Mo_3 + x_T11_S8_Mo_3 + x_T11_S9_Mo_3 + x_T11_S10_Mo_3 - x_T11_S6_Mo_3 - x_T11_S7_Mo_3 - x_T11_S8_Mo_3 - x_T11_S9_Mo_3 - x_T11_S10_Mo_3 = 0
+ flow_T11_Mo_4: x_T11_S6_Mo_4 + x_T11_S7_Mo_4 + x_T11_S8_Mo_4 + x_T11_S9_Mo_4 + x_T11_S10_Mo_4 - x_T11_S6_Mo_4 - x_T11_S7_Mo_4 - x_T11_S8_Mo_4 - x_T11_S9_Mo_4 - x_T11_S10_Mo_4 = 0
+ flow_T11_Mo_5: x_T11_S6_Mo_5 + x_T11_S7_Mo_5 + x_T11_S8_Mo_5 + x_T11_S9_Mo_5 + x_T11_S10_Mo_5 - x_T11_S6_Mo_5 - x_T11_S7_Mo_5 - x_T11_S8_Mo_5 - x_T11_S9_Mo_5 - x_T11_S10_Mo_5 = -1
+ flow_T11_Tu_1: x_T11_S6_Tu_1 + x_T11_S7_Tu_1 + x_T11_S8_Tu_1 + x_T11_S9_Tu_1 + x_T11_S10_Tu_1 - x_T11_S6_Tu_1 - x_T11_S7_Tu_1 - x_T11_S8_Tu_1 - x_T11_S9_Tu_1 - x_T11_S10_Tu_1 = 1
+ flow_T11_Tu_2: x_T11_S6_Tu_2 + x_T11_S7_Tu_2 + x_T11_S8_Tu_2 + x_T11_S9_Tu_2 + x_T11_S10_Tu_2 - x_T11_S6_Tu_2 - x_T11_S7_Tu_2 - x_T11_S8_Tu_2 - x_T11_S9_Tu_2 - x_T11_S10_Tu_2 = 0
+ flow_T11_Tu_3: x_T11_S6_Tu_3 + x_T11_S7_Tu_3 + x_T11_S8_Tu_3 + x_T11_S9_Tu_3 + x_T11_S10_Tu_3 - x_T11_S6_Tu_3 - x_T11_S7_Tu_3 - x_T11_S8_Tu_3 - x_T11_S9_Tu_3 - x_T11_S10_Tu_3 = 0
+ flow_T11_Tu_4: x_T11_S6_Tu_4 + x_T11_S7_Tu_4 + x_T11_S8_Tu_4 + x_T11_S9_Tu_4 + x_T11_S10_Tu_4 - x_T11_S6_Tu_4 - x_T11_S7_Tu_4 - x_T11_S8_Tu_4 - x_T11_S9_Tu_4 - x_T11_S10_Tu_4 = 0
+ flow_T11_Tu_5: x_T11_S6_Tu_5 + x_T11_S7_Tu_5 + x_T11_S8_Tu_5 + x_T11_S9_Tu_5 + x_T11_S10_Tu_5 - x_T11_S6_Tu_5 - x_T11_S7_Tu_5 - x_T11_S8_Tu_5 - x_T11_S9_Tu_5 - x_T11_S10_Tu_5 = -1
+ flow_T11_We_1: x_T11_S6_We_1 + x_T11_S7_We_1 + x_T11_S8_We_1 + x_T11_S9_We_1 + x_T11_S10_We_1 - x_T11_S6_We_1 - x_T11_S7_We_1 - x_T11_S8_We_1 - x_T11_S9_We_1 - x_T11_S10_We_1 = 1
+ flow_T11_We_2: x_T11_S6_We_2 + x_T11_S7_We_2 + x_T11_S8_We_2 + x_T11_S9_We_2 + x_T11_S10_We_2 - x_T11_S6_We_2 - x_T11_S7_We_2 - x_T11_S8_We_2 - x_T11_S9_We_2 - x_T11_S10_We_2 = 0
+ flow_T11_We_3: x_T11_S6_We_3 + x_T11_S7_We_3 + x_T11_S8_We_3 + x_T11_S9_We_3 + x_T11_S10_We_3 - x_T11_S6_We_3 - x_T11_S7_We_3 - x_T11_S8_We_3 - x_T11_S9_We_3 - x_T11_S10_We_3 = 0
+ flow_T11_We_4: x_T11_S6_We_4 + x_T11_S7_We_4 + x_T11_S8_We_4 + x_T11_S9_We_4 + x_T11_S10_We_4 - x_T11_S6_We_4 - x_T11_S7_We_4 - x_T11_S8_We_4 - x_T11_S9_We_4 - x_T11_S10_We_4 = 0
+ flow_T11_We_5: x_T11_S6_We_5 + x_T11_S7_We_5 + x_T11_S8_We_5 + x_T11_S9_We_5 + x_T11_S10_We_5 - x_T11_S6_We_5 - x_T11_S7_We_5 - x_T11_S8_We_5 - x_T11_S9_We_5 - x_T11_S10_We_5 = -1
+ flow_T11_Th_1: x_T11_S6_Th_1 + x_T11_S7_Th_1 + x_T11_S8_Th_1 + x_T11_S9_Th_1 + x_T11_S10_Th_1 - x_T11_S6_Th_1 - x_T11_S7_Th_1 - x_T11_S8_Th_1 - x_T11_S9_Th_1 - x_T11_S10_Th_1 = 1
+ flow_T11_Th_2: x_T11_S6_Th_2 + x_T11_S7_Th_2 + x_T11_S8_Th_2 + x_T11_S9_Th_2 + x_T11_S10_Th_2 - x_T11_S6_Th_2 - x_T11_S7_Th_2 - x_T11_S8_Th_2 - x_T11_S9_Th_2 - x_T11_S10_Th_2 = 0
+ flow_T11_Th_3: x_T11_S6_Th_3 + x_T11_S7_Th_3 + x_T11_S8_Th_3 + x_T11_S9_Th_3 + x_T11_S10_Th_3 - x_T11_S6_Th_3 - x_T11_S7_Th_3 - x_T11_S8_Th_3 - x_T11_S9_Th_3 - x_T11_S10_Th_3 = 0
+ flow_T11_Th_4: x_T11_S6_Th_4 + x_T11_S7_Th_4 + x_T11_S8_Th_4 + x_T11_S9_Th_4 + x_T11_S10_Th_4 - x_T11_S6_Th_4 - x_T11_S7_Th_4 - x_T11_S8_Th_4 - x_T11_S9_Th_4 - x_T11_S10_Th_4 = 0
+ flow_T11_Th_5: x_T11_S6_Th_5 + x_T11_S7_Th_5 + x_T11_S8_Th_5 + x_T11_S9_Th_5 + x_T11_S10_Th_5 - x_T11_S6_Th_5 - x_T11_S7_Th_5 - x_T11_S8_Th_5 - x_T11_S9_Th_5 - x_T11_S10_Th_5 = -1
+ flow_T11_Fr_1: x_T11_S6_Fr_1 + x_T11_S7_Fr_1 + x_T11_S8_Fr_1 + x_T11_S9_Fr_1 + x_T11_S10_Fr_1 - x_T11_S6_Fr_1 - x_T11_S7_Fr_1 - x_T11_S8_Fr_1 - x_T11_S9_Fr_1 - x_T11_S10_Fr_1 = 1
+ flow_T11_Fr_2: x_T11_S6_Fr_2 + x_T11_S7_Fr_2 + x_T11_S8_Fr_2 + x_T11_S9_Fr_2 + x_T11_S10_Fr_2 - x_T11_S6_Fr_2 - x_T11_S7_Fr_2 - x_T11_S8_Fr_2 - x_T11_S9_Fr_2 - x_T11_S10_Fr_2 = 0
+ flow_T11_Fr_3: x_T11_S6_Fr_3 + x_T11_S7_Fr_3 + x_T11_S8_Fr_3 + x_T11_S9_Fr_3 + x_T11_S10_Fr_3 - x_T11_S6_Fr_3 - x_T11_S7_Fr_3 - x_T11_S8_Fr_3 - x_T11_S9_Fr_3 - x_T11_S10_Fr_3 = 0
+ flow_T11_Fr_4: x_T11_S6_Fr_4 + x_T11_S7_Fr_4 + x_T11_S8_Fr_4 + x_T11_S9_Fr_4 + x_T11_S10_Fr_4 - x_T11_S6_Fr_4 - x_T11_S7_Fr_4 - x_T11_S8_Fr_4 - x_T11_S9_Fr_4 - x_T11_S10_Fr_4 = 0
+ flow_T11_Fr_5: x_T11_S6_Fr_5 + x_T11_S7_Fr_5 + x_T11_S8_Fr_5 + x_T11_S9_Fr_5 + x_T11_S10_Fr_5 - x_T11_S6_Fr_5 - x_T11_S7_Fr_5 - x_T11_S8_Fr_5 - x_T11_S9_Fr_5 - x_T11_S10_Fr_5 = -1
+ capacity_S11_Mo_1: x_T2_S11_Mo_1 + x_T7_S11_Mo_1 + x_T8_S11_Mo_1 + x_T12_S11_Mo_1 + x_T15_S11_Mo_1 + x_T18_S11_Mo_1 + x_T21_S11_Mo_1 + x_T23_S11_Mo_1 + x_T27_S11_Mo_1 + x_T30_S11_Mo_1 <= 1
+ capacity_S11_Mo_2: x_T2_S11_Mo_2 + x_T7_S11_Mo_2 + x_T8_S11_Mo_2 + x_T12_S11_Mo_2 + x_T15_S11_Mo_2 + x_T18_S11_Mo_2 + x_T21_S11_Mo_2 + x_T23_S11_Mo_2 + x_T27_S11_Mo_2 + x_T30_S11_Mo_2 <= 1
+ capacity_S11_Mo_3: x_T2_S11_Mo_3 + x_T7_S11_Mo_3 + x_T8_S11_Mo_3 + x_T12_S11_Mo_3 + x_T15_S11_Mo_3 + x_T18_S11_Mo_3 + x_T21_S11_Mo_3 + x_T23_S11_Mo_3 + x_T27_S11_Mo_3 + x_T30_S11_Mo_3 <= 1
+ capacity_S11_Mo_4: x_T2_S11_Mo_4 + x_T7_S11_Mo_4 + x_T8_S11_Mo_4 + x_T12_S11_Mo_4 + x_T15_S11_Mo_4 + x_T18_S11_Mo_4 + x_T21_S11_Mo_4 + x_T23_S11_Mo_4 + x_T27_S11_Mo_4 + x_T30_S11_Mo_4 <= 1
+ capacity_S11_Mo_5: x_T2_S11_Mo_5 + x_T7_S11_Mo_5 + x_T8_S11_Mo_5 + x_T12_S11_Mo_5 + x_T15_S11_Mo_5 + x_T18_S11_Mo_5 + x_T21_S11_Mo_5 + x_T23_S11_Mo_5 + x_T27_S11_Mo_5 + x_T30_S11_Mo_5 <= 1
+ capacity_S11_Tu_1: x_T2_S11_Tu_1 + x_T7_S11_Tu_1 + x_T8_S11_Tu_1 + x_T12_S11_Tu_1 + x_T15_S11_Tu_1 + x_T18_S11_Tu_1 + x_T21_S11_Tu_1 + x_T23_S11_Tu_1 + x_T27_S11_Tu_1 + x_T30_S11_Tu_1 <= 1
+ capacity_S11_Tu_2: x_T2_S11_Tu_2 + x_T7_S11_Tu_2 + x_T8_S11_Tu_2 + x_T12_S11_Tu_2 + x_T15_S11_Tu_2 + x_T18_S11_Tu_2 + x_T21_S11_Tu_2 + x_T23_S11_Tu_2 + x_T27_S11_Tu_2 + x_T30_S11_Tu_2 <= 1
+ capacity_S11_Tu_3: x_T2_S11_Tu_3 + x_T7_S11_Tu_3 + x_T8_S11_Tu_3 + x_T12_S11_Tu_3 + x_T15_S11_Tu_3 + x_T18_S11_Tu_3 + x_T21_S11_Tu_3 + x_T23_S11_Tu_3 + x_T27_S11_Tu_3 + x_T30_S11_Tu_3 <= 1
+ capacity_S11_Tu_4: x_T2_S11_Tu_4 + x_T7_S11_Tu_4 + x_T8_S11_Tu_4 + x_T12_S11_Tu_4 + x_T15_S11_Tu_4 + x_T18_S11_Tu_4 + x_T21_S11_Tu_4 + x_T23_S11_Tu_4 + x_T27_S11_Tu_4 + x_T30_S11_Tu_4 <= 1
+ capacity_S11_Tu_5: x_T2_S11_Tu_5 + x_T7_S11_Tu_5 + x_T8_S11_Tu_5 + x_T12_S11_Tu_5 + x_T15_S11_Tu_5 + x_T18_S11_Tu_5 + x_T21_S11_Tu_5 + x_T23_S11_Tu_5 + x_T27_S11_Tu_5 + x_T30_S11_Tu_5 <= 1
+ capacity_S11_We_1: x_T2_S11_We_1 + x_T7_S11_We_1 + x_T8_S11_We_1 + x_T12_S11_We_1 + x_T15_S11_We_1 + x_T18_S11_We_1 + x_T21_S11_We_1 + x_T23_S11_We_1 + x_T27_S11_We_1 + x_T30_S11_We_1 <= 1
+ capacity_S11_We_2: x_T2_S11_We_2 + x_T7_S11_We_2 + x_T8_S11_We_2 + x_T12_S11_We_2 + x_T15_S11_We_2 + x_T18_S11_We_2 + x_T21_S11_We_2 + x_T23_S11_We_2 + x_T27_S11_We_2 + x_T30_S11_We_2 <= 1
+ capacity_S11_We_3: x_T2_S11_We_3 + x_T7_S11_We_3 + x_T8_S11_We_3 + x_T12_S11_We_3 + x_T15_S11_We_3 + x_T18_S11_We_3 + x_T21_S11_We_3 + x_T23_S11_We_3 + x_T27_S11_We_3 + x_T30_S11_We_3 <= 1
+ capacity_S11_We_4: x_T2_S11_We_4 + x_T7_S11_We_4 + x_T8_S11_We_4 + x_T12_S11_We_4 + x_T15_S11_We_4 + x_T18_S11_We_4 + x_T21_S11_We_4 + x_T23_S11_We_4 + x_T27_S11_We_4 + x_T30_S11_We_4 <= 1
+ capacity_S11_We_5: x_T2_S11_We_5 + x_T7_S11_We_5 + x_T8_S11_We_5 + x_T12_S11_We_5 + x_T15_S11_We_5 + x_T18_S11_We_5 + x_T21_S11_We_5 + x_T23_S11_We_5 + x_T27_S11_We_5 + x_T30_S11_We_5 <= 1
+ capacity_S11_Th_1: x_T2_S11_Th_1 + x_T7_S11_Th_1 + x_T8_S11_Th_1 + x_T12_S11_Th_1 + x_T15_S11_Th_1 + x_T18_S11_Th_1 + x_T21_S11_Th_1 + x_T23_S11_Th_1 + x_T27_S11_Th_1 + x_T30_S11_Th_1 <= 1
+ capacity_S11_Th_2: x_T2_S11_Th_2 + x_T7_S11_Th_2 + x_T8_S11_Th_2 + x_T12_S11_Th_2 + x_T15_S11_Th_2 + x_T18_S11_Th_2 + x_T21_S11_Th_2 + x_T23_S11_Th_2 + x_T27_S11_Th_2 + x_T30_S11_Th_2 <= 1
+ capacity_S11_Th_3: x_T2_S11_Th_3 + x_T7_S11_Th_3 + x_T8_S11_Th_3 + x_T12_S11_Th_3 + x_T15_S11_Th_3 + x_T18_S11_Th_3 + x_T21_S11_Th_3 + x_T23_S11_Th_3 + x_T27_S11_Th_3 + x_T30_S11_Th_3 <= 1
+ capacity_S11_Th_4: x_T2_S11_Th_4 + x_T7_S11_Th_4 + x_T8_S11_Th_4 + x_T12_S11_Th_4 + x_T15_S11_Th_4 + x_T18_S11_Th_4 + x_T21_S11_Th_4 + x_T23_S11_Th_4 + x_T27_S11_Th_4 + x_T30_S11_Th_4 <= 1
+ capacity_S11_Th_5: x_T2_S11_Th_5 + x_T7_S11_Th_5 + x_T8_S11_Th_5 + x_T12_S11_Th_5 + x_T15_S11_Th_5 + x_T18_S11_Th_5 + x_T21_S11_Th_5 + x_T23_S11_Th_5 + x_T27_S11_Th_5 + x_T30_S11_Th_5 <= 1
+ capacity_S11_Fr_1: x_T2_S11_Fr_1 + x_T7_S11_Fr_1 + x_T8_S11_Fr_1 + x_T12_S11_Fr_1 + x_T15_S11_Fr_1 + x_T18_S11_Fr_1 + x_T21_S11_Fr_1 + x_T23_S11_Fr_1 + x_T27_S11_Fr_1 + x_T30_S11_Fr_1 <= 1
+ capacity_S11_Fr_2: x_T2_S11_Fr_2 + x_T7_S11_Fr_2 + x_T8_S11_Fr_2 + x_T12_S11_Fr_2 + x_T15_S11_Fr_2 + x_T18_S11_Fr_2 + x_T21_S11_Fr_2 + x_T23_S11_Fr_2 + x_T27_S11_Fr_2 + x_T30_S11_Fr_2 <= 1
+ capacity_S11_Fr_3: x_T2_S11_Fr_3 + x_T7_S11_Fr_3 + x_T8_S11_Fr_3 + x_T12_S11_Fr_3 + x_T15_S11_Fr_3 + x_T18_S11_Fr_3 + x_T21_S11_Fr_3 + x_T23_S11_Fr_3 + x_T27_S11_Fr_3 + x_T30_S11_Fr_3 <= 1
+ capacity_S11_Fr_4: x_T2_S11_Fr_4 + x_T7_S11_Fr_4 + x_T8_S11_Fr_4 + x_T12_S11_Fr_4 + x_T15_S11_Fr_4 + x_T18_S11_Fr_4 + x_T21_S11_Fr_4 + x_T23_S11_Fr_4 + x_T27_S11_Fr_4 + x_T30_S11_Fr_4 <= 1
+ capacity_S11_Fr_5: x_T2_S11_Fr_5 + x_T7_S11_Fr_5 + x_T8_S11_Fr_5 + x_T12_S11_Fr_5 + x_T15_S11_Fr_5 + x_T18_S11_Fr_5 + x_T21_S11_Fr_5 + x_T23_S11_Fr_5 + x_T27_S11_Fr_5 + x_T30_S11_Fr_5 <= 1
+ capacity_S13_Mo_1: x_T3_S13_Mo_1 + x_T7_S13_Mo_1 + x_T8_S13_Mo_1 + x_T12_S13_Mo_1 + x_T14_S13_Mo_1 + x_T17_S13_Mo_1 + x_T21_S13_Mo_1 + x_T24_S13_Mo_1 + x_T26_S13_Mo_1 + x_T29_S13_Mo_1 <= 1
+ capacity_S13_Mo_2: x_T3_S13_Mo_2 + x_T7_S13_Mo_2 + x_T8_S13_Mo_2 + x_T12_S13_Mo_2 + x_T14_S13_Mo_2 + x_T17_S13_Mo_2 + x_T21_S13_Mo_2 + x_T24_S13_Mo_2 + x_T26_S13_Mo_2 + x_T29_S13_Mo_2 <= 1
+ capacity_S13_Mo_3: x_T3_S13_Mo_3 + x_T7_S13_Mo_3 + x_T8_S13_Mo_3 + x_T12_S13_Mo_3 + x_T14_S13_Mo_3 + x_T17_S13_Mo_3 + x_T21_S13_Mo_3 + x_T24_S13_Mo_3 + x_T26_S13_Mo_3 + x_T29_S13_Mo_3 <= 1
+ capacity_S13_Mo_4: x_T3_S13_Mo_4 + x_T7_S13_Mo_4 + x_T8_S13_Mo_4 + x_T12_S13_Mo_4 + x_T14_S13_Mo_4 + x_T17_S13_Mo_4 + x_T21_S13_Mo_4 + x_T24_S13_Mo_4 + x_T26_S13_Mo_4 + x_T29_S13_Mo_4 <= 1
+ capacity_S13_Mo_5: x_T3_S13_Mo_5 + x_T7_S13_Mo_5 + x_T8_S13_Mo_5 + x_T12_S13_Mo_5 + x_T14_S13_Mo_5 + x_T17_S13_Mo_5 + x_T21_S13_Mo_5 + x_T24_S13_Mo_5 + x_T26_S13_Mo_5 + x_T29_S13_Mo_5 <= 1
+ capacity_S13_Tu_1: x_T3_S13_Tu_1 + x_T7_S13_Tu_1 + x_T8_S13_Tu_1 + x_T12_S13_Tu_1 + x_T14_S13_Tu_1 + x_T17_S13_Tu_1 + x_T21_S13_Tu_1 + x_T24_S13_Tu_1 + x_T26_S13_Tu_1 + x_T29_S13_Tu_1 <= 1
+ capacity_S13_Tu_2: x_T3_S13_Tu_2 + x_T7_S13_Tu_2 + x_T8_S13_Tu_2 + x_T12_S13_Tu_2 + x_T14_S13_Tu_2 + x_T17_S13_Tu_2 + x_T21_S13_Tu_2 + x_T24_S13_Tu_2 + x_T26_S13_Tu_2 + x_T29_S13_Tu_2 <= 1
+ capacity_S13_Tu_3: x_T3_S13_Tu_3 + x_T7_S13_Tu_3 + x_T8_S13_Tu_3 + x_T12_S13_Tu_3 + x_T14_S13_Tu_3 + x_T17_S13_Tu_3 + x_T21_S13_Tu_3 + x_T24_S13_Tu_3 + x_T26_S13_Tu_3 + x_T29_S13_Tu_3 <= 1
+ capacity_S13_Tu_4: x_T3_S13_Tu_4 + x_T7_S13_Tu_4 + x_T8_S13_Tu_4 + x_T12_S13_Tu_4 + x_T14_S13_Tu_4 + x_T17_S13_Tu_4 + x_T21_S13_Tu_4 + x_T24_S13_Tu_4 + x_T26_S13_Tu_4 + x_T29_S13_Tu_4 <= 1
+ capacity_S13_Tu_5: x_T3_S13_Tu_5 + x_T7_S13_Tu_5 + x_T8_S13_Tu_5 + x_T12_S13_Tu_5 + x_T14_S13_Tu_5 + x_T17_S13_Tu_5 + x_T21_S13_Tu_5 + x_T24_S13_Tu_5 + x_T26_S13_Tu_5 + x_T29_S13_Tu_5 <= 1
+ capacity_S13_We_1: x_T3_S13_We_1 + x_T7_S13_We_1 + x_T8_S13_We_1 + x_T12_S13_We_1 + x_T14_S13_We_1 + x_T17_S13_We_1 + x_T21_S13_We_1 + x_T24_S13_We_1 + x_T26_S13_We_1 + x_T29_S13_We_1 <= 1
+ capacity_S13_We_2: x_T3_S13_We_2 + x_T7_S13_We_2 + x_T8_S13_We_2 + x_T12_S13_We_2 + x_T14_S13_We_2 + x_T17_S13_We_2 + x_T21_S13_We_2 + x_T24_S13_We_2 + x_T26_S13_We_2 + x_T29_S13_We_2 <= 1
+ capacity_S13_We_3: x_T3_S13_We_3 + x_T7_S13_We_3 + x_T8_S13_We_3 + x_T12_S13_We_3 + x_T14_S13_We_3 + x_T17_S13_We_3 + x_T21_S13_We_3 + x_T24_S13_We_3 + x_T26_S13_We_3 + x_T29_S13_We_3 <= 1
+ capacity_S13_We_4: x_T3_S13_We_4 + x_T7_S13_We_4 + x_T8_S13_We_4 + x_T12_S13_We_4 + x_T14_S13_We_4 + x_T17_S13_We_4 + x_T21_S13_We_4 + x_T24_S13_We_4 + x_T26_S13_We_4 + x_T29_S13_We_4 <= 1
+ capacity_S13_We_5: x_T3_S13_We_5 + x_T7_S13_We_5 + x_T8_S13_We_5 + x_T12_S13_We_5 + x_T14_S13_We_5 + x_T17_S13_We_5 + x_T21_S13_We_5 + x_T24_S13_We_5 + x_T26_S13_We_5 + x_T29_S13_We_5 <= 1
+ capacity_S13_Th_1: x_T3_S13_Th_1 + x_T7_S13_Th_1 + x_T8_S13_Th_1 + x_T12_S13_Th_1 + x_T14_S13_Th_1 + x_T17_S13_Th_1 + x_T21_S13_Th_1 + x_T24_S13_Th_1 + x_T26_S13_Th_1 + x_T29_S13_Th_1 <= 1
+ capacity_S13_Th_2: x_T3_S13_Th_2 + x_T7_S13_Th_2 + x_T8_S13_Th_2 + x_T12_S13_Th_2 + x_T14_S13_Th_2 + x_T17_S13_Th_2 + x_T21_S13_Th_2 + x_T24_S13_Th_2 + x_T26_S13_Th_2 + x_T29_S13_Th_2 <= 1
+ capacity_S13_Th_3: x_T3_S13_Th_3 + x_T7_S13_Th_3 + x_T8_S13_Th_3 + x_T12_S13_Th_3 + x_T14_S13_Th_3 + x_T17_S13_Th_3 + x_T21_S13_Th_3 + x_T24_S13_Th_3 + x_T26_S13_Th_3 + x_T29_S13_Th_3 <= 1
+ capacity_S13_Th_4: x_T3_S13_Th_4 + x_T7_S13_Th_4 + x_T8_S13_Th_4 + x_T12_S13_Th_4 + x_T14_S13_Th_4 + x_T17_S13_Th_4 + x_T21_S13_Th_4 + x_T24_S13_Th_4 + x_T26_S13_Th_4 + x_T29_S13_Th_4 <= 1
+ capacity_S13_Th_5: x_T3_S13_Th_5 + x_T7_S13_Th_5 + x_T8_S13_Th_5 + x_T12_S13_Th_5 + x_T14_S13_Th_5 + x_T17_S13_Th_5 + x_T21_S13_Th_5 + x_T24_S13_Th_5 + x_T26_S13_Th_5 + x_T29_S13_Th_5 <= 1
+ capacity_S13_Fr_1: x_T3_S13_Fr_1 + x_T7_S13_Fr_1 + x_T8_S13_Fr_1 + x_T12_S13_Fr_1 + x_T14_S13_Fr_1 + x_T17_S13_Fr_1 + x_T21_S13_Fr_1 + x_T24_S13_Fr_1 + x_T26_S13_Fr_1 + x_T29_S13_Fr_1 <= 1
+ capacity_S13_Fr_2: x_T3_S13_Fr_2 + x_T7_S13_Fr_2 + x_T8_S13_Fr_2 + x_T12_S13_Fr_2 + x_T14_S13_Fr_2 + x_T17_S13_Fr_2 + x_T21_S13_Fr_2 + x_T24_S13_Fr_2 + x_T26_S13_Fr_2 + x_T29_S13_Fr_2 <= 1
+ capacity_S13_Fr_3: x_T3_S13_Fr_3 + x_T7_S13_Fr_3 + x_T8_S13_Fr_3 + x_T12_S13_Fr_3 + x_T14_S13_Fr_3 + x_T17_S13_Fr_3 + x_T21_S13_Fr_3 + x_T24_S13_Fr_3 + x_T26_S13_Fr_3 + x_T29_S13_Fr_3 <= 1
+ capacity_S13_Fr_4: x_T3_S13_Fr_4 + x_T7_S13_Fr_4 + x_T8_S13_Fr_4 + x_T12_S13_Fr_4 + x_T14_S13_Fr_4 + x_T17_S13_Fr_4 + x_T21_S13_Fr_4 + x_T24_S13_Fr_4 + x_T26_S13_Fr_4 + x_T29_S13_Fr_4 <= 1
+ capacity_S13_Fr_5: x_T3_S13_Fr_5 + x_T7_S13_Fr_5 + x_T8_S13_Fr_5 + x_T12_S13_Fr_5 + x_T14_S13_Fr_5 + x_T17_S13_Fr_5 + x_T21_S13_Fr_5 + x_T24_S13_Fr_5 + x_T26_S13_Fr_5 + x_T29_S13_Fr_5 <= 1
+ capacity_S2_Mo_1: x_T1_S2_Mo_1 + x_T5_S2_Mo_1 + x_T10_S2_Mo_1 + x_T14_S2_Mo_1 + x_T17_S2_Mo_1 + x_T20_S2_Mo_1 + x_T23_S2_Mo_1 + x_T27_S2_Mo_1 + x_T30_S2_Mo_1 + x_T32_S2_Mo_1 <= 1
+ capacity_S2_Mo_2: x_T1_S2_Mo_2 + x_T5_S2_Mo_2 + x_T10_S2_Mo_2 + x_T14_S2_Mo_2 + x_T17_S2_Mo_2 + x_T20_S2_Mo_2 + x_T23_S2_Mo_2 + x_T27_S2_Mo_2 + x_T30_S2_Mo_2 + x_T32_S2_Mo_2 <= 1
+ capacity_S2_Mo_3: x_T1_S2_Mo_3 + x_T5_S2_Mo_3 + x_T10_S2_Mo_3 + x_T14_S2_Mo_3 + x_T17_S2_Mo_3 + x_T20_S2_Mo_3 + x_T23_S2_Mo_3 + x_T27_S2_Mo_3 + x_T30_S2_Mo_3 + x_T32_S2_Mo_3 <= 1
+ capacity_S2_Mo_4: x_T1_S2_Mo_4 + x_T5_S2_Mo_4 + x_T10_S2_Mo_4 + x_T14_S2_Mo_4 + x_T17_S2_Mo_4 + x_T20_S2_Mo_4 + x_T23_S2_Mo_4 + x_T27_S2_Mo_4 + x_T30_S2_Mo_4 + x_T32_S2_Mo_4 <= 1
+ capacity_S2_Mo_5: x_T1_S2_Mo_5 + x_T5_S2_Mo_5 + x_T10_S2_Mo_5 + x_T14_S2_Mo_5 + x_T17_S2_Mo_5 + x_T20_S2_Mo_5 + x_T23_S2_Mo_5 + x_T27_S2_Mo_5 + x_T30_S2_Mo_5 + x_T32_S2_Mo_5 <= 1
+ capacity_S2_Tu_1: x_T1_S2_Tu_1 + x_T5_S2_Tu_1 + x_T10_S2_Tu_1 + x_T14_S2_Tu_1 + x_T17_S2_Tu_1 + x_T20_S2_Tu_1 + x_T23_S2_Tu_1 + x_T27_S2_Tu_1 + x_T30_S2_Tu_1 + x_T32_S2_Tu_1 <= 1
+ capacity_S2_Tu_2: x_T1_S2_Tu_2 + x_T5_S2_Tu_2 + x_T10_S2_Tu_2 + x_T14_S2_Tu_2 + x_T17_S2_Tu_2 + x_T20_S2_Tu_2 + x_T23_S2_Tu_2 + x_T27_S2_Tu_2 + x_T30_S2_Tu_2 + x_T32_S2_Tu_2 <= 1
+ capacity_S2_Tu_3: x_T1_S2_Tu_3 + x_T5_S2_Tu_3 + x_T10_S2_Tu_3 + x_T14_S2_Tu_3 + x_T17_S2_Tu_3 + x_T20_S2_Tu_3 + x_T23_S2_Tu_3 + x_T27_S2_Tu_3 + x_T30_S2_Tu_3 + x_T32_S2_Tu_3 <= 1
+ capacity_S2_Tu_4: x_T1_S2_Tu_4 + x_T5_S2_Tu_4 + x_T10_S2_Tu_4 + x_T14_S2_Tu_4 + x_T17_S2_Tu_4 + x_T20_S2_Tu_4 + x_T23_S2_Tu_4 + x_T27_S2_Tu_4 + x_T30_S2_Tu_4 + x_T32_S2_Tu_4 <= 1
+ capacity_S2_Tu_5: x_T1_S2_Tu_5 + x_T5_S2_Tu_5 + x_T10_S2_Tu_5 + x_T14_S2_Tu_5 + x_T17_S2_Tu_5 + x_T20_S2_Tu_5 + x_T23_S2_Tu_5 + x_T27_S2_Tu_5 + x_T30_S2_Tu_5 + x_T32_S2_Tu_5 <= 1
+ capacity_S2_We_1: x_T1_S2_We_1 + x_T5_S2_We_1 + x_T10_S2_We_1 + x_T14_S2_We_1 + x_T17_S2_We_1 + x_T20_S2_We_1 + x_T23_S2_We_1 + x_T27_S2_We_1 + x_T30_S2_We_1 + x_T32_S2_We_1 <= 1
+ capacity_S2_We_2: x_T1_S2_We_2 + x_T5_S2_We_2 + x_T10_S2_We_2 + x_T14_S2_We_2 + x_T17_S2_We_2 + x_T20_S2_We_2 + x_T23_S2_We_2 + x_T27_S2_We_2 + x_T30_S2_We_2 + x_T32_S2_We_2 <= 1
+ capacity_S2_We_3: x_T1_S2_We_3 + x_T5_S2_We_3 + x_T10_S2_We_3 + x_T14_S2_We_3 + x_T17_S2_We_3 + x_T20_S2_We_3 + x_T23_S2_We_3 + x_T27_S2_We_3 + x_T30_S2_We_3 + x_T32_S2_We_3 <= 1
+ capacity_S2_We_4: x_T1_S2_We_4 + x_T5_S2_We_4 + x_T10_S2_We_4 + x_T14_S2_We_4 + x_T17_S2_We_4 + x_T20_S2_We_4 + x_T23_S2_We_4 + x_T27_S2_We_4 + x_T30_S2_We_4 + x_T32_S2_We_4 <= 1
+ capacity_S2_We_5: x_T1_S2_We_5 + x_T5_S2_We_5 + x_T10_S2_We_5 + x_T14_S2_We_5 + x_T17_S2_We_5 + x_T20_S2_We_5 + x_T23_S2_We_5 + x_T27_S2_We_5 + x_T30_S2_We_5 + x_T32_S2_We_5 <= 1
+ capacity_S2_Th_1: x_T1_S2_Th_1 + x_T5_S2_Th_1 + x_T10_S2_Th_1 + x_T14_S2_Th_1 + x_T17_S2_Th_1 + x_T20_S2_Th_1 + x_T23_S2_Th_1 + x_T27_S2_Th_1 + x_T30_S2_Th_1 + x_T32_S2_Th_1 <= 1
+ capacity_S2_Th_2: x_T1_S2_Th_2 + x_T5_S2_Th_2 + x_T10_S2_Th_2 + x_T14_S2_Th_2 + x_T17_S2_Th_2 + x_T20_S2_Th_2 + x_T23_S2_Th_2 + x_T27_S2_Th_2 + x_T30_S2_Th_2 + x_T32_S2_Th_2 <= 1
+ capacity_S2_Th_3: x_T1_S2_Th_3 + x_T5_S2_Th_3 + x_T10_S2_Th_3 + x_T14_S2_Th_3 + x_T17_S2_Th_3 + x_T20_S2_Th_3 + x_T23_S2_Th_3 + x_T27_S2_Th_3 + x_T30_S2_Th_3 + x_T32_S2_Th_3 <= 1
+ capacity_S2_Th_4: x_T1_S2_Th_4 + x_T5_S2_Th_4 + x_T10_S2_Th_4 + x_T14_S2_Th_4 + x_T17_S2_Th_4 + x_T20_S2_Th_4 + x_T23_S2_Th_4 + x_T27_S2_Th_4 + x_T30_S2_Th_4 + x_T32_S2_Th_4 <= 1
+ capacity_S2_Th_5: x_T1_S2_Th_5 + x_T5_S2_Th_5 + x_T10_S2_Th_5 + x_T14_S2_Th_5 + x_T17_S2_Th_5 + x_T20_S2_Th_5 + x_T23_S2_Th_5 + x_T27_S2_Th_5 + x_T30_S2_Th_5 + x_T32_S2_Th_5 <= 1
+ capacity_S2_Fr_1: x_T1_S2_Fr_1 + x_T5_S2_Fr_1 + x_T10_S2_Fr_1 + x_T14_S2_Fr_1 + x_T17_S2_Fr_1 + x_T20_S2_Fr_1 + x_T23_S2_Fr_1 + x_T27_S2_Fr_1 + x_T30_S2_Fr_1 + x_T32_S2_Fr_1 <= 1
+ capacity_S2_Fr_2: x_T1_S2_Fr_2 + x_T5_S2_Fr_2 + x_T10_S2_Fr_2 + x_T14_S2_Fr_2 + x_T17_S2_Fr_2 + x_T20_S2_Fr_2 + x_T23_S2_Fr_2 + x_T27_S2_Fr_2 + x_T30_S2_Fr_2 + x_T32_S2_Fr_2 <= 1
+ capacity_S2_Fr_3: x_T1_S2_Fr_3 + x_T5_S2_Fr_3 + x_T10_S2_Fr_3 + x_T14_S2_Fr_3 + x_T17_S2_Fr_3 + x_T20_S2_Fr_3 + x_T23_S2_Fr_3 + x_T27_S2_Fr_3 + x_T30_S2_Fr_3 + x_T32_S2_Fr_3 <= 1
+ capacity_S2_Fr_4: x_T1_S2_Fr_4 + x_T5_S2_Fr_4 + x_T10_S2_Fr_4 + x_T14_S2_Fr_4 + x_T17_S2_Fr_4 + x_T20_S2_Fr_4 + x_T23_S2_Fr_4 + x_T27_S2_Fr_4 + x_T30_S2_Fr_4 + x_T32_S2_Fr_4 <= 1
+ capacity_S2_Fr_5: x_T1_S2_Fr_5 + x_T5_S2_Fr_5 + x_T10_S2_Fr_5 + x_T14_S2_Fr_5 + x_T17_S2_Fr_5 + x_T20_S2_Fr_5 + x_T23_S2_Fr_5 + x_T27_S2_Fr_5 + x_T30_S2_Fr_5 + x_T32_S2_Fr_5 <= 1
+ capacity_S3_Mo_1: x_T1_S3_Mo_1 + x_T5_S3_Mo_1 + x_T10_S3_Mo_1 + x_T14_S3_Mo_1 + x_T17_S3_Mo_1 + x_T20_S3_Mo_1 + x_T23_S3_Mo_1 + x_T28_S3_Mo_1 + x_T31_S3_Mo_1 + x_T32_S3_Mo_1 <= 1
+ capacity_S3_Mo_2: x_T1_S3_Mo_2 + x_T5_S3_Mo_2 + x_T10_S3_Mo_2 + x_T14_S3_Mo_2 + x_T17_S3_Mo_2 + x_T20_S3_Mo_2 + x_T23_S3_Mo_2 + x_T28_S3_Mo_2 + x_T31_S3_Mo_2 + x_T32_S3_Mo_2 <= 1
+ capacity_S3_Mo_3: x_T1_S3_Mo_3 + x_T5_S3_Mo_3 + x_T10_S3_Mo_3 + x_T14_S3_Mo_3 + x_T17_S3_Mo_3 + x_T20_S3_Mo_3 + x_T23_S3_Mo_3 + x_T28_S3_Mo_3 + x_T31_S3_Mo_3 + x_T32_S3_Mo_3 <= 1
+ capacity_S3_Mo_4: x_T1_S3_Mo_4 + x_T5_S3_Mo_4 + x_T10_S3_Mo_4 + x_T14_S3_Mo_4 + x_T17_S3_Mo_4 + x_T20_S3_Mo_4 + x_T23_S3_Mo_4 + x_T28_S3_Mo_4 + x_T31_S3_Mo_4 + x_T32_S3_Mo_4 <= 1
+ capacity_S3_Mo_5: x_T1_S3_Mo_5 + x_T5_S3_Mo_5 + x_T10_S3_Mo_5 + x_T14_S3_Mo_5 + x_T17_S3_Mo_5 + x_T20_S3_Mo_5 + x_T23_S3_Mo_5 + x_T28_S3_Mo_5 + x_T31_S3_Mo_5 + x_T32_S3_Mo_5 <= 1
+ capacity_S3_Tu_1: x_T1_S3_Tu_1 + x_T5_S3_Tu_1 + x_T10_S3_Tu_1 + x_T14_S3_Tu_1 + x_T17_S3_Tu_1 + x_T20_S3_Tu_1 + x_T23_S3_Tu_1 + x_T28_S3_Tu_1 + x_T31_S3_Tu_1 + x_T32_S3_Tu_1 <= 1
+ capacity_S3_Tu_2: x_T1_S3_Tu_2 + x_T5_S3_Tu_2 + x_T10_S3_Tu_2 + x_T14_S3_Tu_2 + x_T17_S3_Tu_2 + x_T20_S3_Tu_2 + x_T23_S3_Tu_2 + x_T28_S3_Tu_2 + x_T31_S3_Tu_2 + x_T32_S3_Tu_2 <= 1
+ capacity_S3_Tu_3: x_T1_S3_Tu_3 + x_T5_S3_Tu_3 + x_T10_S3_Tu_3 + x_T14_S3_Tu_3 + x_T17_S3_Tu_3 + x_T20_S3_Tu_3 + x_T23_S3_Tu_3 + x_T28_S3_Tu_3 + x_T31_S3_Tu_3 + x_T32_S3_Tu_3 <= 1
+ capacity_S3_Tu_4: x_T1_S3_Tu_4 + x_T5_S3_Tu_4 + x_T10_S3_Tu_4 + x_T14_S3_Tu_4 + x_T17_S3_Tu_4 + x_T20_S3_Tu_4 + x_T23_S3_Tu_4 + x_T28_S3_Tu_4 + x_T31_S3_Tu_4 + x_T32_S3_Tu_4 <= 1
+ capacity_S3_Tu_5: x_T1_S3_Tu_5 + x_T5_S3_Tu_5 + x_T10_S3_Tu_5 + x_T14_S3_Tu_5 + x_T17_S3_Tu_5 + x_T20_S3_Tu_5 + x_T23_S3_Tu_5 + x_T28_S3_Tu_5 + x_T31_S3_Tu_5 + x_T32_S3_Tu_5 <= 1
+ capacity_S3_We_1: x_T1_S3_We_1 + x_T5_S3_We_1 + x_T10_S3_We_1 + x_T14_S3_We_1 + x_T17_S3_We_1 + x_T20_S3_We_1 + x_T23_S3_We_1 + x_T28_S3_We_1 + x_T31_S3_We_1 + x_T32_S3_We_1 <= 1
+ capacity_S3_We_2: x_T1_S3_We_2 + x_T5_S3_We_2 + x_T10_S3_We_2 + x_T14_S3_We_2 + x_T17_S3_We_2 + x_T20_S3_We_2 + x_T23_S3_We_2 + x_T28_S3_We_2 + x_T31_S3_We_2 + x_T32_S3_We_2 <= 1
+ capacity_S3_We_3: x_T1_S3_We_3 + x_T5_S3_We_3 + x_T10_S3_We_3 + x_T14_S3_We_3 + x_T17_S3_We_3 + x_T20_S3_We_3 + x_T23_S3_We_3 + x_T28_S3_We_3 + x_T31_S3_We_3 + x_T32_S3_We_3 <= 1
+ capacity_S3_We_4: x_T1_S3_We_4 + x_T5_S3_We_4 + x_T10_S3_We_4 + x_T14_S3_We_4 + x_T17_S3_We_4 + x_T20_S3_We_4 + x_T23_S3_We_4 + x_T28_S3_We_4 + x_T31_S3_We_4 + x_T32_S3_We_4 <= 1
+ capacity_S3_We_5: x_T1_S3_We_5 + x_T5_S3_We_5 + x_T10_S3_We_5 + x_T14_S3_We_5 + x_T17_S3_We_5 + x_T20_S3_We_5 + x_T23_S3_We_5 + x_T28_S3_We_5 + x_T31_S3_We_5 + x_T32_S3_We_5 <= 1
+ capacity_S3_Th_1: x_T1_S3_Th_1 + x_T5_S3_Th_1 + x_T10_S3_Th_1 + x_T14_S3_Th_1 + x_T17_S3_Th_1 + x_T20_S3_Th_1 + x_T23_S3_Th_1 + x_T28_S3_Th_1 + x_T31_S3_Th_1 + x_T32_S3_Th_1 <= 1
+ capacity_S3_Th_2: x_T1_S3_Th_2 + x_T5_S3_Th_2 + x_T10_S3_Th_2 + x_T14_S3_Th_2 + x_T17_S3_Th_2 + x_T20_S3_Th_2 + x_T23_S3_Th_2 + x_T28_S3_Th_2 + x_T31_S3_Th_2 + x_T32_S3_Th_2 <= 1
+ capacity_S3_Th_3: x_T1_S3_Th_3 + x_T5_S3_Th_3 + x_T10_S3_Th_3 + x_T14_S3_Th_3 + x_T17_S3_Th_3 + x_T20_S3_Th_3 + x_T23_S3_Th_3 + x_T28_S3_Th_3 + x_T31_S3_Th_3 + x_T32_S3_Th_3 <= 1
+ capacity_S3_Th_4: x_T1_S3_Th_4 + x_T5_S3_Th_4 + x_T10_S3_Th_4 + x_T14_S3_Th_4 + x_T17_S3_Th_4 + x_T20_S3_Th_4 + x_T23_S3_Th_4 + x_T28_S3_Th_4 + x_T31_S3_Th_4 + x_T32_S3_Th_4 <= 1
+ capacity_S3_Th_5: x_T1_S3_Th_5 + x_T5_S3_Th_5 + x_T10_S3_Th_5 + x_T14_S3_Th_5 + x_T17_S3_Th_5 + x_T20_S3_Th_5 + x_T23_S3_Th_5 + x_T28_S3_Th_5 + x_T31_S3_Th_5 + x_T32_S3_Th_5 <= 1
+ capacity_S3_Fr_1: x_T1_S3_Fr_1 + x_T5_S3_Fr_1 + x_T10_S3_Fr_1 + x_T14_S3_Fr_1 + x_T17_S3_Fr_1 + x_T20_S3_Fr_1 + x_T23_S3_Fr_1 + x_T28_S3_Fr_1 + x_T31_S3_Fr_1 + x_T32_S3_Fr_1 <= 1
+ capacity_S3_Fr_2: x_T1_S3_Fr_2 + x_T5_S3_Fr_2 + x_T10_S3_Fr_2 + x_T14_S3_Fr_2 + x_T17_S3_Fr_2 + x_T20_S3_Fr_2 + x_T23_S3_Fr_2 + x_T28_S3_Fr_2 + x_T31_S3_Fr_2 + x_T32_S3_Fr_2 <= 1
+ capacity_S3_Fr_3: x_T1_S3_Fr_3 + x_T5_S3_Fr_3 + x_T10_S3_Fr_3 + x_T14_S3_Fr_3 + x_T17_S3_Fr_3 + x_T20_S3_Fr_3 + x_T23_S3_Fr_3 + x_T28_S3_Fr_3 + x_T31_S3_Fr_3 + x_T32_S3_Fr_3 <= 1
+ capacity_S3_Fr_4: x_T1_S3_Fr_4 + x_T5_S3_Fr_4 + x_T10_S3_Fr_4 + x_T14_S3_Fr_4 + x_T17_S3_Fr_4 + x_T20_S3_Fr_4 + x_T23_S3_Fr_4 + x_T28_S3_Fr_4 + x_T31_S3_Fr_4 + x_T32_S3_Fr_4 <= 1
+ capacity_S3_Fr_5: x_T1_S3_Fr_5 + x_T5_S3_Fr_5 + x_T10_S3_Fr_5 + x_T14_S3_Fr_5 + x_T17_S3_Fr_5 + x_T20_S3_Fr_5 + x_T23_S3_Fr_5 + x_T28_S3_Fr_5 + x_T31_S3_Fr_5 + x_T32_S3_Fr_5 <= 1
+ capacity_S17_Mo_1: x_T1_S17_Mo_1 + x_T9_S17_Mo_1 + x_T13_S17_Mo_1 + x_T14_S17_Mo_1 + x_T17_S17_Mo_1 + x_T22_S17_Mo_1 + x_T25_S17_Mo_1 + x_T27_S17_Mo_1 + x_T30_S17_Mo_1 + x_T32_S17_Mo_1 + x_T33_S17_Mo_1 <= 1
+ capacity_S17_Mo_2: x_T1_S17_Mo_2 + x_T9_S17_Mo_2 + x_T13_S17_Mo_2 + x_T14_S17_Mo_2 + x_T17_S17_Mo_2 + x_T22_S17_Mo_2 + x_T25_S17_Mo_2 + x_T27_S17_Mo_2 + x_T30_S17_Mo_2 + x_T32_S17_Mo_2 + x_T33_S17_Mo_2 <= 1
+ capacity_S17_Mo_3: x_T1_S17_Mo_3 + x_T9_S17_Mo_3 + x_T13_S17_Mo_3 + x_T14_S17_Mo_3 + x_T17_S17_Mo_3 + x_T22_S17_Mo_3 + x_T25_S17_Mo_3 + x_T27_S17_Mo_3 + x_T30_S17_Mo_3 + x_T32_S17_Mo_3 + x_T33_S17_Mo_3 <= 1
+ capacity_S17_Mo_4: x_T1_S17_Mo_4 + x_T9_S17_Mo_4 + x_T13_S17_Mo_4 + x_T14_S17_Mo_4 + x_T17_S17_Mo_4 + x_T22_S17_Mo_4 + x_T25_S17_Mo_4 + x_T27_S17_Mo_4 + x_T30_S17_Mo_4 + x_T32_S17_Mo_4 + x_T33_S17_Mo_4 <= 1
+ capacity_S17_Mo_5: x_T1_S17_Mo_5 + x_T9_S17_Mo_5 + x_T13_S17_Mo_5 + x_T14_S17_Mo_5 + x_T17_S17_Mo_5 + x_T22_S17_Mo_5 + x_T25_S17_Mo_5 + x_T27_S17_Mo_5 + x_T30_S17_Mo_5 + x_T32_S17_Mo_5 + x_T33_S17_Mo_5 <= 1
+ capacity_S17_Tu_1: x_T1_S17_Tu_1 + x_T9_S17_Tu_1 + x_T13_S17_Tu_1 + x_T14_S17_Tu_1 + x_T17_S17_Tu_1 + x_T22_S17_Tu_1 + x_T25_S17_Tu_1 + x_T27_S17_Tu_1 + x_T30_S17_Tu_1 + x_T32_S17_Tu_1 + x_T33_S17_Tu_1 <= 1
+ capacity_S17_Tu_2: x_T1_S17_Tu_2 + x_T9_S17_Tu_2 + x_T13_S17_Tu_2 + x_T14_S17_Tu_2 + x_T17_S17_Tu_2 + x_T22_S17_Tu_2 + x_T25_S17_Tu_2 + x_T27_S17_Tu_2 + x_T30_S17_Tu_2 + x_T32_S17_Tu_2 + x_T33_S17_Tu_2 <= 1
+ capacity_S17_Tu_3: x_T1_S17_Tu_3 + x_T9_S17_Tu_3 + x_T13_S17_Tu_3 + x_T14_S17_Tu_3 + x_T17_S17_Tu_3 + x_T22_S17_Tu_3 + x_T25_S17_Tu_3 + x_T27_S17_Tu_3 + x_T30_S17_Tu_3 + x_T32_S17_Tu_3 + x_T33_S17_Tu_3 <= 1
+ capacity_S17_Tu_4: x_T1_S17_Tu_4 + x_T9_S17_Tu_4 + x_T13_S17_Tu_4 + x_T14_S17_Tu_4 + x_T17_S17_Tu_4 + x_T22_S17_Tu_4 + x_T25_S17_Tu_4 + x_T27_S17_Tu_4 + x_T30_S17_Tu_4 + x_T32_S17_Tu_4 + x_T33_S17_Tu_4 <= 1
+ capacity_S17_Tu_5: x_T1_S17_Tu_5 + x_T9_S17_Tu_5 + x_T13_S17_Tu_5 + x_T14_S17_Tu_5 + x_T17_S17_Tu_5 + x_T22_S17_Tu_5 + x_T25_S17_Tu_5 + x_T27_S17_Tu_5 + x_T30_S17_Tu_5 + x_T32_S17_Tu_5 + x_T33_S17_Tu_5 <= 1
+ capacity_S17_We_1: x_T1_S17_We_1 + x_T9_S17_We_1 + x_T13_S17_We_1 + x_T14_S17_We_1 + x_T17_S17_We_1 + x_T22_S17_We_1 + x_T25_S17_We_1 + x_T27_S17_We_1 + x_T30_S17_We_1 + x_T32_S17_We_1 + x_T33_S17_We_1 <= 1
+ capacity_S17_We_2: x_T1_S17_We_2 + x_T9_S17_We_2 + x_T13_S17_We_2 + x_T14_S17_We_2 + x_T17_S17_We_2 + x_T22_S17_We_2 + x_T25_S17_We_2 + x_T27_S17_We_2 + x_T30_S17_We_2 + x_T32_S17_We_2 + x_T33_S17_We_2 <= 1
+ capacity_S17_We_3: x_T1_S17_We_3 + x_T9_S17_We_3 + x_T13_S17_We_3 + x_T14_S17_We_3 + x_T17_S17_We_3 + x_T22_S17_We_3 + x_T25_S17_We_3 + x_T27_S17_We_3 + x_T30_S17_We_3 + x_T32_S17_We_3 + x_T33_S17_We_3 <= 1
+ capacity_S17_We_4: x_T1_S17_We_4 + x_T9_S17_We_4 + x_T13_S17_We_4 + x_T14_S17_We_4 + x_T17_S17_We_4 + x_T22_S17_We_4 + x_T25_S17_We_4 + x_T27_S17_We_4 + x_T30_S17_We_4 + x_T32_S17_We_4 + x_T33_S17_We_4 <= 1
+ capacity_S17_We_5: x_T1_S17_We_5 + x_T9_S17_We_5 + x_T13_S17_We_5 + x_T14_S17_We_5 + x_T17_S17_We_5 + x_T22_S17_We_5 + x_T25_S17_We_5 + x_T27_S17_We_5 + x_T30_S17_We_5 + x_T32_S17_We_5 + x_T33_S17_We_5 <= 1
+ capacity_S17_Th_1: x_T1_S17_Th_1 + x_T9_S17_Th_1 + x_T13_S17_Th_1 + x_T14_S17_Th_1 + x_T17_S17_Th_1 + x_T22_S17_Th_1 + x_T25_S17_Th_1 + x_T27_S17_Th_1 + x_T30_S17_Th_1 + x_T32_S17_Th_1 + x_T33_S17_Th_1 <= 1
+ capacity_S17_Th_2: x_T1_S17_Th_2 + x_T9_S17_Th_2 + x_T13_S17_Th_2 + x_T14_S17_Th_2 + x_T17_S17_Th_2 + x_T22_S17_Th_2 + x_T25_S17_Th_2 + x_T27_S17_Th_2 + x_T30_S17_Th_2 + x_T32_S17_Th_2 + x_T33_S17_Th_2 <= 1
+ capacity_S17_Th_3: x_T1_S17_Th_3 + x_T9_S17_Th_3 + x_T13_S17_Th_3 + x_T14_S17_Th_3 + x_T17_S17_Th_3 + x_T22_S17_Th_3 + x_T25_S17_Th_3 + x_T27_S17_Th_3 + x_T30_S17_Th_3 + x_T32_S17_Th_3 + x_T33_S17_Th_3 <= 1
+ capacity_S17_Th_4: x_T1_S17_Th_4 + x_T9_S17_Th_4 + x_T13_S17_Th_4 + x_T14_S17_Th_4 + x_T17_S17_Th_4 + x_T22_S17_Th_4 + x_T25_S17_Th_4 + x_T27_S17_Th_4 + x_T30_S17_Th_4 + x_T32_S17_Th_4 + x_T33_S17_Th_4 <= 1
+ capacity_S17_Th_5: x_T1_S17_Th_5 + x_T9_S17_Th_5 + x_T13_S17_Th_5 + x_T14_S17_Th_5 + x_T17_S17_Th_5 + x_T22_S17_Th_5 + x_T25_S17_Th_5 + x_T27_S17_Th_5 + x_T30_S17_Th_5 + x_T32_S17_Th_5 + x_T33_S17_Th_5 <= 1
+ capacity_S17_Fr_1: x_T1_S17_Fr_1 + x_T9_S17_Fr_1 + x_T13_S17_Fr_1 + x_T14_S17_Fr_1 + x_T17_S17_Fr_1 + x_T22_S17_Fr_1 + x_T25_S17_Fr_1 + x_T27_S17_Fr_1 + x_T30_S17_Fr_1 + x_T32_S17_Fr_1 + x_T33_S17_Fr_1 <= 1
+ capacity_S17_Fr_2: x_T1_S17_Fr_2 + x_T9_S17_Fr_2 + x_T13_S17_Fr_2 + x_T14_S17_Fr_2 + x_T17_S17_Fr_2 + x_T22_S17_Fr_2 + x_T25_S17_Fr_2 + x_T27_S17_Fr_2 + x_T30_S17_Fr_2 + x_T32_S17_Fr_2 + x_T33_S17_Fr_2 <= 1
+ capacity_S17_Fr_3: x_T1_S17_Fr_3 + x_T9_S17_Fr_3 + x_T13_S17_Fr_3 + x_T14_S17_Fr_3 + x_T17_S17_Fr_3 + x_T22_S17_Fr_3 + x_T25_S17_Fr_3 + x_T27_S17_Fr_3 + x_T30_S17_Fr_3 + x_T32_S17_Fr_3 + x_T33_S17_Fr_3 <= 1
+ capacity_S17_Fr_4: x_T1_S17_Fr_4 + x_T9_S17_Fr_4 + x_T13_S17_Fr_4 + x_T14_S17_Fr_4 + x_T17_S17_Fr_4 + x_T22_S17_Fr_4 + x_T25_S17_Fr_4 + x_T27_S17_Fr_4 + x_T30_S17_Fr_4 + x_T32_S17_Fr_4 + x_T33_S17_Fr_4 <= 1
+ capacity_S17_Fr_5: x_T1_S17_Fr_5 + x_T9_S17_Fr_5 + x_T13_S17_Fr_5 + x_T14_S17_Fr_5 + x_T17_S17_Fr_5 + x_T22_S17_Fr_5 + x_T25_S17_Fr_5 + x_T27_S17_Fr_5 + x_T30_S17_Fr_5 + x_T32_S17_Fr_5 + x_T33_S17_Fr_5 <= 1
+ capacity_S8_Mo_1: x_T2_S8_Mo_1 + x_T6_S8_Mo_1 + x_T11_S8_Mo_1 + x_T16_S8_Mo_1 + x_T19_S8_Mo_1 + x_T21_S8_Mo_1 + x_T25_S8_Mo_1 + x_T27_S8_Mo_1 + x_T30_S8_Mo_1 + x_T32_S8_Mo_1 <= 1
+ capacity_S8_Mo_2: x_T2_S8_Mo_2 + x_T6_S8_Mo_2 + x_T11_S8_Mo_2 + x_T16_S8_Mo_2 + x_T19_S8_Mo_2 + x_T21_S8_Mo_2 + x_T25_S8_Mo_2 + x_T27_S8_Mo_2 + x_T30_S8_Mo_2 + x_T32_S8_Mo_2 <= 1
+ capacity_S8_Mo_3: x_T2_S8_Mo_3 + x_T6_S8_Mo_3 + x_T11_S8_Mo_3 + x_T16_S8_Mo_3 + x_T19_S8_Mo_3 + x_T21_S8_Mo_3 + x_T25_S8_Mo_3 + x_T27_S8_Mo_3 + x_T30_S8_Mo_3 + x_T32_S8_Mo_3 <= 1
+ capacity_S8_Mo_4: x_T2_S8_Mo_4 + x_T6_S8_Mo_4 + x_T11_S8_Mo_4 + x_T16_S8_Mo_4 + x_T19_S8_Mo_4 + x_T21_S8_Mo_4 + x_T25_S8_Mo_4 + x_T27_S8_Mo_4 + x_T30_S8_Mo_4 + x_T32_S8_Mo_4 <= 1
+ capacity_S8_Mo_5: x_T2_S8_Mo_5 + x_T6_S8_Mo_5 + x_T11_S8_Mo_5 + x_T16_S8_Mo_5 + x_T19_S8_Mo_5 + x_T21_S8_Mo_5 + x_T25_S8_Mo_5 + x_T27_S8_Mo_5 + x_T30_S8_Mo_5 + x_T32_S8_Mo_5 <= 1
+ capacity_S8_Tu_1: x_T2_S8_Tu_1 + x_T6_S8_Tu_1 + x_T11_S8_Tu_1 + x_T16_S8_Tu_1 + x_T19_S8_Tu_1 + x_T21_S8_Tu_1 + x_T25_S8_Tu_1 + x_T27_S8_Tu_1 + x_T30_S8_Tu_1 + x_T32_S8_Tu_1 <= 1
+ capacity_S8_Tu_2: x_T2_S8_Tu_2 + x_T6_S8_Tu_2 + x_T11_S8_Tu_2 + x_T16_S8_Tu_2 + x_T19_S8_Tu_2 + x_T21_S8_Tu_2 + x_T25_S8_Tu_2 + x_T27_S8_Tu_2 + x_T30_S8_Tu_2 + x_T32_S8_Tu_2 <= 1
+ capacity_S8_Tu_3: x_T2_S8_Tu_3 + x_T6_S8_Tu_3 + x_T11_S8_Tu_3 + x_T16_S8_Tu_3 + x_T19_S8_Tu_3 + x_T21_S8_Tu_3 + x_T25_S8_Tu_3 + x_T27_S8_Tu_3 + x_T30_S8_Tu_3 + x_T32_S8_Tu_3 <= 1
+ capacity_S8_Tu_4: x_T2_S8_Tu_4 + x_T6_S8_Tu_4 + x_T11_S8_Tu_4 + x_T16_S8_Tu_4 + x_T19_S8_Tu_4 + x_T21_S8_Tu_4 + x_T25_S8_Tu_4 + x_T27_S8_Tu_4 + x_T30_S8_Tu_4 + x_T32_S8_Tu_4 <= 1
+ capacity_S8_Tu_5: x_T2_S8_Tu_5 + x_T6_S8_Tu_5 + x_T11_S8_Tu_5 + x_T16_S8_Tu_5 + x_T19_S8_Tu_5 + x_T21_S8_Tu_5 + x_T25_S8_Tu_5 + x_T27_S8_Tu_5 + x_T30_S8_Tu_5 + x_T32_S8_Tu_5 <= 1
+ capacity_S8_We_1: x_T2_S8_We_1 + x_T6_S8_We_1 + x_T11_S8_We_1 + x_T16_S8_We_1 + x_T19_S8_We_1 + x_T21_S8_We_1 + x_T25_S8_We_1 + x_T27_S8_We_1 + x_T30_S8_We_1 + x_T32_S8_We_1 <= 1
+ capacity_S8_We_2: x_T2_S8_We_2 + x_T6_S8_We_2 + x_T11_S8_We_2 + x_T16_S8_We_2 + x_T19_S8_We_2 + x_T21_S8_We_2 + x_T25_S8_We_2 + x_T27_S8_We_2 + x_T30_S8_We_2 + x_T32_S8_We_2 <= 1
+ capacity_S8_We_3: x_T2_S8_We_3 + x_T6_S8_We_3 + x_T11_S8_We_3 + x_T16_S8_We_3 + x_T19_S8_We_3 + x_T21_S8_We_3 + x_T25_S8_We_3 + x_T27_S8_We_3 + x_T30_S8_We_3 + x_T32_S8_We_3 <= 1
+ capacity_S8_We_4: x_T2_S8_We_4 + x_T6_S8_We_4 + x_T11_S8_We_4 + x_T16_S8_We_4 + x_T19_S8_We_4 + x_T21_S8_We_4 + x_T25_S8_We_4 + x_T27_S8_We_4 + x_T30_S8_We_4 + x_T32_S8_We_4 <= 1
+ capacity_S8_We_5: x_T2_S8_We_5 + x_T6_S8_We_5 + x_T11_S8_We_5 + x_T16_S8_We_5 + x_T19_S8_We_5 + x_T21_S8_We_5 + x_T25_S8_We_5 + x_T27_S8_We_5 + x_T30_S8_We_5 + x_T32_S8_We_5 <= 1
+ capacity_S8_Th_1: x_T2_S8_Th_1 + x_T6_S8_Th_1 + x_T11_S8_Th_1 + x_T16_S8_Th_1 + x_T19_S8_Th_1 + x_T21_S8_Th_1 + x_T25_S8_Th_1 + x_T27_S8_Th_1 + x_T30_S8_Th_1 + x_T32_S8_Th_1 <= 1
+ capacity_S8_Th_2: x_T2_S8_Th_2 + x_T6_S8_Th_2 + x_T11_S8_Th_2 + x_T16_S8_Th_2 + x_T19_S8_Th_2 + x_T21_S8_Th_2 + x_T25_S8_Th_2 + x_T27_S8_Th_2 + x_T30_S8_Th_2 + x_T32_S8_Th_2 <= 1
+ capacity_S8_Th_3: x_T2_S8_Th_3 + x_T6_S8_Th_3 + x_T11_S8_Th_3 + x_T16_S8_Th_3 + x_T19_S8_Th_3 + x_T21_S8_Th_3 + x_T25_S8_Th_3 + x_T27_S8_Th_3 + x_T30_S8_Th_3 + x_T32_S8_Th_3 <= 1
+ capacity_S8_Th_4: x_T2_S8_Th_4 + x_T6_S8_Th_4 + x_T11_S8_Th_4 + x_T16_S8_Th_4 + x_T19_S8_Th_4 + x_T21_S8_Th_4 + x_T25_S8_Th_4 + x_T27_S8_Th_4 + x_T30_S8_Th_4 + x_T32_S8_Th_4 <= 1
+ capacity_S8_Th_5: x_T2_S8_Th_5 + x_T6_S8_Th_5 + x_T11_S8_Th_5 + x_T16_S8_Th_5 + x_T19_S8_Th_5 + x_T21_S8_Th_5 + x_T25_S8_Th_5 + x_T27_S8_Th_5 + x_T30_S8_Th_5 + x_T32_S8_Th_5 <= 1
+ capacity_S8_Fr_1: x_T2_S8_Fr_1 + x_T6_S8_Fr_1 + x_T11_S8_Fr_1 + x_T16_S8_Fr_1 + x_T19_S8_Fr_1 + x_T21_S8_Fr_1 + x_T25_S8_Fr_1 + x_T27_S8_Fr_1 + x_T30_S8_Fr_1 + x_T32_S8_Fr_1 <= 1
+ capacity_S8_Fr_2: x_T2_S8_Fr_2 + x_T6_S8_Fr_2 + x_T11_S8_Fr_2 + x_T16_S8_Fr_2 + x_T19_S8_Fr_2 + x_T21_S8_Fr_2 + x_T25_S8_Fr_2 + x_T27_S8_Fr_2 + x_T30_S8_Fr_2 + x_T32_S8_Fr_2 <= 1
+ capacity_S8_Fr_3: x_T2_S8_Fr_3 + x_T6_S8_Fr_3 + x_T11_S8_Fr_3 + x_T16_S8_Fr_3 + x_T19_S8_Fr_3 + x_T21_S8_Fr_3 + x_T25_S8_Fr_3 + x_T27_S8_Fr_3 + x_T30_S8_Fr_3 + x_T32_S8_Fr_3 <= 1
+ capacity_S8_Fr_4: x_T2_S8_Fr_4 + x_T6_S8_Fr_4 + x_T11_S8_Fr_4 + x_T16_S8_Fr_4 + x_T19_S8_Fr_4 + x_T21_S8_Fr_4 + x_T25_S8_Fr_4 + x_T27_S8_Fr_4 + x_T30_S8_Fr_4 + x_T32_S8_Fr_4 <= 1
+ capacity_S8_Fr_5: x_T2_S8_Fr_5 + x_T6_S8_Fr_5 + x_T11_S8_Fr_5 + x_T16_S8_Fr_5 + x_T19_S8_Fr_5 + x_T21_S8_Fr_5 + x_T25_S8_Fr_5 + x_T27_S8_Fr_5 + x_T30_S8_Fr_5 + x_T32_S8_Fr_5 <= 1
+ capacity_S14_Mo_1: x_T3_S14_Mo_1 + x_T5_S14_Mo_1 + x_T8_S14_Mo_1 + x_T12_S14_Mo_1 + x_T15_S14_Mo_1 + x_T18_S14_Mo_1 + x_T21_S14_Mo_1 + x_T24_S14_Mo_1 + x_T27_S14_Mo_1 + x_T30_S14_Mo_1 <= 1
+ capacity_S14_Mo_2: x_T3_S14_Mo_2 + x_T5_S14_Mo_2 + x_T8_S14_Mo_2 + x_T12_S14_Mo_2 + x_T15_S14_Mo_2 + x_T18_S14_Mo_2 + x_T21_S14_Mo_2 + x_T24_S14_Mo_2 + x_T27_S14_Mo_2 + x_T30_S14_Mo_2 <= 1
+ capacity_S14_Mo_3: x_T3_S14_Mo_3 + x_T5_S14_Mo_3 + x_T8_S14_Mo_3 + x_T12_S14_Mo_3 + x_T15_S14_Mo_3 + x_T18_S14_Mo_3 + x_T21_S14_Mo_3 + x_T24_S14_Mo_3 + x_T27_S14_Mo_3 + x_T30_S14_Mo_3 <= 1
+ capacity_S14_Mo_4: x_T3_S14_Mo_4 + x_T5_S14_Mo_4 + x_T8_S14_Mo_4 + x_T12_S14_Mo_4 + x_T15_S14_Mo_4 + x_T18_S14_Mo_4 + x_T21_S14_Mo_4 + x_T24_S14_Mo_4 + x_T27_S14_Mo_4 + x_T30_S14_Mo_4 <= 1
+ capacity_S14_Mo_5: x_T3_S14_Mo_5 + x_T5_S14_Mo_5 + x_T8_S14_Mo_5 + x_T12_S14_Mo_5 + x_T15_S14_Mo_5 + x_T18_S14_Mo_5 + x_T21_S14_Mo_5 + x_T24_S14_Mo_5 + x_T27_S14_Mo_5 + x_T30_S14_Mo_5 <= 1
+ capacity_S14_Tu_1: x_T3_S14_Tu_1 + x_T5_S14_Tu_1 + x_T8_S14_Tu_1 + x_T12_S14_Tu_1 + x_T15_S14_Tu_1 + x_T18_S14_Tu_1 + x_T21_S14_Tu_1 + x_T24_S14_Tu_1 + x_T27_S14_Tu_1 + x_T30_S14_Tu_1 <= 1
+ capacity_S14_Tu_2: x_T3_S14_Tu_2 + x_T5_S14_Tu_2 + x_T8_S14_Tu_2 + x_T12_S14_Tu_2 + x_T15_S14_Tu_2 + x_T18_S14_Tu_2 + x_T21_S14_Tu_2 + x_T24_S14_Tu_2 + x_T27_S14_Tu_2 + x_T30_S14_Tu_2 <= 1
+ capacity_S14_Tu_3: x_T3_S14_Tu_3 + x_T5_S14_Tu_3 + x_T8_S14_Tu_3 + x_T12_S14_Tu_3 + x_T15_S14_Tu_3 + x_T18_S14_Tu_3 + x_T21_S14_Tu_3 + x_T24_S14_Tu_3 + x_T27_S14_Tu_3 + x_T30_S14_Tu_3 <= 1
+ capacity_S14_Tu_4: x_T3_S14_Tu_4 + x_T5_S14_Tu_4 + x_T8_S14_Tu_4 + x_T12_S14_Tu_4 + x_T15_S14_Tu_4 + x_T18_S14_Tu_4 + x_T21_S14_Tu_4 + x_T24_S14_Tu_4 + x_T27_S14_Tu_4 + x_T30_S14_Tu_4 <= 1
+ capacity_S14_Tu_5: x_T3_S14_Tu_5 + x_T5_S14_Tu_5 + x_T8_S14_Tu_5 + x_T12_S14_Tu_5 + x_T15_S14_Tu_5 + x_T18_S14_Tu_5 + x_T21_S14_Tu_5 + x_T24_S14_Tu_5 + x_T27_S14_Tu_5 + x_T30_S14_Tu_5 <= 1
+ capacity_S14_We_1: x_T3_S14_We_1 + x_T5_S14_We_1 + x_T8_S14_We_1 + x_T12_S14_We_1 + x_T15_S14_We_1 + x_T18_S14_We_1 + x_T21_S14_We_1 + x_T24_S14_We_1 + x_T27_S14_We_1 + x_T30_S14_We_1 <= 1
+ capacity_S14_We_2: x_T3_S14_We_2 + x_T5_S14_We_2 + x_T8_S14_We_2 + x_T12_S14_We_2 + x_T15_S14_We_2 + x_T18_S14_We_2 + x_T21_S14_We_2 + x_T24_S14_We_2 + x_T27_S14_We_2 + x_T30_S14_We_2 <= 1
+ capacity_S14_We_3: x_T3_S14_We_3 + x_T5_S14_We_3 + x_T8_S14_We_3 + x_T12_S14_We_3 + x_T15_S14_We_3 + x_T18_S14_We_3 + x_T21_S14_We_3 + x_T24_S14_We_3 + x_T27_S14_We_3 + x_T30_S14_We_3 <= 1
+ capacity_S14_We_4: x_T3_S14_We_4 + x_T5_S14_We_4 + x_T8_S14_We_4 + x_T12_S14_We_4 + x_T15_S14_We_4 + x_T18_S14_We_4 + x_T21_S14_We_4 + x_T24_S14_We_4 + x_T27_S14_We_4 + x_T30_S14_We_4 <= 1
+ capacity_S14_We_5: x_T3_S14_We_5 + x_T5_S14_We_5 + x_T8_S14_We_5 + x_T12_S14_We_5 + x_T15_S14_We_5 + x_T18_S14_We_5 + x_T21_S14_We_5 + x_T24_S14_We_5 + x_T27_S14_We_5 + x_T30_S14_We_5 <= 1
+ capacity_S14_Th_1: x_T3_S14_Th_1 + x_T5_S14_Th_1 + x_T8_S14_Th_1 + x_T12_S14_Th_1 + x_T15_S14_Th_1 + x_T18_S14_Th_1 + x_T21_S14_Th_1 + x_T24_S14_Th_1 + x_T27_S14_Th_1 + x_T30_S14_Th_1 <= 1
+ capacity_S14_Th_2: x_T3_S14_Th_2 + x_T5_S14_Th_2 + x_T8_S14_Th_2 + x_T12_S14_Th_2 + x_T15_S14_Th_2 + x_T18_S14_Th_2 + x_T21_S14_Th_2 + x_T24_S14_Th_2 + x_T27_S14_Th_2 + x_T30_S14_Th_2 <= 1
+ capacity_S14_Th_3: x_T3_S14_Th_3 + x_T5_S14_Th_3 + x_T8_S14_Th_3 + x_T12_S14_Th_3 + x_T15_S14_Th_3 + x_T18_S14_Th_3 + x_T21_S14_Th_3 + x_T24_S14_Th_3 + x_T27_S14_Th_3 + x_T30_S14_Th_3 <= 1
+ capacity_S14_Th_4: x_T3_S14_Th_4 + x_T5_S14_Th_4 + x_T8_S14_Th_4 + x_T12_S14_Th_4 + x_T15_S14_Th_4 + x_T18_S14_Th_4 + x_T21_S14_Th_4 + x_T24_S14_Th_4 + x_T27_S14_Th_4 + x_T30_S14_Th_4 <= 1
+ capacity_S14_Th_5: x_T3_S14_Th_5 + x_T5_S14_Th_5 + x_T8_S14_Th_5 + x_T12_S14_Th_5 + x_T15_S14_Th_5 + x_T18_S14_Th_5 + x_T21_S14_Th_5 + x_T24_S14_Th_5 + x_T27_S14_Th_5 + x_T30_S14_Th_5 <= 1
+ capacity_S14_Fr_1: x_T3_S14_Fr_1 + x_T5_S14_Fr_1 + x_T8_S14_Fr_1 + x_T12_S14_Fr_1 + x_T15_S14_Fr_1 + x_T18_S14_Fr_1 + x_T21_S14_Fr_1 + x_T24_S14_Fr_1 + x_T27_S14_Fr_1 + x_T30_S14_Fr_1 <= 1
+ capacity_S14_Fr_2: x_T3_S14_Fr_2 + x_T5_S14_Fr_2 + x_T8_S14_Fr_2 + x_T12_S14_Fr_2 + x_T15_S14_Fr_2 + x_T18_S14_Fr_2 + x_T21_S14_Fr_2 + x_T24_S14_Fr_2 + x_T27_S14_Fr_2 + x_T30_S14_Fr_2 <= 1
+ capacity_S14_Fr_3: x_T3_S14_Fr_3 + x_T5_S14_Fr_3 + x_T8_S14_Fr_3 + x_T12_S14_Fr_3 + x_T15_S14_Fr_3 + x_T18_S14_Fr_3 + x_T21_S14_Fr_3 + x_T24_S14_Fr_3 + x_T27_S14_Fr_3 + x_T30_S14_Fr_3 <= 1
+ capacity_S14_Fr_4: x_T3_S14_Fr_4 + x_T5_S14_Fr_4 + x_T8_S14_Fr_4 + x_T12_S14_Fr_4 + x_T15_S14_Fr_4 + x_T18_S14_Fr_4 + x_T21_S14_Fr_4 + x_T24_S14_Fr_4 + x_T27_S14_Fr_4 + x_T30_S14_Fr_4 <= 1
+ capacity_S14_Fr_5: x_T3_S14_Fr_5 + x_T5_S14_Fr_5 + x_T8_S14_Fr_5 + x_T12_S14_Fr_5 + x_T15_S14_Fr_5 + x_T18_S14_Fr_5 + x_T21_S14_Fr_5 + x_T24_S14_Fr_5 + x_T27_S14_Fr_5 + x_T30_S14_Fr_5 <= 1
+ capacity_S7_Mo_1: x_T2_S7_Mo_1 + x_T6_S7_Mo_1 + x_T11_S7_Mo_1 + x_T16_S7_Mo_1 + x_T19_S7_Mo_1 + x_T20_S7_Mo_1 + x_T25_S7_Mo_1 + x_T26_S7_Mo_1 + x_T29_S7_Mo_1 + x_T32_S7_Mo_1 <= 1
+ capacity_S7_Mo_2: x_T2_S7_Mo_2 + x_T6_S7_Mo_2 + x_T11_S7_Mo_2 + x_T16_S7_Mo_2 + x_T19_S7_Mo_2 + x_T20_S7_Mo_2 + x_T25_S7_Mo_2 + x_T26_S7_Mo_2 + x_T29_S7_Mo_2 + x_T32_S7_Mo_2 <= 1
+ capacity_S7_Mo_3: x_T2_S7_Mo_3 + x_T6_S7_Mo_3 + x_T11_S7_Mo_3 + x_T16_S7_Mo_3 + x_T19_S7_Mo_3 + x_T20_S7_Mo_3 + x_T25_S7_Mo_3 + x_T26_S7_Mo_3 + x_T29_S7_Mo_3 + x_T32_S7_Mo_3 <= 1
+ capacity_S7_Mo_4: x_T2_S7_Mo_4 + x_T6_S7_Mo_4 + x_T11_S7_Mo_4 + x_T16_S7_Mo_4 + x_T19_S7_Mo_4 + x_T20_S7_Mo_4 + x_T25_S7_Mo_4 + x_T26_S7_Mo_4 + x_T29_S7_Mo_4 + x_T32_S7_Mo_4 <= 1
+ capacity_S7_Mo_5: x_T2_S7_Mo_5 + x_T6_S7_Mo_5 + x_T11_S7_Mo_5 + x_T16_S7_Mo_5 + x_T19_S7_Mo_5 + x_T20_S7_Mo_5 + x_T25_S7_Mo_5 + x_T26_S7_Mo_5 + x_T29_S7_Mo_5 + x_T32_S7_Mo_5 <= 1
+ capacity_S7_Tu_1: x_T2_S7_Tu_1 + x_T6_S7_Tu_1 + x_T11_S7_Tu_1 + x_T16_S7_Tu_1 + x_T19_S7_Tu_1 + x_T20_S7_Tu_1 + x_T25_S7_Tu_1 + x_T26_S7_Tu_1 + x_T29_S7_Tu_1 + x_T32_S7_Tu_1 <= 1
+ capacity_S7_Tu_2: x_T2_S7_Tu_2 + x_T6_S7_Tu_2 + x_T11_S7_Tu_2 + x_T16_S7_Tu_2 + x_T19_S7_Tu_2 + x_T20_S7_Tu_2 + x_T25_S7_Tu_2 + x_T26_S7_Tu_2 + x_T29_S7_Tu_2 + x_T32_S7_Tu_2 <= 1
+ capacity_S7_Tu_3: x_T2_S7_Tu_3 + x_T6_S7_Tu_3 + x_T11_S7_Tu_3 + x_T16_S7_Tu_3 + x_T19_S7_Tu_3 + x_T20_S7_Tu_3 + x_T25_S7_Tu_3 + x_T26_S7_Tu_3 + x_T29_S7_Tu_3 + x_T32_S7_Tu_3 <= 1
+ capacity_S7_Tu_4: x_T2_S7_Tu_4 + x_T6_S7_Tu_4 + x_T11_S7_Tu_4 + x_T16_S7_Tu_4 + x_T19_S7_Tu_4 + x_T20_S7_Tu_4 + x_T25_S7_Tu_4 + x_T26_S7_Tu_4 + x_T29_S7_Tu_4 + x_T32_S7_Tu_4 <= 1
+ capacity_S7_Tu_5: x_T2_S7_Tu_5 + x_T6_S7_Tu_5 + x_T11_S7_Tu_5 + x_T16_S7_Tu_5 + x_T19_S7_Tu_5 + x_T20_S7_Tu_5 + x_T25_S7_Tu_5 + x_T26_S7_Tu_5 + x_T29_S7_Tu_5 + x_T32_S7_Tu_5 <= 1
+ capacity_S7_We_1: x_T2_S7_We_1 + x_T6_S7_We_1 + x_T11_S7_We_1 + x_T16_S7_We_1 + x_T19_S7_We_1 + x_T20_S7_We_1 + x_T25_S7_We_1 + x_T26_S7_We_1 + x_T29_S7_We_1 + x_T32_S7_We_1 <= 1
+ capacity_S7_We_2: x_T2_S7_We_2 + x_T6_S7_We_2 + x_T11_S7_We_2 + x_T16_S7_We_2 + x_T19_S7_We_2 + x_T20_S7_We_2 + x_T25_S7_We_2 + x_T26_S7_We_2 + x_T29_S7_We_2 + x_T32_S7_We_2 <= 1
+ capacity_S7_We_3: x_T2_S7_We_3 + x_T6_S7_We_3 + x_T11_S7_We_3 + x_T16_S7_We_3 + x_T19_S7_We_3 + x_T20_S7_We_3 + x_T25_S7_We_3 + x_T26_S7_We_3 + x_T29_S7_We_3 + x_T32_S7_We_3 <= 1
+ capacity_S7_We_4: x_T2_S7_We_4 + x_T6_S7_We_4 + x_T11_S7_We_4 + x_T16_S7_We_4 + x_T19_S7_We_4 + x_T20_S7_We_4 + x_T25_S7_We_4 + x_T26_S7_We_4 + x_T29_S7_We_4 + x_T32_S7_We_4 <= 1
+ capacity_S7_We_5: x_T2_S7_We_5 + x_T6_S7_We_5 + x_T11_S7_We_5 + x_T16_S7_We_5 + x_T19_S7_We_5 + x_T20_S7_We_5 + x_T25_S7_We_5 + x_T26_S7_We_5 + x_T29_S7_We_5 + x_T32_S7_We_5 <= 1
+ capacity_S7_Th_1: x_T2_S7_Th_1 + x_T6_S7_Th_1 + x_T11_S7_Th_1 + x_T16_S7_Th_1 + x_T19_S7_Th_1 + x_T20_S7_Th_1 + x_T25_S7_Th_1 + x_T26_S7_Th_1 + x_T29_S7_Th_1 + x_T32_S7_Th_1 <= 1
+ capacity_S7_Th_2: x_T2_S7_Th_2 + x_T6_S7_Th_2 + x_T11_S7_Th_2 + x_T16_S7_Th_2 + x_T19_S7_Th_2 + x_T20_S7_Th_2 + x_T25_S7_Th_2 + x_T26_S7_Th_2 + x_T29_S7_Th_2 + x_T32_S7_Th_2 <= 1
+ capacity_S7_Th_3: x_T2_S7_Th_3 + x_T6_S7_Th_3 + x_T11_S7_Th_3 + x_T16_S7_Th_3 + x_T19_S7_Th_3 + x_T20_S7_Th_3 + x_T25_S7_Th_3 + x_T26_S7_Th_3 + x_T29_S7_Th_3 + x_T32_S7_Th_3 <= 1
+ capacity_S7_Th_4: x_T2_S7_Th_4 + x_T6_S7_Th_4 + x_T11_S7_Th_4 + x_T16_S7_Th_4 + x_T19_S7_Th_4 + x_T20_S7_Th_4 + x_T25_S7_Th_4 + x_T26_S7_Th_4 + x_T29_S7_Th_4 + x_T32_S7_Th_4 <= 1
+ capacity_S7_Th_5: x_T2_S7_Th_5 + x_T6_S7_Th_5 + x_T11_S7_Th_5 + x_T16_S7_Th_5 + x_T19_S7_Th_5 + x_T20_S7_Th_5 + x_T25_S7_Th_5 + x_T26_S7_Th_5 + x_T29_S7_Th_5 + x_T32_S7_Th_5 <= 1
+ capacity_S7_Fr_1: x_T2_S7_Fr_1 + x_T6_S7_Fr_1 + x_T11_S7_Fr_1 + x_T16_S7_Fr_1 + x_T19_S7_Fr_1 + x_T20_S7_Fr_1 + x_T25_S7_Fr_1 + x_T26_S7_Fr_1 + x_T29_S7_Fr_1 + x_T32_S7_Fr_1 <= 1
+ capacity_S7_Fr_2: x_T2_S7_Fr_2 + x_T6_S7_Fr_2 + x_T11_S7_Fr_2 + x_T16_S7_Fr_2 + x_T19_S7_Fr_2 + x_T20_S7_Fr_2 + x_T25_S7_Fr_2 + x_T26_S7_Fr_2 + x_T29_S7_Fr_2 + x_T32_S7_Fr_2 <= 1
+ capacity_S7_Fr_3: x_T2_S7_Fr_3 + x_T6_S7_Fr_3 + x_T11_S7_Fr_3 + x_T16_S7_Fr_3 + x_T19_S7_Fr_3 + x_T20_S7_Fr_3 + x_T25_S7_Fr_3 + x_T26_S7_Fr_3 + x_T29_S7_Fr_3 + x_T32_S7_Fr_3 <= 1
+ capacity_S7_Fr_4: x_T2_S7_Fr_4 + x_T6_S7_Fr_4 + x_T11_S7_Fr_4 + x_T16_S7_Fr_4 + x_T19_S7_Fr_4 + x_T20_S7_Fr_4 + x_T25_S7_Fr_4 + x_T26_S7_Fr_4 + x_T29_S7_Fr_4 + x_T32_S7_Fr_4 <= 1
+ capacity_S7_Fr_5: x_T2_S7_Fr_5 + x_T6_S7_Fr_5 + x_T11_S7_Fr_5 + x_T16_S7_Fr_5 + x_T19_S7_Fr_5 + x_T20_S7_Fr_5 + x_T25_S7_Fr_5 + x_T26_S7_Fr_5 + x_T29_S7_Fr_5 + x_T32_S7_Fr_5 <= 1
+ capacity_S16_Mo_1: x_T1_S16_Mo_1 + x_T8_S16_Mo_1 + x_T13_S16_Mo_1 + x_T14_S16_Mo_1 + x_T17_S16_Mo_1 + x_T22_S16_Mo_1 + x_T25_S16_Mo_1 + x_T26_S16_Mo_1 + x_T29_S16_Mo_1 + x_T32_S16_Mo_1 + x_T33_S16_Mo_1 <= 1
+ capacity_S16_Mo_2: x_T1_S16_Mo_2 + x_T8_S16_Mo_2 + x_T13_S16_Mo_2 + x_T14_S16_Mo_2 + x_T17_S16_Mo_2 + x_T22_S16_Mo_2 + x_T25_S16_Mo_2 + x_T26_S16_Mo_2 + x_T29_S16_Mo_2 + x_T32_S16_Mo_2 + x_T33_S16_Mo_2 <= 1
+ capacity_S16_Mo_3: x_T1_S16_Mo_3 + x_T8_S16_Mo_3 + x_T13_S16_Mo_3 + x_T14_S16_Mo_3 + x_T17_S16_Mo_3 + x_T22_S16_Mo_3 + x_T25_S16_Mo_3 + x_T26_S16_Mo_3 + x_T29_S16_Mo_3 + x_T32_S16_Mo_3 + x_T33_S16_Mo_3 <= 1
+ capacity_S16_Mo_4: x_T1_S16_Mo_4 + x_T8_S16_Mo_4 + x_T13_S16_Mo_4 + x_T14_S16_Mo_4 + x_T17_S16_Mo_4 + x_T22_S16_Mo_4 + x_T25_S16_Mo_4 + x_T26_S16_Mo_4 + x_T29_S16_Mo_4 + x_T32_S16_Mo_4 + x_T33_S16_Mo_4 <= 1
+ capacity_S16_Mo_5: x_T1_S16_Mo_5 + x_T8_S16_Mo_5 + x_T13_S16_Mo_5 + x_T14_S16_Mo_5 + x_T17_S16_Mo_5 + x_T22_S16_Mo_5 + x_T25_S16_Mo_5 + x_T26_S16_Mo_5 + x_T29_S16_Mo_5 + x_T32_S16_Mo_5 + x_T33_S16_Mo_5 <= 1
+ capacity_S16_Tu_1: x_T1_S16_Tu_1 + x_T8_S16_Tu_1 + x_T13_S16_Tu_1 + x_T14_S16_Tu_1 + x_T17_S16_Tu_1 + x_T22_S16_Tu_1 + x_T25_S16_Tu_1 + x_T26_S16_Tu_1 + x_T29_S16_Tu_1 + x_T32_S16_Tu_1 + x_T33_S16_Tu_1 <= 1
+ capacity_S16_Tu_2: x_T1_S16_Tu_2 + x_T8_S16_Tu_2 + x_T13_S16_Tu_2 + x_T14_S16_Tu_2 + x_T17_S16_Tu_2 + x_T22_S16_Tu_2 + x_T25_S16_Tu_2 + x_T26_S16_Tu_2 + x_T29_S16_Tu_2 + x_T32_S16_Tu_2 + x_T33_S16_Tu_2 <= 1
+ capacity_S16_Tu_3: x_T1_S16_Tu_3 + x_T8_S16_Tu_3 + x_T13_S16_Tu_3 + x_T14_S16_Tu_3 + x_T17_S16_Tu_3 + x_T22_S16_Tu_3 + x_T25_S16_Tu_3 + x_T26_S16_Tu_3 + x_T29_S16_Tu_3 + x_T32_S16_Tu_3 + x_T33_S16_Tu_3 <= 1
+ capacity_S16_Tu_4: x_T1_S16_Tu_4 + x_T8_S16_Tu_4 + x_T13_S16_Tu_4 + x_T14_S16_Tu_4 + x_T17_S16_Tu_4 + x_T22_S16_Tu_4 + x_T25_S16_Tu_4 + x_T26_S16_Tu_4 + x_T29_S16_Tu_4 + x_T32_S16_Tu_4 + x_T33_S16_Tu_4 <= 1
+ capacity_S16_Tu_5: x_T1_S16_Tu_5 + x_T8_S16_Tu_5 + x_T13_S16_Tu_5 + x_T14_S16_Tu_5 + x_T17_S16_Tu_5 + x_T22_S16_Tu_5 + x_T25_S16_Tu_5 + x_T26_S16_Tu_5 + x_T29_S16_Tu_5 + x_T32_S16_Tu_5 + x_T33_S16_Tu_5 <= 1
+ capacity_S16_We_1: x_T1_S16_We_1 + x_T8_S16_We_1 + x_T13_S16_We_1 + x_T14_S16_We_1 + x_T17_S16_We_1 + x_T22_S16_We_1 + x_T25_S16_We_1 + x_T26_S16_We_1 + x_T29_S16_We_1 + x_T32_S16_We_1 + x_T33_S16_We_1 <= 1
+ capacity_S16_We_2: x_T1_S16_We_2 + x_T8_S16_We_2 + x_T13_S16_We_2 + x_T14_S16_We_2 + x_T17_S16_We_2 + x_T22_S16_We_2 + x_T25_S16_We_2 + x_T26_S16_We_2 + x_T29_S16_We_2 + x_T32_S16_We_2 + x_T33_S16_We_2 <= 1
+ capacity_S16_We_3: x_T1_S16_We_3 + x_T8_S16_We_3 + x_T13_S16_We_3 + x_T14_S16_We_3 + x_T17_S16_We_3 + x_T22_S16_We_3 + x_T25_S16_We_3 + x_T26_S16_We_3 + x_T29_S16_We_3 + x_T32_S16_We_3 + x_T33_S16_We_3 <= 1
+ capacity_S16_We_4: x_T1_S16_We_4 + x_T8_S16_We_4 + x_T13_S16_We_4 + x_T14_S16_We_4 + x_T17_S16_We_4 + x_T22_S16_We_4 + x_T25_S16_We_4 + x_T26_S16_We_4 + x_T29_S16_We_4 + x_T32_S16_We_4 + x_T33_S16_We_4 <= 1
+ capacity_S16_We_5: x_T1_S16_We_5 + x_T8_S16_We_5 + x_T13_S16_We_5 + x_T14_S16_We_5 + x_T17_S16_We_5 + x_T22_S16_We_5 + x_T25_S16_We_5 + x_T26_S16_We_5 + x_T29_S16_We_5 + x_T32_S16_We_5 + x_T33_S16_We_5 <= 1
+ capacity_S16_Th_1: x_T1_S16_Th_1 + x_T8_S16_Th_1 + x_T13_S16_Th_1 + x_T14_S16_Th_1 + x_T17_S16_Th_1 + x_T22_S16_Th_1 + x_T25_S16_Th_1 + x_T26_S16_Th_1 + x_T29_S16_Th_1 + x_T32_S16_Th_1 + x_T33_S16_Th_1 <= 1
+ capacity_S16_Th_2: x_T1_S16_Th_2 + x_T8_S16_Th_2 + x_T13_S16_Th_2 + x_T14_S16_Th_2 + x_T17_S16_Th_2 + x_T22_S16_Th_2 + x_T25_S16_Th_2 + x_T26_S16_Th_2 + x_T29_S16_Th_2 + x_T32_S16_Th_2 + x_T33_S16_Th_2 <= 1
+ capacity_S16_Th_3: x_T1_S16_Th_3 + x_T8_S16_Th_3 + x_T13_S16_Th_3 + x_T14_S16_Th_3 + x_T17_S16_Th_3 + x_T22_S16_Th_3 + x_T25_S16_Th_3 + x_T26_S16_Th_3 + x_T29_S16_Th_3 + x_T32_S16_Th_3 + x_T33_S16_Th_3 <= 1
+ capacity_S16_Th_4: x_T1_S16_Th_4 + x_T8_S16_Th_4 + x_T13_S16_Th_4 + x_T14_S16_Th_4 + x_T17_S16_Th_4 + x_T22_S16_Th_4 + x_T25_S16_Th_4 + x_T26_S16_Th_4 + x_T29_S16_Th_4 + x_T32_S16_Th_4 + x_T33_S16_Th_4 <= 1
+ capacity_S16_Th_5: x_T1_S16_Th_5 + x_T8_S16_Th_5 + x_T13_S16_Th_5 + x_T14_S16_Th_5 + x_T17_S16_Th_5 + x_T22_S16_Th_5 + x_T25_S16_Th_5 + x_T26_S16_Th_5 + x_T29_S16_Th_5 + x_T32_S16_Th_5 + x_T33_S16_Th_5 <= 1
+ capacity_S16_Fr_1: x_T1_S16_Fr_1 + x_T8_S16_Fr_1 + x_T13_S16_Fr_1 + x_T14_S16_Fr_1 + x_T17_S16_Fr_1 + x_T22_S16_Fr_1 + x_T25_S16_Fr_1 + x_T26_S16_Fr_1 + x_T29_S16_Fr_1 + x_T32_S16_Fr_1 + x_T33_S16_Fr_1 <= 1
+ capacity_S16_Fr_2: x_T1_S16_Fr_2 + x_T8_S16_Fr_2 + x_T13_S16_Fr_2 + x_T14_S16_Fr_2 + x_T17_S16_Fr_2 + x_T22_S16_Fr_2 + x_T25_S16_Fr_2 + x_T26_S16_Fr_2 + x_T29_S16_Fr_2 + x_T32_S16_Fr_2 + x_T33_S16_Fr_2 <= 1
+ capacity_S16_Fr_3: x_T1_S16_Fr_3 + x_T8_S16_Fr_3 + x_T13_S16_Fr_3 + x_T14_S16_Fr_3 + x_T17_S16_Fr_3 + x_T22_S16_Fr_3 + x_T25_S16_Fr_3 + x_T26_S16_Fr_3 + x_T29_S16_Fr_3 + x_T32_S16_Fr_3 + x_T33_S16_Fr_3 <= 1
+ capacity_S16_Fr_4: x_T1_S16_Fr_4 + x_T8_S16_Fr_4 + x_T13_S16_Fr_4 + x_T14_S16_Fr_4 + x_T17_S16_Fr_4 + x_T22_S16_Fr_4 + x_T25_S16_Fr_4 + x_T26_S16_Fr_4 + x_T29_S16_Fr_4 + x_T32_S16_Fr_4 + x_T33_S16_Fr_4 <= 1
+ capacity_S16_Fr_5: x_T1_S16_Fr_5 + x_T8_S16_Fr_5 + x_T13_S16_Fr_5 + x_T14_S16_Fr_5 + x_T17_S16_Fr_5 + x_T22_S16_Fr_5 + x_T25_S16_Fr_5 + x_T26_S16_Fr_5 + x_T29_S16_Fr_5 + x_T32_S16_Fr_5 + x_T33_S16_Fr_5 <= 1
+ capacity_S1_Mo_1: x_T1_S1_Mo_1 + x_T5_S1_Mo_1 + x_T10_S1_Mo_1 + x_T14_S1_Mo_1 + x_T17_S1_Mo_1 + x_T20_S1_Mo_1 + x_T23_S1_Mo_1 + x_T26_S1_Mo_1 + x_T29_S1_Mo_1 + x_T32_S1_Mo_1 <= 1
+ capacity_S1_Mo_2: x_T1_S1_Mo_2 + x_T5_S1_Mo_2 + x_T10_S1_Mo_2 + x_T14_S1_Mo_2 + x_T17_S1_Mo_2 + x_T20_S1_Mo_2 + x_T23_S1_Mo_2 + x_T26_S1_Mo_2 + x_T29_S1_Mo_2 + x_T32_S1_Mo_2 <= 1
+ capacity_S1_Mo_3: x_T1_S1_Mo_3 + x_T5_S1_Mo_3 + x_T10_S1_Mo_3 + x_T14_S1_Mo_3 + x_T17_S1_Mo_3 + x_T20_S1_Mo_3 + x_T23_S1_Mo_3 + x_T26_S1_Mo_3 + x_T29_S1_Mo_3 + x_T32_S1_Mo_3 <= 1
+ capacity_S1_Mo_4: x_T1_S1_Mo_4 + x_T5_S1_Mo_4 + x_T10_S1_Mo_4 + x_T14_S1_Mo_4 + x_T17_S1_Mo_4 + x_T20_S1_Mo_4 + x_T23_S1_Mo_4 + x_T26_S1_Mo_4 + x_T29_S1_Mo_4 + x_T32_S1_Mo_4 <= 1
+ capacity_S1_Mo_5: x_T1_S1_Mo_5 + x_T5_S1_Mo_5 + x_T10_S1_Mo_5 + x_T14_S1_Mo_5 + x_T17_S1_Mo_5 + x_T20_S1_Mo_5 + x_T23_S1_Mo_5 + x_T26_S1_Mo_5 + x_T29_S1_Mo_5 + x_T32_S1_Mo_5 <= 1
+ capacity_S1_Tu_1: x_T1_S1_Tu_1 + x_T5_S1_Tu_1 + x_T10_S1_Tu_1 + x_T14_S1_Tu_1 + x_T17_S1_Tu_1 + x_T20_S1_Tu_1 + x_T23_S1_Tu_1 + x_T26_S1_Tu_1 + x_T29_S1_Tu_1 + x_T32_S1_Tu_1 <= 1
+ capacity_S1_Tu_2: x_T1_S1_Tu_2 + x_T5_S1_Tu_2 + x_T10_S1_Tu_2 + x_T14_S1_Tu_2 + x_T17_S1_Tu_2 + x_T20_S1_Tu_2 + x_T23_S1_Tu_2 + x_T26_S1_Tu_2 + x_T29_S1_Tu_2 + x_T32_S1_Tu_2 <= 1
+ capacity_S1_Tu_3: x_T1_S1_Tu_3 + x_T5_S1_Tu_3 + x_T10_S1_Tu_3 + x_T14_S1_Tu_3 + x_T17_S1_Tu_3 + x_T20_S1_Tu_3 + x_T23_S1_Tu_3 + x_T26_S1_Tu_3 + x_T29_S1_Tu_3 + x_T32_S1_Tu_3 <= 1
+ capacity_S1_Tu_4: x_T1_S1_Tu_4 + x_T5_S1_Tu_4 + x_T10_S1_Tu_4 + x_T14_S1_Tu_4 + x_T17_S1_Tu_4 + x_T20_S1_Tu_4 + x_T23_S1_Tu_4 + x_T26_S1_Tu_4 + x_T29_S1_Tu_4 + x_T32_S1_Tu_4 <= 1
+ capacity_S1_Tu_5: x_T1_S1_Tu_5 + x_T5_S1_Tu_5 + x_T10_S1_Tu_5 + x_T14_S1_Tu_5 + x_T17_S1_Tu_5 + x_T20_S1_Tu_5 + x_T23_S1_Tu_5 + x_T26_S1_Tu_5 + x_T29_S1_Tu_5 + x_T32_S1_Tu_5 <= 1
+ capacity_S1_We_1: x_T1_S1_We_1 + x_T5_S1_We_1 + x_T10_S1_We_1 + x_T14_S1_We_1 + x_T17_S1_We_1 + x_T20_S1_We_1 + x_T23_S1_We_1 + x_T26_S1_We_1 + x_T29_S1_We_1 + x_T32_S1_We_1 <= 1
+ capacity_S1_We_2: x_T1_S1_We_2 + x_T5_S1_We_2 + x_T10_S1_We_2 + x_T14_S1_We_2 + x_T17_S1_We_2 + x_T20_S1_We_2 + x_T23_S1_We_2 + x_T26_S1_We_2 + x_T29_S1_We_2 + x_T32_S1_We_2 <= 1
+ capacity_S1_We_3: x_T1_S1_We_3 + x_T5_S1_We_3 + x_T10_S1_We_3 + x_T14_S1_We_3 + x_T17_S1_We_3 + x_T20_S1_We_3 + x_T23_S1_We_3 + x_T26_S1_We_3 + x_T29_S1_We_3 + x_T32_S1_We_3 <= 1
+ capacity_S1_We_4: x_T1_S1_We_4 + x_T5_S1_We_4 + x_T10_S1_We_4 + x_T14_S1_We_4 + x_T17_S1_We_4 + x_T20_S1_We_4 + x_T23_S1_We_4 + x_T26_S1_We_4 + x_T29_S1_We_4 + x_T32_S1_We_4 <= 1
+ capacity_S1_We_5: x_T1_S1_We_5 + x_T5_S1_We_5 + x_T10_S1_We_5 + x_T14_S1_We_5 + x_T17_S1_We_5 + x_T20_S1_We_5 + x_T23_S1_We_5 + x_T26_S1_We_5 + x_T29_S1_We_5 + x_T32_S1_We_5 <= 1
+ capacity_S1_Th_1: x_T1_S1_Th_1 + x_T5_S1_Th_1 + x_T10_S1_Th_1 + x_T14_S1_Th_1 + x_T17_S1_Th_1 + x_T20_S1_Th_1 + x_T23_S1_Th_1 + x_T26_S1_Th_1 + x_T29_S1_Th_1 + x_T32_S1_Th_1 <= 1
+ capacity_S1_Th_2: x_T1_S1_Th_2 + x_T5_S1_Th_2 + x_T10_S1_Th_2 + x_T14_S1_Th_2 + x_T17_S1_Th_2 + x_T20_S1_Th_2 + x_T23_S1_Th_2 + x_T26_S1_Th_2 + x_T29_S1_Th_2 + x_T32_S1_Th_2 <= 1
+ capacity_S1_Th_3: x_T1_S1_Th_3 + x_T5_S1_Th_3 + x_T10_S1_Th_3 + x_T14_S1_Th_3 + x_T17_S1_Th_3 + x_T20_S1_Th_3 + x_T23_S1_Th_3 + x_T26_S1_Th_3 + x_T29_S1_Th_3 + x_T32_S1_Th_3 <= 1
+ capacity_S1_Th_4: x_T1_S1_Th_4 + x_T5_S1_Th_4 + x_T10_S1_Th_4 + x_T14_S1_Th_4 + x_T17_S1_Th_4 + x_T20_S1_Th_4 + x_T23_S1_Th_4 + x_T26_S1_Th_4 + x_T29_S1_Th_4 + x_T32_S1_Th_4 <= 1
+ capacity_S1_Th_5: x_T1_S1_Th_5 + x_T5_S1_Th_5 + x_T10_S1_Th_5 + x_T14_S1_Th_5 + x_T17_S1_Th_5 + x_T20_S1_Th_5 + x_T23_S1_Th_5 + x_T26_S1_Th_5 + x_T29_S1_Th_5 + x_T32_S1_Th_5 <= 1
+ capacity_S1_Fr_1: x_T1_S1_Fr_1 + x_T5_S1_Fr_1 + x_T10_S1_Fr_1 + x_T14_S1_Fr_1 + x_T17_S1_Fr_1 + x_T20_S1_Fr_1 + x_T23_S1_Fr_1 + x_T26_S1_Fr_1 + x_T29_S1_Fr_1 + x_T32_S1_Fr_1 <= 1
+ capacity_S1_Fr_2: x_T1_S1_Fr_2 + x_T5_S1_Fr_2 + x_T10_S1_Fr_2 + x_T14_S1_Fr_2 + x_T17_S1_Fr_2 + x_T20_S1_Fr_2 + x_T23_S1_Fr_2 + x_T26_S1_Fr_2 + x_T29_S1_Fr_2 + x_T32_S1_Fr_2 <= 1
+ capacity_S1_Fr_3: x_T1_S1_Fr_3 + x_T5_S1_Fr_3 + x_T10_S1_Fr_3 + x_T14_S1_Fr_3 + x_T17_S1_Fr_3 + x_T20_S1_Fr_3 + x_T23_S1_Fr_3 + x_T26_S1_Fr_3 + x_T29_S1_Fr_3 + x_T32_S1_Fr_3 <= 1
+ capacity_S1_Fr_4: x_T1_S1_Fr_4 + x_T5_S1_Fr_4 + x_T10_S1_Fr_4 + x_T14_S1_Fr_4 + x_T17_S1_Fr_4 + x_T20_S1_Fr_4 + x_T23_S1_Fr_4 + x_T26_S1_Fr_4 + x_T29_S1_Fr_4 + x_T32_S1_Fr_4 <= 1
+ capacity_S1_Fr_5: x_T1_S1_Fr_5 + x_T5_S1_Fr_5 + x_T10_S1_Fr_5 + x_T14_S1_Fr_5 + x_T17_S1_Fr_5 + x_T20_S1_Fr_5 + x_T23_S1_Fr_5 + x_T26_S1_Fr_5 + x_T29_S1_Fr_5 + x_T32_S1_Fr_5 <= 1
+ capacity_S18_Mo_1: x_T4_S18_Mo_1 + x_T9_S18_Mo_1 + x_T13_S18_Mo_1 + x_T15_S18_Mo_1 + x_T18_S18_Mo_1 + x_T22_S18_Mo_1 + x_T25_S18_Mo_1 + x_T28_S18_Mo_1 + x_T31_S18_Mo_1 + x_T32_S18_Mo_1 + x_T33_S18_Mo_1 <= 1
+ capacity_S18_Mo_2: x_T4_S18_Mo_2 + x_T9_S18_Mo_2 + x_T13_S18_Mo_2 + x_T15_S18_Mo_2 + x_T18_S18_Mo_2 + x_T22_S18_Mo_2 + x_T25_S18_Mo_2 + x_T28_S18_Mo_2 + x_T31_S18_Mo_2 + x_T32_S18_Mo_2 + x_T33_S18_Mo_2 <= 1
+ capacity_S18_Mo_3: x_T4_S18_Mo_3 + x_T9_S18_Mo_3 + x_T13_S18_Mo_3 + x_T15_S18_Mo_3 + x_T18_S18_Mo_3 + x_T22_S18_Mo_3 + x_T25_S18_Mo_3 + x_T28_S18_Mo_3 + x_T31_S18_Mo_3 + x_T32_S18_Mo_3 + x_T33_S18_Mo_3 <= 1
+ capacity_S18_Mo_4: x_T4_S18_Mo_4 + x_T9_S18_Mo_4 + x_T13_S18_Mo_4 + x_T15_S18_Mo_4 + x_T18_S18_Mo_4 + x_T22_S18_Mo_4 + x_T25_S18_Mo_4 + x_T28_S18_Mo_4 + x_T31_S18_Mo_4 + x_T32_S18_Mo_4 + x_T33_S18_Mo_4 <= 1
+ capacity_S18_Mo_5: x_T4_S18_Mo_5 + x_T9_S18_Mo_5 + x_T13_S18_Mo_5 + x_T15_S18_Mo_5 + x_T18_S18_Mo_5 + x_T22_S18_Mo_5 + x_T25_S18_Mo_5 + x_T28_S18_Mo_5 + x_T31_S18_Mo_5 + x_T32_S18_Mo_5 + x_T33_S18_Mo_5 <= 1
+ capacity_S18_Tu_1: x_T4_S18_Tu_1 + x_T9_S18_Tu_1 + x_T13_S18_Tu_1 + x_T15_S18_Tu_1 + x_T18_S18_Tu_1 + x_T22_S18_Tu_1 + x_T25_S18_Tu_1 + x_T28_S18_Tu_1 + x_T31_S18_Tu_1 + x_T32_S18_Tu_1 + x_T33_S18_Tu_1 <= 1
+ capacity_S18_Tu_2: x_T4_S18_Tu_2 + x_T9_S18_Tu_2 + x_T13_S18_Tu_2 + x_T15_S18_Tu_2 + x_T18_S18_Tu_2 + x_T22_S18_Tu_2 + x_T25_S18_Tu_2 + x_T28_S18_Tu_2 + x_T31_S18_Tu_2 + x_T32_S18_Tu_2 + x_T33_S18_Tu_2 <= 1
+ capacity_S18_Tu_3: x_T4_S18_Tu_3 + x_T9_S18_Tu_3 + x_T13_S18_Tu_3 + x_T15_S18_Tu_3 + x_T18_S18_Tu_3 + x_T22_S18_Tu_3 + x_T25_S18_Tu_3 + x_T28_S18_Tu_3 + x_T31_S18_Tu_3 + x_T32_S18_Tu_3 + x_T33_S18_Tu_3 <= 1
+ capacity_S18_Tu_4: x_T4_S18_Tu_4 + x_T9_S18_Tu_4 + x_T13_S18_Tu_4 + x_T15_S18_Tu_4 + x_T18_S18_Tu_4 + x_T22_S18_Tu_4 + x_T25_S18_Tu_4 + x_T28_S18_Tu_4 + x_T31_S18_Tu_4 + x_T32_S18_Tu_4 + x_T33_S18_Tu_4 <= 1
+ capacity_S18_Tu_5: x_T4_S18_Tu_5 + x_T9_S18_Tu_5 + x_T13_S18_Tu_5 + x_T15_S18_Tu_5 + x_T18_S18_Tu_5 + x_T22_S18_Tu_5 + x_T25_S18_Tu_5 + x_T28_S18_Tu_5 + x_T31_S18_Tu_5 + x_T32_S18_Tu_5 + x_T33_S18_Tu_5 <= 1
+ capacity_S18_We_1: x_T4_S18_We_1 + x_T9_S18_We_1 + x_T13_S18_We_1 + x_T15_S18_We_1 + x_T18_S18_We_1 + x_T22_S18_We_1 + x_T25_S18_We_1 + x_T28_S18_We_1 + x_T31_S18_We_1 + x_T32_S18_We_1 + x_T33_S18_We_1 <= 1
+ capacity_S18_We_2: x_T4_S18_We_2 + x_T9_S18_We_2 + x_T13_S18_We_2 + x_T15_S18_We_2 + x_T18_S18_We_2 + x_T22_S18_We_2 + x_T25_S18_We_2 + x_T28_S18_We_2 + x_T31_S18_We_2 + x_T32_S18_We_2 + x_T33_S18_We_2 <= 1
+ capacity_S18_We_3: x_T4_S18_We_3 + x_T9_S18_We_3 + x_T13_S18_We_3 + x_T15_S18_We_3 + x_T18_S18_We_3 + x_T22_S18_We_3 + x_T25_S18_We_3 + x_T28_S18_We_3 + x_T31_S18_We_3 + x_T32_S18_We_3 + x_T33_S18_We_3 <= 1
+ capacity_S18_We_4: x_T4_S18_We_4 + x_T9_S18_We_4 + x_T13_S18_We_4 + x_T15_S18_We_4 + x_T18_S18_We_4 + x_T22_S18_We_4 + x_T25_S18_We_4 + x_T28_S18_We_4 + x_T31_S18_We_4 + x_T32_S18_We_4 + x_T33_S18_We_4 <= 1
+ capacity_S18_We_5: x_T4_S18_We_5 + x_T9_S18_We_5 + x_T13_S18_We_5 + x_T15_S18_We_5 + x_T18_S18_We_5 + x_T22_S18_We_5 + x_T25_S18_We_5 + x_T28_S18_We_5 + x_T31_S18_We_5 + x_T32_S18_We_5 + x_T33_S18_We_5 <= 1
+ capacity_S18_Th_1: x_T4_S18_Th_1 + x_T9_S18_Th_1 + x_T13_S18_Th_1 + x_T15_S18_Th_1 + x_T18_S18_Th_1 + x_T22_S18_Th_1 + x_T25_S18_Th_1 + x_T28_S18_Th_1 + x_T31_S18_Th_1 + x_T32_S18_Th_1 + x_T33_S18_Th_1 <= 1
+ capacity_S18_Th_2: x_T4_S18_Th_2 + x_T9_S18_Th_2 + x_T13_S18_Th_2 + x_T15_S18_Th_2 + x_T18_S18_Th_2 + x_T22_S18_Th_2 + x_T25_S18_Th_2 + x_T28_S18_Th_2 + x_T31_S18_Th_2 + x_T32_S18_Th_2 + x_T33_S18_Th_2 <= 1
+ capacity_S18_Th_3: x_T4_S18_Th_3 + x_T9_S18_Th_3 + x_T13_S18_Th_3 + x_T15_S18_Th_3 + x_T18_S18_Th_3 + x_T22_S18_Th_3 + x_T25_S18_Th_3 + x_T28_S18_Th_3 + x_T31_S18_Th_3 + x_T32_S18_Th_3 + x_T33_S18_Th_3 <= 1
+ capacity_S18_Th_4: x_T4_S18_Th_4 + x_T9_S18_Th_4 + x_T13_S18_Th_4 + x_T15_S18_Th_4 + x_T18_S18_Th_4 + x_T22_S18_Th_4 + x_T25_S18_Th_4 + x_T28_S18_Th_4 + x_T31_S18_Th_4 + x_T32_S18_Th_4 + x_T33_S18_Th_4 <= 1
+ capacity_S18_Th_5: x_T4_S18_Th_5 + x_T9_S18_Th_5 + x_T13_S18_Th_5 + x_T15_S18_Th_5 + x_T18_S18_Th_5 + x_T22_S18_Th_5 + x_T25_S18_Th_5 + x_T28_S18_Th_5 + x_T31_S18_Th_5 + x_T32_S18_Th_5 + x_T33_S18_Th_5 <= 1
+ capacity_S18_Fr_1: x_T4_S18_Fr_1 + x_T9_S18_Fr_1 + x_T13_S18_Fr_1 + x_T15_S18_Fr_1 + x_T18_S18_Fr_1 + x_T22_S18_Fr_1 + x_T25_S18_Fr_1 + x_T28_S18_Fr_1 + x_T31_S18_Fr_1 + x_T32_S18_Fr_1 + x_T33_S18_Fr_1 <= 1
+ capacity_S18_Fr_2: x_T4_S18_Fr_2 + x_T9_S18_Fr_2 + x_T13_S18_Fr_2 + x_T15_S18_Fr_2 + x_T18_S18_Fr_2 + x_T22_S18_Fr_2 + x_T25_S18_Fr_2 + x_T28_S18_Fr_2 + x_T31_S18_Fr_2 + x_T32_S18_Fr_2 + x_T33_S18_Fr_2 <= 1
+ capacity_S18_Fr_3: x_T4_S18_Fr_3 + x_T9_S18_Fr_3 + x_T13_S18_Fr_3 + x_T15_S18_Fr_3 + x_T18_S18_Fr_3 + x_T22_S18_Fr_3 + x_T25_S18_Fr_3 + x_T28_S18_Fr_3 + x_T31_S18_Fr_3 + x_T32_S18_Fr_3 + x_T33_S18_Fr_3 <= 1
+ capacity_S18_Fr_4: x_T4_S18_Fr_4 + x_T9_S18_Fr_4 + x_T13_S18_Fr_4 + x_T15_S18_Fr_4 + x_T18_S18_Fr_4 + x_T22_S18_Fr_4 + x_T25_S18_Fr_4 + x_T28_S18_Fr_4 + x_T31_S18_Fr_4 + x_T32_S18_Fr_4 + x_T33_S18_Fr_4 <= 1
+ capacity_S18_Fr_5: x_T4_S18_Fr_5 + x_T9_S18_Fr_5 + x_T13_S18_Fr_5 + x_T15_S18_Fr_5 + x_T18_S18_Fr_5 + x_T22_S18_Fr_5 + x_T25_S18_Fr_5 + x_T28_S18_Fr_5 + x_T31_S18_Fr_5 + x_T32_S18_Fr_5 + x_T33_S18_Fr_5 <= 1
+ capacity_S20_Mo_1: x_T4_S20_Mo_1 + x_T9_S20_Mo_1 + x_T13_S20_Mo_1 + x_T16_S20_Mo_1 + x_T19_S20_Mo_1 + x_T22_S20_Mo_1 + x_T24_S20_Mo_1 + x_T27_S20_Mo_1 + x_T31_S20_Mo_1 + x_T32_S20_Mo_1 + x_T33_S20_Mo_1 <= 1
+ capacity_S20_Mo_2: x_T4_S20_Mo_2 + x_T9_S20_Mo_2 + x_T13_S20_Mo_2 + x_T16_S20_Mo_2 + x_T19_S20_Mo_2 + x_T22_S20_Mo_2 + x_T24_S20_Mo_2 + x_T27_S20_Mo_2 + x_T31_S20_Mo_2 + x_T32_S20_Mo_2 + x_T33_S20_Mo_2 <= 1
+ capacity_S20_Mo_3: x_T4_S20_Mo_3 + x_T9_S20_Mo_3 + x_T13_S20_Mo_3 + x_T16_S20_Mo_3 + x_T19_S20_Mo_3 + x_T22_S20_Mo_3 + x_T24_S20_Mo_3 + x_T27_S20_Mo_3 + x_T31_S20_Mo_3 + x_T32_S20_Mo_3 + x_T33_S20_Mo_3 <= 1
+ capacity_S20_Mo_4: x_T4_S20_Mo_4 + x_T9_S20_Mo_4 + x_T13_S20_Mo_4 + x_T16_S20_Mo_4 + x_T19_S20_Mo_4 + x_T22_S20_Mo_4 + x_T24_S20_Mo_4 + x_T27_S20_Mo_4 + x_T31_S20_Mo_4 + x_T32_S20_Mo_4 + x_T33_S20_Mo_4 <= 1
+ capacity_S20_Mo_5: x_T4_S20_Mo_5 + x_T9_S20_Mo_5 + x_T13_S20_Mo_5 + x_T16_S20_Mo_5 + x_T19_S20_Mo_5 + x_T22_S20_Mo_5 + x_T24_S20_Mo_5 + x_T27_S20_Mo_5 + x_T31_S20_Mo_5 + x_T32_S20_Mo_5 + x_T33_S20_Mo_5 <= 1
+ capacity_S20_Tu_1: x_T4_S20_Tu_1 + x_T9_S20_Tu_1 + x_T13_S20_Tu_1 + x_T16_S20_Tu_1 + x_T19_S20_Tu_1 + x_T22_S20_Tu_1 + x_T24_S20_Tu_1 + x_T27_S20_Tu_1 + x_T31_S20_Tu_1 + x_T32_S20_Tu_1 + x_T33_S20_Tu_1 <= 1
+ capacity_S20_Tu_2: x_T4_S20_Tu_2 + x_T9_S20_Tu_2 + x_T13_S20_Tu_2 + x_T16_S20_Tu_2 + x_T19_S20_Tu_2 + x_T22_S20_Tu_2 + x_T24_S20_Tu_2 + x_T27_S20_Tu_2 + x_T31_S20_Tu_2 + x_T32_S20_Tu_2 + x_T33_S20_Tu_2 <= 1
+ capacity_S20_Tu_3: x_T4_S20_Tu_3 + x_T9_S20_Tu_3 + x_T13_S20_Tu_3 + x_T16_S20_Tu_3 + x_T19_S20_Tu_3 + x_T22_S20_Tu_3 + x_T24_S20_Tu_3 + x_T27_S20_Tu_3 + x_T31_S20_Tu_3 + x_T32_S20_Tu_3 + x_T33_S20_Tu_3 <= 1
+ capacity_S20_Tu_4: x_T4_S20_Tu_4 + x_T9_S20_Tu_4 + x_T13_S20_Tu_4 + x_T16_S20_Tu_4 + x_T19_S20_Tu_4 + x_T22_S20_Tu_4 + x_T24_S20_Tu_4 + x_T27_S20_Tu_4 + x_T31_S20_Tu_4 + x_T32_S20_Tu_4 + x_T33_S20_Tu_4 <= 1
+ capacity_S20_Tu_5: x_T4_S20_Tu_5 + x_T9_S20_Tu_5 + x_T13_S20_Tu_5 + x_T16_S20_Tu_5 + x_T19_S20_Tu_5 + x_T22_S20_Tu_5 + x_T24_S20_Tu_5 + x_T27_S20_Tu_5 + x_T31_S20_Tu_5 + x_T32_S20_Tu_5 + x_T33_S20_Tu_5 <= 1
+ capacity_S20_We_1: x_T4_S20_We_1 + x_T9_S20_We_1 + x_T13_S20_We_1 + x_T16_S20_We_1 + x_T19_S20_We_1 + x_T22_S20_We_1 + x_T24_S20_We_1 + x_T27_S20_We_1 + x_T31_S20_We_1 + x_T32_S20_We_1 + x_T33_S20_We_1 <= 1
+ capacity_S20_We_2: x_T4_S20_We_2 + x_T9_S20_We_2 + x_T13_S20_We_2 + x_T16_S20_We_2 + x_T19_S20_We_2 + x_T22_S20_We_2 + x_T24_S20_We_2 + x_T27_S20_We_2 + x_T31_S20_We_2 + x_T32_S20_We_2 + x_T33_S20_We_2 <= 1
+ capacity_S20_We_3: x_T4_S20_We_3 + x_T9_S20_We_3 + x_T13_S20_We_3 + x_T16_S20_We_3 + x_T19_S20_We_3 + x_T22_S20_We_3 + x_T24_S20_We_3 + x_T27_S20_We_3 + x_T31_S20_We_3 + x_T32_S20_We_3 + x_T33_S20_We_3 <= 1
+ capacity_S20_We_4: x_T4_S20_We_4 + x_T9_S20_We_4 + x_T13_S20_We_4 + x_T16_S20_We_4 + x_T19_S20_We_4 + x_T22_S20_We_4 + x_T24_S20_We_4 + x_T27_S20_We_4 + x_T31_S20_We_4 + x_T32_S20_We_4 + x_T33_S20_We_4 <= 1
+ capacity_S20_We_5: x_T4_S20_We_5 + x_T9_S20_We_5 + x_T13_S20_We_5 + x_T16_S20_We_5 + x_T19_S20_We_5 + x_T22_S20_We_5 + x_T24_S20_We_5 + x_T27_S20_We_5 + x_T31_S20_We_5 + x_T32_S20_We_5 + x_T33_S20_We_5 <= 1
+ capacity_S20_Th_1: x_T4_S20_Th_1 + x_T9_S20_Th_1 + x_T13_S20_Th_1 + x_T16_S20_Th_1 + x_T19_S20_Th_1 + x_T22_S20_Th_1 + x_T24_S20_Th_1 + x_T27_S20_Th_1 + x_T31_S20_Th_1 + x_T32_S20_Th_1 + x_T33_S20_Th_1 <= 1
+ capacity_S20_Th_2: x_T4_S20_Th_2 + x_T9_S20_Th_2 + x_T13_S20_Th_2 + x_T16_S20_Th_2 + x_T19_S20_Th_2 + x_T22_S20_Th_2 + x_T24_S20_Th_2 + x_T27_S20_Th_2 + x_T31_S20_Th_2 + x_T32_S20_Th_2 + x_T33_S20_Th_2 <= 1
+ capacity_S20_Th_3: x_T4_S20_Th_3 + x_T9_S20_Th_3 + x_T13_S20_Th_3 + x_T16_S20_Th_3 + x_T19_S20_Th_3 + x_T22_S20_Th_3 + x_T24_S20_Th_3 + x_T27_S20_Th_3 + x_T31_S20_Th_3 + x_T32_S20_Th_3 + x_T33_S20_Th_3 <= 1
+ capacity_S20_Th_4: x_T4_S20_Th_4 + x_T9_S20_Th_4 + x_T13_S20_Th_4 + x_T16_S20_Th_4 + x_T19_S20_Th_4 + x_T22_S20_Th_4 + x_T24_S20_Th_4 + x_T27_S20_Th_4 + x_T31_S20_Th_4 + x_T32_S20_Th_4 + x_T33_S20_Th_4 <= 1
+ capacity_S20_Th_5: x_T4_S20_Th_5 + x_T9_S20_Th_5 + x_T13_S20_Th_5 + x_T16_S20_Th_5 + x_T19_S20_Th_5 + x_T22_S20_Th_5 + x_T24_S20_Th_5 + x_T27_S20_Th_5 + x_T31_S20_Th_5 + x_T32_S20_Th_5 + x_T33_S20_Th_5 <= 1
+ capacity_S20_Fr_1: x_T4_S20_Fr_1 + x_T9_S20_Fr_1 + x_T13_S20_Fr_1 + x_T16_S20_Fr_1 + x_T19_S20_Fr_1 + x_T22_S20_Fr_1 + x_T24_S20_Fr_1 + x_T27_S20_Fr_1 + x_T31_S20_Fr_1 + x_T32_S20_Fr_1 + x_T33_S20_Fr_1 <= 1
+ capacity_S20_Fr_2: x_T4_S20_Fr_2 + x_T9_S20_Fr_2 + x_T13_S20_Fr_2 + x_T16_S20_Fr_2 + x_T19_S20_Fr_2 + x_T22_S20_Fr_2 + x_T24_S20_Fr_2 + x_T27_S20_Fr_2 + x_T31_S20_Fr_2 + x_T32_S20_Fr_2 + x_T33_S20_Fr_2 <= 1
+ capacity_S20_Fr_3: x_T4_S20_Fr_3 + x_T9_S20_Fr_3 + x_T13_S20_Fr_3 + x_T16_S20_Fr_3 + x_T19_S20_Fr_3 + x_T22_S20_Fr_3 + x_T24_S20_Fr_3 + x_T27_S20_Fr_3 + x_T31_S20_Fr_3 + x_T32_S20_Fr_3 + x_T33_S20_Fr_3 <= 1
+ capacity_S20_Fr_4: x_T4_S20_Fr_4 + x_T9_S20_Fr_4 + x_T13_S20_Fr_4 + x_T16_S20_Fr_4 + x_T19_S20_Fr_4 + x_T22_S20_Fr_4 + x_T24_S20_Fr_4 + x_T27_S20_Fr_4 + x_T31_S20_Fr_4 + x_T32_S20_Fr_4 + x_T33_S20_Fr_4 <= 1
+ capacity_S20_Fr_5: x_T4_S20_Fr_5 + x_T9_S20_Fr_5 + x_T13_S20_Fr_5 + x_T16_S20_Fr_5 + x_T19_S20_Fr_5 + x_T22_S20_Fr_5 + x_T24_S20_Fr_5 + x_T27_S20_Fr_5 + x_T31_S20_Fr_5 + x_T32_S20_Fr_5 + x_T33_S20_Fr_5 <= 1
+ capacity_S5_Mo_1: x_T4_S5_Mo_1 + x_T6_S5_Mo_1 + x_T10_S5_Mo_1 + x_T15_S5_Mo_1 + x_T18_S5_Mo_1 + x_T20_S5_Mo_1 + x_T24_S5_Mo_1 + x_T27_S5_Mo_1 + x_T30_S5_Mo_1 + x_T32_S5_Mo_1 <= 1
+ capacity_S5_Mo_2: x_T4_S5_Mo_2 + x_T6_S5_Mo_2 + x_T10_S5_Mo_2 + x_T15_S5_Mo_2 + x_T18_S5_Mo_2 + x_T20_S5_Mo_2 + x_T24_S5_Mo_2 + x_T27_S5_Mo_2 + x_T30_S5_Mo_2 + x_T32_S5_Mo_2 <= 1
+ capacity_S5_Mo_3: x_T4_S5_Mo_3 + x_T6_S5_Mo_3 + x_T10_S5_Mo_3 + x_T15_S5_Mo_3 + x_T18_S5_Mo_3 + x_T20_S5_Mo_3 + x_T24_S5_Mo_3 + x_T27_S5_Mo_3 + x_T30_S5_Mo_3 + x_T32_S5_Mo_3 <= 1
+ capacity_S5_Mo_4: x_T4_S5_Mo_4 + x_T6_S5_Mo_4 + x_T10_S5_Mo_4 + x_T15_S5_Mo_4 + x_T18_S5_Mo_4 + x_T20_S5_Mo_4 + x_T24_S5_Mo_4 + x_T27_S5_Mo_4 + x_T30_S5_Mo_4 + x_T32_S5_Mo_4 <= 1
+ capacity_S5_Mo_5: x_T4_S5_Mo_5 + x_T6_S5_Mo_5 + x_T10_S5_Mo_5 + x_T15_S5_Mo_5 + x_T18_S5_Mo_5 + x_T20_S5_Mo_5 + x_T24_S5_Mo_5 + x_T27_S5_Mo_5 + x_T30_S5_Mo_5 + x_T32_S5_Mo_5 <= 1
+ capacity_S5_Tu_1: x_T4_S5_Tu_1 + x_T6_S5_Tu_1 + x_T10_S5_Tu_1 + x_T15_S5_Tu_1 + x_T18_S5_Tu_1 + x_T20_S5_Tu_1 + x_T24_S5_Tu_1 + x_T27_S5_Tu_1 + x_T30_S5_Tu_1 + x_T32_S5_Tu_1 <= 1
+ capacity_S5_Tu_2: x_T4_S5_Tu_2 + x_T6_S5_Tu_2 + x_T10_S5_Tu_2 + x_T15_S5_Tu_2 + x_T18_S5_Tu_2 + x_T20_S5_Tu_2 + x_T24_S5_Tu_2 + x_T27_S5_Tu_2 + x_T30_S5_Tu_2 + x_T32_S5_Tu_2 <= 1
+ capacity_S5_Tu_3: x_T4_S5_Tu_3 + x_T6_S5_Tu_3 + x_T10_S5_Tu_3 + x_T15_S5_Tu_3 + x_T18_S5_Tu_3 + x_T20_S5_Tu_3 + x_T24_S5_Tu_3 + x_T27_S5_Tu_3 + x_T30_S5_Tu_3 + x_T32_S5_Tu_3 <= 1
+ capacity_S5_Tu_4: x_T4_S5_Tu_4 + x_T6_S5_Tu_4 + x_T10_S5_Tu_4 + x_T15_S5_Tu_4 + x_T18_S5_Tu_4 + x_T20_S5_Tu_4 + x_T24_S5_Tu_4 + x_T27_S5_Tu_4 + x_T30_S5_Tu_4 + x_T32_S5_Tu_4 <= 1
+ capacity_S5_Tu_5: x_T4_S5_Tu_5 + x_T6_S5_Tu_5 + x_T10_S5_Tu_5 + x_T15_S5_Tu_5 + x_T18_S5_Tu_5 + x_T20_S5_Tu_5 + x_T24_S5_Tu_5 + x_T27_S5_Tu_5 + x_T30_S5_Tu_5 + x_T32_S5_Tu_5 <= 1
+ capacity_S5_We_1: x_T4_S5_We_1 + x_T6_S5_We_1 + x_T10_S5_We_1 + x_T15_S5_We_1 + x_T18_S5_We_1 + x_T20_S5_We_1 + x_T24_S5_We_1 + x_T27_S5_We_1 + x_T30_S5_We_1 + x_T32_S5_We_1 <= 1
+ capacity_S5_We_2: x_T4_S5_We_2 + x_T6_S5_We_2 + x_T10_S5_We_2 + x_T15_S5_We_2 + x_T18_S5_We_2 + x_T20_S5_We_2 + x_T24_S5_We_2 + x_T27_S5_We_2 + x_T30_S5_We_2 + x_T32_S5_We_2 <= 1
+ capacity_S5_We_3: x_T4_S5_We_3 + x_T6_S5_We_3 + x_T10_S5_We_3 + x_T15_S5_We_3 + x_T18_S5_We_3 + x_T20_S5_We_3 + x_T24_S5_We_3 + x_T27_S5_We_3 + x_T30_S5_We_3 + x_T32_S5_We_3 <= 1
+ capacity_S5_We_4: x_T4_S5_We_4 + x_T6_S5_We_4 + x_T10_S5_We_4 + x_T15_S5_We_4 + x_T18_S5_We_4 + x_T20_S5_We_4 + x_T24_S5_We_4 + x_T27_S5_We_4 + x_T30_S5_We_4 + x_T32_S5_We_4 <= 1
+ capacity_S5_We_5: x_T4_S5_We_5 + x_T6_S5_We_5 + x_T10_S5_We_5 + x_T15_S5_We_5 + x_T18_S5_We_5 + x_T20_S5_We_5 + x_T24_S5_We_5 + x_T27_S5_We_5 + x_T30_S5_We_5 + x_T32_S5_We_5 <= 1
+ capacity_S5_Th_1: x_T4_S5_Th_1 + x_T6_S5_Th_1 + x_T10_S5_Th_1 + x_T15_S5_Th_1 + x_T18_S5_Th_1 + x_T20_S5_Th_1 + x_T24_S5_Th_1 + x_T27_S5_Th_1 + x_T30_S5_Th_1 + x_T32_S5_Th_1 <= 1
+ capacity_S5_Th_2: x_T4_S5_Th_2 + x_T6_S5_Th_2 + x_T10_S5_Th_2 + x_T15_S5_Th_2 + x_T18_S5_Th_2 + x_T20_S5_Th_2 + x_T24_S5_Th_2 + x_T27_S5_Th_2 + x_T30_S5_Th_2 + x_T32_S5_Th_2 <= 1
+ capacity_S5_Th_3: x_T4_S5_Th_3 + x_T6_S5_Th_3 + x_T10_S5_Th_3 + x_T15_S5_Th_3 + x_T18_S5_Th_3 + x_T20_S5_Th_3 + x_T24_S5_Th_3 + x_T27_S5_Th_3 + x_T30_S5_Th_3 + x_T32_S5_Th_3 <= 1
+ capacity_S5_Th_4: x_T4_S5_Th_4 + x_T6_S5_Th_4 + x_T10_S5_Th_4 + x_T15_S5_Th_4 + x_T18_S5_Th_4 + x_T20_S5_Th_4 + x_T24_S5_Th_4 + x_T27_S5_Th_4 + x_T30_S5_Th_4 + x_T32_S5_Th_4 <= 1
+ capacity_S5_Th_5: x_T4_S5_Th_5 + x_T6_S5_Th_5 + x_T10_S5_Th_5 + x_T15_S5_Th_5 + x_T18_S5_Th_5 + x_T20_S5_Th_5 + x_T24_S5_Th_5 + x_T27_S5_Th_5 + x_T30_S5_Th_5 + x_T32_S5_Th_5 <= 1
+ capacity_S5_Fr_1: x_T4_S5_Fr_1 + x_T6_S5_Fr_1 + x_T10_S5_Fr_1 + x_T15_S5_Fr_1 + x_T18_S5_Fr_1 + x_T20_S5_Fr_1 + x_T24_S5_Fr_1 + x_T27_S5_Fr_1 + x_T30_S5_Fr_1 + x_T32_S5_Fr_1 <= 1
+ capacity_S5_Fr_2: x_T4_S5_Fr_2 + x_T6_S5_Fr_2 + x_T10_S5_Fr_2 + x_T15_S5_Fr_2 + x_T18_S5_Fr_2 + x_T20_S5_Fr_2 + x_T24_S5_Fr_2 + x_T27_S5_Fr_2 + x_T30_S5_Fr_2 + x_T32_S5_Fr_2 <= 1
+ capacity_S5_Fr_3: x_T4_S5_Fr_3 + x_T6_S5_Fr_3 + x_T10_S5_Fr_3 + x_T15_S5_Fr_3 + x_T18_S5_Fr_3 + x_T20_S5_Fr_3 + x_T24_S5_Fr_3 + x_T27_S5_Fr_3 + x_T30_S5_Fr_3 + x_T32_S5_Fr_3 <= 1
+ capacity_S5_Fr_4: x_T4_S5_Fr_4 + x_T6_S5_Fr_4 + x_T10_S5_Fr_4 + x_T15_S5_Fr_4 + x_T18_S5_Fr_4 + x_T20_S5_Fr_4 + x_T24_S5_Fr_4 + x_T27_S5_Fr_4 + x_T30_S5_Fr_4 + x_T32_S5_Fr_4 <= 1
+ capacity_S5_Fr_5: x_T4_S5_Fr_5 + x_T6_S5_Fr_5 + x_T10_S5_Fr_5 + x_T15_S5_Fr_5 + x_T18_S5_Fr_5 + x_T20_S5_Fr_5 + x_T24_S5_Fr_5 + x_T27_S5_Fr_5 + x_T30_S5_Fr_5 + x_T32_S5_Fr_5 <= 1
+ capacity_S10_Mo_1: x_T2_S10_Mo_1 + x_T6_S10_Mo_1 + x_T7_S10_Mo_1 + x_T11_S10_Mo_1 + x_T14_S10_Mo_1 + x_T17_S10_Mo_1 + x_T21_S10_Mo_1 + x_T23_S10_Mo_1 + x_T26_S10_Mo_1 + x_T29_S10_Mo_1 <= 1
+ capacity_S10_Mo_2: x_T2_S10_Mo_2 + x_T6_S10_Mo_2 + x_T7_S10_Mo_2 + x_T11_S10_Mo_2 + x_T14_S10_Mo_2 + x_T17_S10_Mo_2 + x_T21_S10_Mo_2 + x_T23_S10_Mo_2 + x_T26_S10_Mo_2 + x_T29_S10_Mo_2 <= 1
+ capacity_S10_Mo_3: x_T2_S10_Mo_3 + x_T6_S10_Mo_3 + x_T7_S10_Mo_3 + x_T11_S10_Mo_3 + x_T14_S10_Mo_3 + x_T17_S10_Mo_3 + x_T21_S10_Mo_3 + x_T23_S10_Mo_3 + x_T26_S10_Mo_3 + x_T29_S10_Mo_3 <= 1
+ capacity_S10_Mo_4: x_T2_S10_Mo_4 + x_T6_S10_Mo_4 + x_T7_S10_Mo_4 + x_T11_S10_Mo_4 + x_T14_S10_Mo_4 + x_T17_S10_Mo_4 + x_T21_S10_Mo_4 + x_T23_S10_Mo_4 + x_T26_S10_Mo_4 + x_T29_S10_Mo_4 <= 1
+ capacity_S10_Mo_5: x_T2_S10_Mo_5 + x_T6_S10_Mo_5 + x_T7_S10_Mo_5 + x_T11_S10_Mo_5 + x_T14_S10_Mo_5 + x_T17_S10_Mo_5 + x_T21_S10_Mo_5 + x_T23_S10_Mo_5 + x_T26_S10_Mo_5 + x_T29_S10_Mo_5 <= 1
+ capacity_S10_Tu_1: x_T2_S10_Tu_1 + x_T6_S10_Tu_1 + x_T7_S10_Tu_1 + x_T11_S10_Tu_1 + x_T14_S10_Tu_1 + x_T17_S10_Tu_1 + x_T21_S10_Tu_1 + x_T23_S10_Tu_1 + x_T26_S10_Tu_1 + x_T29_S10_Tu_1 <= 1
+ capacity_S10_Tu_2: x_T2_S10_Tu_2 + x_T6_S10_Tu_2 + x_T7_S10_Tu_2 + x_T11_S10_Tu_2 + x_T14_S10_Tu_2 + x_T17_S10_Tu_2 + x_T21_S10_Tu_2 + x_T23_S10_Tu_2 + x_T26_S10_Tu_2 + x_T29_S10_Tu_2 <= 1
+ capacity_S10_Tu_3: x_T2_S10_Tu_3 + x_T6_S10_Tu_3 + x_T7_S10_Tu_3 + x_T11_S10_Tu_3 + x_T14_S10_Tu_3 + x_T17_S10_Tu_3 + x_T21_S10_Tu_3 + x_T23_S10_Tu_3 + x_T26_S10_Tu_3 + x_T29_S10_Tu_3 <= 1
+ capacity_S10_Tu_4: x_T2_S10_Tu_4 + x_T6_S10_Tu_4 + x_T7_S10_Tu_4 + x_T11_S10_Tu_4 + x_T14_S10_Tu_4 + x_T17_S10_Tu_4 + x_T21_S10_Tu_4 + x_T23_S10_Tu_4 + x_T26_S10_Tu_4 + x_T29_S10_Tu_4 <= 1
+ capacity_S10_Tu_5: x_T2_S10_Tu_5 + x_T6_S10_Tu_5 + x_T7_S10_Tu_5 + x_T11_S10_Tu_5 + x_T14_S10_Tu_5 + x_T17_S10_Tu_5 + x_T21_S10_Tu_5 + x_T23_S10_Tu_5 + x_T26_S10_Tu_5 + x_T29_S10_Tu_5 <= 1
+ capacity_S10_We_1: x_T2_S10_We_1 + x_T6_S10_We_1 + x_T7_S10_We_1 + x_T11_S10_We_1 + x_T14_S10_We_1 + x_T17_S10_We_1 + x_T21_S10_We_1 + x_T23_S10_We_1 + x_T26_S10_We_1 + x_T29_S10_We_1 <= 1
+ capacity_S10_We_2: x_T2_S10_We_2 + x_T6_S10_We_2 + x_T7_S10_We_2 + x_T11_S10_We_2 + x_T14_S10_We_2 + x_T17_S10_We_2 + x_T21_S10_We_2 + x_T23_S10_We_2 + x_T26_S10_We_2 + x_T29_S10_We_2 <= 1
+ capacity_S10_We_3: x_T2_S10_We_3 + x_T6_S10_We_3 + x_T7_S10_We_3 + x_T11_S10_We_3 + x_T14_S10_We_3 + x_T17_S10_We_3 + x_T21_S10_We_3 + x_T23_S10_We_3 + x_T26_S10_We_3 + x_T29_S10_We_3 <= 1
+ capacity_S10_We_4: x_T2_S10_We_4 + x_T6_S10_We_4 + x_T7_S10_We_4 + x_T11_S10_We_4 + x_T14_S10_We_4 + x_T17_S10_We_4 + x_T21_S10_We_4 + x_T23_S10_We_4 + x_T26_S10_We_4 + x_T29_S10_We_4 <= 1
+ capacity_S10_We_5: x_T2_S10_We_5 + x_T6_S10_We_5 + x_T7_S10_We_5 + x_T11_S10_We_5 + x_T14_S10_We_5 + x_T17_S10_We_5 + x_T21_S10_We_5 + x_T23_S10_We_5 + x_T26_S10_We_5 + x_T29_S10_We_5 <= 1
+ capacity_S10_Th_1: x_T2_S10_Th_1 + x_T6_S10_Th_1 + x_T7_S10_Th_1 + x_T11_S10_Th_1 + x_T14_S10_Th_1 + x_T17_S10_Th_1 + x_T21_S10_Th_1 + x_T23_S10_Th_1 + x_T26_S10_Th_1 + x_T29_S10_Th_1 <= 1
+ capacity_S10_Th_2: x_T2_S10_Th_2 + x_T6_S10_Th_2 + x_T7_S10_Th_2 + x_T11_S10_Th_2 + x_T14_S10_Th_2 + x_T17_S10_Th_2 + x_T21_S10_Th_2 + x_T23_S10_Th_2 + x_T26_S10_Th_2 + x_T29_S10_Th_2 <= 1
+ capacity_S10_Th_3: x_T2_S10_Th_3 + x_T6_S10_Th_3 + x_T7_S10_Th_3 + x_T11_S10_Th_3 + x_T14_S10_Th_3 + x_T17_S10_Th_3 + x_T21_S10_Th_3 + x_T23_S10_Th_3 + x_T26_S10_Th_3 + x_T29_S10_Th_3 <= 1
+ capacity_S10_Th_4: x_T2_S10_Th_4 + x_T6_S10_Th_4 + x_T7_S10_Th_4 + x_T11_S10_Th_4 + x_T14_S10_Th_4 + x_T17_S10_Th_4 + x_T21_S10_Th_4 + x_T23_S10_Th_4 + x_T26_S10_Th_4 + x_T29_S10_Th_4 <= 1
+ capacity_S10_Th_5: x_T2_S10_Th_5 + x_T6_S10_Th_5 + x_T7_S10_Th_5 + x_T11_S10_Th_5 + x_T14_S10_Th_5 + x_T17_S10_Th_5 + x_T21_S10_Th_5 + x_T23_S10_Th_5 + x_T26_S10_Th_5 + x_T29_S10_Th_5 <= 1
+ capacity_S10_Fr_1: x_T2_S10_Fr_1 + x_T6_S10_Fr_1 + x_T7_S10_Fr_1 + x_T11_S10_Fr_1 + x_T14_S10_Fr_1 + x_T17_S10_Fr_1 + x_T21_S10_Fr_1 + x_T23_S10_Fr_1 + x_T26_S10_Fr_1 + x_T29_S10_Fr_1 <= 1
+ capacity_S10_Fr_2: x_T2_S10_Fr_2 + x_T6_S10_Fr_2 + x_T7_S10_Fr_2 + x_T11_S10_Fr_2 + x_T14_S10_Fr_2 + x_T17_S10_Fr_2 + x_T21_S10_Fr_2 + x_T23_S10_Fr_2 + x_T26_S10_Fr_2 + x_T29_S10_Fr_2 <= 1
+ capacity_S10_Fr_3: x_T2_S10_Fr_3 + x_T6_S10_Fr_3 + x_T7_S10_Fr_3 + x_T11_S10_Fr_3 + x_T14_S10_Fr_3 + x_T17_S10_Fr_3 + x_T21_S10_Fr_3 + x_T23_S10_Fr_3 + x_T26_S10_Fr_3 + x_T29_S10_Fr_3 <= 1
+ capacity_S10_Fr_4: x_T2_S10_Fr_4 + x_T6_S10_Fr_4 + x_T7_S10_Fr_4 + x_T11_S10_Fr_4 + x_T14_S10_Fr_4 + x_T17_S10_Fr_4 + x_T21_S10_Fr_4 + x_T23_S10_Fr_4 + x_T26_S10_Fr_4 + x_T29_S10_Fr_4 <= 1
+ capacity_S10_Fr_5: x_T2_S10_Fr_5 + x_T6_S10_Fr_5 + x_T7_S10_Fr_5 + x_T11_S10_Fr_5 + x_T14_S10_Fr_5 + x_T17_S10_Fr_5 + x_T21_S10_Fr_5 + x_T23_S10_Fr_5 + x_T26_S10_Fr_5 + x_T29_S10_Fr_5 <= 1
+ capacity_S6_Mo_1: x_T4_S6_Mo_1 + x_T6_S6_Mo_1 + x_T11_S6_Mo_1 + x_T15_S6_Mo_1 + x_T18_S6_Mo_1 + x_T20_S6_Mo_1 + x_T24_S6_Mo_1 + x_T28_S6_Mo_1 + x_T31_S6_Mo_1 + x_T32_S6_Mo_1 <= 1
+ capacity_S6_Mo_2: x_T4_S6_Mo_2 + x_T6_S6_Mo_2 + x_T11_S6_Mo_2 + x_T15_S6_Mo_2 + x_T18_S6_Mo_2 + x_T20_S6_Mo_2 + x_T24_S6_Mo_2 + x_T28_S6_Mo_2 + x_T31_S6_Mo_2 + x_T32_S6_Mo_2 <= 1
+ capacity_S6_Mo_3: x_T4_S6_Mo_3 + x_T6_S6_Mo_3 + x_T11_S6_Mo_3 + x_T15_S6_Mo_3 + x_T18_S6_Mo_3 + x_T20_S6_Mo_3 + x_T24_S6_Mo_3 + x_T28_S6_Mo_3 + x_T31_S6_Mo_3 + x_T32_S6_Mo_3 <= 1
+ capacity_S6_Mo_4: x_T4_S6_Mo_4 + x_T6_S6_Mo_4 + x_T11_S6_Mo_4 + x_T15_S6_Mo_4 + x_T18_S6_Mo_4 + x_T20_S6_Mo_4 + x_T24_S6_Mo_4 + x_T28_S6_Mo_4 + x_T31_S6_Mo_4 + x_T32_S6_Mo_4 <= 1
+ capacity_S6_Mo_5: x_T4_S6_Mo_5 + x_T6_S6_Mo_5 + x_T11_S6_Mo_5 + x_T15_S6_Mo_5 + x_T18_S6_Mo_5 + x_T20_S6_Mo_5 + x_T24_S6_Mo_5 + x_T28_S6_Mo_5 + x_T31_S6_Mo_5 + x_T32_S6_Mo_5 <= 1
+ capacity_S6_Tu_1: x_T4_S6_Tu_1 + x_T6_S6_Tu_1 + x_T11_S6_Tu_1 + x_T15_S6_Tu_1 + x_T18_S6_Tu_1 + x_T20_S6_Tu_1 + x_T24_S6_Tu_1 + x_T28_S6_Tu_1 + x_T31_S6_Tu_1 + x_T32_S6_Tu_1 <= 1
+ capacity_S6_Tu_2: x_T4_S6_Tu_2 + x_T6_S6_Tu_2 + x_T11_S6_Tu_2 + x_T15_S6_Tu_2 + x_T18_S6_Tu_2 + x_T20_S6_Tu_2 + x_T24_S6_Tu_2 + x_T28_S6_Tu_2 + x_T31_S6_Tu_2 + x_T32_S6_Tu_2 <= 1
+ capacity_S6_Tu_3: x_T4_S6_Tu_3 + x_T6_S6_Tu_3 + x_T11_S6_Tu_3 + x_T15_S6_Tu_3 + x_T18_S6_Tu_3 + x_T20_S6_Tu_3 + x_T24_S6_Tu_3 + x_T28_S6_Tu_3 + x_T31_S6_Tu_3 + x_T32_S6_Tu_3 <= 1
+ capacity_S6_Tu_4: x_T4_S6_Tu_4 + x_T6_S6_Tu_4 + x_T11_S6_Tu_4 + x_T15_S6_Tu_4 + x_T18_S6_Tu_4 + x_T20_S6_Tu_4 + x_T24_S6_Tu_4 + x_T28_S6_Tu_4 + x_T31_S6_Tu_4 + x_T32_S6_Tu_4 <= 1
+ capacity_S6_Tu_5: x_T4_S6_Tu_5 + x_T6_S6_Tu_5 + x_T11_S6_Tu_5 + x_T15_S6_Tu_5 + x_T18_S6_Tu_5 + x_T20_S6_Tu_5 + x_T24_S6_Tu_5 + x_T28_S6_Tu_5 + x_T31_S6_Tu_5 + x_T32_S6_Tu_5 <= 1
+ capacity_S6_We_1: x_T4_S6_We_1 + x_T6_S6_We_1 + x_T11_S6_We_1 + x_T15_S6_We_1 + x_T18_S6_We_1 + x_T20_S6_We_1 + x_T24_S6_We_1 + x_T28_S6_We_1 + x_T31_S6_We_1 + x_T32_S6_We_1 <= 1
+ capacity_S6_We_2: x_T4_S6_We_2 + x_T6_S6_We_2 + x_T11_S6_We_2 + x_T15_S6_We_2 + x_T18_S6_We_2 + x_T20_S6_We_2 + x_T24_S6_We_2 + x_T28_S6_We_2 + x_T31_S6_We_2 + x_T32_S6_We_2 <= 1
+ capacity_S6_We_3: x_T4_S6_We_3 + x_T6_S6_We_3 + x_T11_S6_We_3 + x_T15_S6_We_3 + x_T18_S6_We_3 + x_T20_S6_We_3 + x_T24_S6_We_3 + x_T28_S6_We_3 + x_T31_S6_We_3 + x_T32_S6_We_3 <= 1
+ capacity_S6_We_4: x_T4_S6_We_4 + x_T6_S6_We_4 + x_T11_S6_We_4 + x_T15_S6_We_4 + x_T18_S6_We_4 + x_T20_S6_We_4 + x_T24_S6_We_4 + x_T28_S6_We_4 + x_T31_S6_We_4 + x_T32_S6_We_4 <= 1
+ capacity_S6_We_5: x_T4_S6_We_5 + x_T6_S6_We_5 + x_T11_S6_We_5 + x_T15_S6_We_5 + x_T18_S6_We_5 + x_T20_S6_We_5 + x_T24_S6_We_5 + x_T28_S6_We_5 + x_T31_S6_We_5 + x_T32_S6_We_5 <= 1
+ capacity_S6_Th_1: x_T4_S6_Th_1 + x_T6_S6_Th_1 + x_T11_S6_Th_1 + x_T15_S6_Th_1 + x_T18_S6_Th_1 + x_T20_S6_Th_1 + x_T24_S6_Th_1 + x_T28_S6_Th_1 + x_T31_S6_Th_1 + x_T32_S6_Th_1 <= 1
+ capacity_S6_Th_2: x_T4_S6_Th_2 + x_T6_S6_Th_2 + x_T11_S6_Th_2 + x_T15_S6_Th_2 + x_T18_S6_Th_2 + x_T20_S6_Th_2 + x_T24_S6_Th_2 + x_T28_S6_Th_2 + x_T31_S6_Th_2 + x_T32_S6_Th_2 <= 1
+ capacity_S6_Th_3: x_T4_S6_Th_3 + x_T6_S6_Th_3 + x_T11_S6_Th_3 + x_T15_S6_Th_3 + x_T18_S6_Th_3 + x_T20_S6_Th_3 + x_T24_S6_Th_3 + x_T28_S6_Th_3 + x_T31_S6_Th_3 + x_T32_S6_Th_3 <= 1
+ capacity_S6_Th_4: x_T4_S6_Th_4 + x_T6_S6_Th_4 + x_T11_S6_Th_4 + x_T15_S6_Th_4 + x_T18_S6_Th_4 + x_T20_S6_Th_4 + x_T24_S6_Th_4 + x_T28_S6_Th_4 + x_T31_S6_Th_4 + x_T32_S6_Th_4 <= 1
+ capacity_S6_Th_5: x_T4_S6_Th_5 + x_T6_S6_Th_5 + x_T11_S6_Th_5 + x_T15_S6_Th_5 + x_T18_S6_Th_5 + x_T20_S6_Th_5 + x_T24_S6_Th_5 + x_T28_S6_Th_5 + x_T31_S6_Th_5 + x_T32_S6_Th_5 <= 1
+ capacity_S6_Fr_1: x_T4_S6_Fr_1 + x_T6_S6_Fr_1 + x_T11_S6_Fr_1 + x_T15_S6_Fr_1 + x_T18_S6_Fr_1 + x_T20_S6_Fr_1 + x_T24_S6_Fr_1 + x_T28_S6_Fr_1 + x_T31_S6_Fr_1 + x_T32_S6_Fr_1 <= 1
+ capacity_S6_Fr_2: x_T4_S6_Fr_2 + x_T6_S6_Fr_2 + x_T11_S6_Fr_2 + x_T15_S6_Fr_2 + x_T18_S6_Fr_2 + x_T20_S6_Fr_2 + x_T24_S6_Fr_2 + x_T28_S6_Fr_2 + x_T31_S6_Fr_2 + x_T32_S6_Fr_2 <= 1
+ capacity_S6_Fr_3: x_T4_S6_Fr_3 + x_T6_S6_Fr_3 + x_T11_S6_Fr_3 + x_T15_S6_Fr_3 + x_T18_S6_Fr_3 + x_T20_S6_Fr_3 + x_T24_S6_Fr_3 + x_T28_S6_Fr_3 + x_T31_S6_Fr_3 + x_T32_S6_Fr_3 <= 1
+ capacity_S6_Fr_4: x_T4_S6_Fr_4 + x_T6_S6_Fr_4 + x_T11_S6_Fr_4 + x_T15_S6_Fr_4 + x_T18_S6_Fr_4 + x_T20_S6_Fr_4 + x_T24_S6_Fr_4 + x_T28_S6_Fr_4 + x_T31_S6_Fr_4 + x_T32_S6_Fr_4 <= 1
+ capacity_S6_Fr_5: x_T4_S6_Fr_5 + x_T6_S6_Fr_5 + x_T11_S6_Fr_5 + x_T15_S6_Fr_5 + x_T18_S6_Fr_5 + x_T20_S6_Fr_5 + x_T24_S6_Fr_5 + x_T28_S6_Fr_5 + x_T31_S6_Fr_5 + x_T32_S6_Fr_5 <= 1
+ capacity_S12_Mo_1: x_T3_S12_Mo_1 + x_T6_S12_Mo_1 + x_T7_S12_Mo_1 + x_T12_S12_Mo_1 + x_T16_S12_Mo_1 + x_T19_S12_Mo_1 + x_T21_S12_Mo_1 + x_T23_S12_Mo_1 + x_T28_S12_Mo_1 + x_T31_S12_Mo_1 <= 1
+ capacity_S12_Mo_2: x_T3_S12_Mo_2 + x_T6_S12_Mo_2 + x_T7_S12_Mo_2 + x_T12_S12_Mo_2 + x_T16_S12_Mo_2 + x_T19_S12_Mo_2 + x_T21_S12_Mo_2 + x_T23_S12_Mo_2 + x_T28_S12_Mo_2 + x_T31_S12_Mo_2 <= 1
+ capacity_S12_Mo_3: x_T3_S12_Mo_3 + x_T6_S12_Mo_3 + x_T7_S12_Mo_3 + x_T12_S12_Mo_3 + x_T16_S12_Mo_3 + x_T19_S12_Mo_3 + x_T21_S12_Mo_3 + x_T23_S12_Mo_3 + x_T28_S12_Mo_3 + x_T31_S12_Mo_3 <= 1
+ capacity_S12_Mo_4: x_T3_S12_Mo_4 + x_T6_S12_Mo_4 + x_T7_S12_Mo_4 + x_T12_S12_Mo_4 + x_T16_S12_Mo_4 + x_T19_S12_Mo_4 + x_T21_S12_Mo_4 + x_T23_S12_Mo_4 + x_T28_S12_Mo_4 + x_T31_S12_Mo_4 <= 1
+ capacity_S12_Mo_5: x_T3_S12_Mo_5 + x_T6_S12_Mo_5 + x_T7_S12_Mo_5 + x_T12_S12_Mo_5 + x_T16_S12_Mo_5 + x_T19_S12_Mo_5 + x_T21_S12_Mo_5 + x_T23_S12_Mo_5 + x_T28_S12_Mo_5 + x_T31_S12_Mo_5 <= 1
+ capacity_S12_Tu_1: x_T3_S12_Tu_1 + x_T6_S12_Tu_1 + x_T7_S12_Tu_1 + x_T12_S12_Tu_1 + x_T16_S12_Tu_1 + x_T19_S12_Tu_1 + x_T21_S12_Tu_1 + x_T23_S12_Tu_1 + x_T28_S12_Tu_1 + x_T31_S12_Tu_1 <= 1
+ capacity_S12_Tu_2: x_T3_S12_Tu_2 + x_T6_S12_Tu_2 + x_T7_S12_Tu_2 + x_T12_S12_Tu_2 + x_T16_S12_Tu_2 + x_T19_S12_Tu_2 + x_T21_S12_Tu_2 + x_T23_S12_Tu_2 + x_T28_S12_Tu_2 + x_T31_S12_Tu_2 <= 1
+ capacity_S12_Tu_3: x_T3_S12_Tu_3 + x_T6_S12_Tu_3 + x_T7_S12_Tu_3 + x_T12_S12_Tu_3 + x_T16_S12_Tu_3 + x_T19_S12_Tu_3 + x_T21_S12_Tu_3 + x_T23_S12_Tu_3 + x_T28_S12_Tu_3 + x_T31_S12_Tu_3 <= 1
+ capacity_S12_Tu_4: x_T3_S12_Tu_4 + x_T6_S12_Tu_4 + x_T7_S12_Tu_4 + x_T12_S12_Tu_4 + x_T16_S12_Tu_4 + x_T19_S12_Tu_4 + x_T21_S12_Tu_4 + x_T23_S12_Tu_4 + x_T28_S12_Tu_4 + x_T31_S12_Tu_4 <= 1
+ capacity_S12_Tu_5: x_T3_S12_Tu_5 + x_T6_S12_Tu_5 + x_T7_S12_Tu_5 + x_T12_S12_Tu_5 + x_T16_S12_Tu_5 + x_T19_S12_Tu_5 + x_T21_S12_Tu_5 + x_T23_S12_Tu_5 + x_T28_S12_Tu_5 + x_T31_S12_Tu_5 <= 1
+ capacity_S12_We_1: x_T3_S12_We_1 + x_T6_S12_We_1 + x_T7_S12_We_1 + x_T12_S12_We_1 + x_T16_S12_We_1 + x_T19_S12_We_1 + x_T21_S12_We_1 + x_T23_S12_We_1 + x_T28_S12_We_1 + x_T31_S12_We_1 <= 1
+ capacity_S12_We_2: x_T3_S12_We_2 + x_T6_S12_We_2 + x_T7_S12_We_2 + x_T12_S12_We_2 + x_T16_S12_We_2 + x_T19_S12_We_2 + x_T21_S12_We_2 + x_T23_S12_We_2 + x_T28_S12_We_2 + x_T31_S12_We_2 <= 1
+ capacity_S12_We_3: x_T3_S12_We_3 + x_T6_S12_We_3 + x_T7_S12_We_3 + x_T12_S12_We_3 + x_T16_S12_We_3 + x_T19_S12_We_3 + x_T21_S12_We_3 + x_T23_S12_We_3 + x_T28_S12_We_3 + x_T31_S12_We_3 <= 1
+ capacity_S12_We_4: x_T3_S12_We_4 + x_T6_S12_We_4 + x_T7_S12_We_4 + x_T12_S12_We_4 + x_T16_S12_We_4 + x_T19_S12_We_4 + x_T21_S12_We_4 + x_T23_S12_We_4 + x_T28_S12_We_4 + x_T31_S12_We_4 <= 1
+ capacity_S12_We_5: x_T3_S12_We_5 + x_T6_S12_We_5 + x_T7_S12_We_5 + x_T12_S12_We_5 + x_T16_S12_We_5 + x_T19_S12_We_5 + x_T21_S12_We_5 + x_T23_S12_We_5 + x_T28_S12_We_5 + x_T31_S12_We_5 <= 1
+ capacity_S12_Th_1: x_T3_S12_Th_1 + x_T6_S12_Th_1 + x_T7_S12_Th_1 + x_T12_S12_Th_1 + x_T16_S12_Th_1 + x_T19_S12_Th_1 + x_T21_S12_Th_1 + x_T23_S12_Th_1 + x_T28_S12_Th_1 + x_T31_S12_Th_1 <= 1
+ capacity_S12_Th_2: x_T3_S12_Th_2 + x_T6_S12_Th_2 + x_T7_S12_Th_2 + x_T12_S12_Th_2 + x_T16_S12_Th_2 + x_T19_S12_Th_2 + x_T21_S12_Th_2 + x_T23_S12_Th_2 + x_T28_S12_Th_2 + x_T31_S12_Th_2 <= 1
+ capacity_S12_Th_3: x_T3_S12_Th_3 + x_T6_S12_Th_3 + x_T7_S12_Th_3 + x_T12_S12_Th_3 + x_T16_S12_Th_3 + x_T19_S12_Th_3 + x_T21_S12_Th_3 + x_T23_S12_Th_3 + x_T28_S12_Th_3 + x_T31_S12_Th_3 <= 1
+ capacity_S12_Th_4: x_T3_S12_Th_4 + x_T6_S12_Th_4 + x_T7_S12_Th_4 + x_T12_S12_Th_4 + x_T16_S12_Th_4 + x_T19_S12_Th_4 + x_T21_S12_Th_4 + x_T23_S12_Th_4 + x_T28_S12_Th_4 + x_T31_S12_Th_4 <= 1
+ capacity_S12_Th_5: x_T3_S12_Th_5 + x_T6_S12_Th_5 + x_T7_S12_Th_5 + x_T12_S12_Th_5 + x_T16_S12_Th_5 + x_T19_S12_Th_5 + x_T21_S12_Th_5 + x_T23_S12_Th_5 + x_T28_S12_Th_5 + x_T31_S12_Th_5 <= 1
+ capacity_S12_Fr_1: x_T3_S12_Fr_1 + x_T6_S12_Fr_1 + x_T7_S12_Fr_1 + x_T12_S12_Fr_1 + x_T16_S12_Fr_1 + x_T19_S12_Fr_1 + x_T21_S12_Fr_1 + x_T23_S12_Fr_1 + x_T28_S12_Fr_1 + x_T31_S12_Fr_1 <= 1
+ capacity_S12_Fr_2: x_T3_S12_Fr_2 + x_T6_S12_Fr_2 + x_T7_S12_Fr_2 + x_T12_S12_Fr_2 + x_T16_S12_Fr_2 + x_T19_S12_Fr_2 + x_T21_S12_Fr_2 + x_T23_S12_Fr_2 + x_T28_S12_Fr_2 + x_T31_S12_Fr_2 <= 1
+ capacity_S12_Fr_3: x_T3_S12_Fr_3 + x_T6_S12_Fr_3 + x_T7_S12_Fr_3 + x_T12_S12_Fr_3 + x_T16_S12_Fr_3 + x_T19_S12_Fr_3 + x_T21_S12_Fr_3 + x_T23_S12_Fr_3 + x_T28_S12_Fr_3 + x_T31_S12_Fr_3 <= 1
+ capacity_S12_Fr_4: x_T3_S12_Fr_4 + x_T6_S12_Fr_4 + x_T7_S12_Fr_4 + x_T12_S12_Fr_4 + x_T16_S12_Fr_4 + x_T19_S12_Fr_4 + x_T21_S12_Fr_4 + x_T23_S12_Fr_4 + x_T28_S12_Fr_4 + x_T31_S12_Fr_4 <= 1
+ capacity_S12_Fr_5: x_T3_S12_Fr_5 + x_T6_S12_Fr_5 + x_T7_S12_Fr_5 + x_T12_S12_Fr_5 + x_T16_S12_Fr_5 + x_T19_S12_Fr_5 + x_T21_S12_Fr_5 + x_T23_S12_Fr_5 + x_T28_S12_Fr_5 + x_T31_S12_Fr_5 <= 1
+ capacity_S15_Mo_1: x_T3_S15_Mo_1 + x_T8_S15_Mo_1 + x_T9_S15_Mo_1 + x_T12_S15_Mo_1 + x_T16_S15_Mo_1 + x_T19_S15_Mo_1 + x_T22_S15_Mo_1 + x_T24_S15_Mo_1 + x_T28_S15_Mo_1 + x_T31_S15_Mo_1 <= 1
+ capacity_S15_Mo_2: x_T3_S15_Mo_2 + x_T8_S15_Mo_2 + x_T9_S15_Mo_2 + x_T12_S15_Mo_2 + x_T16_S15_Mo_2 + x_T19_S15_Mo_2 + x_T22_S15_Mo_2 + x_T24_S15_Mo_2 + x_T28_S15_Mo_2 + x_T31_S15_Mo_2 <= 1
+ capacity_S15_Mo_3: x_T3_S15_Mo_3 + x_T8_S15_Mo_3 + x_T9_S15_Mo_3 + x_T12_S15_Mo_3 + x_T16_S15_Mo_3 + x_T19_S15_Mo_3 + x_T22_S15_Mo_3 + x_T24_S15_Mo_3 + x_T28_S15_Mo_3 + x_T31_S15_Mo_3 <= 1
+ capacity_S15_Mo_4: x_T3_S15_Mo_4 + x_T8_S15_Mo_4 + x_T9_S15_Mo_4 + x_T12_S15_Mo_4 + x_T16_S15_Mo_4 + x_T19_S15_Mo_4 + x_T22_S15_Mo_4 + x_T24_S15_Mo_4 + x_T28_S15_Mo_4 + x_T31_S15_Mo_4 <= 1
+ capacity_S15_Mo_5: x_T3_S15_Mo_5 + x_T8_S15_Mo_5 + x_T9_S15_Mo_5 + x_T12_S15_Mo_5 + x_T16_S15_Mo_5 + x_T19_S15_Mo_5 + x_T22_S15_Mo_5 + x_T24_S15_Mo_5 + x_T28_S15_Mo_5 + x_T31_S15_Mo_5 <= 1
+ capacity_S15_Tu_1: x_T3_S15_Tu_1 + x_T8_S15_Tu_1 + x_T9_S15_Tu_1 + x_T12_S15_Tu_1 + x_T16_S15_Tu_1 + x_T19_S15_Tu_1 + x_T22_S15_Tu_1 + x_T24_S15_Tu_1 + x_T28_S15_Tu_1 + x_T31_S15_Tu_1 <= 1
+ capacity_S15_Tu_2: x_T3_S15_Tu_2 + x_T8_S15_Tu_2 + x_T9_S15_Tu_2 + x_T12_S15_Tu_2 + x_T16_S15_Tu_2 + x_T19_S15_Tu_2 + x_T22_S15_Tu_2 + x_T24_S15_Tu_2 + x_T28_S15_Tu_2 + x_T31_S15_Tu_2 <= 1
+ capacity_S15_Tu_3: x_T3_S15_Tu_3 + x_T8_S15_Tu_3 + x_T9_S15_Tu_3 + x_T12_S15_Tu_3 + x_T16_S15_Tu_3 + x_T19_S15_Tu_3 + x_T22_S15_Tu_3 + x_T24_S15_Tu_3 + x_T28_S15_Tu_3 + x_T31_S15_Tu_3 <= 1
+ capacity_S15_Tu_4: x_T3_S15_Tu_4 + x_T8_S15_Tu_4 + x_T9_S15_Tu_4 + x_T12_S15_Tu_4 + x_T16_S15_Tu_4 + x_T19_S15_Tu_4 + x_T22_S15_Tu_4 + x_T24_S15_Tu_4 + x_T28_S15_Tu_4 + x_T31_S15_Tu_4 <= 1
+ capacity_S15_Tu_5: x_T3_S15_Tu_5 + x_T8_S15_Tu_5 + x_T9_S15_Tu_5 + x_T12_S15_Tu_5 + x_T16_S15_Tu_5 + x_T19_S15_Tu_5 + x_T22_S15_Tu_5 + x_T24_S15_Tu_5 + x_T28_S15_Tu_5 + x_T31_S15_Tu_5 <= 1
+ capacity_S15_We_1: x_T3_S15_We_1 + x_T8_S15_We_1 + x_T9_S15_We_1 + x_T12_S15_We_1 + x_T16_S15_We_1 + x_T19_S15_We_1 + x_T22_S15_We_1 + x_T24_S15_We_1 + x_T28_S15_We_1 + x_T31_S15_We_1 <= 1
+ capacity_S15_We_2: x_T3_S15_We_2 + x_T8_S15_We_2 + x_T9_S15_We_2 + x_T12_S15_We_2 + x_T16_S15_We_2 + x_T19_S15_We_2 + x_T22_S15_We_2 + x_T24_S15_We_2 + x_T28_S15_We_2 + x_T31_S15_We_2 <= 1
+ capacity_S15_We_3: x_T3_S15_We_3 + x_T8_S15_We_3 + x_T9_S15_We_3 + x_T12_S15_We_3 + x_T16_S15_We_3 + x_T19_S15_We_3 + x_T22_S15_We_3 + x_T24_S15_We_3 + x_T28_S15_We_3 + x_T31_S15_We_3 <= 1
+ capacity_S15_We_4: x_T3_S15_We_4 + x_T8_S15_We_4 + x_T9_S15_We_4 + x_T12_S15_We_4 + x_T16_S15_We_4 + x_T19_S15_We_4 + x_T22_S15_We_4 + x_T24_S15_We_4 + x_T28_S15_We_4 + x_T31_S15_We_4 <= 1
+ capacity_S15_We_5: x_T3_S15_We_5 + x_T8_S15_We_5 + x_T9_S15_We_5 + x_T12_S15_We_5 + x_T16_S15_We_5 + x_T19_S15_We_5 + x_T22_S15_We_5 + x_T24_S15_We_5 + x_T28_S15_We_5 + x_T31_S15_We_5 <= 1
+ capacity_S15_Th_1: x_T3_S15_Th_1 + x_T8_S15_Th_1 + x_T9_S15_Th_1 + x_T12_S15_Th_1 + x_T16_S15_Th_1 + x_T19_S15_Th_1 + x_T22_S15_Th_1 + x_T24_S15_Th_1 + x_T28_S15_Th_1 + x_T31_S15_Th_1 <= 1
+ capacity_S15_Th_2: x_T3_S15_Th_2 + x_T8_S15_Th_2 + x_T9_S15_Th_2 + x_T12_S15_Th_2 + x_T16_S15_Th_2 + x_T19_S15_Th_2 + x_T22_S15_Th_2 + x_T24_S15_Th_2 + x_T28_S15_Th_2 + x_T31_S15_Th_2 <= 1
+ capacity_S15_Th_3: x_T3_S15_Th_3 + x_T8_S15_Th_3 + x_T9_S15_Th_3 + x_T12_S15_Th_3 + x_T16_S15_Th_3 + x_T19_S15_Th_3 + x_T22_S15_Th_3 + x_T24_S15_Th_3 + x_T28_S15_Th_3 + x_T31_S15_Th_3 <= 1
+ capacity_S15_Th_4: x_T3_S15_Th_4 + x_T8_S15_Th_4 + x_T9_S15_Th_4 + x_T12_S15_Th_4 + x_T16_S15_Th_4 + x_T19_S15_Th_4 + x_T22_S15_Th_4 + x_T24_S15_Th_4 + x_T28_S15_Th_4 + x_T31_S15_Th_4 <= 1
+ capacity_S15_Th_5: x_T3_S15_Th_5 + x_T8_S15_Th_5 + x_T9_S15_Th_5 + x_T12_S15_Th_5 + x_T16_S15_Th_5 + x_T19_S15_Th_5 + x_T22_S15_Th_5 + x_T24_S15_Th_5 + x_T28_S15_Th_5 + x_T31_S15_Th_5 <= 1
+ capacity_S15_Fr_1: x_T3_S15_Fr_1 + x_T8_S15_Fr_1 + x_T9_S15_Fr_1 + x_T12_S15_Fr_1 + x_T16_S15_Fr_1 + x_T19_S15_Fr_1 + x_T22_S15_Fr_1 + x_T24_S15_Fr_1 + x_T28_S15_Fr_1 + x_T31_S15_Fr_1 <= 1
+ capacity_S15_Fr_2: x_T3_S15_Fr_2 + x_T8_S15_Fr_2 + x_T9_S15_Fr_2 + x_T12_S15_Fr_2 + x_T16_S15_Fr_2 + x_T19_S15_Fr_2 + x_T22_S15_Fr_2 + x_T24_S15_Fr_2 + x_T28_S15_Fr_2 + x_T31_S15_Fr_2 <= 1
+ capacity_S15_Fr_3: x_T3_S15_Fr_3 + x_T8_S15_Fr_3 + x_T9_S15_Fr_3 + x_T12_S15_Fr_3 + x_T16_S15_Fr_3 + x_T19_S15_Fr_3 + x_T22_S15_Fr_3 + x_T24_S15_Fr_3 + x_T28_S15_Fr_3 + x_T31_S15_Fr_3 <= 1
+ capacity_S15_Fr_4: x_T3_S15_Fr_4 + x_T8_S15_Fr_4 + x_T9_S15_Fr_4 + x_T12_S15_Fr_4 + x_T16_S15_Fr_4 + x_T19_S15_Fr_4 + x_T22_S15_Fr_4 + x_T24_S15_Fr_4 + x_T28_S15_Fr_4 + x_T31_S15_Fr_4 <= 1
+ capacity_S15_Fr_5: x_T3_S15_Fr_5 + x_T8_S15_Fr_5 + x_T9_S15_Fr_5 + x_T12_S15_Fr_5 + x_T16_S15_Fr_5 + x_T19_S15_Fr_5 + x_T22_S15_Fr_5 + x_T24_S15_Fr_5 + x_T28_S15_Fr_5 + x_T31_S15_Fr_5 <= 1
+ capacity_S4_Mo_1: x_T1_S4_Mo_1 + x_T5_S4_Mo_1 + x_T10_S4_Mo_1 + x_T15_S4_Mo_1 + x_T18_S4_Mo_1 + x_T20_S4_Mo_1 + x_T24_S4_Mo_1 + x_T26_S4_Mo_1 + x_T29_S4_Mo_1 + x_T32_S4_Mo_1 <= 1
+ capacity_S4_Mo_2: x_T1_S4_Mo_2 + x_T5_S4_Mo_2 + x_T10_S4_Mo_2 + x_T15_S4_Mo_2 + x_T18_S4_Mo_2 + x_T20_S4_Mo_2 + x_T24_S4_Mo_2 + x_T26_S4_Mo_2 + x_T29_S4_Mo_2 + x_T32_S4_Mo_2 <= 1
+ capacity_S4_Mo_3: x_T1_S4_Mo_3 + x_T5_S4_Mo_3 + x_T10_S4_Mo_3 + x_T15_S4_Mo_3 + x_T18_S4_Mo_3 + x_T20_S4_Mo_3 + x_T24_S4_Mo_3 + x_T26_S4_Mo_3 + x_T29_S4_Mo_3 + x_T32_S4_Mo_3 <= 1
+ capacity_S4_Mo_4: x_T1_S4_Mo_4 + x_T5_S4_Mo_4 + x_T10_S4_Mo_4 + x_T15_S4_Mo_4 + x_T18_S4_Mo_4 + x_T20_S4_Mo_4 + x_T24_S4_Mo_4 + x_T26_S4_Mo_4 + x_T29_S4_Mo_4 + x_T32_S4_Mo_4 <= 1
+ capacity_S4_Mo_5: x_T1_S4_Mo_5 + x_T5_S4_Mo_5 + x_T10_S4_Mo_5 + x_T15_S4_Mo_5 + x_T18_S4_Mo_5 + x_T20_S4_Mo_5 + x_T24_S4_Mo_5 + x_T26_S4_Mo_5 + x_T29_S4_Mo_5 + x_T32_S4_Mo_5 <= 1
+ capacity_S4_Tu_1: x_T1_S4_Tu_1 + x_T5_S4_Tu_1 + x_T10_S4_Tu_1 + x_T15_S4_Tu_1 + x_T18_S4_Tu_1 + x_T20_S4_Tu_1 + x_T24_S4_Tu_1 + x_T26_S4_Tu_1 + x_T29_S4_Tu_1 + x_T32_S4_Tu_1 <= 1
+ capacity_S4_Tu_2: x_T1_S4_Tu_2 + x_T5_S4_Tu_2 + x_T10_S4_Tu_2 + x_T15_S4_Tu_2 + x_T18_S4_Tu_2 + x_T20_S4_Tu_2 + x_T24_S4_Tu_2 + x_T26_S4_Tu_2 + x_T29_S4_Tu_2 + x_T32_S4_Tu_2 <= 1
+ capacity_S4_Tu_3: x_T1_S4_Tu_3 + x_T5_S4_Tu_3 + x_T10_S4_Tu_3 + x_T15_S4_Tu_3 + x_T18_S4_Tu_3 + x_T20_S4_Tu_3 + x_T24_S4_Tu_3 + x_T26_S4_Tu_3 + x_T29_S4_Tu_3 + x_T32_S4_Tu_3 <= 1
+ capacity_S4_Tu_4: x_T1_S4_Tu_4 + x_T5_S4_Tu_4 + x_T10_S4_Tu_4 + x_T15_S4_Tu_4 + x_T18_S4_Tu_4 + x_T20_S4_Tu_4 + x_T24_S4_Tu_4 + x_T26_S4_Tu_4 + x_T29_S4_Tu_4 + x_T32_S4_Tu_4 <= 1
+ capacity_S4_Tu_5: x_T1_S4_Tu_5 + x_T5_S4_Tu_5 + x_T10_S4_Tu_5 + x_T15_S4_Tu_5 + x_T18_S4_Tu_5 + x_T20_S4_Tu_5 + x_T24_S4_Tu_5 + x_T26_S4_Tu_5 + x_T29_S4_Tu_5 + x_T32_S4_Tu_5 <= 1
+ capacity_S4_We_1: x_T1_S4_We_1 + x_T5_S4_We_1 + x_T10_S4_We_1 + x_T15_S4_We_1 + x_T18_S4_We_1 + x_T20_S4_We_1 + x_T24_S4_We_1 + x_T26_S4_We_1 + x_T29_S4_We_1 + x_T32_S4_We_1 <= 1
+ capacity_S4_We_2: x_T1_S4_We_2 + x_T5_S4_We_2 + x_T10_S4_We_2 + x_T15_S4_We_2 + x_T18_S4_We_2 + x_T20_S4_We_2 + x_T24_S4_We_2 + x_T26_S4_We_2 + x_T29_S4_We_2 + x_T32_S4_We_2 <= 1
+ capacity_S4_We_3: x_T1_S4_We_3 + x_T5_S4_We_3 + x_T10_S4_We_3 + x_T15_S4_We_3 + x_T18_S4_We_3 + x_T20_S4_We_3 + x_T24_S4_We_3 + x_T26_S4_We_3 + x_T29_S4_We_3 + x_T32_S4_We_3 <= 1
+ capacity_S4_We_4: x_T1_S4_We_4 + x_T5_S4_We_4 + x_T10_S4_We_4 + x_T15_S4_We_4 + x_T18_S4_We_4 + x_T20_S4_We_4 + x_T24_S4_We_4 + x_T26_S4_We_4 + x_T29_S4_We_4 + x_T32_S4_We_4 <= 1
+ capacity_S4_We_5: x_T1_S4_We_5 + x_T5_S4_We_5 + x_T10_S4_We_5 + x_T15_S4_We_5 + x_T18_S4_We_5 + x_T20_S4_We_5 + x_T24_S4_We_5 + x_T26_S4_We_5 + x_T29_S4_We_5 + x_T32_S4_We_5 <= 1
+ capacity_S4_Th_1: x_T1_S4_Th_1 + x_T5_S4_Th_1 + x_T10_S4_Th_1 + x_T15_S4_Th_1 + x_T18_S4_Th_1 + x_T20_S4_Th_1 + x_T24_S4_Th_1 + x_T26_S4_Th_1 + x_T29_S4_Th_1 + x_T32_S4_Th_1 <= 1
+ capacity_S4_Th_2: x_T1_S4_Th_2 + x_T5_S4_Th_2 + x_T10_S4_Th_2 + x_T15_S4_Th_2 + x_T18_S4_Th_2 + x_T20_S4_Th_2 + x_T24_S4_Th_2 + x_T26_S4_Th_2 + x_T29_S4_Th_2 + x_T32_S4_Th_2 <= 1
+ capacity_S4_Th_3: x_T1_S4_Th_3 + x_T5_S4_Th_3 + x_T10_S4_Th_3 + x_T15_S4_Th_3 + x_T18_S4_Th_3 + x_T20_S4_Th_3 + x_T24_S4_Th_3 + x_T26_S4_Th_3 + x_T29_S4_Th_3 + x_T32_S4_Th_3 <= 1
+ capacity_S4_Th_4: x_T1_S4_Th_4 + x_T5_S4_Th_4 + x_T10_S4_Th_4 + x_T15_S4_Th_4 + x_T18_S4_Th_4 + x_T20_S4_Th_4 + x_T24_S4_Th_4 + x_T26_S4_Th_4 + x_T29_S4_Th_4 + x_T32_S4_Th_4 <= 1
+ capacity_S4_Th_5: x_T1_S4_Th_5 + x_T5_S4_Th_5 + x_T10_S4_Th_5 + x_T15_S4_Th_5 + x_T18_S4_Th_5 + x_T20_S4_Th_5 + x_T24_S4_Th_5 + x_T26_S4_Th_5 + x_T29_S4_Th_5 + x_T32_S4_Th_5 <= 1
+ capacity_S4_Fr_1: x_T1_S4_Fr_1 + x_T5_S4_Fr_1 + x_T10_S4_Fr_1 + x_T15_S4_Fr_1 + x_T18_S4_Fr_1 + x_T20_S4_Fr_1 + x_T24_S4_Fr_1 + x_T26_S4_Fr_1 + x_T29_S4_Fr_1 + x_T32_S4_Fr_1 <= 1
+ capacity_S4_Fr_2: x_T1_S4_Fr_2 + x_T5_S4_Fr_2 + x_T10_S4_Fr_2 + x_T15_S4_Fr_2 + x_T18_S4_Fr_2 + x_T20_S4_Fr_2 + x_T24_S4_Fr_2 + x_T26_S4_Fr_2 + x_T29_S4_Fr_2 + x_T32_S4_Fr_2 <= 1
+ capacity_S4_Fr_3: x_T1_S4_Fr_3 + x_T5_S4_Fr_3 + x_T10_S4_Fr_3 + x_T15_S4_Fr_3 + x_T18_S4_Fr_3 + x_T20_S4_Fr_3 + x_T24_S4_Fr_3 + x_T26_S4_Fr_3 + x_T29_S4_Fr_3 + x_T32_S4_Fr_3 <= 1
+ capacity_S4_Fr_4: x_T1_S4_Fr_4 + x_T5_S4_Fr_4 + x_T10_S4_Fr_4 + x_T15_S4_Fr_4 + x_T18_S4_Fr_4 + x_T20_S4_Fr_4 + x_T24_S4_Fr_4 + x_T26_S4_Fr_4 + x_T29_S4_Fr_4 + x_T32_S4_Fr_4 <= 1
+ capacity_S4_Fr_5: x_T1_S4_Fr_5 + x_T5_S4_Fr_5 + x_T10_S4_Fr_5 + x_T15_S4_Fr_5 + x_T18_S4_Fr_5 + x_T20_S4_Fr_5 + x_T24_S4_Fr_5 + x_T26_S4_Fr_5 + x_T29_S4_Fr_5 + x_T32_S4_Fr_5 <= 1
+ capacity_S9_Mo_1: x_T2_S9_Mo_1 + x_T7_S9_Mo_1 + x_T11_S9_Mo_1 + x_T16_S9_Mo_1 + x_T19_S9_Mo_1 + x_T21_S9_Mo_1 + x_T25_S9_Mo_1 + x_T28_S9_Mo_1 + x_T31_S9_Mo_1 + x_T32_S9_Mo_1 <= 1
+ capacity_S9_Mo_2: x_T2_S9_Mo_2 + x_T7_S9_Mo_2 + x_T11_S9_Mo_2 + x_T16_S9_Mo_2 + x_T19_S9_Mo_2 + x_T21_S9_Mo_2 + x_T25_S9_Mo_2 + x_T28_S9_Mo_2 + x_T31_S9_Mo_2 + x_T32_S9_Mo_2 <= 1
+ capacity_S9_Mo_3: x_T2_S9_Mo_3 + x_T7_S9_Mo_3 + x_T11_S9_Mo_3 + x_T16_S9_Mo_3 + x_T19_S9_Mo_3 + x_T21_S9_Mo_3 + x_T25_S9_Mo_3 + x_T28_S9_Mo_3 + x_T31_S9_Mo_3 + x_T32_S9_Mo_3 <= 1
+ capacity_S9_Mo_4: x_T2_S9_Mo_4 + x_T7_S9_Mo_4 + x_T11_S9_Mo_4 + x_T16_S9_Mo_4 + x_T19_S9_Mo_4 + x_T21_S9_Mo_4 + x_T25_S9_Mo_4 + x_T28_S9_Mo_4 + x_T31_S9_Mo_4 + x_T32_S9_Mo_4 <= 1
+ capacity_S9_Mo_5: x_T2_S9_Mo_5 + x_T7_S9_Mo_5 + x_T11_S9_Mo_5 + x_T16_S9_Mo_5 + x_T19_S9_Mo_5 + x_T21_S9_Mo_5 + x_T25_S9_Mo_5 + x_T28_S9_Mo_5 + x_T31_S9_Mo_5 + x_T32_S9_Mo_5 <= 1
+ capacity_S9_Tu_1: x_T2_S9_Tu_1 + x_T7_S9_Tu_1 + x_T11_S9_Tu_1 + x_T16_S9_Tu_1 + x_T19_S9_Tu_1 + x_T21_S9_Tu_1 + x_T25_S9_Tu_1 + x_T28_S9_Tu_1 + x_T31_S9_Tu_1 + x_T32_S9_Tu_1 <= 1
+ capacity_S9_Tu_2: x_T2_S9_Tu_2 + x_T7_S9_Tu_2 + x_T11_S9_Tu_2 + x_T16_S9_Tu_2 + x_T19_S9_Tu_2 + x_T21_S9_Tu_2 + x_T25_S9_Tu_2 + x_T28_S9_Tu_2 + x_T31_S9_Tu_2 + x_T32_S9_Tu_2 <= 1
+ capacity_S9_Tu_3: x_T2_S9_Tu_3 + x_T7_S9_Tu_3 + x_T11_S9_Tu_3 + x_T16_S9_Tu_3 + x_T19_S9_Tu_3 + x_T21_S9_Tu_3 + x_T25_S9_Tu_3 + x_T28_S9_Tu_3 + x_T31_S9_Tu_3 + x_T32_S9_Tu_3 <= 1
+ capacity_S9_Tu_4: x_T2_S9_Tu_4 + x_T7_S9_Tu_4 + x_T11_S9_Tu_4 + x_T16_S9_Tu_4 + x_T19_S9_Tu_4 + x_T21_S9_Tu_4 + x_T25_S9_Tu_4 + x_T28_S9_Tu_4 + x_T31_S9_Tu_4 + x_T32_S9_Tu_4 <= 1
+ capacity_S9_Tu_5: x_T2_S9_Tu_5 + x_T7_S9_Tu_5 + x_T11_S9_Tu_5 + x_T16_S9_Tu_5 + x_T19_S9_Tu_5 + x_T21_S9_Tu_5 + x_T25_S9_Tu_5 + x_T28_S9_Tu_5 + x_T31_S9_Tu_5 + x_T32_S9_Tu_5 <= 1
+ capacity_S9_We_1: x_T2_S9_We_1 + x_T7_S9_We_1 + x_T11_S9_We_1 + x_T16_S9_We_1 + x_T19_S9_We_1 + x_T21_S9_We_1 + x_T25_S9_We_1 + x_T28_S9_We_1 + x_T31_S9_We_1 + x_T32_S9_We_1 <= 1
+ capacity_S9_We_2: x_T2_S9_We_2 + x_T7_S9_We_2 + x_T11_S9_We_2 + x_T16_S9_We_2 + x_T19_S9_We_2 + x_T21_S9_We_2 + x_T25_S9_We_2 + x_T28_S9_We_2 + x_T31_S9_We_2 + x_T32_S9_We_2 <= 1
+ capacity_S9_We_3: x_T2_S9_We_3 + x_T7_S9_We_3 + x_T11_S9_We_3 + x_T16_S9_We_3 + x_T19_S9_We_3 + x_T21_S9_We_3 + x_T25_S9_We_3 + x_T28_S9_We_3 + x_T31_S9_We_3 + x_T32_S9_We_3 <= 1
+ capacity_S9_We_4: x_T2_S9_We_4 + x_T7_S9_We_4 + x_T11_S9_We_4 + x_T16_S9_We_4 + x_T19_S9_We_4 + x_T21_S9_We_4 + x_T25_S9_We_4 + x_T28_S9_We_4 + x_T31_S9_We_4 + x_T32_S9_We_4 <= 1
+ capacity_S9_We_5: x_T2_S9_We_5 + x_T7_S9_We_5 + x_T11_S9_We_5 + x_T16_S9_We_5 + x_T19_S9_We_5 + x_T21_S9_We_5 + x_T25_S9_We_5 + x_T28_S9_We_5 + x_T31_S9_We_5 + x_T32_S9_We_5 <= 1
+ capacity_S9_Th_1: x_T2_S9_Th_1 + x_T7_S9_Th_1 + x_T11_S9_Th_1 + x_T16_S9_Th_1 + x_T19_S9_Th_1 + x_T21_S9_Th_1 + x_T25_S9_Th_1 + x_T28_S9_Th_1 + x_T31_S9_Th_1 + x_T32_S9_Th_1 <= 1
+ capacity_S9_Th_2: x_T2_S9_Th_2 + x_T7_S9_Th_2 + x_T11_S9_Th_2 + x_T16_S9_Th_2 + x_T19_S9_Th_2 + x_T21_S9_Th_2 + x_T25_S9_Th_2 + x_T28_S9_Th_2 + x_T31_S9_Th_2 + x_T32_S9_Th_2 <= 1
+ capacity_S9_Th_3: x_T2_S9_Th_3 + x_T7_S9_Th_3 + x_T11_S9_Th_3 + x_T16_S9_Th_3 + x_T19_S9_Th_3 + x_T21_S9_Th_3 + x_T25_S9_Th_3 + x_T28_S9_Th_3 + x_T31_S9_Th_3 + x_T32_S9_Th_3 <= 1
+ capacity_S9_Th_4: x_T2_S9_Th_4 + x_T7_S9_Th_4 + x_T11_S9_Th_4 + x_T16_S9_Th_4 + x_T19_S9_Th_4 + x_T21_S9_Th_4 + x_T25_S9_Th_4 + x_T28_S9_Th_4 + x_T31_S9_Th_4 + x_T32_S9_Th_4 <= 1
+ capacity_S9_Th_5: x_T2_S9_Th_5 + x_T7_S9_Th_5 + x_T11_S9_Th_5 + x_T16_S9_Th_5 + x_T19_S9_Th_5 + x_T21_S9_Th_5 + x_T25_S9_Th_5 + x_T28_S9_Th_5 + x_T31_S9_Th_5 + x_T32_S9_Th_5 <= 1
+ capacity_S9_Fr_1: x_T2_S9_Fr_1 + x_T7_S9_Fr_1 + x_T11_S9_Fr_1 + x_T16_S9_Fr_1 + x_T19_S9_Fr_1 + x_T21_S9_Fr_1 + x_T25_S9_Fr_1 + x_T28_S9_Fr_1 + x_T31_S9_Fr_1 + x_T32_S9_Fr_1 <= 1
+ capacity_S9_Fr_2: x_T2_S9_Fr_2 + x_T7_S9_Fr_2 + x_T11_S9_Fr_2 + x_T16_S9_Fr_2 + x_T19_S9_Fr_2 + x_T21_S9_Fr_2 + x_T25_S9_Fr_2 + x_T28_S9_Fr_2 + x_T31_S9_Fr_2 + x_T32_S9_Fr_2 <= 1
+ capacity_S9_Fr_3: x_T2_S9_Fr_3 + x_T7_S9_Fr_3 + x_T11_S9_Fr_3 + x_T16_S9_Fr_3 + x_T19_S9_Fr_3 + x_T21_S9_Fr_3 + x_T25_S9_Fr_3 + x_T28_S9_Fr_3 + x_T31_S9_Fr_3 + x_T32_S9_Fr_3 <= 1
+ capacity_S9_Fr_4: x_T2_S9_Fr_4 + x_T7_S9_Fr_4 + x_T11_S9_Fr_4 + x_T16_S9_Fr_4 + x_T19_S9_Fr_4 + x_T21_S9_Fr_4 + x_T25_S9_Fr_4 + x_T28_S9_Fr_4 + x_T31_S9_Fr_4 + x_T32_S9_Fr_4 <= 1
+ capacity_S9_Fr_5: x_T2_S9_Fr_5 + x_T7_S9_Fr_5 + x_T11_S9_Fr_5 + x_T16_S9_Fr_5 + x_T19_S9_Fr_5 + x_T21_S9_Fr_5 + x_T25_S9_Fr_5 + x_T28_S9_Fr_5 + x_T31_S9_Fr_5 + x_T32_S9_Fr_5 <= 1
+ capacity_S19_Mo_1: x_T4_S19_Mo_1 + x_T9_S19_Mo_1 + x_T13_S19_Mo_1 + x_T15_S19_Mo_1 + x_T18_S19_Mo_1 + x_T22_S19_Mo_1 + x_T23_S19_Mo_1 + x_T26_S19_Mo_1 + x_T29_S19_Mo_1 + x_T32_S19_Mo_1 + x_T33_S19_Mo_1 <= 1
+ capacity_S19_Mo_2: x_T4_S19_Mo_2 + x_T9_S19_Mo_2 + x_T13_S19_Mo_2 + x_T15_S19_Mo_2 + x_T18_S19_Mo_2 + x_T22_S19_Mo_2 + x_T23_S19_Mo_2 + x_T26_S19_Mo_2 + x_T29_S19_Mo_2 + x_T32_S19_Mo_2 + x_T33_S19_Mo_2 <= 1
+ capacity_S19_Mo_3: x_T4_S19_Mo_3 + x_T9_S19_Mo_3 + x_T13_S19_Mo_3 + x_T15_S19_Mo_3 + x_T18_S19_Mo_3 + x_T22_S19_Mo_3 + x_T23_S19_Mo_3 + x_T26_S19_Mo_3 + x_T29_S19_Mo_3 + x_T32_S19_Mo_3 + x_T33_S19_Mo_3 <= 1
+ capacity_S19_Mo_4: x_T4_S19_Mo_4 + x_T9_S19_Mo_4 + x_T13_S19_Mo_4 + x_T15_S19_Mo_4 + x_T18_S19_Mo_4 + x_T22_S19_Mo_4 + x_T23_S19_Mo_4 + x_T26_S19_Mo_4 + x_T29_S19_Mo_4 + x_T32_S19_Mo_4 + x_T33_S19_Mo_4 <= 1
+ capacity_S19_Mo_5: x_T4_S19_Mo_5 + x_T9_S19_Mo_5 + x_T13_S19_Mo_5 + x_T15_S19_Mo_5 + x_T18_S19_Mo_5 + x_T22_S19_Mo_5 + x_T23_S19_Mo_5 + x_T26_S19_Mo_5 + x_T29_S19_Mo_5 + x_T32_S19_Mo_5 + x_T33_S19_Mo_5 <= 1
+ capacity_S19_Tu_1: x_T4_S19_Tu_1 + x_T9_S19_Tu_1 + x_T13_S19_Tu_1 + x_T15_S19_Tu_1 + x_T18_S19_Tu_1 + x_T22_S19_Tu_1 + x_T23_S19_Tu_1 + x_T26_S19_Tu_1 + x_T29_S19_Tu_1 + x_T32_S19_Tu_1 + x_T33_S19_Tu_1 <= 1
+ capacity_S19_Tu_2: x_T4_S19_Tu_2 + x_T9_S19_Tu_2 + x_T13_S19_Tu_2 + x_T15_S19_Tu_2 + x_T18_S19_Tu_2 + x_T22_S19_Tu_2 + x_T23_S19_Tu_2 + x_T26_S19_Tu_2 + x_T29_S19_Tu_2 + x_T32_S19_Tu_2 + x_T33_S19_Tu_2 <= 1
+ capacity_S19_Tu_3: x_T4_S19_Tu_3 + x_T9_S19_Tu_3 + x_T13_S19_Tu_3 + x_T15_S19_Tu_3 + x_T18_S19_Tu_3 + x_T22_S19_Tu_3 + x_T23_S19_Tu_3 + x_T26_S19_Tu_3 + x_T29_S19_Tu_3 + x_T32_S19_Tu_3 + x_T33_S19_Tu_3 <= 1
+ capacity_S19_Tu_4: x_T4_S19_Tu_4 + x_T9_S19_Tu_4 + x_T13_S19_Tu_4 + x_T15_S19_Tu_4 + x_T18_S19_Tu_4 + x_T22_S19_Tu_4 + x_T23_S19_Tu_4 + x_T26_S19_Tu_4 + x_T29_S19_Tu_4 + x_T32_S19_Tu_4 + x_T33_S19_Tu_4 <= 1
+ capacity_S19_Tu_5: x_T4_S19_Tu_5 + x_T9_S19_Tu_5 + x_T13_S19_Tu_5 + x_T15_S19_Tu_5 + x_T18_S19_Tu_5 + x_T22_S19_Tu_5 + x_T23_S19_Tu_5 + x_T26_S19_Tu_5 + x_T29_S19_Tu_5 + x_T32_S19_Tu_5 + x_T33_S19_Tu_5 <= 1
+ capacity_S19_We_1: x_T4_S19_We_1 + x_T9_S19_We_1 + x_T13_S19_We_1 + x_T15_S19_We_1 + x_T18_S19_We_1 + x_T22_S19_We_1 + x_T23_S19_We_1 + x_T26_S19_We_1 + x_T29_S19_We_1 + x_T32_S19_We_1 + x_T33_S19_We_1 <= 1
+ capacity_S19_We_2: x_T4_S19_We_2 + x_T9_S19_We_2 + x_T13_S19_We_2 + x_T15_S19_We_2 + x_T18_S19_We_2 + x_T22_S19_We_2 + x_T23_S19_We_2 + x_T26_S19_We_2 + x_T29_S19_We_2 + x_T32_S19_We_2 + x_T33_S19_We_2 <= 1
+ capacity_S19_We_3: x_T4_S19_We_3 + x_T9_S19_We_3 + x_T13_S19_We_3 + x_T15_S19_We_3 + x_T18_S19_We_3 + x_T22_S19_We_3 + x_T23_S19_We_3 + x_T26_S19_We_3 + x_T29_S19_We_3 + x_T32_S19_We_3 + x_T33_S19_We_3 <= 1
+ capacity_S19_We_4: x_T4_S19_We_4 + x_T9_S19_We_4 + x_T13_S19_We_4 + x_T15_S19_We_4 + x_T18_S19_We_4 + x_T22_S19_We_4 + x_T23_S19_We_4 + x_T26_S19_We_4 + x_T29_S19_We_4 + x_T32_S19_We_4 + x_T33_S19_We_4 <= 1
+ capacity_S19_We_5: x_T4_S19_We_5 + x_T9_S19_We_5 + x_T13_S19_We_5 + x_T15_S19_We_5 + x_T18_S19_We_5 + x_T22_S19_We_5 + x_T23_S19_We_5 + x_T26_S19_We_5 + x_T29_S19_We_5 + x_T32_S19_We_5 + x_T33_S19_We_5 <= 1
+ capacity_S19_Th_1: x_T4_S19_Th_1 + x_T9_S19_Th_1 + x_T13_S19_Th_1 + x_T15_S19_Th_1 + x_T18_S19_Th_1 + x_T22_S19_Th_1 + x_T23_S19_Th_1 + x_T26_S19_Th_1 + x_T29_S19_Th_1 + x_T32_S19_Th_1 + x_T33_S19_Th_1 <= 1
+ capacity_S19_Th_2: x_T4_S19_Th_2 + x_T9_S19_Th_2 + x_T13_S19_Th_2 + x_T15_S19_Th_2 + x_T18_S19_Th_2 + x_T22_S19_Th_2 + x_T23_S19_Th_2 + x_T26_S19_Th_2 + x_T29_S19_Th_2 + x_T32_S19_Th_2 + x_T33_S19_Th_2 <= 1
+ capacity_S19_Th_3: x_T4_S19_Th_3 + x_T9_S19_Th_3 + x_T13_S19_Th_3 + x_T15_S19_Th_3 + x_T18_S19_Th_3 + x_T22_S19_Th_3 + x_T23_S19_Th_3 + x_T26_S19_Th_3 + x_T29_S19_Th_3 + x_T32_S19_Th_3 + x_T33_S19_Th_3 <= 1
+ capacity_S19_Th_4: x_T4_S19_Th_4 + x_T9_S19_Th_4 + x_T13_S19_Th_4 + x_T15_S19_Th_4 + x_T18_S19_Th_4 + x_T22_S19_Th_4 + x_T23_S19_Th_4 + x_T26_S19_Th_4 + x_T29_S19_Th_4 + x_T32_S19_Th_4 + x_T33_S19_Th_4 <= 1
+ capacity_S19_Th_5: x_T4_S19_Th_5 + x_T9_S19_Th_5 + x_T13_S19_Th_5 + x_T15_S19_Th_5 + x_T18_S19_Th_5 + x_T22_S19_Th_5 + x_T23_S19_Th_5 + x_T26_S19_Th_5 + x_T29_S19_Th_5 + x_T32_S19_Th_5 + x_T33_S19_Th_5 <= 1
+ capacity_S19_Fr_1: x_T4_S19_Fr_1 + x_T9_S19_Fr_1 + x_T13_S19_Fr_1 + x_T15_S19_Fr_1 + x_T18_S19_Fr_1 + x_T22_S19_Fr_1 + x_T23_S19_Fr_1 + x_T26_S19_Fr_1 + x_T29_S19_Fr_1 + x_T32_S19_Fr_1 + x_T33_S19_Fr_1 <= 1
+ capacity_S19_Fr_2: x_T4_S19_Fr_2 + x_T9_S19_Fr_2 + x_T13_S19_Fr_2 + x_T15_S19_Fr_2 + x_T18_S19_Fr_2 + x_T22_S19_Fr_2 + x_T23_S19_Fr_2 + x_T26_S19_Fr_2 + x_T29_S19_Fr_2 + x_T32_S19_Fr_2 + x_T33_S19_Fr_2 <= 1
+ capacity_S19_Fr_3: x_T4_S19_Fr_3 + x_T9_S19_Fr_3 + x_T13_S19_Fr_3 + x_T15_S19_Fr_3 + x_T18_S19_Fr_3 + x_T22_S19_Fr_3 + x_T23_S19_Fr_3 + x_T26_S19_Fr_3 + x_T29_S19_Fr_3 + x_T32_S19_Fr_3 + x_T33_S19_Fr_3 <= 1
+ capacity_S19_Fr_4: x_T4_S19_Fr_4 + x_T9_S19_Fr_4 + x_T13_S19_Fr_4 + x_T15_S19_Fr_4 + x_T18_S19_Fr_4 + x_T22_S19_Fr_4 + x_T23_S19_Fr_4 + x_T26_S19_Fr_4 + x_T29_S19_Fr_4 + x_T32_S19_Fr_4 + x_T33_S19_Fr_4 <= 1
+ capacity_S19_Fr_5: x_T4_S19_Fr_5 + x_T9_S19_Fr_5 + x_T13_S19_Fr_5 + x_T15_S19_Fr_5 + x_T18_S19_Fr_5 + x_T22_S19_Fr_5 + x_T23_S19_Fr_5 + x_T26_S19_Fr_5 + x_T29_S19_Fr_5 + x_T32_S19_Fr_5 + x_T33_S19_Fr_5 <= 1
+ workload_T1_S1: x_T1_S1_Mo_1 + x_T1_S1_Mo_2 + x_T1_S1_Mo_3 + x_T1_S1_Mo_4 + x_T1_S1_Mo_5 + x_T1_S1_Tu_1 + x_T1_S1_Tu_2 + x_T1_S1_Tu_3 + x_T1_S1_Tu_4 + x_T1_S1_Tu_5 + x_T1_S1_We_1 + x_T1_S1_We_2 + x_T1_S1_We_3 + x_T1_S1_We_4 + x_T1_S1_We_5 + x_T1_S1_Th_1 + x_T1_S1_Th_2 + x_T1_S1_Th_3 + x_T1_S1_Th_4 + x_T1_S1_Th_5 + x_T1_S1_Fr_1 + x_T1_S1_Fr_2 + x_T1_S1_Fr_3 + x_T1_S1_Fr_4 + x_T1_S1_Fr_5 = 3
+ workload_T1_S2: x_T1_S2_Mo_1 + x_T1_S2_Mo_2 + x_T1_S2_Mo_3 + x_T1_S2_Mo_4 + x_T1_S2_Mo_5 + x_T1_S2_Tu_1 + x_T1_S2_Tu_2 + x_T1_S2_Tu_3 + x_T1_S2_Tu_4 + x_T1_S2_Tu_5 + x_T1_S2_We_1 + x_T1_S2_We_2 + x_T1_S2_We_3 + x_T1_S2_We_4 + x_T1_S2_We_5 + x_T1_S2_Th_1 + x_T1_S2_Th_2 + x_T1_S2_Th_3 + x_T1_S2_Th_4 + x_T1_S2_Th_5 + x_T1_S2_Fr_1 + x_T1_S2_Fr_2 + x_T1_S2_Fr_3 + x_T1_S2_Fr_4 + x_T1_S2_Fr_5 = 3
+ workload_T1_S3: x_T1_S3_Mo_1 + x_T1_S3_Mo_2 + x_T1_S3_Mo_3 + x_T1_S3_Mo_4 + x_T1_S3_Mo_5 + x_T1_S3_Tu_1 + x_T1_S3_Tu_2 + x_T1_S3_Tu_3 + x_T1_S3_Tu_4 + x_T1_S3_Tu_5 + x_T1_S3_We_1 + x_T1_S3_We_2 + x_T1_S3_We_3 + x_T1_S3_We_4 + x_T1_S3_We_5 + x_T1_S3_Th_1 + x_T1_S3_Th_2 + x_T1_S3_Th_3 + x_T1_S3_Th_4 + x_T1_S3_Th_5 + x_T1_S3_Fr_1 + x_T1_S3_Fr_2 + x_T1_S3_Fr_3 + x_T1_S3_Fr_4 + x_T1_S3_Fr_5 = 3
+ workload_T1_S4: x_T1_S4_Mo_1 + x_T1_S4_Mo_2 + x_T1_S4_Mo_3 + x_T1_S4_Mo_4 + x_T1_S4_Mo_5 + x_T1_S4_Tu_1 + x_T1_S4_Tu_2 + x_T1_S4_Tu_3 + x_T1_S4_Tu_4 + x_T1_S4_Tu_5 + x_T1_S4_We_1 + x_T1_S4_We_2 + x_T1_S4_We_3 + x_T1_S4_We_4 + x_T1_S4_We_5 + x_T1_S4_Th_1 + x_T1_S4_Th_2 + x_T1_S4_Th_3 + x_T1_S4_Th_4 + x_T1_S4_Th_5 + x_T1_S4_Fr_1 + x_T1_S4_Fr_2 + x_T1_S4_Fr_3 + x_T1_S4_Fr_4 + x_T1_S4_Fr_5 = 3
+ workload_T1_S16: x_T1_S16_Mo_1 + x_T1_S16_Mo_2 + x_T1_S16_Mo_3 + x_T1_S16_Mo_4 + x_T1_S16_Mo_5 + x_T1_S16_Tu_1 + x_T1_S16_Tu_2 + x_T1_S16_Tu_3 + x_T1_S16_Tu_4 + x_T1_S16_Tu_5 + x_T1_S16_We_1 + x_T1_S16_We_2 + x_T1_S16_We_3 + x_T1_S16_We_4 + x_T1_S16_We_5 + x_T1_S16_Th_1 + x_T1_S16_Th_2 + x_T1_S16_Th_3 + x_T1_S16_Th_4 + x_T1_S16_Th_5 + x_T1_S16_Fr_1 + x_T1_S16_Fr_2 + x_T1_S16_Fr_3 + x_T1_S16_Fr_4 + x_T1_S16_Fr_5 = 4
+ workload_T1_S17: x_T1_S17_Mo_1 + x_T1_S17_Mo_2 + x_T1_S17_Mo_3 + x_T1_S17_Mo_4 + x_T1_S17_Mo_5 + x_T1_S17_Tu_1 + x_T1_S17_Tu_2 + x_T1_S17_Tu_3 + x_T1_S17_Tu_4 + x_T1_S17_Tu_5 + x_T1_S17_We_1 + x_T1_S17_We_2 + x_T1_S17_We_3 + x_T1_S17_We_4 + x_T1_S17_We_5 + x_T1_S17_Th_1 + x_T1_S17_Th_2 + x_T1_S17_Th_3 + x_T1_S17_Th_4 + x_T1_S17_Th_5 + x_T1_S17_Fr_1 + x_T1_S17_Fr_2 + x_T1_S17_Fr_3 + x_T1_S17_Fr_4 + x_T1_S17_Fr_5 = 4
+ workload_T2_S7: x_T2_S7_Mo_1 + x_T2_S7_Mo_2 + x_T2_S7_Mo_3 + x_T2_S7_Mo_4 + x_T2_S7_Mo_5 + x_T2_S7_Tu_1 + x_T2_S7_Tu_2 + x_T2_S7_Tu_3 + x_T2_S7_Tu_4 + x_T2_S7_Tu_5 + x_T2_S7_We_1 + x_T2_S7_We_2 + x_T2_S7_We_3 + x_T2_S7_We_4 + x_T2_S7_We_5 + x_T2_S7_Th_1 + x_T2_S7_Th_2 + x_T2_S7_Th_3 + x_T2_S7_Th_4 + x_T2_S7_Th_5 + x_T2_S7_Fr_1 + x_T2_S7_Fr_2 + x_T2_S7_Fr_3 + x_T2_S7_Fr_4 + x_T2_S7_Fr_5 = 3
+ workload_T2_S8: x_T2_S8_Mo_1 + x_T2_S8_Mo_2 + x_T2_S8_Mo_3 + x_T2_S8_Mo_4 + x_T2_S8_Mo_5 + x_T2_S8_Tu_1 + x_T2_S8_Tu_2 + x_T2_S8_Tu_3 + x_T2_S8_Tu_4 + x_T2_S8_Tu_5 + x_T2_S8_We_1 + x_T2_S8_We_2 + x_T2_S8_We_3 + x_T2_S8_We_4 + x_T2_S8_We_5 + x_T2_S8_Th_1 + x_T2_S8_Th_2 + x_T2_S8_Th_3 + x_T2_S8_Th_4 + x_T2_S8_Th_5 + x_T2_S8_Fr_1 + x_T2_S8_Fr_2 + x_T2_S8_Fr_3 + x_T2_S8_Fr_4 + x_T2_S8_Fr_5 = 3
+ workload_T2_S9: x_T2_S9_Mo_1 + x_T2_S9_Mo_2 + x_T2_S9_Mo_3 + x_T2_S9_Mo_4 + x_T2_S9_Mo_5 + x_T2_S9_Tu_1 + x_T2_S9_Tu_2 + x_T2_S9_Tu_3 + x_T2_S9_Tu_4 + x_T2_S9_Tu_5 + x_T2_S9_We_1 + x_T2_S9_We_2 + x_T2_S9_We_3 + x_T2_S9_We_4 + x_T2_S9_We_5 + x_T2_S9_Th_1 + x_T2_S9_Th_2 + x_T2_S9_Th_3 + x_T2_S9_Th_4 + x_T2_S9_Th_5 + x_T2_S9_Fr_1 + x_T2_S9_Fr_2 + x_T2_S9_Fr_3 + x_T2_S9_Fr_4 + x_T2_S9_Fr_5 = 3
+ workload_T2_S10: x_T2_S10_Mo_1 + x_T2_S10_Mo_2 + x_T2_S10_Mo_3 + x_T2_S10_Mo_4 + x_T2_S10_Mo_5 + x_T2_S10_Tu_1 + x_T2_S10_Tu_2 + x_T2_S10_Tu_3 + x_T2_S10_Tu_4 + x_T2_S10_Tu_5 + x_T2_S10_We_1 + x_T2_S10_We_2 + x_T2_S10_We_3 + x_T2_S10_We_4 + x_T2_S10_We_5 + x_T2_S10_Th_1 + x_T2_S10_Th_2 + x_T2_S10_Th_3 + x_T2_S10_Th_4 + x_T2_S10_Th_5 + x_T2_S10_Fr_1 + x_T2_S10_Fr_2 + x_T2_S10_Fr_3 + x_T2_S10_Fr_4 + x_T2_S10_Fr_5 = 4
+ workload_T2_S11: x_T2_S11_Mo_1 + x_T2_S11_Mo_2 + x_T2_S11_Mo_3 + x_T2_S11_Mo_4 + x_T2_S11_Mo_5 + x_T2_S11_Tu_1 + x_T2_S11_Tu_2 + x_T2_S11_Tu_3 + x_T2_S11_Tu_4 + x_T2_S11_Tu_5 + x_T2_S11_We_1 + x_T2_S11_We_2 + x_T2_S11_We_3 + x_T2_S11_We_4 + x_T2_S11_We_5 + x_T2_S11_Th_1 + x_T2_S11_Th_2 + x_T2_S11_Th_3 + x_T2_S11_Th_4 + x_T2_S11_Th_5 + x_T2_S11_Fr_1 + x_T2_S11_Fr_2 + x_T2_S11_Fr_3 + x_T2_S11_Fr_4 + x_T2_S11_Fr_5 = 4
+ workload_T3_S12: x_T3_S12_Mo_1 + x_T3_S12_Mo_2 + x_T3_S12_Mo_3 + x_T3_S12_Mo_4 + x_T3_S12_Mo_5 + x_T3_S12_Tu_1 + x_T3_S12_Tu_2 + x_T3_S12_Tu_3 + x_T3_S12_Tu_4 + x_T3_S12_Tu_5 + x_T3_S12_We_1 + x_T3_S12_We_2 + x_T3_S12_We_3 + x_T3_S12_We_4 + x_T3_S12_We_5 + x_T3_S12_Th_1 + x_T3_S12_Th_2 + x_T3_S12_Th_3 + x_T3_S12_Th_4 + x_T3_S12_Th_5 + x_T3_S12_Fr_1 + x_T3_S12_Fr_2 + x_T3_S12_Fr_3 + x_T3_S12_Fr_4 + x_T3_S12_Fr_5 = 4
+ workload_T3_S13: x_T3_S13_Mo_1 + x_T3_S13_Mo_2 + x_T3_S13_Mo_3 + x_T3_S13_Mo_4 + x_T3_S13_Mo_5 + x_T3_S13_Tu_1 + x_T3_S13_Tu_2 + x_T3_S13_Tu_3 + x_T3_S13_Tu_4 + x_T3_S13_Tu_5 + x_T3_S13_We_1 + x_T3_S13_We_2 + x_T3_S13_We_3 + x_T3_S13_We_4 + x_T3_S13_We_5 + x_T3_S13_Th_1 + x_T3_S13_Th_2 + x_T3_S13_Th_3 + x_T3_S13_Th_4 + x_T3_S13_Th_5 + x_T3_S13_Fr_1 + x_T3_S13_Fr_2 + x_T3_S13_Fr_3 + x_T3_S13_Fr_4 + x_T3_S13_Fr_5 = 4
+ workload_T3_S14: x_T3_S14_Mo_1 + x_T3_S14_Mo_2 + x_T3_S14_Mo_3 + x_T3_S14_Mo_4 + x_T3_S14_Mo_5 + x_T3_S14_Tu_1 + x_T3_S14_Tu_2 + x_T3_S14_Tu_3 + x_T3_S14_Tu_4 + x_T3_S14_Tu_5 + x_T3_S14_We_1 + x_T3_S14_We_2 + x_T3_S14_We_3 + x_T3_S14_We_4 + x_T3_S14_We_5 + x_T3_S14_Th_1 + x_T3_S14_Th_2 + x_T3_S14_Th_3 + x_T3_S14_Th_4 + x_T3_S14_Th_5 + x_T3_S14_Fr_1 + x_T3_S14_Fr_2 + x_T3_S14_Fr_3 + x_T3_S14_Fr_4 + x_T3_S14_Fr_5 = 4
+ workload_T3_S15: x_T3_S15_Mo_1 + x_T3_S15_Mo_2 + x_T3_S15_Mo_3 + x_T3_S15_Mo_4 + x_T3_S15_Mo_5 + x_T3_S15_Tu_1 + x_T3_S15_Tu_2 + x_T3_S15_Tu_3 + x_T3_S15_Tu_4 + x_T3_S15_Tu_5 + x_T3_S15_We_1 + x_T3_S15_We_2 + x_T3_S15_We_3 + x_T3_S15_We_4 + x_T3_S15_We_5 + x_T3_S15_Th_1 + x_T3_S15_Th_2 + x_T3_S15_Th_3 + x_T3_S15_Th_4 + x_T3_S15_Th_5 + x_T3_S15_Fr_1 + x_T3_S15_Fr_2 + x_T3_S15_Fr_3 + x_T3_S15_Fr_4 + x_T3_S15_Fr_5 = 4
+ workload_T4_S5: x_T4_S5_Mo_1 + x_T4_S5_Mo_2 + x_T4_S5_Mo_3 + x_T4_S5_Mo_4 + x_T4_S5_Mo_5 + x_T4_S5_Tu_1 + x_T4_S5_Tu_2 + x_T4_S5_Tu_3 + x_T4_S5_Tu_4 + x_T4_S5_Tu_5 + x_T4_S5_We_1 + x_T4_S5_We_2 + x_T4_S5_We_3 + x_T4_S5_We_4 + x_T4_S5_We_5 + x_T4_S5_Th_1 + x_T4_S5_Th_2 + x_T4_S5_Th_3 + x_T4_S5_Th_4 + x_T4_S5_Th_5 + x_T4_S5_Fr_1 + x_T4_S5_Fr_2 + x_T4_S5_Fr_3 + x_T4_S5_Fr_4 + x_T4_S5_Fr_5 = 3
+ workload_T4_S6: x_T4_S6_Mo_1 + x_T4_S6_Mo_2 + x_T4_S6_Mo_3 + x_T4_S6_Mo_4 + x_T4_S6_Mo_5 + x_T4_S6_Tu_1 + x_T4_S6_Tu_2 + x_T4_S6_Tu_3 + x_T4_S6_Tu_4 + x_T4_S6_Tu_5 + x_T4_S6_We_1 + x_T4_S6_We_2 + x_T4_S6_We_3 + x_T4_S6_We_4 + x_T4_S6_We_5 + x_T4_S6_Th_1 + x_T4_S6_Th_2 + x_T4_S6_Th_3 + x_T4_S6_Th_4 + x_T4_S6_Th_5 + x_T4_S6_Fr_1 + x_T4_S6_Fr_2 + x_T4_S6_Fr_3 + x_T4_S6_Fr_4 + x_T4_S6_Fr_5 = 3
+ workload_T4_S18: x_T4_S18_Mo_1 + x_T4_S18_Mo_2 + x_T4_S18_Mo_3 + x_T4_S18_Mo_4 + x_T4_S18_Mo_5 + x_T4_S18_Tu_1 + x_T4_S18_Tu_2 + x_T4_S18_Tu_3 + x_T4_S18_Tu_4 + x_T4_S18_Tu_5 + x_T4_S18_We_1 + x_T4_S18_We_2 + x_T4_S18_We_3 + x_T4_S18_We_4 + x_T4_S18_We_5 + x_T4_S18_Th_1 + x_T4_S18_Th_2 + x_T4_S18_Th_3 + x_T4_S18_Th_4 + x_T4_S18_Th_5 + x_T4_S18_Fr_1 + x_T4_S18_Fr_2 + x_T4_S18_Fr_3 + x_T4_S18_Fr_4 + x_T4_S18_Fr_5 = 4
+ workload_T4_S19: x_T4_S19_Mo_1 + x_T4_S19_Mo_2 + x_T4_S19_Mo_3 + x_T4_S19_Mo_4 + x_T4_S19_Mo_5 + x_T4_S19_Tu_1 + x_T4_S19_Tu_2 + x_T4_S19_Tu_3 + x_T4_S19_Tu_4 + x_T4_S19_Tu_5 + x_T4_S19_We_1 + x_T4_S19_We_2 + x_T4_S19_We_3 + x_T4_S19_We_4 + x_T4_S19_We_5 + x_T4_S19_Th_1 + x_T4_S19_Th_2 + x_T4_S19_Th_3 + x_T4_S19_Th_4 + x_T4_S19_Th_5 + x_T4_S19_Fr_1 + x_T4_S19_Fr_2 + x_T4_S19_Fr_3 + x_T4_S19_Fr_4 + x_T4_S19_Fr_5 = 4
+ workload_T4_S20: x_T4_S20_Mo_1 + x_T4_S20_Mo_2 + x_T4_S20_Mo_3 + x_T4_S20_Mo_4 + x_T4_S20_Mo_5 + x_T4_S20_Tu_1 + x_T4_S20_Tu_2 + x_T4_S20_Tu_3 + x_T4_S20_Tu_4 + x_T4_S20_Tu_5 + x_T4_S20_We_1 + x_T4_S20_We_2 + x_T4_S20_We_3 + x_T4_S20_We_4 + x_T4_S20_We_5 + x_T4_S20_Th_1 + x_T4_S20_Th_2 + x_T4_S20_Th_3 + x_T4_S20_Th_4 + x_T4_S20_Th_5 + x_T4_S20_Fr_1 + x_T4_S20_Fr_2 + x_T4_S20_Fr_3 + x_T4_S20_Fr_4 + x_T4_S20_Fr_5 = 4
+ workload_T5_S1: x_T5_S1_Mo_1 + x_T5_S1_Mo_2 + x_T5_S1_Mo_3 + x_T5_S1_Mo_4 + x_T5_S1_Mo_5 + x_T5_S1_Tu_1 + x_T5_S1_Tu_2 + x_T5_S1_Tu_3 + x_T5_S1_Tu_4 + x_T5_S1_Tu_5 + x_T5_S1_We_1 + x_T5_S1_We_2 + x_T5_S1_We_3 + x_T5_S1_We_4 + x_T5_S1_We_5 + x_T5_S1_Th_1 + x_T5_S1_Th_2 + x_T5_S1_Th_3 + x_T5_S1_Th_4 + x_T5_S1_Th_5 + x_T5_S1_Fr_1 + x_T5_S1_Fr_2 + x_T5_S1_Fr_3 + x_T5_S1_Fr_4 + x_T5_S1_Fr_5 = 4
+ workload_T5_S2: x_T5_S2_Mo_1 + x_T5_S2_Mo_2 + x_T5_S2_Mo_3 + x_T5_S2_Mo_4 + x_T5_S2_Mo_5 + x_T5_S2_Tu_1 + x_T5_S2_Tu_2 + x_T5_S2_Tu_3 + x_T5_S2_Tu_4 + x_T5_S2_Tu_5 + x_T5_S2_We_1 + x_T5_S2_We_2 + x_T5_S2_We_3 + x_T5_S2_We_4 + x_T5_S2_We_5 + x_T5_S2_Th_1 + x_T5_S2_Th_2 + x_T5_S2_Th_3 + x_T5_S2_Th_4 + x_T5_S2_Th_5 + x_T5_S2_Fr_1 + x_T5_S2_Fr_2 + x_T5_S2_Fr_3 + x_T5_S2_Fr_4 + x_T5_S2_Fr_5 = 4
+ workload_T5_S3: x_T5_S3_Mo_1 + x_T5_S3_Mo_2 + x_T5_S3_Mo_3 + x_T5_S3_Mo_4 + x_T5_S3_Mo_5 + x_T5_S3_Tu_1 + x_T5_S3_Tu_2 + x_T5_S3_Tu_3 + x_T5_S3_Tu_4 + x_T5_S3_Tu_5 + x_T5_S3_We_1 + x_T5_S3_We_2 + x_T5_S3_We_3 + x_T5_S3_We_4 + x_T5_S3_We_5 + x_T5_S3_Th_1 + x_T5_S3_Th_2 + x_T5_S3_Th_3 + x_T5_S3_Th_4 + x_T5_S3_Th_5 + x_T5_S3_Fr_1 + x_T5_S3_Fr_2 + x_T5_S3_Fr_3 + x_T5_S3_Fr_4 + x_T5_S3_Fr_5 = 4
+ workload_T5_S4: x_T5_S4_Mo_1 + x_T5_S4_Mo_2 + x_T5_S4_Mo_3 + x_T5_S4_Mo_4 + x_T5_S4_Mo_5 + x_T5_S4_Tu_1 + x_T5_S4_Tu_2 + x_T5_S4_Tu_3 + x_T5_S4_Tu_4 + x_T5_S4_Tu_5 + x_T5_S4_We_1 + x_T5_S4_We_2 + x_T5_S4_We_3 + x_T5_S4_We_4 + x_T5_S4_We_5 + x_T5_S4_Th_1 + x_T5_S4_Th_2 + x_T5_S4_Th_3 + x_T5_S4_Th_4 + x_T5_S4_Th_5 + x_T5_S4_Fr_1 + x_T5_S4_Fr_2 + x_T5_S4_Fr_3 + x_T5_S4_Fr_4 + x_T5_S4_Fr_5 = 4
+ workload_T5_S14: x_T5_S14_Mo_1 + x_T5_S14_Mo_2 + x_T5_S14_Mo_3 + x_T5_S14_Mo_4 + x_T5_S14_Mo_5 + x_T5_S14_Tu_1 + x_T5_S14_Tu_2 + x_T5_S14_Tu_3 + x_T5_S14_Tu_4 + x_T5_S14_Tu_5 + x_T5_S14_We_1 + x_T5_S14_We_2 + x_T5_S14_We_3 + x_T5_S14_We_4 + x_T5_S14_We_5 + x_T5_S14_Th_1 + x_T5_S14_Th_2 + x_T5_S14_Th_3 + x_T5_S14_Th_4 + x_T5_S14_Th_5 + x_T5_S14_Fr_1 + x_T5_S14_Fr_2 + x_T5_S14_Fr_3 + x_T5_S14_Fr_4 + x_T5_S14_Fr_5 = 1
+ workload_T6_S5: x_T6_S5_Mo_1 + x_T6_S5_Mo_2 + x_T6_S5_Mo_3 + x_T6_S5_Mo_4 + x_T6_S5_Mo_5 + x_T6_S5_Tu_1 + x_T6_S5_Tu_2 + x_T6_S5_Tu_3 + x_T6_S5_Tu_4 + x_T6_S5_Tu_5 + x_T6_S5_We_1 + x_T6_S5_We_2 + x_T6_S5_We_3 + x_T6_S5_We_4 + x_T6_S5_We_5 + x_T6_S5_Th_1 + x_T6_S5_Th_2 + x_T6_S5_Th_3 + x_T6_S5_Th_4 + x_T6_S5_Th_5 + x_T6_S5_Fr_1 + x_T6_S5_Fr_2 + x_T6_S5_Fr_3 + x_T6_S5_Fr_4 + x_T6_S5_Fr_5 = 4
+ workload_T6_S6: x_T6_S6_Mo_1 + x_T6_S6_Mo_2 + x_T6_S6_Mo_3 + x_T6_S6_Mo_4 + x_T6_S6_Mo_5 + x_T6_S6_Tu_1 + x_T6_S6_Tu_2 + x_T6_S6_Tu_3 + x_T6_S6_Tu_4 + x_T6_S6_Tu_5 + x_T6_S6_We_1 + x_T6_S6_We_2 + x_T6_S6_We_3 + x_T6_S6_We_4 + x_T6_S6_We_5 + x_T6_S6_Th_1 + x_T6_S6_Th_2 + x_T6_S6_Th_3 + x_T6_S6_Th_4 + x_T6_S6_Th_5 + x_T6_S6_Fr_1 + x_T6_S6_Fr_2 + x_T6_S6_Fr_3 + x_T6_S6_Fr_4 + x_T6_S6_Fr_5 = 4
+ workload_T6_S7: x_T6_S7_Mo_1 + x_T6_S7_Mo_2 + x_T6_S7_Mo_3 + x_T6_S7_Mo_4 + x_T6_S7_Mo_5 + x_T6_S7_Tu_1 + x_T6_S7_Tu_2 + x_T6_S7_Tu_3 + x_T6_S7_Tu_4 + x_T6_S7_Tu_5 + x_T6_S7_We_1 + x_T6_S7_We_2 + x_T6_S7_We_3 + x_T6_S7_We_4 + x_T6_S7_We_5 + x_T6_S7_Th_1 + x_T6_S7_Th_2 + x_T6_S7_Th_3 + x_T6_S7_Th_4 + x_T6_S7_Th_5 + x_T6_S7_Fr_1 + x_T6_S7_Fr_2 + x_T6_S7_Fr_3 + x_T6_S7_Fr_4 + x_T6_S7_Fr_5 = 4
+ workload_T6_S8: x_T6_S8_Mo_1 + x_T6_S8_Mo_2 + x_T6_S8_Mo_3 + x_T6_S8_Mo_4 + x_T6_S8_Mo_5 + x_T6_S8_Tu_1 + x_T6_S8_Tu_2 + x_T6_S8_Tu_3 + x_T6_S8_Tu_4 + x_T6_S8_Tu_5 + x_T6_S8_We_1 + x_T6_S8_We_2 + x_T6_S8_We_3 + x_T6_S8_We_4 + x_T6_S8_We_5 + x_T6_S8_Th_1 + x_T6_S8_Th_2 + x_T6_S8_Th_3 + x_T6_S8_Th_4 + x_T6_S8_Th_5 + x_T6_S8_Fr_1 + x_T6_S8_Fr_2 + x_T6_S8_Fr_3 + x_T6_S8_Fr_4 + x_T6_S8_Fr_5 = 4
+ workload_T6_S10: x_T6_S10_Mo_1 + x_T6_S10_Mo_2 + x_T6_S10_Mo_3 + x_T6_S10_Mo_4 + x_T6_S10_Mo_5 + x_T6_S10_Tu_1 + x_T6_S10_Tu_2 + x_T6_S10_Tu_3 + x_T6_S10_Tu_4 + x_T6_S10_Tu_5 + x_T6_S10_We_1 + x_T6_S10_We_2 + x_T6_S10_We_3 + x_T6_S10_We_4 + x_T6_S10_We_5 + x_T6_S10_Th_1 + x_T6_S10_Th_2 + x_T6_S10_Th_3 + x_T6_S10_Th_4 + x_T6_S10_Th_5 + x_T6_S10_Fr_1 + x_T6_S10_Fr_2 + x_T6_S10_Fr_3 + x_T6_S10_Fr_4 + x_T6_S10_Fr_5 = 1
+ workload_T6_S12: x_T6_S12_Mo_1 + x_T6_S12_Mo_2 + x_T6_S12_Mo_3 + x_T6_S12_Mo_4 + x_T6_S12_Mo_5 + x_T6_S12_Tu_1 + x_T6_S12_Tu_2 + x_T6_S12_Tu_3 + x_T6_S12_Tu_4 + x_T6_S12_Tu_5 + x_T6_S12_We_1 + x_T6_S12_We_2 + x_T6_S12_We_3 + x_T6_S12_We_4 + x_T6_S12_We_5 + x_T6_S12_Th_1 + x_T6_S12_Th_2 + x_T6_S12_Th_3 + x_T6_S12_Th_4 + x_T6_S12_Th_5 + x_T6_S12_Fr_1 + x_T6_S12_Fr_2 + x_T6_S12_Fr_3 + x_T6_S12_Fr_4 + x_T6_S12_Fr_5 = 1
+ workload_T7_S9: x_T7_S9_Mo_1 + x_T7_S9_Mo_2 + x_T7_S9_Mo_3 + x_T7_S9_Mo_4 + x_T7_S9_Mo_5 + x_T7_S9_Tu_1 + x_T7_S9_Tu_2 + x_T7_S9_Tu_3 + x_T7_S9_Tu_4 + x_T7_S9_Tu_5 + x_T7_S9_We_1 + x_T7_S9_We_2 + x_T7_S9_We_3 + x_T7_S9_We_4 + x_T7_S9_We_5 + x_T7_S9_Th_1 + x_T7_S9_Th_2 + x_T7_S9_Th_3 + x_T7_S9_Th_4 + x_T7_S9_Th_5 + x_T7_S9_Fr_1 + x_T7_S9_Fr_2 + x_T7_S9_Fr_3 + x_T7_S9_Fr_4 + x_T7_S9_Fr_5 = 4
+ workload_T7_S10: x_T7_S10_Mo_1 + x_T7_S10_Mo_2 + x_T7_S10_Mo_3 + x_T7_S10_Mo_4 + x_T7_S10_Mo_5 + x_T7_S10_Tu_1 + x_T7_S10_Tu_2 + x_T7_S10_Tu_3 + x_T7_S10_Tu_4 + x_T7_S10_Tu_5 + x_T7_S10_We_1 + x_T7_S10_We_2 + x_T7_S10_We_3 + x_T7_S10_We_4 + x_T7_S10_We_5 + x_T7_S10_Th_1 + x_T7_S10_Th_2 + x_T7_S10_Th_3 + x_T7_S10_Th_4 + x_T7_S10_Th_5 + x_T7_S10_Fr_1 + x_T7_S10_Fr_2 + x_T7_S10_Fr_3 + x_T7_S10_Fr_4 + x_T7_S10_Fr_5 = 4
+ workload_T7_S11: x_T7_S11_Mo_1 + x_T7_S11_Mo_2 + x_T7_S11_Mo_3 + x_T7_S11_Mo_4 + x_T7_S11_Mo_5 + x_T7_S11_Tu_1 + x_T7_S11_Tu_2 + x_T7_S11_Tu_3 + x_T7_S11_Tu_4 + x_T7_S11_Tu_5 + x_T7_S11_We_1 + x_T7_S11_We_2 + x_T7_S11_We_3 + x_T7_S11_We_4 + x_T7_S11_We_5 + x_T7_S11_Th_1 + x_T7_S11_Th_2 + x_T7_S11_Th_3 + x_T7_S11_Th_4 + x_T7_S11_Th_5 + x_T7_S11_Fr_1 + x_T7_S11_Fr_2 + x_T7_S11_Fr_3 + x_T7_S11_Fr_4 + x_T7_S11_Fr_5 = 4
+ workload_T7_S12: x_T7_S12_Mo_1 + x_T7_S12_Mo_2 + x_T7_S12_Mo_3 + x_T7_S12_Mo_4 + x_T7_S12_Mo_5 + x_T7_S12_Tu_1 + x_T7_S12_Tu_2 + x_T7_S12_Tu_3 + x_T7_S12_Tu_4 + x_T7_S12_Tu_5 + x_T7_S12_We_1 + x_T7_S12_We_2 + x_T7_S12_We_3 + x_T7_S12_We_4 + x_T7_S12_We_5 + x_T7_S12_Th_1 + x_T7_S12_Th_2 + x_T7_S12_Th_3 + x_T7_S12_Th_4 + x_T7_S12_Th_5 + x_T7_S12_Fr_1 + x_T7_S12_Fr_2 + x_T7_S12_Fr_3 + x_T7_S12_Fr_4 + x_T7_S12_Fr_5 = 4
+ workload_T7_S13: x_T7_S13_Mo_1 + x_T7_S13_Mo_2 + x_T7_S13_Mo_3 + x_T7_S13_Mo_4 + x_T7_S13_Mo_5 + x_T7_S13_Tu_1 + x_T7_S13_Tu_2 + x_T7_S13_Tu_3 + x_T7_S13_Tu_4 + x_T7_S13_Tu_5 + x_T7_S13_We_1 + x_T7_S13_We_2 + x_T7_S13_We_3 + x_T7_S13_We_4 + x_T7_S13_We_5 + x_T7_S13_Th_1 + x_T7_S13_Th_2 + x_T7_S13_Th_3 + x_T7_S13_Th_4 + x_T7_S13_Th_5 + x_T7_S13_Fr_1 + x_T7_S13_Fr_2 + x_T7_S13_Fr_3 + x_T7_S13_Fr_4 + x_T7_S13_Fr_5 = 1
+ workload_T8_S11: x_T8_S11_Mo_1 + x_T8_S11_Mo_2 + x_T8_S11_Mo_3 + x_T8_S11_Mo_4 + x_T8_S11_Mo_5 + x_T8_S11_Tu_1 + x_T8_S11_Tu_2 + x_T8_S11_Tu_3 + x_T8_S11_Tu_4 + x_T8_S11_Tu_5 + x_T8_S11_We_1 + x_T8_S11_We_2 + x_T8_S11_We_3 + x_T8_S11_We_4 + x_T8_S11_We_5 + x_T8_S11_Th_1 + x_T8_S11_Th_2 + x_T8_S11_Th_3 + x_T8_S11_Th_4 + x_T8_S11_Th_5 + x_T8_S11_Fr_1 + x_T8_S11_Fr_2 + x_T8_S11_Fr_3 + x_T8_S11_Fr_4 + x_T8_S11_Fr_5 = 1
+ workload_T8_S13: x_T8_S13_Mo_1 + x_T8_S13_Mo_2 + x_T8_S13_Mo_3 + x_T8_S13_Mo_4 + x_T8_S13_Mo_5 + x_T8_S13_Tu_1 + x_T8_S13_Tu_2 + x_T8_S13_Tu_3 + x_T8_S13_Tu_4 + x_T8_S13_Tu_5 + x_T8_S13_We_1 + x_T8_S13_We_2 + x_T8_S13_We_3 + x_T8_S13_We_4 + x_T8_S13_We_5 + x_T8_S13_Th_1 + x_T8_S13_Th_2 + x_T8_S13_Th_3 + x_T8_S13_Th_4 + x_T8_S13_Th_5 + x_T8_S13_Fr_1 + x_T8_S13_Fr_2 + x_T8_S13_Fr_3 + x_T8_S13_Fr_4 + x_T8_S13_Fr_5 = 4
+ workload_T8_S14: x_T8_S14_Mo_1 + x_T8_S14_Mo_2 + x_T8_S14_Mo_3 + x_T8_S14_Mo_4 + x_T8_S14_Mo_5 + x_T8_S14_Tu_1 + x_T8_S14_Tu_2 + x_T8_S14_Tu_3 + x_T8_S14_Tu_4 + x_T8_S14_Tu_5 + x_T8_S14_We_1 + x_T8_S14_We_2 + x_T8_S14_We_3 + x_T8_S14_We_4 + x_T8_S14_We_5 + x_T8_S14_Th_1 + x_T8_S14_Th_2 + x_T8_S14_Th_3 + x_T8_S14_Th_4 + x_T8_S14_Th_5 + x_T8_S14_Fr_1 + x_T8_S14_Fr_2 + x_T8_S14_Fr_3 + x_T8_S14_Fr_4 + x_T8_S14_Fr_5 = 4
+ workload_T8_S15: x_T8_S15_Mo_1 + x_T8_S15_Mo_2 + x_T8_S15_Mo_3 + x_T8_S15_Mo_4 + x_T8_S15_Mo_5 + x_T8_S15_Tu_1 + x_T8_S15_Tu_2 + x_T8_S15_Tu_3 + x_T8_S15_Tu_4 + x_T8_S15_Tu_5 + x_T8_S15_We_1 + x_T8_S15_We_2 + x_T8_S15_We_3 + x_T8_S15_We_4 + x_T8_S15_We_5 + x_T8_S15_Th_1 + x_T8_S15_Th_2 + x_T8_S15_Th_3 + x_T8_S15_Th_4 + x_T8_S15_Th_5 + x_T8_S15_Fr_1 + x_T8_S15_Fr_2 + x_T8_S15_Fr_3 + x_T8_S15_Fr_4 + x_T8_S15_Fr_5 = 4
+ workload_T8_S16: x_T8_S16_Mo_1 + x_T8_S16_Mo_2 + x_T8_S16_Mo_3 + x_T8_S16_Mo_4 + x_T8_S16_Mo_5 + x_T8_S16_Tu_1 + x_T8_S16_Tu_2 + x_T8_S16_Tu_3 + x_T8_S16_Tu_4 + x_T8_S16_Tu_5 + x_T8_S16_We_1 + x_T8_S16_We_2 + x_T8_S16_We_3 + x_T8_S16_We_4 + x_T8_S16_We_5 + x_T8_S16_Th_1 + x_T8_S16_Th_2 + x_T8_S16_Th_3 + x_T8_S16_Th_4 + x_T8_S16_Th_5 + x_T8_S16_Fr_1 + x_T8_S16_Fr_2 + x_T8_S16_Fr_3 + x_T8_S16_Fr_4 + x_T8_S16_Fr_5 = 4
+ workload_T9_S15: x_T9_S15_Mo_1 + x_T9_S15_Mo_2 + x_T9_S15_Mo_3 + x_T9_S15_Mo_4 + x_T9_S15_Mo_5 + x_T9_S15_Tu_1 + x_T9_S15_Tu_2 + x_T9_S15_Tu_3 + x_T9_S15_Tu_4 + x_T9_S15_Tu_5 + x_T9_S15_We_1 + x_T9_S15_We_2 + x_T9_S15_We_3 + x_T9_S15_We_4 + x_T9_S15_We_5 + x_T9_S15_Th_1 + x_T9_S15_Th_2 + x_T9_S15_Th_3 + x_T9_S15_Th_4 + x_T9_S15_Th_5 + x_T9_S15_Fr_1 + x_T9_S15_Fr_2 + x_T9_S15_Fr_3 + x_T9_S15_Fr_4 + x_T9_S15_Fr_5 = 1
+ workload_T9_S17: x_T9_S17_Mo_1 + x_T9_S17_Mo_2 + x_T9_S17_Mo_3 + x_T9_S17_Mo_4 + x_T9_S17_Mo_5 + x_T9_S17_Tu_1 + x_T9_S17_Tu_2 + x_T9_S17_Tu_3 + x_T9_S17_Tu_4 + x_T9_S17_Tu_5 + x_T9_S17_We_1 + x_T9_S17_We_2 + x_T9_S17_We_3 + x_T9_S17_We_4 + x_T9_S17_We_5 + x_T9_S17_Th_1 + x_T9_S17_Th_2 + x_T9_S17_Th_3 + x_T9_S17_Th_4 + x_T9_S17_Th_5 + x_T9_S17_Fr_1 + x_T9_S17_Fr_2 + x_T9_S17_Fr_3 + x_T9_S17_Fr_4 + x_T9_S17_Fr_5 = 4
+ workload_T9_S18: x_T9_S18_Mo_1 + x_T9_S18_Mo_2 + x_T9_S18_Mo_3 + x_T9_S18_Mo_4 + x_T9_S18_Mo_5 + x_T9_S18_Tu_1 + x_T9_S18_Tu_2 + x_T9_S18_Tu_3 + x_T9_S18_Tu_4 + x_T9_S18_Tu_5 + x_T9_S18_We_1 + x_T9_S18_We_2 + x_T9_S18_We_3 + x_T9_S18_We_4 + x_T9_S18_We_5 + x_T9_S18_Th_1 + x_T9_S18_Th_2 + x_T9_S18_Th_3 + x_T9_S18_Th_4 + x_T9_S18_Th_5 + x_T9_S18_Fr_1 + x_T9_S18_Fr_2 + x_T9_S18_Fr_3 + x_T9_S18_Fr_4 + x_T9_S18_Fr_5 = 4
+ workload_T9_S19: x_T9_S19_Mo_1 + x_T9_S19_Mo_2 + x_T9_S19_Mo_3 + x_T9_S19_Mo_4 + x_T9_S19_Mo_5 + x_T9_S19_Tu_1 + x_T9_S19_Tu_2 + x_T9_S19_Tu_3 + x_T9_S19_Tu_4 + x_T9_S19_Tu_5 + x_T9_S19_We_1 + x_T9_S19_We_2 + x_T9_S19_We_3 + x_T9_S19_We_4 + x_T9_S19_We_5 + x_T9_S19_Th_1 + x_T9_S19_Th_2 + x_T9_S19_Th_3 + x_T9_S19_Th_4 + x_T9_S19_Th_5 + x_T9_S19_Fr_1 + x_T9_S19_Fr_2 + x_T9_S19_Fr_3 + x_T9_S19_Fr_4 + x_T9_S19_Fr_5 = 4
+ workload_T9_S20: x_T9_S20_Mo_1 + x_T9_S20_Mo_2 + x_T9_S20_Mo_3 + x_T9_S20_Mo_4 + x_T9_S20_Mo_5 + x_T9_S20_Tu_1 + x_T9_S20_Tu_2 + x_T9_S20_Tu_3 + x_T9_S20_Tu_4 + x_T9_S20_Tu_5 + x_T9_S20_We_1 + x_T9_S20_We_2 + x_T9_S20_We_3 + x_T9_S20_We_4 + x_T9_S20_We_5 + x_T9_S20_Th_1 + x_T9_S20_Th_2 + x_T9_S20_Th_3 + x_T9_S20_Th_4 + x_T9_S20_Th_5 + x_T9_S20_Fr_1 + x_T9_S20_Fr_2 + x_T9_S20_Fr_3 + x_T9_S20_Fr_4 + x_T9_S20_Fr_5 = 4
+ workload_T10_S1: x_T10_S1_Mo_1 + x_T10_S1_Mo_2 + x_T10_S1_Mo_3 + x_T10_S1_Mo_4 + x_T10_S1_Mo_5 + x_T10_S1_Tu_1 + x_T10_S1_Tu_2 + x_T10_S1_Tu_3 + x_T10_S1_Tu_4 + x_T10_S1_Tu_5 + x_T10_S1_We_1 + x_T10_S1_We_2 + x_T10_S1_We_3 + x_T10_S1_We_4 + x_T10_S1_We_5 + x_T10_S1_Th_1 + x_T10_S1_Th_2 + x_T10_S1_Th_3 + x_T10_S1_Th_4 + x_T10_S1_Th_5 + x_T10_S1_Fr_1 + x_T10_S1_Fr_2 + x_T10_S1_Fr_3 + x_T10_S1_Fr_4 + x_T10_S1_Fr_5 = 3
+ workload_T10_S2: x_T10_S2_Mo_1 + x_T10_S2_Mo_2 + x_T10_S2_Mo_3 + x_T10_S2_Mo_4 + x_T10_S2_Mo_5 + x_T10_S2_Tu_1 + x_T10_S2_Tu_2 + x_T10_S2_Tu_3 + x_T10_S2_Tu_4 + x_T10_S2_Tu_5 + x_T10_S2_We_1 + x_T10_S2_We_2 + x_T10_S2_We_3 + x_T10_S2_We_4 + x_T10_S2_We_5 + x_T10_S2_Th_1 + x_T10_S2_Th_2 + x_T10_S2_Th_3 + x_T10_S2_Th_4 + x_T10_S2_Th_5 + x_T10_S2_Fr_1 + x_T10_S2_Fr_2 + x_T10_S2_Fr_3 + x_T10_S2_Fr_4 + x_T10_S2_Fr_5 = 3
+ workload_T10_S3: x_T10_S3_Mo_1 + x_T10_S3_Mo_2 + x_T10_S3_Mo_3 + x_T10_S3_Mo_4 + x_T10_S3_Mo_5 + x_T10_S3_Tu_1 + x_T10_S3_Tu_2 + x_T10_S3_Tu_3 + x_T10_S3_Tu_4 + x_T10_S3_Tu_5 + x_T10_S3_We_1 + x_T10_S3_We_2 + x_T10_S3_We_3 + x_T10_S3_We_4 + x_T10_S3_We_5 + x_T10_S3_Th_1 + x_T10_S3_Th_2 + x_T10_S3_Th_3 + x_T10_S3_Th_4 + x_T10_S3_Th_5 + x_T10_S3_Fr_1 + x_T10_S3_Fr_2 + x_T10_S3_Fr_3 + x_T10_S3_Fr_4 + x_T10_S3_Fr_5 = 3
+ workload_T10_S4: x_T10_S4_Mo_1 + x_T10_S4_Mo_2 + x_T10_S4_Mo_3 + x_T10_S4_Mo_4 + x_T10_S4_Mo_5 + x_T10_S4_Tu_1 + x_T10_S4_Tu_2 + x_T10_S4_Tu_3 + x_T10_S4_Tu_4 + x_T10_S4_Tu_5 + x_T10_S4_We_1 + x_T10_S4_We_2 + x_T10_S4_We_3 + x_T10_S4_We_4 + x_T10_S4_We_5 + x_T10_S4_Th_1 + x_T10_S4_Th_2 + x_T10_S4_Th_3 + x_T10_S4_Th_4 + x_T10_S4_Th_5 + x_T10_S4_Fr_1 + x_T10_S4_Fr_2 + x_T10_S4_Fr_3 + x_T10_S4_Fr_4 + x_T10_S4_Fr_5 = 3
+ workload_T10_S5: x_T10_S5_Mo_1 + x_T10_S5_Mo_2 + x_T10_S5_Mo_3 + x_T10_S5_Mo_4 + x_T10_S5_Mo_5 + x_T10_S5_Tu_1 + x_T10_S5_Tu_2 + x_T10_S5_Tu_3 + x_T10_S5_Tu_4 + x_T10_S5_Tu_5 + x_T10_S5_We_1 + x_T10_S5_We_2 + x_T10_S5_We_3 + x_T10_S5_We_4 + x_T10_S5_We_5 + x_T10_S5_Th_1 + x_T10_S5_Th_2 + x_T10_S5_Th_3 + x_T10_S5_Th_4 + x_T10_S5_Th_5 + x_T10_S5_Fr_1 + x_T10_S5_Fr_2 + x_T10_S5_Fr_3 + x_T10_S5_Fr_4 + x_T10_S5_Fr_5 = 3
+ workload_T11_S6: x_T11_S6_Mo_1 + x_T11_S6_Mo_2 + x_T11_S6_Mo_3 + x_T11_S6_Mo_4 + x_T11_S6_Mo_5 + x_T11_S6_Tu_1 + x_T11_S6_Tu_2 + x_T11_S6_Tu_3 + x_T11_S6_Tu_4 + x_T11_S6_Tu_5 + x_T11_S6_We_1 + x_T11_S6_We_2 + x_T11_S6_We_3 + x_T11_S6_We_4 + x_T11_S6_We_5 + x_T11_S6_Th_1 + x_T11_S6_Th_2 + x_T11_S6_Th_3 + x_T11_S6_Th_4 + x_T11_S6_Th_5 + x_T11_S6_Fr_1 + x_T11_S6_Fr_2 + x_T11_S6_Fr_3 + x_T11_S6_Fr_4 + x_T11_S6_Fr_5 = 3
+ workload_T11_S7: x_T11_S7_Mo_1 + x_T11_S7_Mo_2 + x_T11_S7_Mo_3 + x_T11_S7_Mo_4 + x_T11_S7_Mo_5 + x_T11_S7_Tu_1 + x_T11_S7_Tu_2 + x_T11_S7_Tu_3 + x_T11_S7_Tu_4 + x_T11_S7_Tu_5 + x_T11_S7_We_1 + x_T11_S7_We_2 + x_T11_S7_We_3 + x_T11_S7_We_4 + x_T11_S7_We_5 + x_T11_S7_Th_1 + x_T11_S7_Th_2 + x_T11_S7_Th_3 + x_T11_S7_Th_4 + x_T11_S7_Th_5 + x_T11_S7_Fr_1 + x_T11_S7_Fr_2 + x_T11_S7_Fr_3 + x_T11_S7_Fr_4 + x_T11_S7_Fr_5 = 3
+ workload_T11_S8: x_T11_S8_Mo_1 + x_T11_S8_Mo_2 + x_T11_S8_Mo_3 + x_T11_S8_Mo_4 + x_T11_S8_Mo_5 + x_T11_S8_Tu_1 + x_T11_S8_Tu_2 + x_T11_S8_Tu_3 + x_T11_S8_Tu_4 + x_T11_S8_Tu_5 + x_T11_S8_We_1 + x_T11_S8_We_2 + x_T11_S8_We_3 + x_T11_S8_We_4 + x_T11_S8_We_5 + x_T11_S8_Th_1 + x_T11_S8_Th_2 + x_T11_S8_Th_3 + x_T11_S8_Th_4 + x_T11_S8_Th_5 + x_T11_S8_Fr_1 + x_T11_S8_Fr_2 + x_T11_S8_Fr_3 + x_T11_S8_Fr_4 + x_T11_S8_Fr_5 = 3
+ workload_T11_S9: x_T11_S9_Mo_1 + x_T11_S9_Mo_2 + x_T11_S9_Mo_3 + x_T11_S9_Mo_4 + x_T11_S9_Mo_5 + x_T11_S9_Tu_1 + x_T11_S9_Tu_2 + x_T11_S9_Tu_3 + x_T11_S9_Tu_4 + x_T11_S9_Tu_5 + x_T11_S9_We_1 + x_T11_S9_We_2 + x_T11_S9_We_3 + x_T11_S9_We_4 + x_T11_S9_We_5 + x_T11_S9_Th_1 + x_T11_S9_Th_2 + x_T11_S9_Th_3 + x_T11_S9_Th_4 + x_T11_S9_Th_5 + x_T11_S9_Fr_1 + x_T11_S9_Fr_2 + x_T11_S9_Fr_3 + x_T11_S9_Fr_4 + x_T11_S9_Fr_5 = 3
+ workload_T11_S10: x_T11_S10_Mo_1 + x_T11_S10_Mo_2 + x_T11_S10_Mo_3 + x_T11_S10_Mo_4 + x_T11_S10_Mo_5 + x_T11_S10_Tu_1 + x_T11_S10_Tu_2 + x_T11_S10_Tu_3 + x_T11_S10_Tu_4 + x_T11_S10_Tu_5 + x_T11_S10_We_1 + x_T11_S10_We_2 + x_T11_S10_We_3 + x_T11_S10_We_4 + x_T11_S10_We_5 + x_T11_S10_Th_1 + x_T11_S10_Th_2 + x_T11_S10_Th_3 + x_T11_S10_Th_4 + x_T11_S10_Th_5 + x_T11_S10_Fr_1 + x_T11_S10_Fr_2 + x_T11_S10_Fr_3 + x_T11_S10_Fr_4 + x_T11_S10_Fr_5 = 3
+ workload_T12_S11: x_T12_S11_Mo_1 + x_T12_S11_Mo_2 + x_T12_S11_Mo_3 + x_T12_S11_Mo_4 + x_T12_S11_Mo_5 + x_T12_S11_Tu_1 + x_T12_S11_Tu_2 + x_T12_S11_Tu_3 + x_T12_S11_Tu_4 + x_T12_S11_Tu_5 + x_T12_S11_We_1 + x_T12_S11_We_2 + x_T12_S11_We_3 + x_T12_S11_We_4 + x_T12_S11_We_5 + x_T12_S11_Th_1 + x_T12_S11_Th_2 + x_T12_S11_Th_3 + x_T12_S11_Th_4 + x_T12_S11_Th_5 + x_T12_S11_Fr_1 + x_T12_S11_Fr_2 + x_T12_S11_Fr_3 + x_T12_S11_Fr_4 + x_T12_S11_Fr_5 = 3
+ workload_T12_S12: x_T12_S12_Mo_1 + x_T12_S12_Mo_2 + x_T12_S12_Mo_3 + x_T12_S12_Mo_4 + x_T12_S12_Mo_5 + x_T12_S12_Tu_1 + x_T12_S12_Tu_2 + x_T12_S12_Tu_3 + x_T12_S12_Tu_4 + x_T12_S12_Tu_5 + x_T12_S12_We_1 + x_T12_S12_We_2 + x_T12_S12_We_3 + x_T12_S12_We_4 + x_T12_S12_We_5 + x_T12_S12_Th_1 + x_T12_S12_Th_2 + x_T12_S12_Th_3 + x_T12_S12_Th_4 + x_T12_S12_Th_5 + x_T12_S12_Fr_1 + x_T12_S12_Fr_2 + x_T12_S12_Fr_3 + x_T12_S12_Fr_4 + x_T12_S12_Fr_5 = 3
+ workload_T12_S13: x_T12_S13_Mo_1 + x_T12_S13_Mo_2 + x_T12_S13_Mo_3 + x_T12_S13_Mo_4 + x_T12_S13_Mo_5 + x_T12_S13_Tu_1 + x_T12_S13_Tu_2 + x_T12_S13_Tu_3 + x_T12_S13_Tu_4 + x_T12_S13_Tu_5 + x_T12_S13_We_1 + x_T12_S13_We_2 + x_T12_S13_We_3 + x_T12_S13_We_4 + x_T12_S13_We_5 + x_T12_S13_Th_1 + x_T12_S13_Th_2 + x_T12_S13_Th_3 + x_T12_S13_Th_4 + x_T12_S13_Th_5 + x_T12_S13_Fr_1 + x_T12_S13_Fr_2 + x_T12_S13_Fr_3 + x_T12_S13_Fr_4 + x_T12_S13_Fr_5 = 3
+ workload_T12_S14: x_T12_S14_Mo_1 + x_T12_S14_Mo_2 + x_T12_S14_Mo_3 + x_T12_S14_Mo_4 + x_T12_S14_Mo_5 + x_T12_S14_Tu_1 + x_T12_S14_Tu_2 + x_T12_S14_Tu_3 + x_T12_S14_Tu_4 + x_T12_S14_Tu_5 + x_T12_S14_We_1 + x_T12_S14_We_2 + x_T12_S14_We_3 + x_T12_S14_We_4 + x_T12_S14_We_5 + x_T12_S14_Th_1 + x_T12_S14_Th_2 + x_T12_S14_Th_3 + x_T12_S14_Th_4 + x_T12_S14_Th_5 + x_T12_S14_Fr_1 + x_T12_S14_Fr_2 + x_T12_S14_Fr_3 + x_T12_S14_Fr_4 + x_T12_S14_Fr_5 = 3
+ workload_T12_S15: x_T12_S15_Mo_1 + x_T12_S15_Mo_2 + x_T12_S15_Mo_3 + x_T12_S15_Mo_4 + x_T12_S15_Mo_5 + x_T12_S15_Tu_1 + x_T12_S15_Tu_2 + x_T12_S15_Tu_3 + x_T12_S15_Tu_4 + x_T12_S15_Tu_5 + x_T12_S15_We_1 + x_T12_S15_We_2 + x_T12_S15_We_3 + x_T12_S15_We_4 + x_T12_S15_We_5 + x_T12_S15_Th_1 + x_T12_S15_Th_2 + x_T12_S15_Th_3 + x_T12_S15_Th_4 + x_T12_S15_Th_5 + x_T12_S15_Fr_1 + x_T12_S15_Fr_2 + x_T12_S15_Fr_3 + x_T12_S15_Fr_4 + x_T12_S15_Fr_5 = 3
+ workload_T13_S16: x_T13_S16_Mo_1 + x_T13_S16_Mo_2 + x_T13_S16_Mo_3 + x_T13_S16_Mo_4 + x_T13_S16_Mo_5 + x_T13_S16_Tu_1 + x_T13_S16_Tu_2 + x_T13_S16_Tu_3 + x_T13_S16_Tu_4 + x_T13_S16_Tu_5 + x_T13_S16_We_1 + x_T13_S16_We_2 + x_T13_S16_We_3 + x_T13_S16_We_4 + x_T13_S16_We_5 + x_T13_S16_Th_1 + x_T13_S16_Th_2 + x_T13_S16_Th_3 + x_T13_S16_Th_4 + x_T13_S16_Th_5 + x_T13_S16_Fr_1 + x_T13_S16_Fr_2 + x_T13_S16_Fr_3 + x_T13_S16_Fr_4 + x_T13_S16_Fr_5 = 3
+ workload_T13_S17: x_T13_S17_Mo_1 + x_T13_S17_Mo_2 + x_T13_S17_Mo_3 + x_T13_S17_Mo_4 + x_T13_S17_Mo_5 + x_T13_S17_Tu_1 + x_T13_S17_Tu_2 + x_T13_S17_Tu_3 + x_T13_S17_Tu_4 + x_T13_S17_Tu_5 + x_T13_S17_We_1 + x_T13_S17_We_2 + x_T13_S17_We_3 + x_T13_S17_We_4 + x_T13_S17_We_5 + x_T13_S17_Th_1 + x_T13_S17_Th_2 + x_T13_S17_Th_3 + x_T13_S17_Th_4 + x_T13_S17_Th_5 + x_T13_S17_Fr_1 + x_T13_S17_Fr_2 + x_T13_S17_Fr_3 + x_T13_S17_Fr_4 + x_T13_S17_Fr_5 = 3
+ workload_T13_S18: x_T13_S18_Mo_1 + x_T13_S18_Mo_2 + x_T13_S18_Mo_3 + x_T13_S18_Mo_4 + x_T13_S18_Mo_5 + x_T13_S18_Tu_1 + x_T13_S18_Tu_2 + x_T13_S18_Tu_3 + x_T13_S18_Tu_4 + x_T13_S18_Tu_5 + x_T13_S18_We_1 + x_T13_S18_We_2 + x_T13_S18_We_3 + x_T13_S18_We_4 + x_T13_S18_We_5 + x_T13_S18_Th_1 + x_T13_S18_Th_2 + x_T13_S18_Th_3 + x_T13_S18_Th_4 + x_T13_S18_Th_5 + x_T13_S18_Fr_1 + x_T13_S18_Fr_2 + x_T13_S18_Fr_3 + x_T13_S18_Fr_4 + x_T13_S18_Fr_5 = 3
+ workload_T13_S19: x_T13_S19_Mo_1 + x_T13_S19_Mo_2 + x_T13_S19_Mo_3 + x_T13_S19_Mo_4 + x_T13_S19_Mo_5 + x_T13_S19_Tu_1 + x_T13_S19_Tu_2 + x_T13_S19_Tu_3 + x_T13_S19_Tu_4 + x_T13_S19_Tu_5 + x_T13_S19_We_1 + x_T13_S19_We_2 + x_T13_S19_We_3 + x_T13_S19_We_4 + x_T13_S19_We_5 + x_T13_S19_Th_1 + x_T13_S19_Th_2 + x_T13_S19_Th_3 + x_T13_S19_Th_4 + x_T13_S19_Th_5 + x_T13_S19_Fr_1 + x_T13_S19_Fr_2 + x_T13_S19_Fr_3 + x_T13_S19_Fr_4 + x_T13_S19_Fr_5 = 3
+ workload_T13_S20: x_T13_S20_Mo_1 + x_T13_S20_Mo_2 + x_T13_S20_Mo_3 + x_T13_S20_Mo_4 + x_T13_S20_Mo_5 + x_T13_S20_Tu_1 + x_T13_S20_Tu_2 + x_T13_S20_Tu_3 + x_T13_S20_Tu_4 + x_T13_S20_Tu_5 + x_T13_S20_We_1 + x_T13_S20_We_2 + x_T13_S20_We_3 + x_T13_S20_We_4 + x_T13_S20_We_5 + x_T13_S20_Th_1 + x_T13_S20_Th_2 + x_T13_S20_Th_3 + x_T13_S20_Th_4 + x_T13_S20_Th_5 + x_T13_S20_Fr_1 + x_T13_S20_Fr_2 + x_T13_S20_Fr_3 + x_T13_S20_Fr_4 + x_T13_S20_Fr_5 = 3
+ workload_T14_S1: x_T14_S1_Mo_1 + x_T14_S1_Mo_2 + x_T14_S1_Mo_3 + x_T14_S1_Mo_4 + x_T14_S1_Mo_5 + x_T14_S1_Tu_1 + x_T14_S1_Tu_2 + x_T14_S1_Tu_3 + x_T14_S1_Tu_4 + x_T14_S1_Tu_5 + x_T14_S1_We_1 + x_T14_S1_We_2 + x_T14_S1_We_3 + x_T14_S1_We_4 + x_T14_S1_We_5 + x_T14_S1_Th_1 + x_T14_S1_Th_2 + x_T14_S1_Th_3 + x_T14_S1_Th_4 + x_T14_S1_Th_5 + x_T14_S1_Fr_1 + x_T14_S1_Fr_2 + x_T14_S1_Fr_3 + x_T14_S1_Fr_4 + x_T14_S1_Fr_5 = 3
+ workload_T14_S2: x_T14_S2_Mo_1 + x_T14_S2_Mo_2 + x_T14_S2_Mo_3 + x_T14_S2_Mo_4 + x_T14_S2_Mo_5 + x_T14_S2_Tu_1 + x_T14_S2_Tu_2 + x_T14_S2_Tu_3 + x_T14_S2_Tu_4 + x_T14_S2_Tu_5 + x_T14_S2_We_1 + x_T14_S2_We_2 + x_T14_S2_We_3 + x_T14_S2_We_4 + x_T14_S2_We_5 + x_T14_S2_Th_1 + x_T14_S2_Th_2 + x_T14_S2_Th_3 + x_T14_S2_Th_4 + x_T14_S2_Th_5 + x_T14_S2_Fr_1 + x_T14_S2_Fr_2 + x_T14_S2_Fr_3 + x_T14_S2_Fr_4 + x_T14_S2_Fr_5 = 3
+ workload_T14_S3: x_T14_S3_Mo_1 + x_T14_S3_Mo_2 + x_T14_S3_Mo_3 + x_T14_S3_Mo_4 + x_T14_S3_Mo_5 + x_T14_S3_Tu_1 + x_T14_S3_Tu_2 + x_T14_S3_Tu_3 + x_T14_S3_Tu_4 + x_T14_S3_Tu_5 + x_T14_S3_We_1 + x_T14_S3_We_2 + x_T14_S3_We_3 + x_T14_S3_We_4 + x_T14_S3_We_5 + x_T14_S3_Th_1 + x_T14_S3_Th_2 + x_T14_S3_Th_3 + x_T14_S3_Th_4 + x_T14_S3_Th_5 + x_T14_S3_Fr_1 + x_T14_S3_Fr_2 + x_T14_S3_Fr_3 + x_T14_S3_Fr_4 + x_T14_S3_Fr_5 = 3
+ workload_T14_S10: x_T14_S10_Mo_1 + x_T14_S10_Mo_2 + x_T14_S10_Mo_3 + x_T14_S10_Mo_4 + x_T14_S10_Mo_5 + x_T14_S10_Tu_1 + x_T14_S10_Tu_2 + x_T14_S10_Tu_3 + x_T14_S10_Tu_4 + x_T14_S10_Tu_5 + x_T14_S10_We_1 + x_T14_S10_We_2 + x_T14_S10_We_3 + x_T14_S10_We_4 + x_T14_S10_We_5 + x_T14_S10_Th_1 + x_T14_S10_Th_2 + x_T14_S10_Th_3 + x_T14_S10_Th_4 + x_T14_S10_Th_5 + x_T14_S10_Fr_1 + x_T14_S10_Fr_2 + x_T14_S10_Fr_3 + x_T14_S10_Fr_4 + x_T14_S10_Fr_5 = 3
+ workload_T14_S13: x_T14_S13_Mo_1 + x_T14_S13_Mo_2 + x_T14_S13_Mo_3 + x_T14_S13_Mo_4 + x_T14_S13_Mo_5 + x_T14_S13_Tu_1 + x_T14_S13_Tu_2 + x_T14_S13_Tu_3 + x_T14_S13_Tu_4 + x_T14_S13_Tu_5 + x_T14_S13_We_1 + x_T14_S13_We_2 + x_T14_S13_We_3 + x_T14_S13_We_4 + x_T14_S13_We_5 + x_T14_S13_Th_1 + x_T14_S13_Th_2 + x_T14_S13_Th_3 + x_T14_S13_Th_4 + x_T14_S13_Th_5 + x_T14_S13_Fr_1 + x_T14_S13_Fr_2 + x_T14_S13_Fr_3 + x_T14_S13_Fr_4 + x_T14_S13_Fr_5 = 3
+ workload_T14_S16: x_T14_S16_Mo_1 + x_T14_S16_Mo_2 + x_T14_S16_Mo_3 + x_T14_S16_Mo_4 + x_T14_S16_Mo_5 + x_T14_S16_Tu_1 + x_T14_S16_Tu_2 + x_T14_S16_Tu_3 + x_T14_S16_Tu_4 + x_T14_S16_Tu_5 + x_T14_S16_We_1 + x_T14_S16_We_2 + x_T14_S16_We_3 + x_T14_S16_We_4 + x_T14_S16_We_5 + x_T14_S16_Th_1 + x_T14_S16_Th_2 + x_T14_S16_Th_3 + x_T14_S16_Th_4 + x_T14_S16_Th_5 + x_T14_S16_Fr_1 + x_T14_S16_Fr_2 + x_T14_S16_Fr_3 + x_T14_S16_Fr_4 + x_T14_S16_Fr_5 = 2
+ workload_T14_S17: x_T14_S17_Mo_1 + x_T14_S17_Mo_2 + x_T14_S17_Mo_3 + x_T14_S17_Mo_4 + x_T14_S17_Mo_5 + x_T14_S17_Tu_1 + x_T14_S17_Tu_2 + x_T14_S17_Tu_3 + x_T14_S17_Tu_4 + x_T14_S17_Tu_5 + x_T14_S17_We_1 + x_T14_S17_We_2 + x_T14_S17_We_3 + x_T14_S17_We_4 + x_T14_S17_We_5 + x_T14_S17_Th_1 + x_T14_S17_Th_2 + x_T14_S17_Th_3 + x_T14_S17_Th_4 + x_T14_S17_Th_5 + x_T14_S17_Fr_1 + x_T14_S17_Fr_2 + x_T14_S17_Fr_3 + x_T14_S17_Fr_4 + x_T14_S17_Fr_5 = 2
+ workload_T15_S4: x_T15_S4_Mo_1 + x_T15_S4_Mo_2 + x_T15_S4_Mo_3 + x_T15_S4_Mo_4 + x_T15_S4_Mo_5 + x_T15_S4_Tu_1 + x_T15_S4_Tu_2 + x_T15_S4_Tu_3 + x_T15_S4_Tu_4 + x_T15_S4_Tu_5 + x_T15_S4_We_1 + x_T15_S4_We_2 + x_T15_S4_We_3 + x_T15_S4_We_4 + x_T15_S4_We_5 + x_T15_S4_Th_1 + x_T15_S4_Th_2 + x_T15_S4_Th_3 + x_T15_S4_Th_4 + x_T15_S4_Th_5 + x_T15_S4_Fr_1 + x_T15_S4_Fr_2 + x_T15_S4_Fr_3 + x_T15_S4_Fr_4 + x_T15_S4_Fr_5 = 3
+ workload_T15_S5: x_T15_S5_Mo_1 + x_T15_S5_Mo_2 + x_T15_S5_Mo_3 + x_T15_S5_Mo_4 + x_T15_S5_Mo_5 + x_T15_S5_Tu_1 + x_T15_S5_Tu_2 + x_T15_S5_Tu_3 + x_T15_S5_Tu_4 + x_T15_S5_Tu_5 + x_T15_S5_We_1 + x_T15_S5_We_2 + x_T15_S5_We_3 + x_T15_S5_We_4 + x_T15_S5_We_5 + x_T15_S5_Th_1 + x_T15_S5_Th_2 + x_T15_S5_Th_3 + x_T15_S5_Th_4 + x_T15_S5_Th_5 + x_T15_S5_Fr_1 + x_T15_S5_Fr_2 + x_T15_S5_Fr_3 + x_T15_S5_Fr_4 + x_T15_S5_Fr_5 = 3
+ workload_T15_S6: x_T15_S6_Mo_1 + x_T15_S6_Mo_2 + x_T15_S6_Mo_3 + x_T15_S6_Mo_4 + x_T15_S6_Mo_5 + x_T15_S6_Tu_1 + x_T15_S6_Tu_2 + x_T15_S6_Tu_3 + x_T15_S6_Tu_4 + x_T15_S6_Tu_5 + x_T15_S6_We_1 + x_T15_S6_We_2 + x_T15_S6_We_3 + x_T15_S6_We_4 + x_T15_S6_We_5 + x_T15_S6_Th_1 + x_T15_S6_Th_2 + x_T15_S6_Th_3 + x_T15_S6_Th_4 + x_T15_S6_Th_5 + x_T15_S6_Fr_1 + x_T15_S6_Fr_2 + x_T15_S6_Fr_3 + x_T15_S6_Fr_4 + x_T15_S6_Fr_5 = 3
+ workload_T15_S11: x_T15_S11_Mo_1 + x_T15_S11_Mo_2 + x_T15_S11_Mo_3 + x_T15_S11_Mo_4 + x_T15_S11_Mo_5 + x_T15_S11_Tu_1 + x_T15_S11_Tu_2 + x_T15_S11_Tu_3 + x_T15_S11_Tu_4 + x_T15_S11_Tu_5 + x_T15_S11_We_1 + x_T15_S11_We_2 + x_T15_S11_We_3 + x_T15_S11_We_4 + x_T15_S11_We_5 + x_T15_S11_Th_1 + x_T15_S11_Th_2 + x_T15_S11_Th_3 + x_T15_S11_Th_4 + x_T15_S11_Th_5 + x_T15_S11_Fr_1 + x_T15_S11_Fr_2 + x_T15_S11_Fr_3 + x_T15_S11_Fr_4 + x_T15_S11_Fr_5 = 3
+ workload_T15_S14: x_T15_S14_Mo_1 + x_T15_S14_Mo_2 + x_T15_S14_Mo_3 + x_T15_S14_Mo_4 + x_T15_S14_Mo_5 + x_T15_S14_Tu_1 + x_T15_S14_Tu_2 + x_T15_S14_Tu_3 + x_T15_S14_Tu_4 + x_T15_S14_Tu_5 + x_T15_S14_We_1 + x_T15_S14_We_2 + x_T15_S14_We_3 + x_T15_S14_We_4 + x_T15_S14_We_5 + x_T15_S14_Th_1 + x_T15_S14_Th_2 + x_T15_S14_Th_3 + x_T15_S14_Th_4 + x_T15_S14_Th_5 + x_T15_S14_Fr_1 + x_T15_S14_Fr_2 + x_T15_S14_Fr_3 + x_T15_S14_Fr_4 + x_T15_S14_Fr_5 = 3
+ workload_T15_S18: x_T15_S18_Mo_1 + x_T15_S18_Mo_2 + x_T15_S18_Mo_3 + x_T15_S18_Mo_4 + x_T15_S18_Mo_5 + x_T15_S18_Tu_1 + x_T15_S18_Tu_2 + x_T15_S18_Tu_3 + x_T15_S18_Tu_4 + x_T15_S18_Tu_5 + x_T15_S18_We_1 + x_T15_S18_We_2 + x_T15_S18_We_3 + x_T15_S18_We_4 + x_T15_S18_We_5 + x_T15_S18_Th_1 + x_T15_S18_Th_2 + x_T15_S18_Th_3 + x_T15_S18_Th_4 + x_T15_S18_Th_5 + x_T15_S18_Fr_1 + x_T15_S18_Fr_2 + x_T15_S18_Fr_3 + x_T15_S18_Fr_4 + x_T15_S18_Fr_5 = 2
+ workload_T15_S19: x_T15_S19_Mo_1 + x_T15_S19_Mo_2 + x_T15_S19_Mo_3 + x_T15_S19_Mo_4 + x_T15_S19_Mo_5 + x_T15_S19_Tu_1 + x_T15_S19_Tu_2 + x_T15_S19_Tu_3 + x_T15_S19_Tu_4 + x_T15_S19_Tu_5 + x_T15_S19_We_1 + x_T15_S19_We_2 + x_T15_S19_We_3 + x_T15_S19_We_4 + x_T15_S19_We_5 + x_T15_S19_Th_1 + x_T15_S19_Th_2 + x_T15_S19_Th_3 + x_T15_S19_Th_4 + x_T15_S19_Th_5 + x_T15_S19_Fr_1 + x_T15_S19_Fr_2 + x_T15_S19_Fr_3 + x_T15_S19_Fr_4 + x_T15_S19_Fr_5 = 2
+ workload_T16_S7: x_T16_S7_Mo_1 + x_T16_S7_Mo_2 + x_T16_S7_Mo_3 + x_T16_S7_Mo_4 + x_T16_S7_Mo_5 + x_T16_S7_Tu_1 + x_T16_S7_Tu_2 + x_T16_S7_Tu_3 + x_T16_S7_Tu_4 + x_T16_S7_Tu_5 + x_T16_S7_We_1 + x_T16_S7_We_2 + x_T16_S7_We_3 + x_T16_S7_We_4 + x_T16_S7_We_5 + x_T16_S7_Th_1 + x_T16_S7_Th_2 + x_T16_S7_Th_3 + x_T16_S7_Th_4 + x_T16_S7_Th_5 + x_T16_S7_Fr_1 + x_T16_S7_Fr_2 + x_T16_S7_Fr_3 + x_T16_S7_Fr_4 + x_T16_S7_Fr_5 = 3
+ workload_T16_S8: x_T16_S8_Mo_1 + x_T16_S8_Mo_2 + x_T16_S8_Mo_3 + x_T16_S8_Mo_4 + x_T16_S8_Mo_5 + x_T16_S8_Tu_1 + x_T16_S8_Tu_2 + x_T16_S8_Tu_3 + x_T16_S8_Tu_4 + x_T16_S8_Tu_5 + x_T16_S8_We_1 + x_T16_S8_We_2 + x_T16_S8_We_3 + x_T16_S8_We_4 + x_T16_S8_We_5 + x_T16_S8_Th_1 + x_T16_S8_Th_2 + x_T16_S8_Th_3 + x_T16_S8_Th_4 + x_T16_S8_Th_5 + x_T16_S8_Fr_1 + x_T16_S8_Fr_2 + x_T16_S8_Fr_3 + x_T16_S8_Fr_4 + x_T16_S8_Fr_5 = 3
+ workload_T16_S9: x_T16_S9_Mo_1 + x_T16_S9_Mo_2 + x_T16_S9_Mo_3 + x_T16_S9_Mo_4 + x_T16_S9_Mo_5 + x_T16_S9_Tu_1 + x_T16_S9_Tu_2 + x_T16_S9_Tu_3 + x_T16_S9_Tu_4 + x_T16_S9_Tu_5 + x_T16_S9_We_1 + x_T16_S9_We_2 + x_T16_S9_We_3 + x_T16_S9_We_4 + x_T16_S9_We_5 + x_T16_S9_Th_1 + x_T16_S9_Th_2 + x_T16_S9_Th_3 + x_T16_S9_Th_4 + x_T16_S9_Th_5 + x_T16_S9_Fr_1 + x_T16_S9_Fr_2 + x_T16_S9_Fr_3 + x_T16_S9_Fr_4 + x_T16_S9_Fr_5 = 3
+ workload_T16_S12: x_T16_S12_Mo_1 + x_T16_S12_Mo_2 + x_T16_S12_Mo_3 + x_T16_S12_Mo_4 + x_T16_S12_Mo_5 + x_T16_S12_Tu_1 + x_T16_S12_Tu_2 + x_T16_S12_Tu_3 + x_T16_S12_Tu_4 + x_T16_S12_Tu_5 + x_T16_S12_We_1 + x_T16_S12_We_2 + x_T16_S12_We_3 + x_T16_S12_We_4 + x_T16_S12_We_5 + x_T16_S12_Th_1 + x_T16_S12_Th_2 + x_T16_S12_Th_3 + x_T16_S12_Th_4 + x_T16_S12_Th_5 + x_T16_S12_Fr_1 + x_T16_S12_Fr_2 + x_T16_S12_Fr_3 + x_T16_S12_Fr_4 + x_T16_S12_Fr_5 = 3
+ workload_T16_S15: x_T16_S15_Mo_1 + x_T16_S15_Mo_2 + x_T16_S15_Mo_3 + x_T16_S15_Mo_4 + x_T16_S15_Mo_5 + x_T16_S15_Tu_1 + x_T16_S15_Tu_2 + x_T16_S15_Tu_3 + x_T16_S15_Tu_4 + x_T16_S15_Tu_5 + x_T16_S15_We_1 + x_T16_S15_We_2 + x_T16_S15_We_3 + x_T16_S15_We_4 + x_T16_S15_We_5 + x_T16_S15_Th_1 + x_T16_S15_Th_2 + x_T16_S15_Th_3 + x_T16_S15_Th_4 + x_T16_S15_Th_5 + x_T16_S15_Fr_1 + x_T16_S15_Fr_2 + x_T16_S15_Fr_3 + x_T16_S15_Fr_4 + x_T16_S15_Fr_5 = 3
+ workload_T16_S20: x_T16_S20_Mo_1 + x_T16_S20_Mo_2 + x_T16_S20_Mo_3 + x_T16_S20_Mo_4 + x_T16_S20_Mo_5 + x_T16_S20_Tu_1 + x_T16_S20_Tu_2 + x_T16_S20_Tu_3 + x_T16_S20_Tu_4 + x_T16_S20_Tu_5 + x_T16_S20_We_1 + x_T16_S20_We_2 + x_T16_S20_We_3 + x_T16_S20_We_4 + x_T16_S20_We_5 + x_T16_S20_Th_1 + x_T16_S20_Th_2 + x_T16_S20_Th_3 + x_T16_S20_Th_4 + x_T16_S20_Th_5 + x_T16_S20_Fr_1 + x_T16_S20_Fr_2 + x_T16_S20_Fr_3 + x_T16_S20_Fr_4 + x_T16_S20_Fr_5 = 2
+ workload_T17_S1: x_T17_S1_Mo_1 + x_T17_S1_Mo_2 + x_T17_S1_Mo_3 + x_T17_S1_Mo_4 + x_T17_S1_Mo_5 + x_T17_S1_Tu_1 + x_T17_S1_Tu_2 + x_T17_S1_Tu_3 + x_T17_S1_Tu_4 + x_T17_S1_Tu_5 + x_T17_S1_We_1 + x_T17_S1_We_2 + x_T17_S1_We_3 + x_T17_S1_We_4 + x_T17_S1_We_5 + x_T17_S1_Th_1 + x_T17_S1_Th_2 + x_T17_S1_Th_3 + x_T17_S1_Th_4 + x_T17_S1_Th_5 + x_T17_S1_Fr_1 + x_T17_S1_Fr_2 + x_T17_S1_Fr_3 + x_T17_S1_Fr_4 + x_T17_S1_Fr_5 = 3
+ workload_T17_S2: x_T17_S2_Mo_1 + x_T17_S2_Mo_2 + x_T17_S2_Mo_3 + x_T17_S2_Mo_4 + x_T17_S2_Mo_5 + x_T17_S2_Tu_1 + x_T17_S2_Tu_2 + x_T17_S2_Tu_3 + x_T17_S2_Tu_4 + x_T17_S2_Tu_5 + x_T17_S2_We_1 + x_T17_S2_We_2 + x_T17_S2_We_3 + x_T17_S2_We_4 + x_T17_S2_We_5 + x_T17_S2_Th_1 + x_T17_S2_Th_2 + x_T17_S2_Th_3 + x_T17_S2_Th_4 + x_T17_S2_Th_5 + x_T17_S2_Fr_1 + x_T17_S2_Fr_2 + x_T17_S2_Fr_3 + x_T17_S2_Fr_4 + x_T17_S2_Fr_5 = 3
+ workload_T17_S3: x_T17_S3_Mo_1 + x_T17_S3_Mo_2 + x_T17_S3_Mo_3 + x_T17_S3_Mo_4 + x_T17_S3_Mo_5 + x_T17_S3_Tu_1 + x_T17_S3_Tu_2 + x_T17_S3_Tu_3 + x_T17_S3_Tu_4 + x_T17_S3_Tu_5 + x_T17_S3_We_1 + x_T17_S3_We_2 + x_T17_S3_We_3 + x_T17_S3_We_4 + x_T17_S3_We_5 + x_T17_S3_Th_1 + x_T17_S3_Th_2 + x_T17_S3_Th_3 + x_T17_S3_Th_4 + x_T17_S3_Th_5 + x_T17_S3_Fr_1 + x_T17_S3_Fr_2 + x_T17_S3_Fr_3 + x_T17_S3_Fr_4 + x_T17_S3_Fr_5 = 3
+ workload_T17_S10: x_T17_S10_Mo_1 + x_T17_S10_Mo_2 + x_T17_S10_Mo_3 + x_T17_S10_Mo_4 + x_T17_S10_Mo_5 + x_T17_S10_Tu_1 + x_T17_S10_Tu_2 + x_T17_S10_Tu_3 + x_T17_S10_Tu_4 + x_T17_S10_Tu_5 + x_T17_S10_We_1 + x_T17_S10_We_2 + x_T17_S10_We_3 + x_T17_S10_We_4 + x_T17_S10_We_5 + x_T17_S10_Th_1 + x_T17_S10_Th_2 + x_T17_S10_Th_3 + x_T17_S10_Th_4 + x_T17_S10_Th_5 + x_T17_S10_Fr_1 + x_T17_S10_Fr_2 + x_T17_S10_Fr_3 + x_T17_S10_Fr_4 + x_T17_S10_Fr_5 = 2
+ workload_T17_S13: x_T17_S13_Mo_1 + x_T17_S13_Mo_2 + x_T17_S13_Mo_3 + x_T17_S13_Mo_4 + x_T17_S13_Mo_5 + x_T17_S13_Tu_1 + x_T17_S13_Tu_2 + x_T17_S13_Tu_3 + x_T17_S13_Tu_4 + x_T17_S13_Tu_5 + x_T17_S13_We_1 + x_T17_S13_We_2 + x_T17_S13_We_3 + x_T17_S13_We_4 + x_T17_S13_We_5 + x_T17_S13_Th_1 + x_T17_S13_Th_2 + x_T17_S13_Th_3 + x_T17_S13_Th_4 + x_T17_S13_Th_5 + x_T17_S13_Fr_1 + x_T17_S13_Fr_2 + x_T17_S13_Fr_3 + x_T17_S13_Fr_4 + x_T17_S13_Fr_5 = 2
+ workload_T17_S16: x_T17_S16_Mo_1 + x_T17_S16_Mo_2 + x_T17_S16_Mo_3 + x_T17_S16_Mo_4 + x_T17_S16_Mo_5 + x_T17_S16_Tu_1 + x_T17_S16_Tu_2 + x_T17_S16_Tu_3 + x_T17_S16_Tu_4 + x_T17_S16_Tu_5 + x_T17_S16_We_1 + x_T17_S16_We_2 + x_T17_S16_We_3 + x_T17_S16_We_4 + x_T17_S16_We_5 + x_T17_S16_Th_1 + x_T17_S16_Th_2 + x_T17_S16_Th_3 + x_T17_S16_Th_4 + x_T17_S16_Th_5 + x_T17_S16_Fr_1 + x_T17_S16_Fr_2 + x_T17_S16_Fr_3 + x_T17_S16_Fr_4 + x_T17_S16_Fr_5 = 2
+ workload_T17_S17: x_T17_S17_Mo_1 + x_T17_S17_Mo_2 + x_T17_S17_Mo_3 + x_T17_S17_Mo_4 + x_T17_S17_Mo_5 + x_T17_S17_Tu_1 + x_T17_S17_Tu_2 + x_T17_S17_Tu_3 + x_T17_S17_Tu_4 + x_T17_S17_Tu_5 + x_T17_S17_We_1 + x_T17_S17_We_2 + x_T17_S17_We_3 + x_T17_S17_We_4 + x_T17_S17_We_5 + x_T17_S17_Th_1 + x_T17_S17_Th_2 + x_T17_S17_Th_3 + x_T17_S17_Th_4 + x_T17_S17_Th_5 + x_T17_S17_Fr_1 + x_T17_S17_Fr_2 + x_T17_S17_Fr_3 + x_T17_S17_Fr_4 + x_T17_S17_Fr_5 = 2
+ workload_T18_S4: x_T18_S4_Mo_1 + x_T18_S4_Mo_2 + x_T18_S4_Mo_3 + x_T18_S4_Mo_4 + x_T18_S4_Mo_5 + x_T18_S4_Tu_1 + x_T18_S4_Tu_2 + x_T18_S4_Tu_3 + x_T18_S4_Tu_4 + x_T18_S4_Tu_5 + x_T18_S4_We_1 + x_T18_S4_We_2 + x_T18_S4_We_3 + x_T18_S4_We_4 + x_T18_S4_We_5 + x_T18_S4_Th_1 + x_T18_S4_Th_2 + x_T18_S4_Th_3 + x_T18_S4_Th_4 + x_T18_S4_Th_5 + x_T18_S4_Fr_1 + x_T18_S4_Fr_2 + x_T18_S4_Fr_3 + x_T18_S4_Fr_4 + x_T18_S4_Fr_5 = 3
+ workload_T18_S5: x_T18_S5_Mo_1 + x_T18_S5_Mo_2 + x_T18_S5_Mo_3 + x_T18_S5_Mo_4 + x_T18_S5_Mo_5 + x_T18_S5_Tu_1 + x_T18_S5_Tu_2 + x_T18_S5_Tu_3 + x_T18_S5_Tu_4 + x_T18_S5_Tu_5 + x_T18_S5_We_1 + x_T18_S5_We_2 + x_T18_S5_We_3 + x_T18_S5_We_4 + x_T18_S5_We_5 + x_T18_S5_Th_1 + x_T18_S5_Th_2 + x_T18_S5_Th_3 + x_T18_S5_Th_4 + x_T18_S5_Th_5 + x_T18_S5_Fr_1 + x_T18_S5_Fr_2 + x_T18_S5_Fr_3 + x_T18_S5_Fr_4 + x_T18_S5_Fr_5 = 3
+ workload_T18_S6: x_T18_S6_Mo_1 + x_T18_S6_Mo_2 + x_T18_S6_Mo_3 + x_T18_S6_Mo_4 + x_T18_S6_Mo_5 + x_T18_S6_Tu_1 + x_T18_S6_Tu_2 + x_T18_S6_Tu_3 + x_T18_S6_Tu_4 + x_T18_S6_Tu_5 + x_T18_S6_We_1 + x_T18_S6_We_2 + x_T18_S6_We_3 + x_T18_S6_We_4 + x_T18_S6_We_5 + x_T18_S6_Th_1 + x_T18_S6_Th_2 + x_T18_S6_Th_3 + x_T18_S6_Th_4 + x_T18_S6_Th_5 + x_T18_S6_Fr_1 + x_T18_S6_Fr_2 + x_T18_S6_Fr_3 + x_T18_S6_Fr_4 + x_T18_S6_Fr_5 = 3
+ workload_T18_S11: x_T18_S11_Mo_1 + x_T18_S11_Mo_2 + x_T18_S11_Mo_3 + x_T18_S11_Mo_4 + x_T18_S11_Mo_5 + x_T18_S11_Tu_1 + x_T18_S11_Tu_2 + x_T18_S11_Tu_3 + x_T18_S11_Tu_4 + x_T18_S11_Tu_5 + x_T18_S11_We_1 + x_T18_S11_We_2 + x_T18_S11_We_3 + x_T18_S11_We_4 + x_T18_S11_We_5 + x_T18_S11_Th_1 + x_T18_S11_Th_2 + x_T18_S11_Th_3 + x_T18_S11_Th_4 + x_T18_S11_Th_5 + x_T18_S11_Fr_1 + x_T18_S11_Fr_2 + x_T18_S11_Fr_3 + x_T18_S11_Fr_4 + x_T18_S11_Fr_5 = 2
+ workload_T18_S14: x_T18_S14_Mo_1 + x_T18_S14_Mo_2 + x_T18_S14_Mo_3 + x_T18_S14_Mo_4 + x_T18_S14_Mo_5 + x_T18_S14_Tu_1 + x_T18_S14_Tu_2 + x_T18_S14_Tu_3 + x_T18_S14_Tu_4 + x_T18_S14_Tu_5 + x_T18_S14_We_1 + x_T18_S14_We_2 + x_T18_S14_We_3 + x_T18_S14_We_4 + x_T18_S14_We_5 + x_T18_S14_Th_1 + x_T18_S14_Th_2 + x_T18_S14_Th_3 + x_T18_S14_Th_4 + x_T18_S14_Th_5 + x_T18_S14_Fr_1 + x_T18_S14_Fr_2 + x_T18_S14_Fr_3 + x_T18_S14_Fr_4 + x_T18_S14_Fr_5 = 2
+ workload_T18_S18: x_T18_S18_Mo_1 + x_T18_S18_Mo_2 + x_T18_S18_Mo_3 + x_T18_S18_Mo_4 + x_T18_S18_Mo_5 + x_T18_S18_Tu_1 + x_T18_S18_Tu_2 + x_T18_S18_Tu_3 + x_T18_S18_Tu_4 + x_T18_S18_Tu_5 + x_T18_S18_We_1 + x_T18_S18_We_2 + x_T18_S18_We_3 + x_T18_S18_We_4 + x_T18_S18_We_5 + x_T18_S18_Th_1 + x_T18_S18_Th_2 + x_T18_S18_Th_3 + x_T18_S18_Th_4 + x_T18_S18_Th_5 + x_T18_S18_Fr_1 + x_T18_S18_Fr_2 + x_T18_S18_Fr_3 + x_T18_S18_Fr_4 + x_T18_S18_Fr_5 = 2
+ workload_T18_S19: x_T18_S19_Mo_1 + x_T18_S19_Mo_2 + x_T18_S19_Mo_3 + x_T18_S19_Mo_4 + x_T18_S19_Mo_5 + x_T18_S19_Tu_1 + x_T18_S19_Tu_2 + x_T18_S19_Tu_3 + x_T18_S19_Tu_4 + x_T18_S19_Tu_5 + x_T18_S19_We_1 + x_T18_S19_We_2 + x_T18_S19_We_3 + x_T18_S19_We_4 + x_T18_S19_We_5 + x_T18_S19_Th_1 + x_T18_S19_Th_2 + x_T18_S19_Th_3 + x_T18_S19_Th_4 + x_T18_S19_Th_5 + x_T18_S19_Fr_1 + x_T18_S19_Fr_2 + x_T18_S19_Fr_3 + x_T18_S19_Fr_4 + x_T18_S19_Fr_5 = 2
+ workload_T19_S7: x_T19_S7_Mo_1 + x_T19_S7_Mo_2 + x_T19_S7_Mo_3 + x_T19_S7_Mo_4 + x_T19_S7_Mo_5 + x_T19_S7_Tu_1 + x_T19_S7_Tu_2 + x_T19_S7_Tu_3 + x_T19_S7_Tu_4 + x_T19_S7_Tu_5 + x_T19_S7_We_1 + x_T19_S7_We_2 + x_T19_S7_We_3 + x_T19_S7_We_4 + x_T19_S7_We_5 + x_T19_S7_Th_1 + x_T19_S7_Th_2 + x_T19_S7_Th_3 + x_T19_S7_Th_4 + x_T19_S7_Th_5 + x_T19_S7_Fr_1 + x_T19_S7_Fr_2 + x_T19_S7_Fr_3 + x_T19_S7_Fr_4 + x_T19_S7_Fr_5 = 3
+ workload_T19_S8: x_T19_S8_Mo_1 + x_T19_S8_Mo_2 + x_T19_S8_Mo_3 + x_T19_S8_Mo_4 + x_T19_S8_Mo_5 + x_T19_S8_Tu_1 + x_T19_S8_Tu_2 + x_T19_S8_Tu_3 + x_T19_S8_Tu_4 + x_T19_S8_Tu_5 + x_T19_S8_We_1 + x_T19_S8_We_2 + x_T19_S8_We_3 + x_T19_S8_We_4 + x_T19_S8_We_5 + x_T19_S8_Th_1 + x_T19_S8_Th_2 + x_T19_S8_Th_3 + x_T19_S8_Th_4 + x_T19_S8_Th_5 + x_T19_S8_Fr_1 + x_T19_S8_Fr_2 + x_T19_S8_Fr_3 + x_T19_S8_Fr_4 + x_T19_S8_Fr_5 = 3
+ workload_T19_S9: x_T19_S9_Mo_1 + x_T19_S9_Mo_2 + x_T19_S9_Mo_3 + x_T19_S9_Mo_4 + x_T19_S9_Mo_5 + x_T19_S9_Tu_1 + x_T19_S9_Tu_2 + x_T19_S9_Tu_3 + x_T19_S9_Tu_4 + x_T19_S9_Tu_5 + x_T19_S9_We_1 + x_T19_S9_We_2 + x_T19_S9_We_3 + x_T19_S9_We_4 + x_T19_S9_We_5 + x_T19_S9_Th_1 + x_T19_S9_Th_2 + x_T19_S9_Th_3 + x_T19_S9_Th_4 + x_T19_S9_Th_5 + x_T19_S9_Fr_1 + x_T19_S9_Fr_2 + x_T19_S9_Fr_3 + x_T19_S9_Fr_4 + x_T19_S9_Fr_5 = 3
+ workload_T19_S12: x_T19_S12_Mo_1 + x_T19_S12_Mo_2 + x_T19_S12_Mo_3 + x_T19_S12_Mo_4 + x_T19_S12_Mo_5 + x_T19_S12_Tu_1 + x_T19_S12_Tu_2 + x_T19_S12_Tu_3 + x_T19_S12_Tu_4 + x_T19_S12_Tu_5 + x_T19_S12_We_1 + x_T19_S12_We_2 + x_T19_S12_We_3 + x_T19_S12_We_4 + x_T19_S12_We_5 + x_T19_S12_Th_1 + x_T19_S12_Th_2 + x_T19_S12_Th_3 + x_T19_S12_Th_4 + x_T19_S12_Th_5 + x_T19_S12_Fr_1 + x_T19_S12_Fr_2 + x_T19_S12_Fr_3 + x_T19_S12_Fr_4 + x_T19_S12_Fr_5 = 2
+ workload_T19_S15: x_T19_S15_Mo_1 + x_T19_S15_Mo_2 + x_T19_S15_Mo_3 + x_T19_S15_Mo_4 + x_T19_S15_Mo_5 + x_T19_S15_Tu_1 + x_T19_S15_Tu_2 + x_T19_S15_Tu_3 + x_T19_S15_Tu_4 + x_T19_S15_Tu_5 + x_T19_S15_We_1 + x_T19_S15_We_2 + x_T19_S15_We_3 + x_T19_S15_We_4 + x_T19_S15_We_5 + x_T19_S15_Th_1 + x_T19_S15_Th_2 + x_T19_S15_Th_3 + x_T19_S15_Th_4 + x_T19_S15_Th_5 + x_T19_S15_Fr_1 + x_T19_S15_Fr_2 + x_T19_S15_Fr_3 + x_T19_S15_Fr_4 + x_T19_S15_Fr_5 = 2
+ workload_T19_S20: x_T19_S20_Mo_1 + x_T19_S20_Mo_2 + x_T19_S20_Mo_3 + x_T19_S20_Mo_4 + x_T19_S20_Mo_5 + x_T19_S20_Tu_1 + x_T19_S20_Tu_2 + x_T19_S20_Tu_3 + x_T19_S20_Tu_4 + x_T19_S20_Tu_5 + x_T19_S20_We_1 + x_T19_S20_We_2 + x_T19_S20_We_3 + x_T19_S20_We_4 + x_T19_S20_We_5 + x_T19_S20_Th_1 + x_T19_S20_Th_2 + x_T19_S20_Th_3 + x_T19_S20_Th_4 + x_T19_S20_Th_5 + x_T19_S20_Fr_1 + x_T19_S20_Fr_2 + x_T19_S20_Fr_3 + x_T19_S20_Fr_4 + x_T19_S20_Fr_5 = 2
+ workload_T20_S1: x_T20_S1_Mo_1 + x_T20_S1_Mo_2 + x_T20_S1_Mo_3 + x_T20_S1_Mo_4 + x_T20_S1_Mo_5 + x_T20_S1_Tu_1 + x_T20_S1_Tu_2 + x_T20_S1_Tu_3 + x_T20_S1_Tu_4 + x_T20_S1_Tu_5 + x_T20_S1_We_1 + x_T20_S1_We_2 + x_T20_S1_We_3 + x_T20_S1_We_4 + x_T20_S1_We_5 + x_T20_S1_Th_1 + x_T20_S1_Th_2 + x_T20_S1_Th_3 + x_T20_S1_Th_4 + x_T20_S1_Th_5 + x_T20_S1_Fr_1 + x_T20_S1_Fr_2 + x_T20_S1_Fr_3 + x_T20_S1_Fr_4 + x_T20_S1_Fr_5 = 2
+ workload_T20_S2: x_T20_S2_Mo_1 + x_T20_S2_Mo_2 + x_T20_S2_Mo_3 + x_T20_S2_Mo_4 + x_T20_S2_Mo_5 + x_T20_S2_Tu_1 + x_T20_S2_Tu_2 + x_T20_S2_Tu_3 + x_T20_S2_Tu_4 + x_T20_S2_Tu_5 + x_T20_S2_We_1 + x_T20_S2_We_2 + x_T20_S2_We_3 + x_T20_S2_We_4 + x_T20_S2_We_5 + x_T20_S2_Th_1 + x_T20_S2_Th_2 + x_T20_S2_Th_3 + x_T20_S2_Th_4 + x_T20_S2_Th_5 + x_T20_S2_Fr_1 + x_T20_S2_Fr_2 + x_T20_S2_Fr_3 + x_T20_S2_Fr_4 + x_T20_S2_Fr_5 = 2
+ workload_T20_S3: x_T20_S3_Mo_1 + x_T20_S3_Mo_2 + x_T20_S3_Mo_3 + x_T20_S3_Mo_4 + x_T20_S3_Mo_5 + x_T20_S3_Tu_1 + x_T20_S3_Tu_2 + x_T20_S3_Tu_3 + x_T20_S3_Tu_4 + x_T20_S3_Tu_5 + x_T20_S3_We_1 + x_T20_S3_We_2 + x_T20_S3_We_3 + x_T20_S3_We_4 + x_T20_S3_We_5 + x_T20_S3_Th_1 + x_T20_S3_Th_2 + x_T20_S3_Th_3 + x_T20_S3_Th_4 + x_T20_S3_Th_5 + x_T20_S3_Fr_1 + x_T20_S3_Fr_2 + x_T20_S3_Fr_3 + x_T20_S3_Fr_4 + x_T20_S3_Fr_5 = 2
+ workload_T20_S4: x_T20_S4_Mo_1 + x_T20_S4_Mo_2 + x_T20_S4_Mo_3 + x_T20_S4_Mo_4 + x_T20_S4_Mo_5 + x_T20_S4_Tu_1 + x_T20_S4_Tu_2 + x_T20_S4_Tu_3 + x_T20_S4_Tu_4 + x_T20_S4_Tu_5 + x_T20_S4_We_1 + x_T20_S4_We_2 + x_T20_S4_We_3 + x_T20_S4_We_4 + x_T20_S4_We_5 + x_T20_S4_Th_1 + x_T20_S4_Th_2 + x_T20_S4_Th_3 + x_T20_S4_Th_4 + x_T20_S4_Th_5 + x_T20_S4_Fr_1 + x_T20_S4_Fr_2 + x_T20_S4_Fr_3 + x_T20_S4_Fr_4 + x_T20_S4_Fr_5 = 2
+ workload_T20_S5: x_T20_S5_Mo_1 + x_T20_S5_Mo_2 + x_T20_S5_Mo_3 + x_T20_S5_Mo_4 + x_T20_S5_Mo_5 + x_T20_S5_Tu_1 + x_T20_S5_Tu_2 + x_T20_S5_Tu_3 + x_T20_S5_Tu_4 + x_T20_S5_Tu_5 + x_T20_S5_We_1 + x_T20_S5_We_2 + x_T20_S5_We_3 + x_T20_S5_We_4 + x_T20_S5_We_5 + x_T20_S5_Th_1 + x_T20_S5_Th_2 + x_T20_S5_Th_3 + x_T20_S5_Th_4 + x_T20_S5_Th_5 + x_T20_S5_Fr_1 + x_T20_S5_Fr_2 + x_T20_S5_Fr_3 + x_T20_S5_Fr_4 + x_T20_S5_Fr_5 = 2
+ workload_T20_S6: x_T20_S6_Mo_1 + x_T20_S6_Mo_2 + x_T20_S6_Mo_3 + x_T20_S6_Mo_4 + x_T20_S6_Mo_5 + x_T20_S6_Tu_1 + x_T20_S6_Tu_2 + x_T20_S6_Tu_3 + x_T20_S6_Tu_4 + x_T20_S6_Tu_5 + x_T20_S6_We_1 + x_T20_S6_We_2 + x_T20_S6_We_3 + x_T20_S6_We_4 + x_T20_S6_We_5 + x_T20_S6_Th_1 + x_T20_S6_Th_2 + x_T20_S6_Th_3 + x_T20_S6_Th_4 + x_T20_S6_Th_5 + x_T20_S6_Fr_1 + x_T20_S6_Fr_2 + x_T20_S6_Fr_3 + x_T20_S6_Fr_4 + x_T20_S6_Fr_5 = 2
+ workload_T20_S7: x_T20_S7_Mo_1 + x_T20_S7_Mo_2 + x_T20_S7_Mo_3 + x_T20_S7_Mo_4 + x_T20_S7_Mo_5 + x_T20_S7_Tu_1 + x_T20_S7_Tu_2 + x_T20_S7_Tu_3 + x_T20_S7_Tu_4 + x_T20_S7_Tu_5 + x_T20_S7_We_1 + x_T20_S7_We_2 + x_T20_S7_We_3 + x_T20_S7_We_4 + x_T20_S7_We_5 + x_T20_S7_Th_1 + x_T20_S7_Th_2 + x_T20_S7_Th_3 + x_T20_S7_Th_4 + x_T20_S7_Th_5 + x_T20_S7_Fr_1 + x_T20_S7_Fr_2 + x_T20_S7_Fr_3 + x_T20_S7_Fr_4 + x_T20_S7_Fr_5 = 2
+ workload_T21_S8: x_T21_S8_Mo_1 + x_T21_S8_Mo_2 + x_T21_S8_Mo_3 + x_T21_S8_Mo_4 + x_T21_S8_Mo_5 + x_T21_S8_Tu_1 + x_T21_S8_Tu_2 + x_T21_S8_Tu_3 + x_T21_S8_Tu_4 + x_T21_S8_Tu_5 + x_T21_S8_We_1 + x_T21_S8_We_2 + x_T21_S8_We_3 + x_T21_S8_We_4 + x_T21_S8_We_5 + x_T21_S8_Th_1 + x_T21_S8_Th_2 + x_T21_S8_Th_3 + x_T21_S8_Th_4 + x_T21_S8_Th_5 + x_T21_S8_Fr_1 + x_T21_S8_Fr_2 + x_T21_S8_Fr_3 + x_T21_S8_Fr_4 + x_T21_S8_Fr_5 = 2
+ workload_T21_S9: x_T21_S9_Mo_1 + x_T21_S9_Mo_2 + x_T21_S9_Mo_3 + x_T21_S9_Mo_4 + x_T21_S9_Mo_5 + x_T21_S9_Tu_1 + x_T21_S9_Tu_2 + x_T21_S9_Tu_3 + x_T21_S9_Tu_4 + x_T21_S9_Tu_5 + x_T21_S9_We_1 + x_T21_S9_We_2 + x_T21_S9_We_3 + x_T21_S9_We_4 + x_T21_S9_We_5 + x_T21_S9_Th_1 + x_T21_S9_Th_2 + x_T21_S9_Th_3 + x_T21_S9_Th_4 + x_T21_S9_Th_5 + x_T21_S9_Fr_1 + x_T21_S9_Fr_2 + x_T21_S9_Fr_3 + x_T21_S9_Fr_4 + x_T21_S9_Fr_5 = 2
+ workload_T21_S10: x_T21_S10_Mo_1 + x_T21_S10_Mo_2 + x_T21_S10_Mo_3 + x_T21_S10_Mo_4 + x_T21_S10_Mo_5 + x_T21_S10_Tu_1 + x_T21_S10_Tu_2 + x_T21_S10_Tu_3 + x_T21_S10_Tu_4 + x_T21_S10_Tu_5 + x_T21_S10_We_1 + x_T21_S10_We_2 + x_T21_S10_We_3 + x_T21_S10_We_4 + x_T21_S10_We_5 + x_T21_S10_Th_1 + x_T21_S10_Th_2 + x_T21_S10_Th_3 + x_T21_S10_Th_4 + x_T21_S10_Th_5 + x_T21_S10_Fr_1 + x_T21_S10_Fr_2 + x_T21_S10_Fr_3 + x_T21_S10_Fr_4 + x_T21_S10_Fr_5 = 2
+ workload_T21_S11: x_T21_S11_Mo_1 + x_T21_S11_Mo_2 + x_T21_S11_Mo_3 + x_T21_S11_Mo_4 + x_T21_S11_Mo_5 + x_T21_S11_Tu_1 + x_T21_S11_Tu_2 + x_T21_S11_Tu_3 + x_T21_S11_Tu_4 + x_T21_S11_Tu_5 + x_T21_S11_We_1 + x_T21_S11_We_2 + x_T21_S11_We_3 + x_T21_S11_We_4 + x_T21_S11_We_5 + x_T21_S11_Th_1 + x_T21_S11_Th_2 + x_T21_S11_Th_3 + x_T21_S11_Th_4 + x_T21_S11_Th_5 + x_T21_S11_Fr_1 + x_T21_S11_Fr_2 + x_T21_S11_Fr_3 + x_T21_S11_Fr_4 + x_T21_S11_Fr_5 = 2
+ workload_T21_S12: x_T21_S12_Mo_1 + x_T21_S12_Mo_2 + x_T21_S12_Mo_3 + x_T21_S12_Mo_4 + x_T21_S12_Mo_5 + x_T21_S12_Tu_1 + x_T21_S12_Tu_2 + x_T21_S12_Tu_3 + x_T21_S12_Tu_4 + x_T21_S12_Tu_5 + x_T21_S12_We_1 + x_T21_S12_We_2 + x_T21_S12_We_3 + x_T21_S12_We_4 + x_T21_S12_We_5 + x_T21_S12_Th_1 + x_T21_S12_Th_2 + x_T21_S12_Th_3 + x_T21_S12_Th_4 + x_T21_S12_Th_5 + x_T21_S12_Fr_1 + x_T21_S12_Fr_2 + x_T21_S12_Fr_3 + x_T21_S12_Fr_4 + x_T21_S12_Fr_5 = 2
+ workload_T21_S13: x_T21_S13_Mo_1 + x_T21_S13_Mo_2 + x_T21_S13_Mo_3 + x_T21_S13_Mo_4 + x_T21_S13_Mo_5 + x_T21_S13_Tu_1 + x_T21_S13_Tu_2 + x_T21_S13_Tu_3 + x_T21_S13_Tu_4 + x_T21_S13_Tu_5 + x_T21_S13_We_1 + x_T21_S13_We_2 + x_T21_S13_We_3 + x_T21_S13_We_4 + x_T21_S13_We_5 + x_T21_S13_Th_1 + x_T21_S13_Th_2 + x_T21_S13_Th_3 + x_T21_S13_Th_4 + x_T21_S13_Th_5 + x_T21_S13_Fr_1 + x_T21_S13_Fr_2 + x_T21_S13_Fr_3 + x_T21_S13_Fr_4 + x_T21_S13_Fr_5 = 2
+ workload_T21_S14: x_T21_S14_Mo_1 + x_T21_S14_Mo_2 + x_T21_S14_Mo_3 + x_T21_S14_Mo_4 + x_T21_S14_Mo_5 + x_T21_S14_Tu_1 + x_T21_S14_Tu_2 + x_T21_S14_Tu_3 + x_T21_S14_Tu_4 + x_T21_S14_Tu_5 + x_T21_S14_We_1 + x_T21_S14_We_2 + x_T21_S14_We_3 + x_T21_S14_We_4 + x_T21_S14_We_5 + x_T21_S14_Th_1 + x_T21_S14_Th_2 + x_T21_S14_Th_3 + x_T21_S14_Th_4 + x_T21_S14_Th_5 + x_T21_S14_Fr_1 + x_T21_S14_Fr_2 + x_T21_S14_Fr_3 + x_T21_S14_Fr_4 + x_T21_S14_Fr_5 = 2
+ workload_T22_S15: x_T22_S15_Mo_1 + x_T22_S15_Mo_2 + x_T22_S15_Mo_3 + x_T22_S15_Mo_4 + x_T22_S15_Mo_5 + x_T22_S15_Tu_1 + x_T22_S15_Tu_2 + x_T22_S15_Tu_3 + x_T22_S15_Tu_4 + x_T22_S15_Tu_5 + x_T22_S15_We_1 + x_T22_S15_We_2 + x_T22_S15_We_3 + x_T22_S15_We_4 + x_T22_S15_We_5 + x_T22_S15_Th_1 + x_T22_S15_Th_2 + x_T22_S15_Th_3 + x_T22_S15_Th_4 + x_T22_S15_Th_5 + x_T22_S15_Fr_1 + x_T22_S15_Fr_2 + x_T22_S15_Fr_3 + x_T22_S15_Fr_4 + x_T22_S15_Fr_5 = 2
+ workload_T22_S16: x_T22_S16_Mo_1 + x_T22_S16_Mo_2 + x_T22_S16_Mo_3 + x_T22_S16_Mo_4 + x_T22_S16_Mo_5 + x_T22_S16_Tu_1 + x_T22_S16_Tu_2 + x_T22_S16_Tu_3 + x_T22_S16_Tu_4 + x_T22_S16_Tu_5 + x_T22_S16_We_1 + x_T22_S16_We_2 + x_T22_S16_We_3 + x_T22_S16_We_4 + x_T22_S16_We_5 + x_T22_S16_Th_1 + x_T22_S16_Th_2 + x_T22_S16_Th_3 + x_T22_S16_Th_4 + x_T22_S16_Th_5 + x_T22_S16_Fr_1 + x_T22_S16_Fr_2 + x_T22_S16_Fr_3 + x_T22_S16_Fr_4 + x_T22_S16_Fr_5 = 2
+ workload_T22_S17: x_T22_S17_Mo_1 + x_T22_S17_Mo_2 + x_T22_S17_Mo_3 + x_T22_S17_Mo_4 + x_T22_S17_Mo_5 + x_T22_S17_Tu_1 + x_T22_S17_Tu_2 + x_T22_S17_Tu_3 + x_T22_S17_Tu_4 + x_T22_S17_Tu_5 + x_T22_S17_We_1 + x_T22_S17_We_2 + x_T22_S17_We_3 + x_T22_S17_We_4 + x_T22_S17_We_5 + x_T22_S17_Th_1 + x_T22_S17_Th_2 + x_T22_S17_Th_3 + x_T22_S17_Th_4 + x_T22_S17_Th_5 + x_T22_S17_Fr_1 + x_T22_S17_Fr_2 + x_T22_S17_Fr_3 + x_T22_S17_Fr_4 + x_T22_S17_Fr_5 = 2
+ workload_T22_S18: x_T22_S18_Mo_1 + x_T22_S18_Mo_2 + x_T22_S18_Mo_3 + x_T22_S18_Mo_4 + x_T22_S18_Mo_5 + x_T22_S18_Tu_1 + x_T22_S18_Tu_2 + x_T22_S18_Tu_3 + x_T22_S18_Tu_4 + x_T22_S18_Tu_5 + x_T22_S18_We_1 + x_T22_S18_We_2 + x_T22_S18_We_3 + x_T22_S18_We_4 + x_T22_S18_We_5 + x_T22_S18_Th_1 + x_T22_S18_Th_2 + x_T22_S18_Th_3 + x_T22_S18_Th_4 + x_T22_S18_Th_5 + x_T22_S18_Fr_1 + x_T22_S18_Fr_2 + x_T22_S18_Fr_3 + x_T22_S18_Fr_4 + x_T22_S18_Fr_5 = 2
+ workload_T22_S19: x_T22_S19_Mo_1 + x_T22_S19_Mo_2 + x_T22_S19_Mo_3 + x_T22_S19_Mo_4 + x_T22_S19_Mo_5 + x_T22_S19_Tu_1 + x_T22_S19_Tu_2 + x_T22_S19_Tu_3 + x_T22_S19_Tu_4 + x_T22_S19_Tu_5 + x_T22_S19_We_1 + x_T22_S19_We_2 + x_T22_S19_We_3 + x_T22_S19_We_4 + x_T22_S19_We_5 + x_T22_S19_Th_1 + x_T22_S19_Th_2 + x_T22_S19_Th_3 + x_T22_S19_Th_4 + x_T22_S19_Th_5 + x_T22_S19_Fr_1 + x_T22_S19_Fr_2 + x_T22_S19_Fr_3 + x_T22_S19_Fr_4 + x_T22_S19_Fr_5 = 2
+ workload_T22_S20: x_T22_S20_Mo_1 + x_T22_S20_Mo_2 + x_T22_S20_Mo_3 + x_T22_S20_Mo_4 + x_T22_S20_Mo_5 + x_T22_S20_Tu_1 + x_T22_S20_Tu_2 + x_T22_S20_Tu_3 + x_T22_S20_Tu_4 + x_T22_S20_Tu_5 + x_T22_S20_We_1 + x_T22_S20_We_2 + x_T22_S20_We_3 + x_T22_S20_We_4 + x_T22_S20_We_5 + x_T22_S20_Th_1 + x_T22_S20_Th_2 + x_T22_S20_Th_3 + x_T22_S20_Th_4 + x_T22_S20_Th_5 + x_T22_S20_Fr_1 + x_T22_S20_Fr_2 + x_T22_S20_Fr_3 + x_T22_S20_Fr_4 + x_T22_S20_Fr_5 = 2
+ workload_T23_S1: x_T23_S1_Mo_1 + x_T23_S1_Mo_2 + x_T23_S1_Mo_3 + x_T23_S1_Mo_4 + x_T23_S1_Mo_5 + x_T23_S1_Tu_1 + x_T23_S1_Tu_2 + x_T23_S1_Tu_3 + x_T23_S1_Tu_4 + x_T23_S1_Tu_5 + x_T23_S1_We_1 + x_T23_S1_We_2 + x_T23_S1_We_3 + x_T23_S1_We_4 + x_T23_S1_We_5 + x_T23_S1_Th_1 + x_T23_S1_Th_2 + x_T23_S1_Th_3 + x_T23_S1_Th_4 + x_T23_S1_Th_5 + x_T23_S1_Fr_1 + x_T23_S1_Fr_2 + x_T23_S1_Fr_3 + x_T23_S1_Fr_4 + x_T23_S1_Fr_5 = 2
+ workload_T23_S2: x_T23_S2_Mo_1 + x_T23_S2_Mo_2 + x_T23_S2_Mo_3 + x_T23_S2_Mo_4 + x_T23_S2_Mo_5 + x_T23_S2_Tu_1 + x_T23_S2_Tu_2 + x_T23_S2_Tu_3 + x_T23_S2_Tu_4 + x_T23_S2_Tu_5 + x_T23_S2_We_1 + x_T23_S2_We_2 + x_T23_S2_We_3 + x_T23_S2_We_4 + x_T23_S2_We_5 + x_T23_S2_Th_1 + x_T23_S2_Th_2 + x_T23_S2_Th_3 + x_T23_S2_Th_4 + x_T23_S2_Th_5 + x_T23_S2_Fr_1 + x_T23_S2_Fr_2 + x_T23_S2_Fr_3 + x_T23_S2_Fr_4 + x_T23_S2_Fr_5 = 2
+ workload_T23_S3: x_T23_S3_Mo_1 + x_T23_S3_Mo_2 + x_T23_S3_Mo_3 + x_T23_S3_Mo_4 + x_T23_S3_Mo_5 + x_T23_S3_Tu_1 + x_T23_S3_Tu_2 + x_T23_S3_Tu_3 + x_T23_S3_Tu_4 + x_T23_S3_Tu_5 + x_T23_S3_We_1 + x_T23_S3_We_2 + x_T23_S3_We_3 + x_T23_S3_We_4 + x_T23_S3_We_5 + x_T23_S3_Th_1 + x_T23_S3_Th_2 + x_T23_S3_Th_3 + x_T23_S3_Th_4 + x_T23_S3_Th_5 + x_T23_S3_Fr_1 + x_T23_S3_Fr_2 + x_T23_S3_Fr_3 + x_T23_S3_Fr_4 + x_T23_S3_Fr_5 = 2
+ workload_T23_S10: x_T23_S10_Mo_1 + x_T23_S10_Mo_2 + x_T23_S10_Mo_3 + x_T23_S10_Mo_4 + x_T23_S10_Mo_5 + x_T23_S10_Tu_1 + x_T23_S10_Tu_2 + x_T23_S10_Tu_3 + x_T23_S10_Tu_4 + x_T23_S10_Tu_5 + x_T23_S10_We_1 + x_T23_S10_We_2 + x_T23_S10_We_3 + x_T23_S10_We_4 + x_T23_S10_We_5 + x_T23_S10_Th_1 + x_T23_S10_Th_2 + x_T23_S10_Th_3 + x_T23_S10_Th_4 + x_T23_S10_Th_5 + x_T23_S10_Fr_1 + x_T23_S10_Fr_2 + x_T23_S10_Fr_3 + x_T23_S10_Fr_4 + x_T23_S10_Fr_5 = 2
+ workload_T23_S11: x_T23_S11_Mo_1 + x_T23_S11_Mo_2 + x_T23_S11_Mo_3 + x_T23_S11_Mo_4 + x_T23_S11_Mo_5 + x_T23_S11_Tu_1 + x_T23_S11_Tu_2 + x_T23_S11_Tu_3 + x_T23_S11_Tu_4 + x_T23_S11_Tu_5 + x_T23_S11_We_1 + x_T23_S11_We_2 + x_T23_S11_We_3 + x_T23_S11_We_4 + x_T23_S11_We_5 + x_T23_S11_Th_1 + x_T23_S11_Th_2 + x_T23_S11_Th_3 + x_T23_S11_Th_4 + x_T23_S11_Th_5 + x_T23_S11_Fr_1 + x_T23_S11_Fr_2 + x_T23_S11_Fr_3 + x_T23_S11_Fr_4 + x_T23_S11_Fr_5 = 2
+ workload_T23_S12: x_T23_S12_Mo_1 + x_T23_S12_Mo_2 + x_T23_S12_Mo_3 + x_T23_S12_Mo_4 + x_T23_S12_Mo_5 + x_T23_S12_Tu_1 + x_T23_S12_Tu_2 + x_T23_S12_Tu_3 + x_T23_S12_Tu_4 + x_T23_S12_Tu_5 + x_T23_S12_We_1 + x_T23_S12_We_2 + x_T23_S12_We_3 + x_T23_S12_We_4 + x_T23_S12_We_5 + x_T23_S12_Th_1 + x_T23_S12_Th_2 + x_T23_S12_Th_3 + x_T23_S12_Th_4 + x_T23_S12_Th_5 + x_T23_S12_Fr_1 + x_T23_S12_Fr_2 + x_T23_S12_Fr_3 + x_T23_S12_Fr_4 + x_T23_S12_Fr_5 = 2
+ workload_T23_S19: x_T23_S19_Mo_1 + x_T23_S19_Mo_2 + x_T23_S19_Mo_3 + x_T23_S19_Mo_4 + x_T23_S19_Mo_5 + x_T23_S19_Tu_1 + x_T23_S19_Tu_2 + x_T23_S19_Tu_3 + x_T23_S19_Tu_4 + x_T23_S19_Tu_5 + x_T23_S19_We_1 + x_T23_S19_We_2 + x_T23_S19_We_3 + x_T23_S19_We_4 + x_T23_S19_We_5 + x_T23_S19_Th_1 + x_T23_S19_Th_2 + x_T23_S19_Th_3 + x_T23_S19_Th_4 + x_T23_S19_Th_5 + x_T23_S19_Fr_1 + x_T23_S19_Fr_2 + x_T23_S19_Fr_3 + x_T23_S19_Fr_4 + x_T23_S19_Fr_5 = 2
+ workload_T24_S4: x_T24_S4_Mo_1 + x_T24_S4_Mo_2 + x_T24_S4_Mo_3 + x_T24_S4_Mo_4 + x_T24_S4_Mo_5 + x_T24_S4_Tu_1 + x_T24_S4_Tu_2 + x_T24_S4_Tu_3 + x_T24_S4_Tu_4 + x_T24_S4_Tu_5 + x_T24_S4_We_1 + x_T24_S4_We_2 + x_T24_S4_We_3 + x_T24_S4_We_4 + x_T24_S4_We_5 + x_T24_S4_Th_1 + x_T24_S4_Th_2 + x_T24_S4_Th_3 + x_T24_S4_Th_4 + x_T24_S4_Th_5 + x_T24_S4_Fr_1 + x_T24_S4_Fr_2 + x_T24_S4_Fr_3 + x_T24_S4_Fr_4 + x_T24_S4_Fr_5 = 2
+ workload_T24_S5: x_T24_S5_Mo_1 + x_T24_S5_Mo_2 + x_T24_S5_Mo_3 + x_T24_S5_Mo_4 + x_T24_S5_Mo_5 + x_T24_S5_Tu_1 + x_T24_S5_Tu_2 + x_T24_S5_Tu_3 + x_T24_S5_Tu_4 + x_T24_S5_Tu_5 + x_T24_S5_We_1 + x_T24_S5_We_2 + x_T24_S5_We_3 + x_T24_S5_We_4 + x_T24_S5_We_5 + x_T24_S5_Th_1 + x_T24_S5_Th_2 + x_T24_S5_Th_3 + x_T24_S5_Th_4 + x_T24_S5_Th_5 + x_T24_S5_Fr_1 + x_T24_S5_Fr_2 + x_T24_S5_Fr_3 + x_T24_S5_Fr_4 + x_T24_S5_Fr_5 = 2
+ workload_T24_S6: x_T24_S6_Mo_1 + x_T24_S6_Mo_2 + x_T24_S6_Mo_3 + x_T24_S6_Mo_4 + x_T24_S6_Mo_5 + x_T24_S6_Tu_1 + x_T24_S6_Tu_2 + x_T24_S6_Tu_3 + x_T24_S6_Tu_4 + x_T24_S6_Tu_5 + x_T24_S6_We_1 + x_T24_S6_We_2 + x_T24_S6_We_3 + x_T24_S6_We_4 + x_T24_S6_We_5 + x_T24_S6_Th_1 + x_T24_S6_Th_2 + x_T24_S6_Th_3 + x_T24_S6_Th_4 + x_T24_S6_Th_5 + x_T24_S6_Fr_1 + x_T24_S6_Fr_2 + x_T24_S6_Fr_3 + x_T24_S6_Fr_4 + x_T24_S6_Fr_5 = 2
+ workload_T24_S13: x_T24_S13_Mo_1 + x_T24_S13_Mo_2 + x_T24_S13_Mo_3 + x_T24_S13_Mo_4 + x_T24_S13_Mo_5 + x_T24_S13_Tu_1 + x_T24_S13_Tu_2 + x_T24_S13_Tu_3 + x_T24_S13_Tu_4 + x_T24_S13_Tu_5 + x_T24_S13_We_1 + x_T24_S13_We_2 + x_T24_S13_We_3 + x_T24_S13_We_4 + x_T24_S13_We_5 + x_T24_S13_Th_1 + x_T24_S13_Th_2 + x_T24_S13_Th_3 + x_T24_S13_Th_4 + x_T24_S13_Th_5 + x_T24_S13_Fr_1 + x_T24_S13_Fr_2 + x_T24_S13_Fr_3 + x_T24_S13_Fr_4 + x_T24_S13_Fr_5 = 2
+ workload_T24_S14: x_T24_S14_Mo_1 + x_T24_S14_Mo_2 + x_T24_S14_Mo_3 + x_T24_S14_Mo_4 + x_T24_S14_Mo_5 + x_T24_S14_Tu_1 + x_T24_S14_Tu_2 + x_T24_S14_Tu_3 + x_T24_S14_Tu_4 + x_T24_S14_Tu_5 + x_T24_S14_We_1 + x_T24_S14_We_2 + x_T24_S14_We_3 + x_T24_S14_We_4 + x_T24_S14_We_5 + x_T24_S14_Th_1 + x_T24_S14_Th_2 + x_T24_S14_Th_3 + x_T24_S14_Th_4 + x_T24_S14_Th_5 + x_T24_S14_Fr_1 + x_T24_S14_Fr_2 + x_T24_S14_Fr_3 + x_T24_S14_Fr_4 + x_T24_S14_Fr_5 = 2
+ workload_T24_S15: x_T24_S15_Mo_1 + x_T24_S15_Mo_2 + x_T24_S15_Mo_3 + x_T24_S15_Mo_4 + x_T24_S15_Mo_5 + x_T24_S15_Tu_1 + x_T24_S15_Tu_2 + x_T24_S15_Tu_3 + x_T24_S15_Tu_4 + x_T24_S15_Tu_5 + x_T24_S15_We_1 + x_T24_S15_We_2 + x_T24_S15_We_3 + x_T24_S15_We_4 + x_T24_S15_We_5 + x_T24_S15_Th_1 + x_T24_S15_Th_2 + x_T24_S15_Th_3 + x_T24_S15_Th_4 + x_T24_S15_Th_5 + x_T24_S15_Fr_1 + x_T24_S15_Fr_2 + x_T24_S15_Fr_3 + x_T24_S15_Fr_4 + x_T24_S15_Fr_5 = 2
+ workload_T24_S20: x_T24_S20_Mo_1 + x_T24_S20_Mo_2 + x_T24_S20_Mo_3 + x_T24_S20_Mo_4 + x_T24_S20_Mo_5 + x_T24_S20_Tu_1 + x_T24_S20_Tu_2 + x_T24_S20_Tu_3 + x_T24_S20_Tu_4 + x_T24_S20_Tu_5 + x_T24_S20_We_1 + x_T24_S20_We_2 + x_T24_S20_We_3 + x_T24_S20_We_4 + x_T24_S20_We_5 + x_T24_S20_Th_1 + x_T24_S20_Th_2 + x_T24_S20_Th_3 + x_T24_S20_Th_4 + x_T24_S20_Th_5 + x_T24_S20_Fr_1 + x_T24_S20_Fr_2 + x_T24_S20_Fr_3 + x_T24_S20_Fr_4 + x_T24_S20_Fr_5 = 2
+ workload_T25_S7: x_T25_S7_Mo_1 + x_T25_S7_Mo_2 + x_T25_S7_Mo_3 + x_T25_S7_Mo_4 + x_T25_S7_Mo_5 + x_T25_S7_Tu_1 + x_T25_S7_Tu_2 + x_T25_S7_Tu_3 + x_T25_S7_Tu_4 + x_T25_S7_Tu_5 + x_T25_S7_We_1 + x_T25_S7_We_2 + x_T25_S7_We_3 + x_T25_S7_We_4 + x_T25_S7_We_5 + x_T25_S7_Th_1 + x_T25_S7_Th_2 + x_T25_S7_Th_3 + x_T25_S7_Th_4 + x_T25_S7_Th_5 + x_T25_S7_Fr_1 + x_T25_S7_Fr_2 + x_T25_S7_Fr_3 + x_T25_S7_Fr_4 + x_T25_S7_Fr_5 = 2
+ workload_T25_S8: x_T25_S8_Mo_1 + x_T25_S8_Mo_2 + x_T25_S8_Mo_3 + x_T25_S8_Mo_4 + x_T25_S8_Mo_5 + x_T25_S8_Tu_1 + x_T25_S8_Tu_2 + x_T25_S8_Tu_3 + x_T25_S8_Tu_4 + x_T25_S8_Tu_5 + x_T25_S8_We_1 + x_T25_S8_We_2 + x_T25_S8_We_3 + x_T25_S8_We_4 + x_T25_S8_We_5 + x_T25_S8_Th_1 + x_T25_S8_Th_2 + x_T25_S8_Th_3 + x_T25_S8_Th_4 + x_T25_S8_Th_5 + x_T25_S8_Fr_1 + x_T25_S8_Fr_2 + x_T25_S8_Fr_3 + x_T25_S8_Fr_4 + x_T25_S8_Fr_5 = 2
+ workload_T25_S9: x_T25_S9_Mo_1 + x_T25_S9_Mo_2 + x_T25_S9_Mo_3 + x_T25_S9_Mo_4 + x_T25_S9_Mo_5 + x_T25_S9_Tu_1 + x_T25_S9_Tu_2 + x_T25_S9_Tu_3 + x_T25_S9_Tu_4 + x_T25_S9_Tu_5 + x_T25_S9_We_1 + x_T25_S9_We_2 + x_T25_S9_We_3 + x_T25_S9_We_4 + x_T25_S9_We_5 + x_T25_S9_Th_1 + x_T25_S9_Th_2 + x_T25_S9_Th_3 + x_T25_S9_Th_4 + x_T25_S9_Th_5 + x_T25_S9_Fr_1 + x_T25_S9_Fr_2 + x_T25_S9_Fr_3 + x_T25_S9_Fr_4 + x_T25_S9_Fr_5 = 2
+ workload_T25_S16: x_T25_S16_Mo_1 + x_T25_S16_Mo_2 + x_T25_S16_Mo_3 + x_T25_S16_Mo_4 + x_T25_S16_Mo_5 + x_T25_S16_Tu_1 + x_T25_S16_Tu_2 + x_T25_S16_Tu_3 + x_T25_S16_Tu_4 + x_T25_S16_Tu_5 + x_T25_S16_We_1 + x_T25_S16_We_2 + x_T25_S16_We_3 + x_T25_S16_We_4 + x_T25_S16_We_5 + x_T25_S16_Th_1 + x_T25_S16_Th_2 + x_T25_S16_Th_3 + x_T25_S16_Th_4 + x_T25_S16_Th_5 + x_T25_S16_Fr_1 + x_T25_S16_Fr_2 + x_T25_S16_Fr_3 + x_T25_S16_Fr_4 + x_T25_S16_Fr_5 = 2
+ workload_T25_S17: x_T25_S17_Mo_1 + x_T25_S17_Mo_2 + x_T25_S17_Mo_3 + x_T25_S17_Mo_4 + x_T25_S17_Mo_5 + x_T25_S17_Tu_1 + x_T25_S17_Tu_2 + x_T25_S17_Tu_3 + x_T25_S17_Tu_4 + x_T25_S17_Tu_5 + x_T25_S17_We_1 + x_T25_S17_We_2 + x_T25_S17_We_3 + x_T25_S17_We_4 + x_T25_S17_We_5 + x_T25_S17_Th_1 + x_T25_S17_Th_2 + x_T25_S17_Th_3 + x_T25_S17_Th_4 + x_T25_S17_Th_5 + x_T25_S17_Fr_1 + x_T25_S17_Fr_2 + x_T25_S17_Fr_3 + x_T25_S17_Fr_4 + x_T25_S17_Fr_5 = 2
+ workload_T25_S18: x_T25_S18_Mo_1 + x_T25_S18_Mo_2 + x_T25_S18_Mo_3 + x_T25_S18_Mo_4 + x_T25_S18_Mo_5 + x_T25_S18_Tu_1 + x_T25_S18_Tu_2 + x_T25_S18_Tu_3 + x_T25_S18_Tu_4 + x_T25_S18_Tu_5 + x_T25_S18_We_1 + x_T25_S18_We_2 + x_T25_S18_We_3 + x_T25_S18_We_4 + x_T25_S18_We_5 + x_T25_S18_Th_1 + x_T25_S18_Th_2 + x_T25_S18_Th_3 + x_T25_S18_Th_4 + x_T25_S18_Th_5 + x_T25_S18_Fr_1 + x_T25_S18_Fr_2 + x_T25_S18_Fr_3 + x_T25_S18_Fr_4 + x_T25_S18_Fr_5 = 2
+ workload_T26_S1: x_T26_S1_Mo_1 + x_T26_S1_Mo_2 + x_T26_S1_Mo_3 + x_T26_S1_Mo_4 + x_T26_S1_Mo_5 + x_T26_S1_Tu_1 + x_T26_S1_Tu_2 + x_T26_S1_Tu_3 + x_T26_S1_Tu_4 + x_T26_S1_Tu_5 + x_T26_S1_We_1 + x_T26_S1_We_2 + x_T26_S1_We_3 + x_T26_S1_We_4 + x_T26_S1_We_5 + x_T26_S1_Th_1 + x_T26_S1_Th_2 + x_T26_S1_Th_3 + x_T26_S1_Th_4 + x_T26_S1_Th_5 + x_T26_S1_Fr_1 + x_T26_S1_Fr_2 + x_T26_S1_Fr_3 + x_T26_S1_Fr_4 + x_T26_S1_Fr_5 = 2
+ workload_T26_S4: x_T26_S4_Mo_1 + x_T26_S4_Mo_2 + x_T26_S4_Mo_3 + x_T26_S4_Mo_4 + x_T26_S4_Mo_5 + x_T26_S4_Tu_1 + x_T26_S4_Tu_2 + x_T26_S4_Tu_3 + x_T26_S4_Tu_4 + x_T26_S4_Tu_5 + x_T26_S4_We_1 + x_T26_S4_We_2 + x_T26_S4_We_3 + x_T26_S4_We_4 + x_T26_S4_We_5 + x_T26_S4_Th_1 + x_T26_S4_Th_2 + x_T26_S4_Th_3 + x_T26_S4_Th_4 + x_T26_S4_Th_5 + x_T26_S4_Fr_1 + x_T26_S4_Fr_2 + x_T26_S4_Fr_3 + x_T26_S4_Fr_4 + x_T26_S4_Fr_5 = 2
+ workload_T26_S7: x_T26_S7_Mo_1 + x_T26_S7_Mo_2 + x_T26_S7_Mo_3 + x_T26_S7_Mo_4 + x_T26_S7_Mo_5 + x_T26_S7_Tu_1 + x_T26_S7_Tu_2 + x_T26_S7_Tu_3 + x_T26_S7_Tu_4 + x_T26_S7_Tu_5 + x_T26_S7_We_1 + x_T26_S7_We_2 + x_T26_S7_We_3 + x_T26_S7_We_4 + x_T26_S7_We_5 + x_T26_S7_Th_1 + x_T26_S7_Th_2 + x_T26_S7_Th_3 + x_T26_S7_Th_4 + x_T26_S7_Th_5 + x_T26_S7_Fr_1 + x_T26_S7_Fr_2 + x_T26_S7_Fr_3 + x_T26_S7_Fr_4 + x_T26_S7_Fr_5 = 2
+ workload_T26_S10: x_T26_S10_Mo_1 + x_T26_S10_Mo_2 + x_T26_S10_Mo_3 + x_T26_S10_Mo_4 + x_T26_S10_Mo_5 + x_T26_S10_Tu_1 + x_T26_S10_Tu_2 + x_T26_S10_Tu_3 + x_T26_S10_Tu_4 + x_T26_S10_Tu_5 + x_T26_S10_We_1 + x_T26_S10_We_2 + x_T26_S10_We_3 + x_T26_S10_We_4 + x_T26_S10_We_5 + x_T26_S10_Th_1 + x_T26_S10_Th_2 + x_T26_S10_Th_3 + x_T26_S10_Th_4 + x_T26_S10_Th_5 + x_T26_S10_Fr_1 + x_T26_S10_Fr_2 + x_T26_S10_Fr_3 + x_T26_S10_Fr_4 + x_T26_S10_Fr_5 = 2
+ workload_T26_S13: x_T26_S13_Mo_1 + x_T26_S13_Mo_2 + x_T26_S13_Mo_3 + x_T26_S13_Mo_4 + x_T26_S13_Mo_5 + x_T26_S13_Tu_1 + x_T26_S13_Tu_2 + x_T26_S13_Tu_3 + x_T26_S13_Tu_4 + x_T26_S13_Tu_5 + x_T26_S13_We_1 + x_T26_S13_We_2 + x_T26_S13_We_3 + x_T26_S13_We_4 + x_T26_S13_We_5 + x_T26_S13_Th_1 + x_T26_S13_Th_2 + x_T26_S13_Th_3 + x_T26_S13_Th_4 + x_T26_S13_Th_5 + x_T26_S13_Fr_1 + x_T26_S13_Fr_2 + x_T26_S13_Fr_3 + x_T26_S13_Fr_4 + x_T26_S13_Fr_5 = 2
+ workload_T26_S16: x_T26_S16_Mo_1 + x_T26_S16_Mo_2 + x_T26_S16_Mo_3 + x_T26_S16_Mo_4 + x_T26_S16_Mo_5 + x_T26_S16_Tu_1 + x_T26_S16_Tu_2 + x_T26_S16_Tu_3 + x_T26_S16_Tu_4 + x_T26_S16_Tu_5 + x_T26_S16_We_1 + x_T26_S16_We_2 + x_T26_S16_We_3 + x_T26_S16_We_4 + x_T26_S16_We_5 + x_T26_S16_Th_1 + x_T26_S16_Th_2 + x_T26_S16_Th_3 + x_T26_S16_Th_4 + x_T26_S16_Th_5 + x_T26_S16_Fr_1 + x_T26_S16_Fr_2 + x_T26_S16_Fr_3 + x_T26_S16_Fr_4 + x_T26_S16_Fr_5 = 2
+ workload_T26_S19: x_T26_S19_Mo_1 + x_T26_S19_Mo_2 + x_T26_S19_Mo_3 + x_T26_S19_Mo_4 + x_T26_S19_Mo_5 + x_T26_S19_Tu_1 + x_T26_S19_Tu_2 + x_T26_S19_Tu_3 + x_T26_S19_Tu_4 + x_T26_S19_Tu_5 + x_T26_S19_We_1 + x_T26_S19_We_2 + x_T26_S19_We_3 + x_T26_S19_We_4 + x_T26_S19_We_5 + x_T26_S19_Th_1 + x_T26_S19_Th_2 + x_T26_S19_Th_3 + x_T26_S19_Th_4 + x_T26_S19_Th_5 + x_T26_S19_Fr_1 + x_T26_S19_Fr_2 + x_T26_S19_Fr_3 + x_T26_S19_Fr_4 + x_T26_S19_Fr_5 = 2
+ workload_T27_S2: x_T27_S2_Mo_1 + x_T27_S2_Mo_2 + x_T27_S2_Mo_3 + x_T27_S2_Mo_4 + x_T27_S2_Mo_5 + x_T27_S2_Tu_1 + x_T27_S2_Tu_2 + x_T27_S2_Tu_3 + x_T27_S2_Tu_4 + x_T27_S2_Tu_5 + x_T27_S2_We_1 + x_T27_S2_We_2 + x_T27_S2_We_3 + x_T27_S2_We_4 + x_T27_S2_We_5 + x_T27_S2_Th_1 + x_T27_S2_Th_2 + x_T27_S2_Th_3 + x_T27_S2_Th_4 + x_T27_S2_Th_5 + x_T27_S2_Fr_1 + x_T27_S2_Fr_2 + x_T27_S2_Fr_3 + x_T27_S2_Fr_4 + x_T27_S2_Fr_5 = 2
+ workload_T27_S5: x_T27_S5_Mo_1 + x_T27_S5_Mo_2 + x_T27_S5_Mo_3 + x_T27_S5_Mo_4 + x_T27_S5_Mo_5 + x_T27_S5_Tu_1 + x_T27_S5_Tu_2 + x_T27_S5_Tu_3 + x_T27_S5_Tu_4 + x_T27_S5_Tu_5 + x_T27_S5_We_1 + x_T27_S5_We_2 + x_T27_S5_We_3 + x_T27_S5_We_4 + x_T27_S5_We_5 + x_T27_S5_Th_1 + x_T27_S5_Th_2 + x_T27_S5_Th_3 + x_T27_S5_Th_4 + x_T27_S5_Th_5 + x_T27_S5_Fr_1 + x_T27_S5_Fr_2 + x_T27_S5_Fr_3 + x_T27_S5_Fr_4 + x_T27_S5_Fr_5 = 2
+ workload_T27_S8: x_T27_S8_Mo_1 + x_T27_S8_Mo_2 + x_T27_S8_Mo_3 + x_T27_S8_Mo_4 + x_T27_S8_Mo_5 + x_T27_S8_Tu_1 + x_T27_S8_Tu_2 + x_T27_S8_Tu_3 + x_T27_S8_Tu_4 + x_T27_S8_Tu_5 + x_T27_S8_We_1 + x_T27_S8_We_2 + x_T27_S8_We_3 + x_T27_S8_We_4 + x_T27_S8_We_5 + x_T27_S8_Th_1 + x_T27_S8_Th_2 + x_T27_S8_Th_3 + x_T27_S8_Th_4 + x_T27_S8_Th_5 + x_T27_S8_Fr_1 + x_T27_S8_Fr_2 + x_T27_S8_Fr_3 + x_T27_S8_Fr_4 + x_T27_S8_Fr_5 = 2
+ workload_T27_S11: x_T27_S11_Mo_1 + x_T27_S11_Mo_2 + x_T27_S11_Mo_3 + x_T27_S11_Mo_4 + x_T27_S11_Mo_5 + x_T27_S11_Tu_1 + x_T27_S11_Tu_2 + x_T27_S11_Tu_3 + x_T27_S11_Tu_4 + x_T27_S11_Tu_5 + x_T27_S11_We_1 + x_T27_S11_We_2 + x_T27_S11_We_3 + x_T27_S11_We_4 + x_T27_S11_We_5 + x_T27_S11_Th_1 + x_T27_S11_Th_2 + x_T27_S11_Th_3 + x_T27_S11_Th_4 + x_T27_S11_Th_5 + x_T27_S11_Fr_1 + x_T27_S11_Fr_2 + x_T27_S11_Fr_3 + x_T27_S11_Fr_4 + x_T27_S11_Fr_5 = 2
+ workload_T27_S14: x_T27_S14_Mo_1 + x_T27_S14_Mo_2 + x_T27_S14_Mo_3 + x_T27_S14_Mo_4 + x_T27_S14_Mo_5 + x_T27_S14_Tu_1 + x_T27_S14_Tu_2 + x_T27_S14_Tu_3 + x_T27_S14_Tu_4 + x_T27_S14_Tu_5 + x_T27_S14_We_1 + x_T27_S14_We_2 + x_T27_S14_We_3 + x_T27_S14_We_4 + x_T27_S14_We_5 + x_T27_S14_Th_1 + x_T27_S14_Th_2 + x_T27_S14_Th_3 + x_T27_S14_Th_4 + x_T27_S14_Th_5 + x_T27_S14_Fr_1 + x_T27_S14_Fr_2 + x_T27_S14_Fr_3 + x_T27_S14_Fr_4 + x_T27_S14_Fr_5 = 2
+ workload_T27_S17: x_T27_S17_Mo_1 + x_T27_S17_Mo_2 + x_T27_S17_Mo_3 + x_T27_S17_Mo_4 + x_T27_S17_Mo_5 + x_T27_S17_Tu_1 + x_T27_S17_Tu_2 + x_T27_S17_Tu_3 + x_T27_S17_Tu_4 + x_T27_S17_Tu_5 + x_T27_S17_We_1 + x_T27_S17_We_2 + x_T27_S17_We_3 + x_T27_S17_We_4 + x_T27_S17_We_5 + x_T27_S17_Th_1 + x_T27_S17_Th_2 + x_T27_S17_Th_3 + x_T27_S17_Th_4 + x_T27_S17_Th_5 + x_T27_S17_Fr_1 + x_T27_S17_Fr_2 + x_T27_S17_Fr_3 + x_T27_S17_Fr_4 + x_T27_S17_Fr_5 = 2
+ workload_T27_S20: x_T27_S20_Mo_1 + x_T27_S20_Mo_2 + x_T27_S20_Mo_3 + x_T27_S20_Mo_4 + x_T27_S20_Mo_5 + x_T27_S20_Tu_1 + x_T27_S20_Tu_2 + x_T27_S20_Tu_3 + x_T27_S20_Tu_4 + x_T27_S20_Tu_5 + x_T27_S20_We_1 + x_T27_S20_We_2 + x_T27_S20_We_3 + x_T27_S20_We_4 + x_T27_S20_We_5 + x_T27_S20_Th_1 + x_T27_S20_Th_2 + x_T27_S20_Th_3 + x_T27_S20_Th_4 + x_T27_S20_Th_5 + x_T27_S20_Fr_1 + x_T27_S20_Fr_2 + x_T27_S20_Fr_3 + x_T27_S20_Fr_4 + x_T27_S20_Fr_5 = 2
+ workload_T28_S3: x_T28_S3_Mo_1 + x_T28_S3_Mo_2 + x_T28_S3_Mo_3 + x_T28_S3_Mo_4 + x_T28_S3_Mo_5 + x_T28_S3_Tu_1 + x_T28_S3_Tu_2 + x_T28_S3_Tu_3 + x_T28_S3_Tu_4 + x_T28_S3_Tu_5 + x_T28_S3_We_1 + x_T28_S3_We_2 + x_T28_S3_We_3 + x_T28_S3_We_4 + x_T28_S3_We_5 + x_T28_S3_Th_1 + x_T28_S3_Th_2 + x_T28_S3_Th_3 + x_T28_S3_Th_4 + x_T28_S3_Th_5 + x_T28_S3_Fr_1 + x_T28_S3_Fr_2 + x_T28_S3_Fr_3 + x_T28_S3_Fr_4 + x_T28_S3_Fr_5 = 2
+ workload_T28_S6: x_T28_S6_Mo_1 + x_T28_S6_Mo_2 + x_T28_S6_Mo_3 + x_T28_S6_Mo_4 + x_T28_S6_Mo_5 + x_T28_S6_Tu_1 + x_T28_S6_Tu_2 + x_T28_S6_Tu_3 + x_T28_S6_Tu_4 + x_T28_S6_Tu_5 + x_T28_S6_We_1 + x_T28_S6_We_2 + x_T28_S6_We_3 + x_T28_S6_We_4 + x_T28_S6_We_5 + x_T28_S6_Th_1 + x_T28_S6_Th_2 + x_T28_S6_Th_3 + x_T28_S6_Th_4 + x_T28_S6_Th_5 + x_T28_S6_Fr_1 + x_T28_S6_Fr_2 + x_T28_S6_Fr_3 + x_T28_S6_Fr_4 + x_T28_S6_Fr_5 = 2
+ workload_T28_S9: x_T28_S9_Mo_1 + x_T28_S9_Mo_2 + x_T28_S9_Mo_3 + x_T28_S9_Mo_4 + x_T28_S9_Mo_5 + x_T28_S9_Tu_1 + x_T28_S9_Tu_2 + x_T28_S9_Tu_3 + x_T28_S9_Tu_4 + x_T28_S9_Tu_5 + x_T28_S9_We_1 + x_T28_S9_We_2 + x_T28_S9_We_3 + x_T28_S9_We_4 + x_T28_S9_We_5 + x_T28_S9_Th_1 + x_T28_S9_Th_2 + x_T28_S9_Th_3 + x_T28_S9_Th_4 + x_T28_S9_Th_5 + x_T28_S9_Fr_1 + x_T28_S9_Fr_2 + x_T28_S9_Fr_3 + x_T28_S9_Fr_4 + x_T28_S9_Fr_5 = 2
+ workload_T28_S12: x_T28_S12_Mo_1 + x_T28_S12_Mo_2 + x_T28_S12_Mo_3 + x_T28_S12_Mo_4 + x_T28_S12_Mo_5 + x_T28_S12_Tu_1 + x_T28_S12_Tu_2 + x_T28_S12_Tu_3 + x_T28_S12_Tu_4 + x_T28_S12_Tu_5 + x_T28_S12_We_1 + x_T28_S12_We_2 + x_T28_S12_We_3 + x_T28_S12_We_4 + x_T28_S12_We_5 + x_T28_S12_Th_1 + x_T28_S12_Th_2 + x_T28_S12_Th_3 + x_T28_S12_Th_4 + x_T28_S12_Th_5 + x_T28_S12_Fr_1 + x_T28_S12_Fr_2 + x_T28_S12_Fr_3 + x_T28_S12_Fr_4 + x_T28_S12_Fr_5 = 2
+ workload_T28_S15: x_T28_S15_Mo_1 + x_T28_S15_Mo_2 + x_T28_S15_Mo_3 + x_T28_S15_Mo_4 + x_T28_S15_Mo_5 + x_T28_S15_Tu_1 + x_T28_S15_Tu_2 + x_T28_S15_Tu_3 + x_T28_S15_Tu_4 + x_T28_S15_Tu_5 + x_T28_S15_We_1 + x_T28_S15_We_2 + x_T28_S15_We_3 + x_T28_S15_We_4 + x_T28_S15_We_5 + x_T28_S15_Th_1 + x_T28_S15_Th_2 + x_T28_S15_Th_3 + x_T28_S15_Th_4 + x_T28_S15_Th_5 + x_T28_S15_Fr_1 + x_T28_S15_Fr_2 + x_T28_S15_Fr_3 + x_T28_S15_Fr_4 + x_T28_S15_Fr_5 = 2
+ workload_T28_S18: x_T28_S18_Mo_1 + x_T28_S18_Mo_2 + x_T28_S18_Mo_3 + x_T28_S18_Mo_4 + x_T28_S18_Mo_5 + x_T28_S18_Tu_1 + x_T28_S18_Tu_2 + x_T28_S18_Tu_3 + x_T28_S18_Tu_4 + x_T28_S18_Tu_5 + x_T28_S18_We_1 + x_T28_S18_We_2 + x_T28_S18_We_3 + x_T28_S18_We_4 + x_T28_S18_We_5 + x_T28_S18_Th_1 + x_T28_S18_Th_2 + x_T28_S18_Th_3 + x_T28_S18_Th_4 + x_T28_S18_Th_5 + x_T28_S18_Fr_1 + x_T28_S18_Fr_2 + x_T28_S18_Fr_3 + x_T28_S18_Fr_4 + x_T28_S18_Fr_5 = 2
+ workload_T29_S1: x_T29_S1_Mo_1 + x_T29_S1_Mo_2 + x_T29_S1_Mo_3 + x_T29_S1_Mo_4 + x_T29_S1_Mo_5 + x_T29_S1_Tu_1 + x_T29_S1_Tu_2 + x_T29_S1_Tu_3 + x_T29_S1_Tu_4 + x_T29_S1_Tu_5 + x_T29_S1_We_1 + x_T29_S1_We_2 + x_T29_S1_We_3 + x_T29_S1_We_4 + x_T29_S1_We_5 + x_T29_S1_Th_1 + x_T29_S1_Th_2 + x_T29_S1_Th_3 + x_T29_S1_Th_4 + x_T29_S1_Th_5 + x_T29_S1_Fr_1 + x_T29_S1_Fr_2 + x_T29_S1_Fr_3 + x_T29_S1_Fr_4 + x_T29_S1_Fr_5 = 2
+ workload_T29_S4: x_T29_S4_Mo_1 + x_T29_S4_Mo_2 + x_T29_S4_Mo_3 + x_T29_S4_Mo_4 + x_T29_S4_Mo_5 + x_T29_S4_Tu_1 + x_T29_S4_Tu_2 + x_T29_S4_Tu_3 + x_T29_S4_Tu_4 + x_T29_S4_Tu_5 + x_T29_S4_We_1 + x_T29_S4_We_2 + x_T29_S4_We_3 + x_T29_S4_We_4 + x_T29_S4_We_5 + x_T29_S4_Th_1 + x_T29_S4_Th_2 + x_T29_S4_Th_3 + x_T29_S4_Th_4 + x_T29_S4_Th_5 + x_T29_S4_Fr_1 + x_T29_S4_Fr_2 + x_T29_S4_Fr_3 + x_T29_S4_Fr_4 + x_T29_S4_Fr_5 = 2
+ workload_T29_S7: x_T29_S7_Mo_1 + x_T29_S7_Mo_2 + x_T29_S7_Mo_3 + x_T29_S7_Mo_4 + x_T29_S7_Mo_5 + x_T29_S7_Tu_1 + x_T29_S7_Tu_2 + x_T29_S7_Tu_3 + x_T29_S7_Tu_4 + x_T29_S7_Tu_5 + x_T29_S7_We_1 + x_T29_S7_We_2 + x_T29_S7_We_3 + x_T29_S7_We_4 + x_T29_S7_We_5 + x_T29_S7_Th_1 + x_T29_S7_Th_2 + x_T29_S7_Th_3 + x_T29_S7_Th_4 + x_T29_S7_Th_5 + x_T29_S7_Fr_1 + x_T29_S7_Fr_2 + x_T29_S7_Fr_3 + x_T29_S7_Fr_4 + x_T29_S7_Fr_5 = 2
+ workload_T29_S10: x_T29_S10_Mo_1 + x_T29_S10_Mo_2 + x_T29_S10_Mo_3 + x_T29_S10_Mo_4 + x_T29_S10_Mo_5 + x_T29_S10_Tu_1 + x_T29_S10_Tu_2 + x_T29_S10_Tu_3 + x_T29_S10_Tu_4 + x_T29_S10_Tu_5 + x_T29_S10_We_1 + x_T29_S10_We_2 + x_T29_S10_We_3 + x_T29_S10_We_4 + x_T29_S10_We_5 + x_T29_S10_Th_1 + x_T29_S10_Th_2 + x_T29_S10_Th_3 + x_T29_S10_Th_4 + x_T29_S10_Th_5 + x_T29_S10_Fr_1 + x_T29_S10_Fr_2 + x_T29_S10_Fr_3 + x_T29_S10_Fr_4 + x_T29_S10_Fr_5 = 2
+ workload_T29_S13: x_T29_S13_Mo_1 + x_T29_S13_Mo_2 + x_T29_S13_Mo_3 + x_T29_S13_Mo_4 + x_T29_S13_Mo_5 + x_T29_S13_Tu_1 + x_T29_S13_Tu_2 + x_T29_S13_Tu_3 + x_T29_S13_Tu_4 + x_T29_S13_Tu_5 + x_T29_S13_We_1 + x_T29_S13_We_2 + x_T29_S13_We_3 + x_T29_S13_We_4 + x_T29_S13_We_5 + x_T29_S13_Th_1 + x_T29_S13_Th_2 + x_T29_S13_Th_3 + x_T29_S13_Th_4 + x_T29_S13_Th_5 + x_T29_S13_Fr_1 + x_T29_S13_Fr_2 + x_T29_S13_Fr_3 + x_T29_S13_Fr_4 + x_T29_S13_Fr_5 = 2
+ workload_T29_S16: x_T29_S16_Mo_1 + x_T29_S16_Mo_2 + x_T29_S16_Mo_3 + x_T29_S16_Mo_4 + x_T29_S16_Mo_5 + x_T29_S16_Tu_1 + x_T29_S16_Tu_2 + x_T29_S16_Tu_3 + x_T29_S16_Tu_4 + x_T29_S16_Tu_5 + x_T29_S16_We_1 + x_T29_S16_We_2 + x_T29_S16_We_3 + x_T29_S16_We_4 + x_T29_S16_We_5 + x_T29_S16_Th_1 + x_T29_S16_Th_2 + x_T29_S16_Th_3 + x_T29_S16_Th_4 + x_T29_S16_Th_5 + x_T29_S16_Fr_1 + x_T29_S16_Fr_2 + x_T29_S16_Fr_3 + x_T29_S16_Fr_4 + x_T29_S16_Fr_5 = 2
+ workload_T29_S19: x_T29_S19_Mo_1 + x_T29_S19_Mo_2 + x_T29_S19_Mo_3 + x_T29_S19_Mo_4 + x_T29_S19_Mo_5 + x_T29_S19_Tu_1 + x_T29_S19_Tu_2 + x_T29_S19_Tu_3 + x_T29_S19_Tu_4 + x_T29_S19_Tu_5 + x_T29_S19_We_1 + x_T29_S19_We_2 + x_T29_S19_We_3 + x_T29_S19_We_4 + x_T29_S19_We_5 + x_T29_S19_Th_1 + x_T29_S19_Th_2 + x_T29_S19_Th_3 + x_T29_S19_Th_4 + x_T29_S19_Th_5 + x_T29_S19_Fr_1 + x_T29_S19_Fr_2 + x_T29_S19_Fr_3 + x_T29_S19_Fr_4 + x_T29_S19_Fr_5 = 2
+ workload_T30_S2: x_T30_S2_Mo_1 + x_T30_S2_Mo_2 + x_T30_S2_Mo_3 + x_T30_S2_Mo_4 + x_T30_S2_Mo_5 + x_T30_S2_Tu_1 + x_T30_S2_Tu_2 + x_T30_S2_Tu_3 + x_T30_S2_Tu_4 + x_T30_S2_Tu_5 + x_T30_S2_We_1 + x_T30_S2_We_2 + x_T30_S2_We_3 + x_T30_S2_We_4 + x_T30_S2_We_5 + x_T30_S2_Th_1 + x_T30_S2_Th_2 + x_T30_S2_Th_3 + x_T30_S2_Th_4 + x_T30_S2_Th_5 + x_T30_S2_Fr_1 + x_T30_S2_Fr_2 + x_T30_S2_Fr_3 + x_T30_S2_Fr_4 + x_T30_S2_Fr_5 = 2
+ workload_T30_S5: x_T30_S5_Mo_1 + x_T30_S5_Mo_2 + x_T30_S5_Mo_3 + x_T30_S5_Mo_4 + x_T30_S5_Mo_5 + x_T30_S5_Tu_1 + x_T30_S5_Tu_2 + x_T30_S5_Tu_3 + x_T30_S5_Tu_4 + x_T30_S5_Tu_5 + x_T30_S5_We_1 + x_T30_S5_We_2 + x_T30_S5_We_3 + x_T30_S5_We_4 + x_T30_S5_We_5 + x_T30_S5_Th_1 + x_T30_S5_Th_2 + x_T30_S5_Th_3 + x_T30_S5_Th_4 + x_T30_S5_Th_5 + x_T30_S5_Fr_1 + x_T30_S5_Fr_2 + x_T30_S5_Fr_3 + x_T30_S5_Fr_4 + x_T30_S5_Fr_5 = 2
+ workload_T30_S8: x_T30_S8_Mo_1 + x_T30_S8_Mo_2 + x_T30_S8_Mo_3 + x_T30_S8_Mo_4 + x_T30_S8_Mo_5 + x_T30_S8_Tu_1 + x_T30_S8_Tu_2 + x_T30_S8_Tu_3 + x_T30_S8_Tu_4 + x_T30_S8_Tu_5 + x_T30_S8_We_1 + x_T30_S8_We_2 + x_T30_S8_We_3 + x_T30_S8_We_4 + x_T30_S8_We_5 + x_T30_S8_Th_1 + x_T30_S8_Th_2 + x_T30_S8_Th_3 + x_T30_S8_Th_4 + x_T30_S8_Th_5 + x_T30_S8_Fr_1 + x_T30_S8_Fr_2 + x_T30_S8_Fr_3 + x_T30_S8_Fr_4 + x_T30_S8_Fr_5 = 2
+ workload_T30_S11: x_T30_S11_Mo_1 + x_T30_S11_Mo_2 + x_T30_S11_Mo_3 + x_T30_S11_Mo_4 + x_T30_S11_Mo_5 + x_T30_S11_Tu_1 + x_T30_S11_Tu_2 + x_T30_S11_Tu_3 + x_T30_S11_Tu_4 + x_T30_S11_Tu_5 + x_T30_S11_We_1 + x_T30_S11_We_2 + x_T30_S11_We_3 + x_T30_S11_We_4 + x_T30_S11_We_5 + x_T30_S11_Th_1 + x_T30_S11_Th_2 + x_T30_S11_Th_3 + x_T30_S11_Th_4 + x_T30_S11_Th_5 + x_T30_S11_Fr_1 + x_T30_S11_Fr_2 + x_T30_S11_Fr_3 + x_T30_S11_Fr_4 + x_T30_S11_Fr_5 = 2
+ workload_T30_S14: x_T30_S14_Mo_1 + x_T30_S14_Mo_2 + x_T30_S14_Mo_3 + x_T30_S14_Mo_4 + x_T30_S14_Mo_5 + x_T30_S14_Tu_1 + x_T30_S14_Tu_2 + x_T30_S14_Tu_3 + x_T30_S14_Tu_4 + x_T30_S14_Tu_5 + x_T30_S14_We_1 + x_T30_S14_We_2 + x_T30_S14_We_3 + x_T30_S14_We_4 + x_T30_S14_We_5 + x_T30_S14_Th_1 + x_T30_S14_Th_2 + x_T30_S14_Th_3 + x_T30_S14_Th_4 + x_T30_S14_Th_5 + x_T30_S14_Fr_1 + x_T30_S14_Fr_2 + x_T30_S14_Fr_3 + x_T30_S14_Fr_4 + x_T30_S14_Fr_5 = 2
+ workload_T30_S17: x_T30_S17_Mo_1 + x_T30_S17_Mo_2 + x_T30_S17_Mo_3 + x_T30_S17_Mo_4 + x_T30_S17_Mo_5 + x_T30_S17_Tu_1 + x_T30_S17_Tu_2 + x_T30_S17_Tu_3 + x_T30_S17_Tu_4 + x_T30_S17_Tu_5 + x_T30_S17_We_1 + x_T30_S17_We_2 + x_T30_S17_We_3 + x_T30_S17_We_4 + x_T30_S17_We_5 + x_T30_S17_Th_1 + x_T30_S17_Th_2 + x_T30_S17_Th_3 + x_T30_S17_Th_4 + x_T30_S17_Th_5 + x_T30_S17_Fr_1 + x_T30_S17_Fr_2 + x_T30_S17_Fr_3 + x_T30_S17_Fr_4 + x_T30_S17_Fr_5 = 2
+ workload_T31_S3: x_T31_S3_Mo_1 + x_T31_S3_Mo_2 + x_T31_S3_Mo_3 + x_T31_S3_Mo_4 + x_T31_S3_Mo_5 + x_T31_S3_Tu_1 + x_T31_S3_Tu_2 + x_T31_S3_Tu_3 + x_T31_S3_Tu_4 + x_T31_S3_Tu_5 + x_T31_S3_We_1 + x_T31_S3_We_2 + x_T31_S3_We_3 + x_T31_S3_We_4 + x_T31_S3_We_5 + x_T31_S3_Th_1 + x_T31_S3_Th_2 + x_T31_S3_Th_3 + x_T31_S3_Th_4 + x_T31_S3_Th_5 + x_T31_S3_Fr_1 + x_T31_S3_Fr_2 + x_T31_S3_Fr_3 + x_T31_S3_Fr_4 + x_T31_S3_Fr_5 = 2
+ workload_T31_S6: x_T31_S6_Mo_1 + x_T31_S6_Mo_2 + x_T31_S6_Mo_3 + x_T31_S6_Mo_4 + x_T31_S6_Mo_5 + x_T31_S6_Tu_1 + x_T31_S6_Tu_2 + x_T31_S6_Tu_3 + x_T31_S6_Tu_4 + x_T31_S6_Tu_5 + x_T31_S6_We_1 + x_T31_S6_We_2 + x_T31_S6_We_3 + x_T31_S6_We_4 + x_T31_S6_We_5 + x_T31_S6_Th_1 + x_T31_S6_Th_2 + x_T31_S6_Th_3 + x_T31_S6_Th_4 + x_T31_S6_Th_5 + x_T31_S6_Fr_1 + x_T31_S6_Fr_2 + x_T31_S6_Fr_3 + x_T31_S6_Fr_4 + x_T31_S6_Fr_5 = 2
+ workload_T31_S9: x_T31_S9_Mo_1 + x_T31_S9_Mo_2 + x_T31_S9_Mo_3 + x_T31_S9_Mo_4 + x_T31_S9_Mo_5 + x_T31_S9_Tu_1 + x_T31_S9_Tu_2 + x_T31_S9_Tu_3 + x_T31_S9_Tu_4 + x_T31_S9_Tu_5 + x_T31_S9_We_1 + x_T31_S9_We_2 + x_T31_S9_We_3 + x_T31_S9_We_4 + x_T31_S9_We_5 + x_T31_S9_Th_1 + x_T31_S9_Th_2 + x_T31_S9_Th_3 + x_T31_S9_Th_4 + x_T31_S9_Th_5 + x_T31_S9_Fr_1 + x_T31_S9_Fr_2 + x_T31_S9_Fr_3 + x_T31_S9_Fr_4 + x_T31_S9_Fr_5 = 2
+ workload_T31_S12: x_T31_S12_Mo_1 + x_T31_S12_Mo_2 + x_T31_S12_Mo_3 + x_T31_S12_Mo_4 + x_T31_S12_Mo_5 + x_T31_S12_Tu_1 + x_T31_S12_Tu_2 + x_T31_S12_Tu_3 + x_T31_S12_Tu_4 + x_T31_S12_Tu_5 + x_T31_S12_We_1 + x_T31_S12_We_2 + x_T31_S12_We_3 + x_T31_S12_We_4 + x_T31_S12_We_5 + x_T31_S12_Th_1 + x_T31_S12_Th_2 + x_T31_S12_Th_3 + x_T31_S12_Th_4 + x_T31_S12_Th_5 + x_T31_S12_Fr_1 + x_T31_S12_Fr_2 + x_T31_S12_Fr_3 + x_T31_S12_Fr_4 + x_T31_S12_Fr_5 = 2
+ workload_T31_S15: x_T31_S15_Mo_1 + x_T31_S15_Mo_2 + x_T31_S15_Mo_3 + x_T31_S15_Mo_4 + x_T31_S15_Mo_5 + x_T31_S15_Tu_1 + x_T31_S15_Tu_2 + x_T31_S15_Tu_3 + x_T31_S15_Tu_4 + x_T31_S15_Tu_5 + x_T31_S15_We_1 + x_T31_S15_We_2 + x_T31_S15_We_3 + x_T31_S15_We_4 + x_T31_S15_We_5 + x_T31_S15_Th_1 + x_T31_S15_Th_2 + x_T31_S15_Th_3 + x_T31_S15_Th_4 + x_T31_S15_Th_5 + x_T31_S15_Fr_1 + x_T31_S15_Fr_2 + x_T31_S15_Fr_3 + x_T31_S15_Fr_4 + x_T31_S15_Fr_5 = 2
+ workload_T31_S18: x_T31_S18_Mo_1 + x_T31_S18_Mo_2 + x_T31_S18_Mo_3 + x_T31_S18_Mo_4 + x_T31_S18_Mo_5 + x_T31_S18_Tu_1 + x_T31_S18_Tu_2 + x_T31_S18_Tu_3 + x_T31_S18_Tu_4 + x_T31_S18_Tu_5 + x_T31_S18_We_1 + x_T31_S18_We_2 + x_T31_S18_We_3 + x_T31_S18_We_4 + x_T31_S18_We_5 + x_T31_S18_Th_1 + x_T31_S18_Th_2 + x_T31_S18_Th_3 + x_T31_S18_Th_4 + x_T31_S18_Th_5 + x_T31_S18_Fr_1 + x_T31_S18_Fr_2 + x_T31_S18_Fr_3 + x_T31_S18_Fr_4 + x_T31_S18_Fr_5 = 2
+ workload_T31_S20: x_T31_S20_Mo_1 + x_T31_S20_Mo_2 + x_T31_S20_Mo_3 + x_T31_S20_Mo_4 + x_T31_S20_Mo_5 + x_T31_S20_Tu_1 + x_T31_S20_Tu_2 + x_T31_S20_Tu_3 + x_T31_S20_Tu_4 + x_T31_S20_Tu_5 + x_T31_S20_We_1 + x_T31_S20_We_2 + x_T31_S20_We_3 + x_T31_S20_We_4 + x_T31_S20_We_5 + x_T31_S20_Th_1 + x_T31_S20_Th_2 + x_T31_S20_Th_3 + x_T31_S20_Th_4 + x_T31_S20_Th_5 + x_T31_S20_Fr_1 + x_T31_S20_Fr_2 + x_T31_S20_Fr_3 + x_T31_S20_Fr_4 + x_T31_S20_Fr_5 = 2
+ workload_T32_S1: x_T32_S1_Mo_1 + x_T32_S1_Mo_2 + x_T32_S1_Mo_3 + x_T32_S1_Mo_4 + x_T32_S1_Mo_5 + x_T32_S1_Tu_1 + x_T32_S1_Tu_2 + x_T32_S1_Tu_3 + x_T32_S1_Tu_4 + x_T32_S1_Tu_5 + x_T32_S1_We_1 + x_T32_S1_We_2 + x_T32_S1_We_3 + x_T32_S1_We_4 + x_T32_S1_We_5 + x_T32_S1_Th_1 + x_T32_S1_Th_2 + x_T32_S1_Th_3 + x_T32_S1_Th_4 + x_T32_S1_Th_5 + x_T32_S1_Fr_1 + x_T32_S1_Fr_2 + x_T32_S1_Fr_3 + x_T32_S1_Fr_4 + x_T32_S1_Fr_5 = 1
+ workload_T32_S2: x_T32_S2_Mo_1 + x_T32_S2_Mo_2 + x_T32_S2_Mo_3 + x_T32_S2_Mo_4 + x_T32_S2_Mo_5 + x_T32_S2_Tu_1 + x_T32_S2_Tu_2 + x_T32_S2_Tu_3 + x_T32_S2_Tu_4 + x_T32_S2_Tu_5 + x_T32_S2_We_1 + x_T32_S2_We_2 + x_T32_S2_We_3 + x_T32_S2_We_4 + x_T32_S2_We_5 + x_T32_S2_Th_1 + x_T32_S2_Th_2 + x_T32_S2_Th_3 + x_T32_S2_Th_4 + x_T32_S2_Th_5 + x_T32_S2_Fr_1 + x_T32_S2_Fr_2 + x_T32_S2_Fr_3 + x_T32_S2_Fr_4 + x_T32_S2_Fr_5 = 1
+ workload_T32_S3: x_T32_S3_Mo_1 + x_T32_S3_Mo_2 + x_T32_S3_Mo_3 + x_T32_S3_Mo_4 + x_T32_S3_Mo_5 + x_T32_S3_Tu_1 + x_T32_S3_Tu_2 + x_T32_S3_Tu_3 + x_T32_S3_Tu_4 + x_T32_S3_Tu_5 + x_T32_S3_We_1 + x_T32_S3_We_2 + x_T32_S3_We_3 + x_T32_S3_We_4 + x_T32_S3_We_5 + x_T32_S3_Th_1 + x_T32_S3_Th_2 + x_T32_S3_Th_3 + x_T32_S3_Th_4 + x_T32_S3_Th_5 + x_T32_S3_Fr_1 + x_T32_S3_Fr_2 + x_T32_S3_Fr_3 + x_T32_S3_Fr_4 + x_T32_S3_Fr_5 = 1
+ workload_T32_S4: x_T32_S4_Mo_1 + x_T32_S4_Mo_2 + x_T32_S4_Mo_3 + x_T32_S4_Mo_4 + x_T32_S4_Mo_5 + x_T32_S4_Tu_1 + x_T32_S4_Tu_2 + x_T32_S4_Tu_3 + x_T32_S4_Tu_4 + x_T32_S4_Tu_5 + x_T32_S4_We_1 + x_T32_S4_We_2 + x_T32_S4_We_3 + x_T32_S4_We_4 + x_T32_S4_We_5 + x_T32_S4_Th_1 + x_T32_S4_Th_2 + x_T32_S4_Th_3 + x_T32_S4_Th_4 + x_T32_S4_Th_5 + x_T32_S4_Fr_1 + x_T32_S4_Fr_2 + x_T32_S4_Fr_3 + x_T32_S4_Fr_4 + x_T32_S4_Fr_5 = 1
+ workload_T32_S5: x_T32_S5_Mo_1 + x_T32_S5_Mo_2 + x_T32_S5_Mo_3 + x_T32_S5_Mo_4 + x_T32_S5_Mo_5 + x_T32_S5_Tu_1 + x_T32_S5_Tu_2 + x_T32_S5_Tu_3 + x_T32_S5_Tu_4 + x_T32_S5_Tu_5 + x_T32_S5_We_1 + x_T32_S5_We_2 + x_T32_S5_We_3 + x_T32_S5_We_4 + x_T32_S5_We_5 + x_T32_S5_Th_1 + x_T32_S5_Th_2 + x_T32_S5_Th_3 + x_T32_S5_Th_4 + x_T32_S5_Th_5 + x_T32_S5_Fr_1 + x_T32_S5_Fr_2 + x_T32_S5_Fr_3 + x_T32_S5_Fr_4 + x_T32_S5_Fr_5 = 1
+ workload_T32_S6: x_T32_S6_Mo_1 + x_T32_S6_Mo_2 + x_T32_S6_Mo_3 + x_T32_S6_Mo_4 + x_T32_S6_Mo_5 + x_T32_S6_Tu_1 + x_T32_S6_Tu_2 + x_T32_S6_Tu_3 + x_T32_S6_Tu_4 + x_T32_S6_Tu_5 + x_T32_S6_We_1 + x_T32_S6_We_2 + x_T32_S6_We_3 + x_T32_S6_We_4 + x_T32_S6_We_5 + x_T32_S6_Th_1 + x_T32_S6_Th_2 + x_T32_S6_Th_3 + x_T32_S6_Th_4 + x_T32_S6_Th_5 + x_T32_S6_Fr_1 + x_T32_S6_Fr_2 + x_T32_S6_Fr_3 + x_T32_S6_Fr_4 + x_T32_S6_Fr_5 = 1
+ workload_T32_S7: x_T32_S7_Mo_1 + x_T32_S7_Mo_2 + x_T32_S7_Mo_3 + x_T32_S7_Mo_4 + x_T32_S7_Mo_5 + x_T32_S7_Tu_1 + x_T32_S7_Tu_2 + x_T32_S7_Tu_3 + x_T32_S7_Tu_4 + x_T32_S7_Tu_5 + x_T32_S7_We_1 + x_T32_S7_We_2 + x_T32_S7_We_3 + x_T32_S7_We_4 + x_T32_S7_We_5 + x_T32_S7_Th_1 + x_T32_S7_Th_2 + x_T32_S7_Th_3 + x_T32_S7_Th_4 + x_T32_S7_Th_5 + x_T32_S7_Fr_1 + x_T32_S7_Fr_2 + x_T32_S7_Fr_3 + x_T32_S7_Fr_4 + x_T32_S7_Fr_5 = 1
+ workload_T32_S8: x_T32_S8_Mo_1 + x_T32_S8_Mo_2 + x_T32_S8_Mo_3 + x_T32_S8_Mo_4 + x_T32_S8_Mo_5 + x_T32_S8_Tu_1 + x_T32_S8_Tu_2 + x_T32_S8_Tu_3 + x_T32_S8_Tu_4 + x_T32_S8_Tu_5 + x_T32_S8_We_1 + x_T32_S8_We_2 + x_T32_S8_We_3 + x_T32_S8_We_4 + x_T32_S8_We_5 + x_T32_S8_Th_1 + x_T32_S8_Th_2 + x_T32_S8_Th_3 + x_T32_S8_Th_4 + x_T32_S8_Th_5 + x_T32_S8_Fr_1 + x_T32_S8_Fr_2 + x_T32_S8_Fr_3 + x_T32_S8_Fr_4 + x_T32_S8_Fr_5 = 1
+ workload_T32_S9: x_T32_S9_Mo_1 + x_T32_S9_Mo_2 + x_T32_S9_Mo_3 + x_T32_S9_Mo_4 + x_T32_S9_Mo_5 + x_T32_S9_Tu_1 + x_T32_S9_Tu_2 + x_T32_S9_Tu_3 + x_T32_S9_Tu_4 + x_T32_S9_Tu_5 + x_T32_S9_We_1 + x_T32_S9_We_2 + x_T32_S9_We_3 + x_T32_S9_We_4 + x_T32_S9_We_5 + x_T32_S9_Th_1 + x_T32_S9_Th_2 + x_T32_S9_Th_3 + x_T32_S9_Th_4 + x_T32_S9_Th_5 + x_T32_S9_Fr_1 + x_T32_S9_Fr_2 + x_T32_S9_Fr_3 + x_T32_S9_Fr_4 + x_T32_S9_Fr_5 = 1
+ workload_T32_S16: x_T32_S16_Mo_1 + x_T32_S16_Mo_2 + x_T32_S16_Mo_3 + x_T32_S16_Mo_4 + x_T32_S16_Mo_5 + x_T32_S16_Tu_1 + x_T32_S16_Tu_2 + x_T32_S16_Tu_3 + x_T32_S16_Tu_4 + x_T32_S16_Tu_5 + x_T32_S16_We_1 + x_T32_S16_We_2 + x_T32_S16_We_3 + x_T32_S16_We_4 + x_T32_S16_We_5 + x_T32_S16_Th_1 + x_T32_S16_Th_2 + x_T32_S16_Th_3 + x_T32_S16_Th_4 + x_T32_S16_Th_5 + x_T32_S16_Fr_1 + x_T32_S16_Fr_2 + x_T32_S16_Fr_3 + x_T32_S16_Fr_4 + x_T32_S16_Fr_5 = 1
+ workload_T32_S17: x_T32_S17_Mo_1 + x_T32_S17_Mo_2 + x_T32_S17_Mo_3 + x_T32_S17_Mo_4 + x_T32_S17_Mo_5 + x_T32_S17_Tu_1 + x_T32_S17_Tu_2 + x_T32_S17_Tu_3 + x_T32_S17_Tu_4 + x_T32_S17_Tu_5 + x_T32_S17_We_1 + x_T32_S17_We_2 + x_T32_S17_We_3 + x_T32_S17_We_4 + x_T32_S17_We_5 + x_T32_S17_Th_1 + x_T32_S17_Th_2 + x_T32_S17_Th_3 + x_T32_S17_Th_4 + x_T32_S17_Th_5 + x_T32_S17_Fr_1 + x_T32_S17_Fr_2 + x_T32_S17_Fr_3 + x_T32_S17_Fr_4 + x_T32_S17_Fr_5 = 1
+ workload_T32_S18: x_T32_S18_Mo_1 + x_T32_S18_Mo_2 + x_T32_S18_Mo_3 + x_T32_S18_Mo_4 + x_T32_S18_Mo_5 + x_T32_S18_Tu_1 + x_T32_S18_Tu_2 + x_T32_S18_Tu_3 + x_T32_S18_Tu_4 + x_T32_S18_Tu_5 + x_T32_S18_We_1 + x_T32_S18_We_2 + x_T32_S18_We_3 + x_T32_S18_We_4 + x_T32_S18_We_5 + x_T32_S18_Th_1 + x_T32_S18_Th_2 + x_T32_S18_Th_3 + x_T32_S18_Th_4 + x_T32_S18_Th_5 + x_T32_S18_Fr_1 + x_T32_S18_Fr_2 + x_T32_S18_Fr_3 + x_T32_S18_Fr_4 + x_T32_S18_Fr_5 = 1
+ workload_T32_S19: x_T32_S19_Mo_1 + x_T32_S19_Mo_2 + x_T32_S19_Mo_3 + x_T32_S19_Mo_4 + x_T32_S19_Mo_5 + x_T32_S19_Tu_1 + x_T32_S19_Tu_2 + x_T32_S19_Tu_3 + x_T32_S19_Tu_4 + x_T32_S19_Tu_5 + x_T32_S19_We_1 + x_T32_S19_We_2 + x_T32_S19_We_3 + x_T32_S19_We_4 + x_T32_S19_We_5 + x_T32_S19_Th_1 + x_T32_S19_Th_2 + x_T32_S19_Th_3 + x_T32_S19_Th_4 + x_T32_S19_Th_5 + x_T32_S19_Fr_1 + x_T32_S19_Fr_2 + x_T32_S19_Fr_3 + x_T32_S19_Fr_4 + x_T32_S19_Fr_5 = 1
+ workload_T32_S20: x_T32_S20_Mo_1 + x_T32_S20_Mo_2 + x_T32_S20_Mo_3 + x_T32_S20_Mo_4 + x_T32_S20_Mo_5 + x_T32_S20_Tu_1 + x_T32_S20_Tu_2 + x_T32_S20_Tu_3 + x_T32_S20_Tu_4 + x_T32_S20_Tu_5 + x_T32_S20_We_1 + x_T32_S20_We_2 + x_T32_S20_We_3 + x_T32_S20_We_4 + x_T32_S20_We_5 + x_T32_S20_Th_1 + x_T32_S20_Th_2 + x_T32_S20_Th_3 + x_T32_S20_Th_4 + x_T32_S20_Th_5 + x_T32_S20_Fr_1 + x_T32_S20_Fr_2 + x_T32_S20_Fr_3 + x_T32_S20_Fr_4 + x_T32_S20_Fr_5 = 1
+ workload_T33_S16: x_T33_S16_Mo_1 + x_T33_S16_Mo_2 + x_T33_S16_Mo_3 + x_T33_S16_Mo_4 + x_T33_S16_Mo_5 + x_T33_S16_Tu_1 + x_T33_S16_Tu_2 + x_T33_S16_Tu_3 + x_T33_S16_Tu_4 + x_T33_S16_Tu_5 + x_T33_S16_We_1 + x_T33_S16_We_2 + x_T33_S16_We_3 + x_T33_S16_We_4 + x_T33_S16_We_5 + x_T33_S16_Th_1 + x_T33_S16_Th_2 + x_T33_S16_Th_3 + x_T33_S16_Th_4 + x_T33_S16_Th_5 + x_T33_S16_Fr_1 + x_T33_S16_Fr_2 + x_T33_S16_Fr_3 + x_T33_S16_Fr_4 + x_T33_S16_Fr_5 = 1
+ workload_T33_S17: x_T33_S17_Mo_1 + x_T33_S17_Mo_2 + x_T33_S17_Mo_3 + x_T33_S17_Mo_4 + x_T33_S17_Mo_5 + x_T33_S17_Tu_1 + x_T33_S17_Tu_2 + x_T33_S17_Tu_3 + x_T33_S17_Tu_4 + x_T33_S17_Tu_5 + x_T33_S17_We_1 + x_T33_S17_We_2 + x_T33_S17_We_3 + x_T33_S17_We_4 + x_T33_S17_We_5 + x_T33_S17_Th_1 + x_T33_S17_Th_2 + x_T33_S17_Th_3 + x_T33_S17_Th_4 + x_T33_S17_Th_5 + x_T33_S17_Fr_1 + x_T33_S17_Fr_2 + x_T33_S17_Fr_3 + x_T33_S17_Fr_4 + x_T33_S17_Fr_5 = 1
+ workload_T33_S18: x_T33_S18_Mo_1 + x_T33_S18_Mo_2 + x_T33_S18_Mo_3 + x_T33_S18_Mo_4 + x_T33_S18_Mo_5 + x_T33_S18_Tu_1 + x_T33_S18_Tu_2 + x_T33_S18_Tu_3 + x_T33_S18_Tu_4 + x_T33_S18_Tu_5 + x_T33_S18_We_1 + x_T33_S18_We_2 + x_T33_S18_We_3 + x_T33_S18_We_4 + x_T33_S18_We_5 + x_T33_S18_Th_1 + x_T33_S18_Th_2 + x_T33_S18_Th_3 + x_T33_S18_Th_4 + x_T33_S18_Th_5 + x_T33_S18_Fr_1 + x_T33_S18_Fr_2 + x_T33_S18_Fr_3 + x_T33_S18_Fr_4 + x_T33_S18_Fr_5 = 1
+ workload_T33_S19: x_T33_S19_Mo_1 + x_T33_S19_Mo_2 + x_T33_S19_Mo_3 + x_T33_S19_Mo_4 + x_T33_S19_Mo_5 + x_T33_S19_Tu_1 + x_T33_S19_Tu_2 + x_T33_S19_Tu_3 + x_T33_S19_Tu_4 + x_T33_S19_Tu_5 + x_T33_S19_We_1 + x_T33_S19_We_2 + x_T33_S19_We_3 + x_T33_S19_We_4 + x_T33_S19_We_5 + x_T33_S19_Th_1 + x_T33_S19_Th_2 + x_T33_S19_Th_3 + x_T33_S19_Th_4 + x_T33_S19_Th_5 + x_T33_S19_Fr_1 + x_T33_S19_Fr_2 + x_T33_S19_Fr_3 + x_T33_S19_Fr_4 + x_T33_S19_Fr_5 = 1
+ workload_T33_S20: x_T33_S20_Mo_1 + x_T33_S20_Mo_2 + x_T33_S20_Mo_3 + x_T33_S20_Mo_4 + x_T33_S20_Mo_5 + x_T33_S20_Tu_1 + x_T33_S20_Tu_2 + x_T33_S20_Tu_3 + x_T33_S20_Tu_4 + x_T33_S20_Tu_5 + x_T33_S20_We_1 + x_T33_S20_We_2 + x_T33_S20_We_3 + x_T33_S20_We_4 + x_T33_S20_We_5 + x_T33_S20_Th_1 + x_T33_S20_Th_2 + x_T33_S20_Th_3 + x_T33_S20_Th_4 + x_T33_S20_Th_5 + x_T33_S20_Fr_1 + x_T33_S20_Fr_2 + x_T33_S20_Fr_3 + x_T33_S20_Fr_4 + x_T33_S20_Fr_5 = 1
+ max_daily_T1_S1_Mo: x_T1_S1_Mo_1 + x_T1_S1_Mo_2 + x_T1_S1_Mo_3 + x_T1_S1_Mo_4 + x_T1_S1_Mo_5 <= 2
+ max_daily_T1_S1_Tu: x_T1_S1_Tu_1 + x_T1_S1_Tu_2 + x_T1_S1_Tu_3 + x_T1_S1_Tu_4 + x_T1_S1_Tu_5 <= 2
+ max_daily_T1_S1_We: x_T1_S1_We_1 + x_T1_S1_We_2 + x_T1_S1_We_3 + x_T1_S1_We_4 + x_T1_S1_We_5 <= 2
+ max_daily_T1_S1_Th: x_T1_S1_Th_1 + x_T1_S1_Th_2 + x_T1_S1_Th_3 + x_T1_S1_Th_4 + x_T1_S1_Th_5 <= 2
+ max_daily_T1_S1_Fr: x_T1_S1_Fr_1 + x_T1_S1_Fr_2 + x_T1_S1_Fr_3 + x_T1_S1_Fr_4 + x_T1_S1_Fr_5 <= 2
+ max_daily_T1_S2_Mo: x_T1_S2_Mo_1 + x_T1_S2_Mo_2 + x_T1_S2_Mo_3 + x_T1_S2_Mo_4 + x_T1_S2_Mo_5 <= 2
+ max_daily_T1_S2_Tu: x_T1_S2_Tu_1 + x_T1_S2_Tu_2 + x_T1_S2_Tu_3 + x_T1_S2_Tu_4 + x_T1_S2_Tu_5 <= 2
+ max_daily_T1_S2_We: x_T1_S2_We_1 + x_T1_S2_We_2 + x_T1_S2_We_3 + x_T1_S2_We_4 + x_T1_S2_We_5 <= 2
+ max_daily_T1_S2_Th: x_T1_S2_Th_1 + x_T1_S2_Th_2 + x_T1_S2_Th_3 + x_T1_S2_Th_4 + x_T1_S2_Th_5 <= 2
+ max_daily_T1_S2_Fr: x_T1_S2_Fr_1 + x_T1_S2_Fr_2 + x_T1_S2_Fr_3 + x_T1_S2_Fr_4 + x_T1_S2_Fr_5 <= 2
+ max_daily_T1_S3_Mo: x_T1_S3_Mo_1 + x_T1_S3_Mo_2 + x_T1_S3_Mo_3 + x_T1_S3_Mo_4 + x_T1_S3_Mo_5 <= 2
+ max_daily_T1_S3_Tu: x_T1_S3_Tu_1 + x_T1_S3_Tu_2 + x_T1_S3_Tu_3 + x_T1_S3_Tu_4 + x_T1_S3_Tu_5 <= 2
+ max_daily_T1_S3_We: x_T1_S3_We_1 + x_T1_S3_We_2 + x_T1_S3_We_3 + x_T1_S3_We_4 + x_T1_S3_We_5 <= 2
+ max_daily_T1_S3_Th: x_T1_S3_Th_1 + x_T1_S3_Th_2 + x_T1_S3_Th_3 + x_T1_S3_Th_4 + x_T1_S3_Th_5 <= 2
+ max_daily_T1_S3_Fr: x_T1_S3_Fr_1 + x_T1_S3_Fr_2 + x_T1_S3_Fr_3 + x_T1_S3_Fr_4 + x_T1_S3_Fr_5 <= 2
+ max_daily_T1_S4_Mo: x_T1_S4_Mo_1 + x_T1_S4_Mo_2 + x_T1_S4_Mo_3 + x_T1_S4_Mo_4 + x_T1_S4_Mo_5 <= 2
+ max_daily_T1_S4_Tu: x_T1_S4_Tu_1 + x_T1_S4_Tu_2 + x_T1_S4_Tu_3 + x_T1_S4_Tu_4 + x_T1_S4_Tu_5 <= 2
+ max_daily_T1_S4_We: x_T1_S4_We_1 + x_T1_S4_We_2 + x_T1_S4_We_3 + x_T1_S4_We_4 + x_T1_S4_We_5 <= 2
+ max_daily_T1_S4_Th: x_T1_S4_Th_1 + x_T1_S4_Th_2 + x_T1_S4_Th_3 + x_T1_S4_Th_4 + x_T1_S4_Th_5 <= 2
+ max_daily_T1_S4_Fr: x_T1_S4_Fr_1 + x_T1_S4_Fr_2 + x_T1_S4_Fr_3 + x_T1_S4_Fr_4 + x_T1_S4_Fr_5 <= 2
+ max_daily_T1_S16_Mo: x_T1_S16_Mo_1 + x_T1_S16_Mo_2 + x_T1_S16_Mo_3 + x_T1_S16_Mo_4 + x_T1_S16_Mo_5 <= 2
+ max_daily_T1_S16_Tu: x_T1_S16_Tu_1 + x_T1_S16_Tu_2 + x_T1_S16_Tu_3 + x_T1_S16_Tu_4 + x_T1_S16_Tu_5 <= 2
+ max_daily_T1_S16_We: x_T1_S16_We_1 + x_T1_S16_We_2 + x_T1_S16_We_3 + x_T1_S16_We_4 + x_T1_S16_We_5 <= 2
+ max_daily_T1_S16_Th: x_T1_S16_Th_1 + x_T1_S16_Th_2 + x_T1_S16_Th_3 + x_T1_S16_Th_4 + x_T1_S16_Th_5 <= 2
+ max_daily_T1_S16_Fr: x_T1_S16_Fr_1 + x_T1_S16_Fr_2 + x_T1_S16_Fr_3 + x_T1_S16_Fr_4 + x_T1_S16_Fr_5 <= 2
+ max_daily_T1_S17_Mo: x_T1_S17_Mo_1 + x_T1_S17_Mo_2 + x_T1_S17_Mo_3 + x_T1_S17_Mo_4 + x_T1_S17_Mo_5 <= 2
+ max_daily_T1_S17_Tu: x_T1_S17_Tu_1 + x_T1_S17_Tu_2 + x_T1_S17_Tu_3 + x_T1_S17_Tu_4 + x_T1_S17_Tu_5 <= 2
+ max_daily_T1_S17_We: x_T1_S17_We_1 + x_T1_S17_We_2 + x_T1_S17_We_3 + x_T1_S17_We_4 + x_T1_S17_We_5 <= 2
+ max_daily_T1_S17_Th: x_T1_S17_Th_1 + x_T1_S17_Th_2 + x_T1_S17_Th_3 + x_T1_S17_Th_4 + x_T1_S17_Th_5 <= 2
+ max_daily_T1_S17_Fr: x_T1_S17_Fr_1 + x_T1_S17_Fr_2 + x_T1_S17_Fr_3 + x_T1_S17_Fr_4 + x_T1_S17_Fr_5 <= 2
+ max_daily_T2_S7_Mo: x_T2_S7_Mo_1 + x_T2_S7_Mo_2 + x_T2_S7_Mo_3 + x_T2_S7_Mo_4 + x_T2_S7_Mo_5 <= 2
+ max_daily_T2_S7_Tu: x_T2_S7_Tu_1 + x_T2_S7_Tu_2 + x_T2_S7_Tu_3 + x_T2_S7_Tu_4 + x_T2_S7_Tu_5 <= 2
+ max_daily_T2_S7_We: x_T2_S7_We_1 + x_T2_S7_We_2 + x_T2_S7_We_3 + x_T2_S7_We_4 + x_T2_S7_We_5 <= 2
+ max_daily_T2_S7_Th: x_T2_S7_Th_1 + x_T2_S7_Th_2 + x_T2_S7_Th_3 + x_T2_S7_Th_4 + x_T2_S7_Th_5 <= 2
+ max_daily_T2_S7_Fr: x_T2_S7_Fr_1 + x_T2_S7_Fr_2 + x_T2_S7_Fr_3 + x_T2_S7_Fr_4 + x_T2_S7_Fr_5 <= 2
+ max_daily_T2_S8_Mo: x_T2_S8_Mo_1 + x_T2_S8_Mo_2 + x_T2_S8_Mo_3 + x_T2_S8_Mo_4 + x_T2_S8_Mo_5 <= 2
+ max_daily_T2_S8_Tu: x_T2_S8_Tu_1 + x_T2_S8_Tu_2 + x_T2_S8_Tu_3 + x_T2_S8_Tu_4 + x_T2_S8_Tu_5 <= 2
+ max_daily_T2_S8_We: x_T2_S8_We_1 + x_T2_S8_We_2 + x_T2_S8_We_3 + x_T2_S8_We_4 + x_T2_S8_We_5 <= 2
+ max_daily_T2_S8_Th: x_T2_S8_Th_1 + x_T2_S8_Th_2 + x_T2_S8_Th_3 + x_T2_S8_Th_4 + x_T2_S8_Th_5 <= 2
+ max_daily_T2_S8_Fr: x_T2_S8_Fr_1 + x_T2_S8_Fr_2 + x_T2_S8_Fr_3 + x_T2_S8_Fr_4 + x_T2_S8_Fr_5 <= 2
+ max_daily_T2_S9_Mo: x_T2_S9_Mo_1 + x_T2_S9_Mo_2 + x_T2_S9_Mo_3 + x_T2_S9_Mo_4 + x_T2_S9_Mo_5 <= 2
+ max_daily_T2_S9_Tu: x_T2_S9_Tu_1 + x_T2_S9_Tu_2 + x_T2_S9_Tu_3 + x_T2_S9_Tu_4 + x_T2_S9_Tu_5 <= 2
+ max_daily_T2_S9_We: x_T2_S9_We_1 + x_T2_S9_We_2 + x_T2_S9_We_3 + x_T2_S9_We_4 + x_T2_S9_We_5 <= 2
+ max_daily_T2_S9_Th: x_T2_S9_Th_1 + x_T2_S9_Th_2 + x_T2_S9_Th_3 + x_T2_S9_Th_4 + x_T2_S9_Th_5 <= 2
+ max_daily_T2_S9_Fr: x_T2_S9_Fr_1 + x_T2_S9_Fr_2 + x_T2_S9_Fr_3 + x_T2_S9_Fr_4 + x_T2_S9_Fr_5 <= 2
+ max_daily_T2_S10_Mo: x_T2_S10_Mo_1 + x_T2_S10_Mo_2 + x_T2_S10_Mo_3 + x_T2_S10_Mo_4 + x_T2_S10_Mo_5 <= 2
+ max_daily_T2_S10_Tu: x_T2_S10_Tu_1 + x_T2_S10_Tu_2 + x_T2_S10_Tu_3 + x_T2_S10_Tu_4 + x_T2_S10_Tu_5 <= 2
+ max_daily_T2_S10_We: x_T2_S10_We_1 + x_T2_S10_We_2 + x_T2_S10_We_3 + x_T2_S10_We_4 + x_T2_S10_We_5 <= 2
+ max_daily_T2_S10_Th: x_T2_S10_Th_1 + x_T2_S10_Th_2 + x_T2_S10_Th_3 + x_T2_S10_Th_4 + x_T2_S10_Th_5 <= 2
+ max_daily_T2_S10_Fr: x_T2_S10_Fr_1 + x_T2_S10_Fr_2 + x_T2_S10_Fr_3 + x_T2_S10_Fr_4 + x_T2_S10_Fr_5 <= 2
+ max_daily_T2_S11_Mo: x_T2_S11_Mo_1 + x_T2_S11_Mo_2 + x_T2_S11_Mo_3 + x_T2_S11_Mo_4 + x_T2_S11_Mo_5 <= 2
+ max_daily_T2_S11_Tu: x_T2_S11_Tu_1 + x_T2_S11_Tu_2 + x_T2_S11_Tu_3 + x_T2_S11_Tu_4 + x_T2_S11_Tu_5 <= 2
+ max_daily_T2_S11_We: x_T2_S11_We_1 + x_T2_S11_We_2 + x_T2_S11_We_3 + x_T2_S11_We_4 + x_T2_S11_We_5 <= 2
+ max_daily_T2_S11_Th: x_T2_S11_Th_1 + x_T2_S11_Th_2 + x_T2_S11_Th_3 + x_T2_S11_Th_4 + x_T2_S11_Th_5 <= 2
+ max_daily_T2_S11_Fr: x_T2_S11_Fr_1 + x_T2_S11_Fr_2 + x_T2_S11_Fr_3 + x_T2_S11_Fr_4 + x_T2_S11_Fr_5 <= 2
+ max_daily_T3_S12_Mo: x_T3_S12_Mo_1 + x_T3_S12_Mo_2 + x_T3_S12_Mo_3 + x_T3_S12_Mo_4 + x_T3_S12_Mo_5 <= 2
+ max_daily_T3_S12_Tu: x_T3_S12_Tu_1 + x_T3_S12_Tu_2 + x_T3_S12_Tu_3 + x_T3_S12_Tu_4 + x_T3_S12_Tu_5 <= 2
+ max_daily_T3_S12_We: x_T3_S12_We_1 + x_T3_S12_We_2 + x_T3_S12_We_3 + x_T3_S12_We_4 + x_T3_S12_We_5 <= 2
+ max_daily_T3_S12_Th: x_T3_S12_Th_1 + x_T3_S12_Th_2 + x_T3_S12_Th_3 + x_T3_S12_Th_4 + x_T3_S12_Th_5 <= 2
+ max_daily_T3_S12_Fr: x_T3_S12_Fr_1 + x_T3_S12_Fr_2 + x_T3_S12_Fr_3 + x_T3_S12_Fr_4 + x_T3_S12_Fr_5 <= 2
+ max_daily_T3_S13_Mo: x_T3_S13_Mo_1 + x_T3_S13_Mo_2 + x_T3_S13_Mo_3 + x_T3_S13_Mo_4 + x_T3_S13_Mo_5 <= 2
+ max_daily_T3_S13_Tu: x_T3_S13_Tu_1 + x_T3_S13_Tu_2 + x_T3_S13_Tu_3 + x_T3_S13_Tu_4 + x_T3_S13_Tu_5 <= 2
+ max_daily_T3_S13_We: x_T3_S13_We_1 + x_T3_S13_We_2 + x_T3_S13_We_3 + x_T3_S13_We_4 + x_T3_S13_We_5 <= 2
+ max_daily_T3_S13_Th: x_T3_S13_Th_1 + x_T3_S13_Th_2 + x_T3_S13_Th_3 + x_T3_S13_Th_4 + x_T3_S13_Th_5 <= 2
+ max_daily_T3_S13_Fr: x_T3_S13_Fr_1 + x_T3_S13_Fr_2 + x_T3_S13_Fr_3 + x_T3_S13_Fr_4 + x_T3_S13_Fr_5 <= 2
+ max_daily_T3_S14_Mo: x_T3_S14_Mo_1 + x_T3_S14_Mo_2 + x_T3_S14_Mo_3 + x_T3_S14_Mo_4 + x_T3_S14_Mo_5 <= 2
+ max_daily_T3_S14_Tu: x_T3_S14_Tu_1 + x_T3_S14_Tu_2 + x_T3_S14_Tu_3 + x_T3_S14_Tu_4 + x_T3_S14_Tu_5 <= 2
+ max_daily_T3_S14_We: x_T3_S14_We_1 + x_T3_S14_We_2 + x_T3_S14_We_3 + x_T3_S14_We_4 + x_T3_S14_We_5 <= 2
+ max_daily_T3_S14_Th: x_T3_S14_Th_1 + x_T3_S14_Th_2 + x_T3_S14_Th_3 + x_T3_S14_Th_4 + x_T3_S14_Th_5 <= 2
+ max_daily_T3_S14_Fr: x_T3_S14_Fr_1 + x_T3_S14_Fr_2 + x_T3_S14_Fr_3 + x_T3_S14_Fr_4 + x_T3_S14_Fr_5 <= 2
+ max_daily_T3_S15_Mo: x_T3_S15_Mo_1 + x_T3_S15_Mo_2 + x_T3_S15_Mo_3 + x_T3_S15_Mo_4 + x_T3_S15_Mo_5 <= 2
+ max_daily_T3_S15_Tu: x_T3_S15_Tu_1 + x_T3_S15_Tu_2 + x_T3_S15_Tu_3 + x_T3_S15_Tu_4 + x_T3_S15_Tu_5 <= 2
+ max_daily_T3_S15_We: x_T3_S15_We_1 + x_T3_S15_We_2 + x_T3_S15_We_3 + x_T3_S15_We_4 + x_T3_S15_We_5 <= 2
+ max_daily_T3_S15_Th: x_T3_S15_Th_1 + x_T3_S15_Th_2 + x_T3_S15_Th_3 + x_T3_S15_Th_4 + x_T3_S15_Th_5 <= 2
+ max_daily_T3_S15_Fr: x_T3_S15_Fr_1 + x_T3_S15_Fr_2 + x_T3_S15_Fr_3 + x_T3_S15_Fr_4 + x_T3_S15_Fr_5 <= 2
+ max_daily_T4_S5_Mo: x_T4_S5_Mo_1 + x_T4_S5_Mo_2 + x_T4_S5_Mo_3 + x_T4_S5_Mo_4 + x_T4_S5_Mo_5 <= 2
+ max_daily_T4_S5_Tu: x_T4_S5_Tu_1 + x_T4_S5_Tu_2 + x_T4_S5_Tu_3 + x_T4_S5_Tu_4 + x_T4_S5_Tu_5 <= 2
+ max_daily_T4_S5_We: x_T4_S5_We_1 + x_T4_S5_We_2 + x_T4_S5_We_3 + x_T4_S5_We_4 + x_T4_S5_We_5 <= 2
+ max_daily_T4_S5_Th: x_T4_S5_Th_1 + x_T4_S5_Th_2 + x_T4_S5_Th_3 + x_T4_S5_Th_4 + x_T4_S5_Th_5 <= 2
+ max_daily_T4_S5_Fr: x_T4_S5_Fr_1 + x_T4_S5_Fr_2 + x_T4_S5_Fr_3 + x_T4_S5_Fr_4 + x_T4_S5_Fr_5 <= 2
+ max_daily_T4_S6_Mo: x_T4_S6_Mo_1 + x_T4_S6_Mo_2 + x_T4_S6_Mo_3 + x_T4_S6_Mo_4 + x_T4_S6_Mo_5 <= 2
+ max_daily_T4_S6_Tu: x_T4_S6_Tu_1 + x_T4_S6_Tu_2 + x_T4_S6_Tu_3 + x_T4_S6_Tu_4 + x_T4_S6_Tu_5 <= 2
+ max_daily_T4_S6_We: x_T4_S6_We_1 + x_T4_S6_We_2 + x_T4_S6_We_3 + x_T4_S6_We_4 + x_T4_S6_We_5 <= 2
+ max_daily_T4_S6_Th: x_T4_S6_Th_1 + x_T4_S6_Th_2 + x_T4_S6_Th_3 + x_T4_S6_Th_4 + x_T4_S6_Th_5 <= 2
+ max_daily_T4_S6_Fr: x_T4_S6_Fr_1 + x_T4_S6_Fr_2 + x_T4_S6_Fr_3 + x_T4_S6_Fr_4 + x_T4_S6_Fr_5 <= 2
+ max_daily_T4_S18_Mo: x_T4_S18_Mo_1 + x_T4_S18_Mo_2 + x_T4_S18_Mo_3 + x_T4_S18_Mo_4 + x_T4_S18_Mo_5 <= 2
+ max_daily_T4_S18_Tu: x_T4_S18_Tu_1 + x_T4_S18_Tu_2 + x_T4_S18_Tu_3 + x_T4_S18_Tu_4 + x_T4_S18_Tu_5 <= 2
+ max_daily_T4_S18_We: x_T4_S18_We_1 + x_T4_S18_We_2 + x_T4_S18_We_3 + x_T4_S18_We_4 + x_T4_S18_We_5 <= 2
+ max_daily_T4_S18_Th: x_T4_S18_Th_1 + x_T4_S18_Th_2 + x_T4_S18_Th_3 + x_T4_S18_Th_4 + x_T4_S18_Th_5 <= 2
+ max_daily_T4_S18_Fr: x_T4_S18_Fr_1 + x_T4_S18_Fr_2 + x_T4_S18_Fr_3 + x_T4_S18_Fr_4 + x_T4_S18_Fr_5 <= 2
+ max_daily_T4_S19_Mo: x_T4_S19_Mo_1 + x_T4_S19_Mo_2 + x_T4_S19_Mo_3 + x_T4_S19_Mo_4 + x_T4_S19_Mo_5 <= 2
+ max_daily_T4_S19_Tu: x_T4_S19_Tu_1 + x_T4_S19_Tu_2 + x_T4_S19_Tu_3 + x_T4_S19_Tu_4 + x_T4_S19_Tu_5 <= 2
+ max_daily_T4_S19_We: x_T4_S19_We_1 + x_T4_S19_We_2 + x_T4_S19_We_3 + x_T4_S19_We_4 + x_T4_S19_We_5 <= 2
+ max_daily_T4_S19_Th: x_T4_S19_Th_1 + x_T4_S19_Th_2 + x_T4_S19_Th_3 + x_T4_S19_Th_4 + x_T4_S19_Th_5 <= 2
+ max_daily_T4_S19_Fr: x_T4_S19_Fr_1 + x_T4_S19_Fr_2 + x_T4_S19_Fr_3 + x_T4_S19_Fr_4 + x_T4_S19_Fr_5 <= 2
+ max_daily_T4_S20_Mo: x_T4_S20_Mo_1 + x_T4_S20_Mo_2 + x_T4_S20_Mo_3 + x_T4_S20_Mo_4 + x_T4_S20_Mo_5 <= 2
+ max_daily_T4_S20_Tu: x_T4_S20_Tu_1 + x_T4_S20_Tu_2 + x_T4_S20_Tu_3 + x_T4_S20_Tu_4 + x_T4_S20_Tu_5 <= 2
+ max_daily_T4_S20_We: x_T4_S20_We_1 + x_T4_S20_We_2 + x_T4_S20_We_3 + x_T4_S20_We_4 + x_T4_S20_We_5 <= 2
+ max_daily_T4_S20_Th: x_T4_S20_Th_1 + x_T4_S20_Th_2 + x_T4_S20_Th_3 + x_T4_S20_Th_4 + x_T4_S20_Th_5 <= 2
+ max_daily_T4_S20_Fr: x_T4_S20_Fr_1 + x_T4_S20_Fr_2 + x_T4_S20_Fr_3 + x_T4_S20_Fr_4 + x_T4_S20_Fr_5 <= 2
+ max_daily_T5_S1_Mo: x_T5_S1_Mo_1 + x_T5_S1_Mo_2 + x_T5_S1_Mo_3 + x_T5_S1_Mo_4 + x_T5_S1_Mo_5 <= 2
+ max_daily_T5_S1_Tu: x_T5_S1_Tu_1 + x_T5_S1_Tu_2 + x_T5_S1_Tu_3 + x_T5_S1_Tu_4 + x_T5_S1_Tu_5 <= 2
+ max_daily_T5_S1_We: x_T5_S1_We_1 + x_T5_S1_We_2 + x_T5_S1_We_3 + x_T5_S1_We_4 + x_T5_S1_We_5 <= 2
+ max_daily_T5_S1_Th: x_T5_S1_Th_1 + x_T5_S1_Th_2 + x_T5_S1_Th_3 + x_T5_S1_Th_4 + x_T5_S1_Th_5 <= 2
+ max_daily_T5_S1_Fr: x_T5_S1_Fr_1 + x_T5_S1_Fr_2 + x_T5_S1_Fr_3 + x_T5_S1_Fr_4 + x_T5_S1_Fr_5 <= 2
+ max_daily_T5_S2_Mo: x_T5_S2_Mo_1 + x_T5_S2_Mo_2 + x_T5_S2_Mo_3 + x_T5_S2_Mo_4 + x_T5_S2_Mo_5 <= 2
+ max_daily_T5_S2_Tu: x_T5_S2_Tu_1 + x_T5_S2_Tu_2 + x_T5_S2_Tu_3 + x_T5_S2_Tu_4 + x_T5_S2_Tu_5 <= 2
+ max_daily_T5_S2_We: x_T5_S2_We_1 + x_T5_S2_We_2 + x_T5_S2_We_3 + x_T5_S2_We_4 + x_T5_S2_We_5 <= 2
+ max_daily_T5_S2_Th: x_T5_S2_Th_1 + x_T5_S2_Th_2 + x_T5_S2_Th_3 + x_T5_S2_Th_4 + x_T5_S2_Th_5 <= 2
+ max_daily_T5_S2_Fr: x_T5_S2_Fr_1 + x_T5_S2_Fr_2 + x_T5_S2_Fr_3 + x_T5_S2_Fr_4 + x_T5_S2_Fr_5 <= 2
+ max_daily_T5_S3_Mo: x_T5_S3_Mo_1 + x_T5_S3_Mo_2 + x_T5_S3_Mo_3 + x_T5_S3_Mo_4 + x_T5_S3_Mo_5 <= 2
+ max_daily_T5_S3_Tu: x_T5_S3_Tu_1 + x_T5_S3_Tu_2 + x_T5_S3_Tu_3 + x_T5_S3_Tu_4 + x_T5_S3_Tu_5 <= 2
+ max_daily_T5_S3_We: x_T5_S3_We_1 + x_T5_S3_We_2 + x_T5_S3_We_3 + x_T5_S3_We_4 + x_T5_S3_We_5 <= 2
+ max_daily_T5_S3_Th: x_T5_S3_Th_1 + x_T5_S3_Th_2 + x_T5_S3_Th_3 + x_T5_S3_Th_4 + x_T5_S3_Th_5 <= 2
+ max_daily_T5_S3_Fr: x_T5_S3_Fr_1 + x_T5_S3_Fr_2 + x_T5_S3_Fr_3 + x_T5_S3_Fr_4 + x_T5_S3_Fr_5 <= 2
+ max_daily_T5_S4_Mo: x_T5_S4_Mo_1 + x_T5_S4_Mo_2 + x_T5_S4_Mo_3 + x_T5_S4_Mo_4 + x_T5_S4_Mo_5 <= 2
+ max_daily_T5_S4_Tu: x_T5_S4_Tu_1 + x_T5_S4_Tu_2 + x_T5_S4_Tu_3 + x_T5_S4_Tu_4 + x_T5_S4_Tu_5 <= 2
+ max_daily_T5_S4_We: x_T5_S4_We_1 + x_T5_S4_We_2 + x_T5_S4_We_3 + x_T5_S4_We_4 + x_T5_S4_We_5 <= 2
+ max_daily_T5_S4_Th: x_T5_S4_Th_1 + x_T5_S4_Th_2 + x_T5_S4_Th_3 + x_T5_S4_Th_4 + x_T5_S4_Th_5 <= 2
+ max_daily_T5_S4_Fr: x_T5_S4_Fr_1 + x_T5_S4_Fr_2 + x_T5_S4_Fr_3 + x_T5_S4_Fr_4 + x_T5_S4_Fr_5 <= 2
+ max_daily_T5_S14_Mo: x_T5_S14_Mo_1 + x_T5_S14_Mo_2 + x_T5_S14_Mo_3 + x_T5_S14_Mo_4 + x_T5_S14_Mo_5 <= 2
+ max_daily_T5_S14_Tu: x_T5_S14_Tu_1 + x_T5_S14_Tu_2 + x_T5_S14_Tu_3 + x_T5_S14_Tu_4 + x_T5_S14_Tu_5 <= 2
+ max_daily_T5_S14_We: x_T5_S14_We_1 + x_T5_S14_We_2 + x_T5_S14_We_3 + x_T5_S14_We_4 + x_T5_S14_We_5 <= 2
+ max_daily_T5_S14_Th: x_T5_S14_Th_1 + x_T5_S14_Th_2 + x_T5_S14_Th_3 + x_T5_S14_Th_4 + x_T5_S14_Th_5 <= 2
+ max_daily_T5_S14_Fr: x_T5_S14_Fr_1 + x_T5_S14_Fr_2 + x_T5_S14_Fr_3 + x_T5_S14_Fr_4 + x_T5_S14_Fr_5 <= 2
+ max_daily_T6_S5_Mo: x_T6_S5_Mo_1 + x_T6_S5_Mo_2 + x_T6_S5_Mo_3 + x_T6_S5_Mo_4 + x_T6_S5_Mo_5 <= 2
+ max_daily_T6_S5_Tu: x_T6_S5_Tu_1 + x_T6_S5_Tu_2 + x_T6_S5_Tu_3 + x_T6_S5_Tu_4 + x_T6_S5_Tu_5 <= 2
+ max_daily_T6_S5_We: x_T6_S5_We_1 + x_T6_S5_We_2 + x_T6_S5_We_3 + x_T6_S5_We_4 + x_T6_S5_We_5 <= 2
+ max_daily_T6_S5_Th: x_T6_S5_Th_1 + x_T6_S5_Th_2 + x_T6_S5_Th_3 + x_T6_S5_Th_4 + x_T6_S5_Th_5 <= 2
+ max_daily_T6_S5_Fr: x_T6_S5_Fr_1 + x_T6_S5_Fr_2 + x_T6_S5_Fr_3 + x_T6_S5_Fr_4 + x_T6_S5_Fr_5 <= 2
+ max_daily_T6_S6_Mo: x_T6_S6_Mo_1 + x_T6_S6_Mo_2 + x_T6_S6_Mo_3 + x_T6_S6_Mo_4 + x_T6_S6_Mo_5 <= 2
+ max_daily_T6_S6_Tu: x_T6_S6_Tu_1 + x_T6_S6_Tu_2 + x_T6_S6_Tu_3 + x_T6_S6_Tu_4 + x_T6_S6_Tu_5 <= 2
+ max_daily_T6_S6_We: x_T6_S6_We_1 + x_T6_S6_We_2 + x_T6_S6_We_3 + x_T6_S6_We_4 + x_T6_S6_We_5 <= 2
+ max_daily_T6_S6_Th: x_T6_S6_Th_1 + x_T6_S6_Th_2 + x_T6_S6_Th_3 + x_T6_S6_Th_4 + x_T6_S6_Th_5 <= 2
+ max_daily_T6_S6_Fr: x_T6_S6_Fr_1 + x_T6_S6_Fr_2 + x_T6_S6_Fr_3 + x_T6_S6_Fr_4 + x_T6_S6_Fr_5 <= 2
+ max_daily_T6_S7_Mo: x_T6_S7_Mo_1 + x_T6_S7_Mo_2 + x_T6_S7_Mo_3 + x_T6_S7_Mo_4 + x_T6_S7_Mo_5 <= 2
+ max_daily_T6_S7_Tu: x_T6_S7_Tu_1 + x_T6_S7_Tu_2 + x_T6_S7_Tu_3 + x_T6_S7_Tu_4 + x_T6_S7_Tu_5 <= 2
+ max_daily_T6_S7_We: x_T6_S7_We_1 + x_T6_S7_We_2 + x_T6_S7_We_3 + x_T6_S7_We_4 + x_T6_S7_We_5 <= 2
+ max_daily_T6_S7_Th: x_T6_S7_Th_1 + x_T6_S7_Th_2 + x_T6_S7_Th_3 + x_T6_S7_Th_4 + x_T6_S7_Th_5 <= 2
+ max_daily_T6_S7_Fr: x_T6_S7_Fr_1 + x_T6_S7_Fr_2 + x_T6_S7_Fr_3 + x_T6_S7_Fr_4 + x_T6_S7_Fr_5 <= 2
+ max_daily_T6_S8_Mo: x_T6_S8_Mo_1 + x_T6_S8_Mo_2 + x_T6_S8_Mo_3 + x_T6_S8_Mo_4 + x_T6_S8_Mo_5 <= 2
+ max_daily_T6_S8_Tu: x_T6_S8_Tu_1 + x_T6_S8_Tu_2 + x_T6_S8_Tu_3 + x_T6_S8_Tu_4 + x_T6_S8_Tu_5 <= 2
+ max_daily_T6_S8_We: x_T6_S8_We_1 + x_T6_S8_We_2 + x_T6_S8_We_3 + x_T6_S8_We_4 + x_T6_S8_We_5 <= 2
+ max_daily_T6_S8_Th: x_T6_S8_Th_1 + x_T6_S8_Th_2 + x_T6_S8_Th_3 + x_T6_S8_Th_4 + x_T6_S8_Th_5 <= 2
+ max_daily_T6_S8_Fr: x_T6_S8_Fr_1 + x_T6_S8_Fr_2 + x_T6_S8_Fr_3 + x_T6_S8_Fr_4 + x_T6_S8_Fr_5 <= 2
+ max_daily_T6_S10_Mo: x_T6_S10_Mo_1 + x_T6_S10_Mo_2 + x_T6_S10_Mo_3 + x_T6_S10_Mo_4 + x_T6_S10_Mo_5 <= 2
+ max_daily_T6_S10_Tu: x_T6_S10_Tu_1 + x_T6_S10_Tu_2 + x_T6_S10_Tu_3 + x_T6_S10_Tu_4 + x_T6_S10_Tu_5 <= 2
+ max_daily_T6_S10_We: x_T6_S10_We_1 + x_T6_S10_We_2 + x_T6_S10_We_3 + x_T6_S10_We_4 + x_T6_S10_We_5 <= 2
+ max_daily_T6_S10_Th: x_T6_S10_Th_1 + x_T6_S10_Th_2 + x_T6_S10_Th_3 + x_T6_S10_Th_4 + x_T6_S10_Th_5 <= 2
+ max_daily_T6_S10_Fr: x_T6_S10_Fr_1 + x_T6_S10_Fr_2 + x_T6_S10_Fr_3 + x_T6_S10_Fr_4 + x_T6_S10_Fr_5 <= 2
+ max_daily_T6_S12_Mo: x_T6_S12_Mo_1 + x_T6_S12_Mo_2 + x_T6_S12_Mo_3 + x_T6_S12_Mo_4 + x_T6_S12_Mo_5 <= 2
+ max_daily_T6_S12_Tu: x_T6_S12_Tu_1 + x_T6_S12_Tu_2 + x_T6_S12_Tu_3 + x_T6_S12_Tu_4 + x_T6_S12_Tu_5 <= 2
+ max_daily_T6_S12_We: x_T6_S12_We_1 + x_T6_S12_We_2 + x_T6_S12_We_3 + x_T6_S12_We_4 + x_T6_S12_We_5 <= 2
+ max_daily_T6_S12_Th: x_T6_S12_Th_1 + x_T6_S12_Th_2 + x_T6_S12_Th_3 + x_T6_S12_Th_4 + x_T6_S12_Th_5 <= 2
+ max_daily_T6_S12_Fr: x_T6_S12_Fr_1 + x_T6_S12_Fr_2 + x_T6_S12_Fr_3 + x_T6_S12_Fr_4 + x_T6_S12_Fr_5 <= 2
+ max_daily_T7_S9_Mo: x_T7_S9_Mo_1 + x_T7_S9_Mo_2 + x_T7_S9_Mo_3 + x_T7_S9_Mo_4 + x_T7_S9_Mo_5 <= 2
+ max_daily_T7_S9_Tu: x_T7_S9_Tu_1 + x_T7_S9_Tu_2 + x_T7_S9_Tu_3 + x_T7_S9_Tu_4 + x_T7_S9_Tu_5 <= 2
+ max_daily_T7_S9_We: x_T7_S9_We_1 + x_T7_S9_We_2 + x_T7_S9_We_3 + x_T7_S9_We_4 + x_T7_S9_We_5 <= 2
+ max_daily_T7_S9_Th: x_T7_S9_Th_1 + x_T7_S9_Th_2 + x_T7_S9_Th_3 + x_T7_S9_Th_4 + x_T7_S9_Th_5 <= 2
+ max_daily_T7_S9_Fr: x_T7_S9_Fr_1 + x_T7_S9_Fr_2 + x_T7_S9_Fr_3 + x_T7_S9_Fr_4 + x_T7_S9_Fr_5 <= 2
+ max_daily_T7_S10_Mo: x_T7_S10_Mo_1 + x_T7_S10_Mo_2 + x_T7_S10_Mo_3 + x_T7_S10_Mo_4 + x_T7_S10_Mo_5 <= 2
+ max_daily_T7_S10_Tu: x_T7_S10_Tu_1 + x_T7_S10_Tu_2 + x_T7_S10_Tu_3 + x_T7_S10_Tu_4 + x_T7_S10_Tu_5 <= 2
+ max_daily_T7_S10_We: x_T7_S10_We_1 + x_T7_S10_We_2 + x_T7_S10_We_3 + x_T7_S10_We_4 + x_T7_S10_We_5 <= 2
+ max_daily_T7_S10_Th: x_T7_S10_Th_1 + x_T7_S10_Th_2 + x_T7_S10_Th_3 + x_T7_S10_Th_4 + x_T7_S10_Th_5 <= 2
+ max_daily_T7_S10_Fr: x_T7_S10_Fr_1 + x_T7_S10_Fr_2 + x_T7_S10_Fr_3 + x_T7_S10_Fr_4 + x_T7_S10_Fr_5 <= 2
+ max_daily_T7_S11_Mo: x_T7_S11_Mo_1 + x_T7_S11_Mo_2 + x_T7_S11_Mo_3 + x_T7_S11_Mo_4 + x_T7_S11_Mo_5 <= 2
+ max_daily_T7_S11_Tu: x_T7_S11_Tu_1 + x_T7_S11_Tu_2 + x_T7_S11_Tu_3 + x_T7_S11_Tu_4 + x_T7_S11_Tu_5 <= 2
+ max_daily_T7_S11_We: x_T7_S11_We_1 + x_T7_S11_We_2 + x_T7_S11_We_3 + x_T7_S11_We_4 + x_T7_S11_We_5 <= 2
+ max_daily_T7_S11_Th: x_T7_S11_Th_1 + x_T7_S11_Th_2 + x_T7_S11_Th_3 + x_T7_S11_Th_4 + x_T7_S11_Th_5 <= 2
+ max_daily_T7_S11_Fr: x_T7_S11_Fr_1 + x_T7_S11_Fr_2 + x_T7_S11_Fr_3 + x_T7_S11_Fr_4 + x_T7_S11_Fr_5 <= 2
+ max_daily_T7_S12_Mo: x_T7_S12_Mo_1 + x_T7_S12_Mo_2 + x_T7_S12_Mo_3 + x_T7_S12_Mo_4 + x_T7_S12_Mo_5 <= 2
+ max_daily_T7_S12_Tu: x_T7_S12_Tu_1 + x_T7_S12_Tu_2 + x_T7_S12_Tu_3 + x_T7_S12_Tu_4 + x_T7_S12_Tu_5 <= 2
+ max_daily_T7_S12_We: x_T7_S12_We_1 + x_T7_S12_We_2 + x_T7_S12_We_3 + x_T7_S12_We_4 + x_T7_S12_We_5 <= 2
+ max_daily_T7_S12_Th: x_T7_S12_Th_1 + x_T7_S12_Th_2 + x_T7_S12_Th_3 + x_T7_S12_Th_4 + x_T7_S12_Th_5 <= 2
+ max_daily_T7_S12_Fr: x_T7_S12_Fr_1 + x_T7_S12_Fr_2 + x_T7_S12_Fr_3 + x_T7_S12_Fr_4 + x_T7_S12_Fr_5 <= 2
+ max_daily_T7_S13_Mo: x_T7_S13_Mo_1 + x_T7_S13_Mo_2 + x_T7_S13_Mo_3 + x_T7_S13_Mo_4 + x_T7_S13_Mo_5 <= 2
+ max_daily_T7_S13_Tu: x_T7_S13_Tu_1 + x_T7_S13_Tu_2 + x_T7_S13_Tu_3 + x_T7_S13_Tu_4 + x_T7_S13_Tu_5 <= 2
+ max_daily_T7_S13_We: x_T7_S13_We_1 + x_T7_S13_We_2 + x_T7_S13_We_3 + x_T7_S13_We_4 + x_T7_S13_We_5 <= 2
+ max_daily_T7_S13_Th: x_T7_S13_Th_1 + x_T7_S13_Th_2 + x_T7_S13_Th_3 + x_T7_S13_Th_4 + x_T7_S13_Th_5 <= 2
+ max_daily_T7_S13_Fr: x_T7_S13_Fr_1 + x_T7_S13_Fr_2 + x_T7_S13_Fr_3 + x_T7_S13_Fr_4 + x_T7_S13_Fr_5 <= 2
+ max_daily_T8_S11_Mo: x_T8_S11_Mo_1 + x_T8_S11_Mo_2 + x_T8_S11_Mo_3 + x_T8_S11_Mo_4 + x_T8_S11_Mo_5 <= 2
+ max_daily_T8_S11_Tu: x_T8_S11_Tu_1 + x_T8_S11_Tu_2 + x_T8_S11_Tu_3 + x_T8_S11_Tu_4 + x_T8_S11_Tu_5 <= 2
+ max_daily_T8_S11_We: x_T8_S11_We_1 + x_T8_S11_We_2 + x_T8_S11_We_3 + x_T8_S11_We_4 + x_T8_S11_We_5 <= 2
+ max_daily_T8_S11_Th: x_T8_S11_Th_1 + x_T8_S11_Th_2 + x_T8_S11_Th_3 + x_T8_S11_Th_4 + x_T8_S11_Th_5 <= 2
+ max_daily_T8_S11_Fr: x_T8_S11_Fr_1 + x_T8_S11_Fr_2 + x_T8_S11_Fr_3 + x_T8_S11_Fr_4 + x_T8_S11_Fr_5 <= 2
+ max_daily_T8_S13_Mo: x_T8_S13_Mo_1 + x_T8_S13_Mo_2 + x_T8_S13_Mo_3 + x_T8_S13_Mo_4 + x_T8_S13_Mo_5 <= 2
+ max_daily_T8_S13_Tu: x_T8_S13_Tu_1 + x_T8_S13_Tu_2 + x_T8_S13_Tu_3 + x_T8_S13_Tu_4 + x_T8_S13_Tu_5 <= 2
+ max_daily_T8_S13_We: x_T8_S13_We_1 + x_T8_S13_We_2 + x_T8_S13_We_3 + x_T8_S13_We_4 + x_T8_S13_We_5 <= 2
+ max_daily_T8_S13_Th: x_T8_S13_Th_1 + x_T8_S13_Th_2 + x_T8_S13_Th_3 + x_T8_S13_Th_4 + x_T8_S13_Th_5 <= 2
+ max_daily_T8_S13_Fr: x_T8_S13_Fr_1 + x_T8_S13_Fr_2 + x_T8_S13_Fr_3 + x_T8_S13_Fr_4 + x_T8_S13_Fr_5 <= 2
+ max_daily_T8_S14_Mo: x_T8_S14_Mo_1 + x_T8_S14_Mo_2 + x_T8_S14_Mo_3 + x_T8_S14_Mo_4 + x_T8_S14_Mo_5 <= 2
+ max_daily_T8_S14_Tu: x_T8_S14_Tu_1 + x_T8_S14_Tu_2 + x_T8_S14_Tu_3 + x_T8_S14_Tu_4 + x_T8_S14_Tu_5 <= 2
+ max_daily_T8_S14_We: x_T8_S14_We_1 + x_T8_S14_We_2 + x_T8_S14_We_3 + x_T8_S14_We_4 + x_T8_S14_We_5 <= 2
+ max_daily_T8_S14_Th: x_T8_S14_Th_1 + x_T8_S14_Th_2 + x_T8_S14_Th_3 + x_T8_S14_Th_4 + x_T8_S14_Th_5 <= 2
+ max_daily_T8_S14_Fr: x_T8_S14_Fr_1 + x_T8_S14_Fr_2 + x_T8_S14_Fr_3 + x_T8_S14_Fr_4 + x_T8_S14_Fr_5 <= 2
+ max_daily_T8_S15_Mo: x_T8_S15_Mo_1 + x_T8_S15_Mo_2 + x_T8_S15_Mo_3 + x_T8_S15_Mo_4 + x_T8_S15_Mo_5 <= 2
+ max_daily_T8_S15_Tu: x_T8_S15_Tu_1 + x_T8_S15_Tu_2 + x_T8_S15_Tu_3 + x_T8_S15_Tu_4 + x_T8_S15_Tu_5 <= 2
+ max_daily_T8_S15_We: x_T8_S15_We_1 + x_T8_S15_We_2 + x_T8_S15_We_3 + x_T8_S15_We_4 + x_T8_S15_We_5 <= 2
+ max_daily_T8_S15_Th: x_T8_S15_Th_1 + x_T8_S15_Th_2 + x_T8_S15_Th_3 + x_T8_S15_Th_4 + x_T8_S15_Th_5 <= 2
+ max_daily_T8_S15_Fr: x_T8_S15_Fr_1 + x_T8_S15_Fr_2 + x_T8_S15_Fr_3 + x_T8_S15_Fr_4 + x_T8_S15_Fr_5 <= 2
+ max_daily_T8_S16_Mo: x_T8_S16_Mo_1 + x_T8_S16_Mo_2 + x_T8_S16_Mo_3 + x_T8_S16_Mo_4 + x_T8_S16_Mo_5 <= 2
+ max_daily_T8_S16_Tu: x_T8_S16_Tu_1 + x_T8_S16_Tu_2 + x_T8_S16_Tu_3 + x_T8_S16_Tu_4 + x_T8_S16_Tu_5 <= 2
+ max_daily_T8_S16_We: x_T8_S16_We_1 + x_T8_S16_We_2 + x_T8_S16_We_3 + x_T8_S16_We_4 + x_T8_S16_We_5 <= 2
+ max_daily_T8_S16_Th: x_T8_S16_Th_1 + x_T8_S16_Th_2 + x_T8_S16_Th_3 + x_T8_S16_Th_4 + x_T8_S16_Th_5 <= 2
+ max_daily_T8_S16_Fr: x_T8_S16_Fr_1 + x_T8_S16_Fr_2 + x_T8_S16_Fr_3 + x_T8_S16_Fr_4 + x_T8_S16_Fr_5 <= 2
+ max_daily_T9_S15_Mo: x_T9_S15_Mo_1 + x_T9_S15_Mo_2 + x_T9_S15_Mo_3 + x_T9_S15_Mo_4 + x_T9_S15_Mo_5 <= 2
+ max_daily_T9_S15_Tu: x_T9_S15_Tu_1 + x_T9_S15_Tu_2 + x_T9_S15_Tu_3 + x_T9_S15_Tu_4 + x_T9_S15_Tu_5 <= 2
+ max_daily_T9_S15_We: x_T9_S15_We_1 + x_T9_S15_We_2 + x_T9_S15_We_3 + x_T9_S15_We_4 + x_T9_S15_We_5 <= 2
+ max_daily_T9_S15_Th: x_T9_S15_Th_1 + x_T9_S15_Th_2 + x_T9_S15_Th_3 + x_T9_S15_Th_4 + x_T9_S15_Th_5 <= 2
+ max_daily_T9_S15_Fr: x_T9_S15_Fr_1 + x_T9_S15_Fr_2 + x_T9_S15_Fr_3 + x_T9_S15_Fr_4 + x_T9_S15_Fr_5 <= 2
+ max_daily_T9_S17_Mo: x_T9_S17_Mo_1 + x_T9_S17_Mo_2 + x_T9_S17_Mo_3 + x_T9_S17_Mo_4 + x_T9_S17_Mo_5 <= 2
+ max_daily_T9_S17_Tu: x_T9_S17_Tu_1 + x_T9_S17_Tu_2 + x_T9_S17_Tu_3 + x_T9_S17_Tu_4 + x_T9_S17_Tu_5 <= 2
+ max_daily_T9_S17_We: x_T9_S17_We_1 + x_T9_S17_We_2 + x_T9_S17_We_3 + x_T9_S17_We_4 + x_T9_S17_We_5 <= 2
+ max_daily_T9_S17_Th: x_T9_S17_Th_1 + x_T9_S17_Th_2 + x_T9_S17_Th_3 + x_T9_S17_Th_4 + x_T9_S17_Th_5 <= 2
+ max_daily_T9_S17_Fr: x_T9_S17_Fr_1 + x_T9_S17_Fr_2 + x_T9_S17_Fr_3 + x_T9_S17_Fr_4 + x_T9_S17_Fr_5 <= 2
+ max_daily_T9_S18_Mo: x_T9_S18_Mo_1 + x_T9_S18_Mo_2 + x_T9_S18_Mo_3 + x_T9_S18_Mo_4 + x_T9_S18_Mo_5 <= 2
+ max_daily_T9_S18_Tu: x_T9_S18_Tu_1 + x_T9_S18_Tu_2 + x_T9_S18_Tu_3 + x_T9_S18_Tu_4 + x_T9_S18_Tu_5 <= 2
+ max_daily_T9_S18_We: x_T9_S18_We_1 + x_T9_S18_We_2 + x_T9_S18_We_3 + x_T9_S18_We_4 + x_T9_S18_We_5 <= 2
+ max_daily_T9_S18_Th: x_T9_S18_Th_1 + x_T9_S18_Th_2 + x_T9_S18_Th_3 + x_T9_S18_Th_4 + x_T9_S18_Th_5 <= 2
+ max_daily_T9_S18_Fr: x_T9_S18_Fr_1 + x_T9_S18_Fr_2 + x_T9_S18_Fr_3 + x_T9_S18_Fr_4 + x_T9_S18_Fr_5 <= 2
+ max_daily_T9_S19_Mo: x_T9_S19_Mo_1 + x_T9_S19_Mo_2 + x_T9_S19_Mo_3 + x_T9_S19_Mo_4 + x_T9_S19_Mo_5 <= 2
+ max_daily_T9_S19_Tu: x_T9_S19_Tu_1 + x_T9_S19_Tu_2 + x_T9_S19_Tu_3 + x_T9_S19_Tu_4 + x_T9_S19_Tu_5 <= 2
+ max_daily_T9_S19_We: x_T9_S19_We_1 + x_T9_S19_We_2 + x_T9_S19_We_3 + x_T9_S19_We_4 + x_T9_S19_We_5 <= 2
+ max_daily_T9_S19_Th: x_T9_S19_Th_1 + x_T9_S19_Th_2 + x_T9_S19_Th_3 + x_T9_S19_Th_4 + x_T9_S19_Th_5 <= 2
+ max_daily_T9_S19_Fr: x_T9_S19_Fr_1 + x_T9_S19_Fr_2 + x_T9_S19_Fr_3 + x_T9_S19_Fr_4 + x_T9_S19_Fr_5 <= 2
+ max_daily_T9_S20_Mo: x_T9_S20_Mo_1 + x_T9_S20_Mo_2 + x_T9_S20_Mo_3 + x_T9_S20_Mo_4 + x_T9_S20_Mo_5 <= 2
+ max_daily_T9_S20_Tu: x_T9_S20_Tu_1 + x_T9_S20_Tu_2 + x_T9_S20_Tu_3 + x_T9_S20_Tu_4 + x_T9_S20_Tu_5 <= 2
+ max_daily_T9_S20_We: x_T9_S20_We_1 + x_T9_S20_We_2 + x_T9_S20_We_3 + x_T9_S20_We_4 + x_T9_S20_We_5 <= 2
+ max_daily_T9_S20_Th: x_T9_S20_Th_1 + x_T9_S20_Th_2 + x_T9_S20_Th_3 + x_T9_S20_Th_4 + x_T9_S20_Th_5 <= 2
+ max_daily_T9_S20_Fr: x_T9_S20_Fr_1 + x_T9_S20_Fr_2 + x_T9_S20_Fr_3 + x_T9_S20_Fr_4 + x_T9_S20_Fr_5 <= 2
+ max_daily_T10_S1_Mo: x_T10_S1_Mo_1 + x_T10_S1_Mo_2 + x_T10_S1_Mo_3 + x_T10_S1_Mo_4 + x_T10_S1_Mo_5 <= 2
+ max_daily_T10_S1_Tu: x_T10_S1_Tu_1 + x_T10_S1_Tu_2 + x_T10_S1_Tu_3 + x_T10_S1_Tu_4 + x_T10_S1_Tu_5 <= 2
+ max_daily_T10_S1_We: x_T10_S1_We_1 + x_T10_S1_We_2 + x_T10_S1_We_3 + x_T10_S1_We_4 + x_T10_S1_We_5 <= 2
+ max_daily_T10_S1_Th: x_T10_S1_Th_1 + x_T10_S1_Th_2 + x_T10_S1_Th_3 + x_T10_S1_Th_4 + x_T10_S1_Th_5 <= 2
+ max_daily_T10_S1_Fr: x_T10_S1_Fr_1 + x_T10_S1_Fr_2 + x_T10_S1_Fr_3 + x_T10_S1_Fr_4 + x_T10_S1_Fr_5 <= 2
+ max_daily_T10_S2_Mo: x_T10_S2_Mo_1 + x_T10_S2_Mo_2 + x_T10_S2_Mo_3 + x_T10_S2_Mo_4 + x_T10_S2_Mo_5 <= 2
+ max_daily_T10_S2_Tu: x_T10_S2_Tu_1 + x_T10_S2_Tu_2 + x_T10_S2_Tu_3 + x_T10_S2_Tu_4 + x_T10_S2_Tu_5 <= 2
+ max_daily_T10_S2_We: x_T10_S2_We_1 + x_T10_S2_We_2 + x_T10_S2_We_3 + x_T10_S2_We_4 + x_T10_S2_We_5 <= 2
+ max_daily_T10_S2_Th: x_T10_S2_Th_1 + x_T10_S2_Th_2 + x_T10_S2_Th_3 + x_T10_S2_Th_4 + x_T10_S2_Th_5 <= 2
+ max_daily_T10_S2_Fr: x_T10_S2_Fr_1 + x_T10_S2_Fr_2 + x_T10_S2_Fr_3 + x_T10_S2_Fr_4 + x_T10_S2_Fr_5 <= 2
+ max_daily_T10_S3_Mo: x_T10_S3_Mo_1 + x_T10_S3_Mo_2 + x_T10_S3_Mo_3 + x_T10_S3_Mo_4 + x_T10_S3_Mo_5 <= 2
+ max_daily_T10_S3_Tu: x_T10_S3_Tu_1 + x_T10_S3_Tu_2 + x_T10_S3_Tu_3 + x_T10_S3_Tu_4 + x_T10_S3_Tu_5 <= 2
+ max_daily_T10_S3_We: x_T10_S3_We_1 + x_T10_S3_We_2 + x_T10_S3_We_3 + x_T10_S3_We_4 + x_T10_S3_We_5 <= 2
+ max_daily_T10_S3_Th: x_T10_S3_Th_1 + x_T10_S3_Th_2 + x_T10_S3_Th_3 + x_T10_S3_Th_4 + x_T10_S3_Th_5 <= 2
+ max_daily_T10_S3_Fr: x_T10_S3_Fr_1 + x_T10_S3_Fr_2 + x_T10_S3_Fr_3 + x_T10_S3_Fr_4 + x_T10_S3_Fr_5 <= 2
+ max_daily_T10_S4_Mo: x_T10_S4_Mo_1 + x_T10_S4_Mo_2 + x_T10_S4_Mo_3 + x_T10_S4_Mo_4 + x_T10_S4_Mo_5 <= 2
+ max_daily_T10_S4_Tu: x_T10_S4_Tu_1 + x_T10_S4_Tu_2 + x_T10_S4_Tu_3 + x_T10_S4_Tu_4 + x_T10_S4_Tu_5 <= 2
+ max_daily_T10_S4_We: x_T10_S4_We_1 + x_T10_S4_We_2 + x_T10_S4_We_3 + x_T10_S4_We_4 + x_T10_S4_We_5 <= 2
+ max_daily_T10_S4_Th: x_T10_S4_Th_1 + x_T10_S4_Th_2 + x_T10_S4_Th_3 + x_T10_S4_Th_4 + x_T10_S4_Th_5 <= 2
+ max_daily_T10_S4_Fr: x_T10_S4_Fr_1 + x_T10_S4_Fr_2 + x_T10_S4_Fr_3 + x_T10_S4_Fr_4 + x_T10_S4_Fr_5 <= 2
+ max_daily_T10_S5_Mo: x_T10_S5_Mo_1 + x_T10_S5_Mo_2 + x_T10_S5_Mo_3 + x_T10_S5_Mo_4 + x_T10_S5_Mo_5 <= 2
+ max_daily_T10_S5_Tu: x_T10_S5_Tu_1 + x_T10_S5_Tu_2 + x_T10_S5_Tu_3 + x_T10_S5_Tu_4 + x_T10_S5_Tu_5 <= 2
+ max_daily_T10_S5_We: x_T10_S5_We_1 + x_T10_S5_We_2 + x_T10_S5_We_3 + x_T10_S5_We_4 + x_T10_S5_We_5 <= 2
+ max_daily_T10_S5_Th: x_T10_S5_Th_1 + x_T10_S5_Th_2 + x_T10_S5_Th_3 + x_T10_S5_Th_4 + x_T10_S5_Th_5 <= 2
+ max_daily_T10_S5_Fr: x_T10_S5_Fr_1 + x_T10_S5_Fr_2 + x_T10_S5_Fr_3 + x_T10_S5_Fr_4 + x_T10_S5_Fr_5 <= 2
+ max_daily_T11_S6_Mo: x_T11_S6_Mo_1 + x_T11_S6_Mo_2 + x_T11_S6_Mo_3 + x_T11_S6_Mo_4 + x_T11_S6_Mo_5 <= 2
+ max_daily_T11_S6_Tu: x_T11_S6_Tu_1 + x_T11_S6_Tu_2 + x_T11_S6_Tu_3 + x_T11_S6_Tu_4 + x_T11_S6_Tu_5 <= 2
+ max_daily_T11_S6_We: x_T11_S6_We_1 + x_T11_S6_We_2 + x_T11_S6_We_3 + x_T11_S6_We_4 + x_T11_S6_We_5 <= 2
+ max_daily_T11_S6_Th: x_T11_S6_Th_1 + x_T11_S6_Th_2 + x_T11_S6_Th_3 + x_T11_S6_Th_4 + x_T11_S6_Th_5 <= 2
+ max_daily_T11_S6_Fr: x_T11_S6_Fr_1 + x_T11_S6_Fr_2 + x_T11_S6_Fr_3 + x_T11_S6_Fr_4 + x_T11_S6_Fr_5 <= 2
+ max_daily_T11_S7_Mo: x_T11_S7_Mo_1 + x_T11_S7_Mo_2 + x_T11_S7_Mo_3 + x_T11_S7_Mo_4 + x_T11_S7_Mo_5 <= 2
+ max_daily_T11_S7_Tu: x_T11_S7_Tu_1 + x_T11_S7_Tu_2 + x_T11_S7_Tu_3 + x_T11_S7_Tu_4 + x_T11_S7_Tu_5 <= 2
+ max_daily_T11_S7_We: x_T11_S7_We_1 + x_T11_S7_We_2 + x_T11_S7_We_3 + x_T11_S7_We_4 + x_T11_S7_We_5 <= 2
+ max_daily_T11_S7_Th: x_T11_S7_Th_1 + x_T11_S7_Th_2 + x_T11_S7_Th_3 + x_T11_S7_Th_4 + x_T11_S7_Th_5 <= 2
+ max_daily_T11_S7_Fr: x_T11_S7_Fr_1 + x_T11_S7_Fr_2 + x_T11_S7_Fr_3 + x_T11_S7_Fr_4 + x_T11_S7_Fr_5 <= 2
+ max_daily_T11_S8_Mo: x_T11_S8_Mo_1 + x_T11_S8_Mo_2 + x_T11_S8_Mo_3 + x_T11_S8_Mo_4 + x_T11_S8_Mo_5 <= 2
+ max_daily_T11_S8_Tu: x_T11_S8_Tu_1 + x_T11_S8_Tu_2 + x_T11_S8_Tu_3 + x_T11_S8_Tu_4 + x_T11_S8_Tu_5 <= 2
+ max_daily_T11_S8_We: x_T11_S8_We_1 + x_T11_S8_We_2 + x_T11_S8_We_3 + x_T11_S8_We_4 + x_T11_S8_We_5 <= 2
+ max_daily_T11_S8_Th: x_T11_S8_Th_1 + x_T11_S8_Th_2 + x_T11_S8_Th_3 + x_T11_S8_Th_4 + x_T11_S8_Th_5 <= 2
+ max_daily_T11_S8_Fr: x_T11_S8_Fr_1 + x_T11_S8_Fr_2 + x_T11_S8_Fr_3 + x_T11_S8_Fr_4 + x_T11_S8_Fr_5 <= 2
+ max_daily_T11_S9_Mo: x_T11_S9_Mo_1 + x_T11_S9_Mo_2 + x_T11_S9_Mo_3 + x_T11_S9_Mo_4 + x_T11_S9_Mo_5 <= 2
+ max_daily_T11_S9_Tu: x_T11_S9_Tu_1 + x_T11_S9_Tu_2 + x_T11_S9_Tu_3 + x_T11_S9_Tu_4 + x_T11_S9_Tu_5 <= 2
+ max_daily_T11_S9_We: x_T11_S9_We_1 + x_T11_S9_We_2 + x_T11_S9_We_3 + x_T11_S9_We_4 + x_T11_S9_We_5 <= 2
+ max_daily_T11_S9_Th: x_T11_S9_Th_1 + x_T11_S9_Th_2 + x_T11_S9_Th_3 + x_T11_S9_Th_4 + x_T11_S9_Th_5 <= 2
+ max_daily_T11_S9_Fr: x_T11_S9_Fr_1 + x_T11_S9_Fr_2 + x_T11_S9_Fr_3 + x_T11_S9_Fr_4 + x_T11_S9_Fr_5 <= 2
+ max_daily_T11_S10_Mo: x_T11_S10_Mo_1 + x_T11_S10_Mo_2 + x_T11_S10_Mo_3 + x_T11_S10_Mo_4 + x_T11_S10_Mo_5 <= 2
+ max_daily_T11_S10_Tu: x_T11_S10_Tu_1 + x_T11_S10_Tu_2 + x_T11_S10_Tu_3 + x_T11_S10_Tu_4 + x_T11_S10_Tu_5 <= 2
+ max_daily_T11_S10_We: x_T11_S10_We_1 + x_T11_S10_We_2 + x_T11_S10_We_3 + x_T11_S10_We_4 + x_T11_S10_We_5 <= 2
+ max_daily_T11_S10_Th: x_T11_S10_Th_1 + x_T11_S10_Th_2 + x_T11_S10_Th_3 + x_T11_S10_Th_4 + x_T11_S10_Th_5 <= 2
+ max_daily_T11_S10_Fr: x_T11_S10_Fr_1 + x_T11_S10_Fr_2 + x_T11_S10_Fr_3 + x_T11_S10_Fr_4 + x_T11_S10_Fr_5 <= 2
+ max_daily_T12_S11_Mo: x_T12_S11_Mo_1 + x_T12_S11_Mo_2 + x_T12_S11_Mo_3 + x_T12_S11_Mo_4 + x_T12_S11_Mo_5 <= 2
+ max_daily_T12_S11_Tu: x_T12_S11_Tu_1 + x_T12_S11_Tu_2 + x_T12_S11_Tu_3 + x_T12_S11_Tu_4 + x_T12_S11_Tu_5 <= 2
+ max_daily_T12_S11_We: x_T12_S11_We_1 + x_T12_S11_We_2 + x_T12_S11_We_3 + x_T12_S11_We_4 + x_T12_S11_We_5 <= 2
+ max_daily_T12_S11_Th: x_T12_S11_Th_1 + x_T12_S11_Th_2 + x_T12_S11_Th_3 + x_T12_S11_Th_4 + x_T12_S11_Th_5 <= 2
+ max_daily_T12_S11_Fr: x_T12_S11_Fr_1 + x_T12_S11_Fr_2 + x_T12_S11_Fr_3 + x_T12_S11_Fr_4 + x_T12_S11_Fr_5 <= 2
+ max_daily_T12_S12_Mo: x_T12_S12_Mo_1 + x_T12_S12_Mo_2 + x_T12_S12_Mo_3 + x_T12_S12_Mo_4 + x_T12_S12_Mo_5 <= 2
+ max_daily_T12_S12_Tu: x_T12_S12_Tu_1 + x_T12_S12_Tu_2 + x_T12_S12_Tu_3 + x_T12_S12_Tu_4 + x_T12_S12_Tu_5 <= 2
+ max_daily_T12_S12_We: x_T12_S12_We_1 + x_T12_S12_We_2 + x_T12_S12_We_3 + x_T12_S12_We_4 + x_T12_S12_We_5 <= 2
+ max_daily_T12_S12_Th: x_T12_S12_Th_1 + x_T12_S12_Th_2 + x_T12_S12_Th_3 + x_T12_S12_Th_4 + x_T12_S12_Th_5 <= 2
+ max_daily_T12_S12_Fr: x_T12_S12_Fr_1 + x_T12_S12_Fr_2 + x_T12_S12_Fr_3 + x_T12_S12_Fr_4 + x_T12_S12_Fr_5 <= 2
+ max_daily_T12_S13_Mo: x_T12_S13_Mo_1 + x_T12_S13_Mo_2 + x_T12_S13_Mo_3 + x_T12_S13_Mo_4 + x_T12_S13_Mo_5 <= 2
+ max_daily_T12_S13_Tu: x_T12_S13_Tu_1 + x_T12_S13_Tu_2 + x_T12_S13_Tu_3 + x_T12_S13_Tu_4 + x_T12_S13_Tu_5 <= 2
+ max_daily_T12_S13_We: x_T12_S13_We_1 + x_T12_S13_We_2 + x_T12_S13_We_3 + x_T12_S13_We_4 + x_T12_S13_We_5 <= 2
+ max_daily_T12_S13_Th: x_T12_S13_Th_1 + x_T12_S13_Th_2 + x_T12_S13_Th_3 + x_T12_S13_Th_4 + x_T12_S13_Th_5 <= 2
+ max_daily_T12_S13_Fr: x_T12_S13_Fr_1 + x_T12_S13_Fr_2 + x_T12_S13_Fr_3 + x_T12_S13_Fr_4 + x_T12_S13_Fr_5 <= 2
+ max_daily_T12_S14_Mo: x_T12_S14_Mo_1 + x_T12_S14_Mo_2 + x_T12_S14_Mo_3 + x_T12_S14_Mo_4 + x_T12_S14_Mo_5 <= 2
+ max_daily_T12_S14_Tu: x_T12_S14_Tu_1 + x_T12_S14_Tu_2 + x_T12_S14_Tu_3 + x_T12_S14_Tu_4 + x_T12_S14_Tu_5 <= 2
+ max_daily_T12_S14_We: x_T12_S14_We_1 + x_T12_S14_We_2 + x_T12_S14_We_3 + x_T12_S14_We_4 + x_T12_S14_We_5 <= 2
+ max_daily_T12_S14_Th: x_T12_S14_Th_1 + x_T12_S14_Th_2 + x_T12_S14_Th_3 + x_T12_S14_Th_4 + x_T12_S14_Th_5 <= 2
+ max_daily_T12_S14_Fr: x_T12_S14_Fr_1 + x_T12_S14_Fr_2 + x_T12_S14_Fr_3 + x_T12_S14_Fr_4 + x_T12_S14_Fr_5 <= 2
+ max_daily_T12_S15_Mo: x_T12_S15_Mo_1 + x_T12_S15_Mo_2 + x_T12_S15_Mo_3 + x_T12_S15_Mo_4 + x_T12_S15_Mo_5 <= 2
+ max_daily_T12_S15_Tu: x_T12_S15_Tu_1 + x_T12_S15_Tu_2 + x_T12_S15_Tu_3 + x_T12_S15_Tu_4 + x_T12_S15_Tu_5 <= 2
+ max_daily_T12_S15_We: x_T12_S15_We_1 + x_T12_S15_We_2 + x_T12_S15_We_3 + x_T12_S15_We_4 + x_T12_S15_We_5 <= 2
+ max_daily_T12_S15_Th: x_T12_S15_Th_1 + x_T12_S15_Th_2 + x_T12_S15_Th_3 + x_T12_S15_Th_4 + x_T12_S15_Th_5 <= 2
+ max_daily_T12_S15_Fr: x_T12_S15_Fr_1 + x_T12_S15_Fr_2 + x_T12_S15_Fr_3 + x_T12_S15_Fr_4 + x_T12_S15_Fr_5 <= 2
+ max_daily_T13_S16_Mo: x_T13_S16_Mo_1 + x_T13_S16_Mo_2 + x_T13_S16_Mo_3 + x_T13_S16_Mo_4 + x_T13_S16_Mo_5 <= 2
+ max_daily_T13_S16_Tu: x_T13_S16_Tu_1 + x_T13_S16_Tu_2 + x_T13_S16_Tu_3 + x_T13_S16_Tu_4 + x_T13_S16_Tu_5 <= 2
+ max_daily_T13_S16_We: x_T13_S16_We_1 + x_T13_S16_We_2 + x_T13_S16_We_3 + x_T13_S16_We_4 + x_T13_S16_We_5 <= 2
+ max_daily_T13_S16_Th: x_T13_S16_Th_1 + x_T13_S16_Th_2 + x_T13_S16_Th_3 + x_T13_S16_Th_4 + x_T13_S16_Th_5 <= 2
+ max_daily_T13_S16_Fr: x_T13_S16_Fr_1 + x_T13_S16_Fr_2 + x_T13_S16_Fr_3 + x_T13_S16_Fr_4 + x_T13_S16_Fr_5 <= 2
+ max_daily_T13_S17_Mo: x_T13_S17_Mo_1 + x_T13_S17_Mo_2 + x_T13_S17_Mo_3 + x_T13_S17_Mo_4 + x_T13_S17_Mo_5 <= 2
+ max_daily_T13_S17_Tu: x_T13_S17_Tu_1 + x_T13_S17_Tu_2 + x_T13_S17_Tu_3 + x_T13_S17_Tu_4 + x_T13_S17_Tu_5 <= 2
+ max_daily_T13_S17_We: x_T13_S17_We_1 + x_T13_S17_We_2 + x_T13_S17_We_3 + x_T13_S17_We_4 + x_T13_S17_We_5 <= 2
+ max_daily_T13_S17_Th: x_T13_S17_Th_1 + x_T13_S17_Th_2 + x_T13_S17_Th_3 + x_T13_S17_Th_4 + x_T13_S17_Th_5 <= 2
+ max_daily_T13_S17_Fr: x_T13_S17_Fr_1 + x_T13_S17_Fr_2 + x_T13_S17_Fr_3 + x_T13_S17_Fr_4 + x_T13_S17_Fr_5 <= 2
+ max_daily_T13_S18_Mo: x_T13_S18_Mo_1 + x_T13_S18_Mo_2 + x_T13_S18_Mo_3 + x_T13_S18_Mo_4 + x_T13_S18_Mo_5 <= 2
+ max_daily_T13_S18_Tu: x_T13_S18_Tu_1 + x_T13_S18_Tu_2 + x_T13_S18_Tu_3 + x_T13_S18_Tu_4 + x_T13_S18_Tu_5 <= 2
+ max_daily_T13_S18_We: x_T13_S18_We_1 + x_T13_S18_We_2 + x_T13_S18_We_3 + x_T13_S18_We_4 + x_T13_S18_We_5 <= 2
+ max_daily_T13_S18_Th: x_T13_S18_Th_1 + x_T13_S18_Th_2 + x_T13_S18_Th_3 + x_T13_S18_Th_4 + x_T13_S18_Th_5 <= 2
+ max_daily_T13_S18_Fr: x_T13_S18_Fr_1 + x_T13_S18_Fr_2 + x_T13_S18_Fr_3 + x_T13_S18_Fr_4 + x_T13_S18_Fr_5 <= 2
+ max_daily_T13_S19_Mo: x_T13_S19_Mo_1 + x_T13_S19_Mo_2 + x_T13_S19_Mo_3 + x_T13_S19_Mo_4 + x_T13_S19_Mo_5 <= 2
+ max_daily_T13_S19_Tu: x_T13_S19_Tu_1 + x_T13_S19_Tu_2 + x_T13_S19_Tu_3 + x_T13_S19_Tu_4 + x_T13_S19_Tu_5 <= 2
+ max_daily_T13_S19_We: x_T13_S19_We_1 + x_T13_S19_We_2 + x_T13_S19_We_3 + x_T13_S19_We_4 + x_T13_S19_We_5 <= 2
+ max_daily_T13_S19_Th: x_T13_S19_Th_1 + x_T13_S19_Th_2 + x_T13_S19_Th_3 + x_T13_S19_Th_4 + x_T13_S19_Th_5 <= 2
+ max_daily_T13_S19_Fr: x_T13_S19_Fr_1 + x_T13_S19_Fr_2 + x_T13_S19_Fr_3 + x_T13_S19_Fr_4 + x_T13_S19_Fr_5 <= 2
+ max_daily_T13_S20_Mo: x_T13_S20_Mo_1 + x_T13_S20_Mo_2 + x_T13_S20_Mo_3 + x_T13_S20_Mo_4 + x_T13_S20_Mo_5 <= 2
+ max_daily_T13_S20_Tu: x_T13_S20_Tu_1 + x_T13_S20_Tu_2 + x_T13_S20_Tu_3 + x_T13_S20_Tu_4 + x_T13_S20_Tu_5 <= 2
+ max_daily_T13_S20_We: x_T13_S20_We_1 + x_T13_S20_We_2 + x_T13_S20_We_3 + x_T13_S20_We_4 + x_T13_S20_We_5 <= 2
+ max_daily_T13_S20_Th: x_T13_S20_Th_1 + x_T13_S20_Th_2 + x_T13_S20_Th_3 + x_T13_S20_Th_4 + x_T13_S20_Th_5 <= 2
+ max_daily_T13_S20_Fr: x_T13_S20_Fr_1 + x_T13_S20_Fr_2 + x_T13_S20_Fr_3 + x_T13_S20_Fr_4 + x_T13_S20_Fr_5 <= 2
+ max_daily_T14_S1_Mo: x_T14_S1_Mo_1 + x_T14_S1_Mo_2 + x_T14_S1_Mo_3 + x_T14_S1_Mo_4 + x_T14_S1_Mo_5 <= 2
+ max_daily_T14_S1_Tu: x_T14_S1_Tu_1 + x_T14_S1_Tu_2 + x_T14_S1_Tu_3 + x_T14_S1_Tu_4 + x_T14_S1_Tu_5 <= 2
+ max_daily_T14_S1_We: x_T14_S1_We_1 + x_T14_S1_We_2 + x_T14_S1_We_3 + x_T14_S1_We_4 + x_T14_S1_We_5 <= 2
+ max_daily_T14_S1_Th: x_T14_S1_Th_1 + x_T14_S1_Th_2 + x_T14_S1_Th_3 + x_T14_S1_Th_4 + x_T14_S1_Th_5 <= 2
+ max_daily_T14_S1_Fr: x_T14_S1_Fr_1 + x_T14_S1_Fr_2 + x_T14_S1_Fr_3 + x_T14_S1_Fr_4 + x_T14_S1_Fr_5 <= 2
+ max_daily_T14_S2_Mo: x_T14_S2_Mo_1 + x_T14_S2_Mo_2 + x_T14_S2_Mo_3 + x_T14_S2_Mo_4 + x_T14_S2_Mo_5 <= 2
+ max_daily_T14_S2_Tu: x_T14_S2_Tu_1 + x_T14_S2_Tu_2 + x_T14_S2_Tu_3 + x_T14_S2_Tu_4 + x_T14_S2_Tu_5 <= 2
+ max_daily_T14_S2_We: x_T14_S2_We_1 + x_T14_S2_We_2 + x_T14_S2_We_3 + x_T14_S2_We_4 + x_T14_S2_We_5 <= 2
+ max_daily_T14_S2_Th: x_T14_S2_Th_1 + x_T14_S2_Th_2 + x_T14_S2_Th_3 + x_T14_S2_Th_4 + x_T14_S2_Th_5 <= 2
+ max_daily_T14_S2_Fr: x_T14_S2_Fr_1 + x_T14_S2_Fr_2 + x_T14_S2_Fr_3 + x_T14_S2_Fr_4 + x_T14_S2_Fr_5 <= 2
+ max_daily_T14_S3_Mo: x_T14_S3_Mo_1 + x_T14_S3_Mo_2 + x_T14_S3_Mo_3 + x_T14_S3_Mo_4 + x_T14_S3_Mo_5 <= 2
+ max_daily_T14_S3_Tu: x_T14_S3_Tu_1 + x_T14_S3_Tu_2 + x_T14_S3_Tu_3 + x_T14_S3_Tu_4 + x_T14_S3_Tu_5 <= 2
+ max_daily_T14_S3_We: x_T14_S3_We_1 + x_T14_S3_We_2 + x_T14_S3_We_3 + x_T14_S3_We_4 + x_T14_S3_We_5 <= 2
+ max_daily_T14_S3_Th: x_T14_S3_Th_1 + x_T14_S3_Th_2 + x_T14_S3_Th_3 + x_T14_S3_Th_4 + x_T14_S3_Th_5 <= 2
+ max_daily_T14_S3_Fr: x_T14_S3_Fr_1 + x_T14_S3_Fr_2 + x_T14_S3_Fr_3 + x_T14_S3_Fr_4 + x_T14_S3_Fr_5 <= 2
+ max_daily_T14_S10_Mo: x_T14_S10_Mo_1 + x_T14_S10_Mo_2 + x_T14_S10_Mo_3 + x_T14_S10_Mo_4 + x_T14_S10_Mo_5 <= 2
+ max_daily_T14_S10_Tu: x_T14_S10_Tu_1 + x_T14_S10_Tu_2 + x_T14_S10_Tu_3 + x_T14_S10_Tu_4 + x_T14_S10_Tu_5 <= 2
+ max_daily_T14_S10_We: x_T14_S10_We_1 + x_T14_S10_We_2 + x_T14_S10_We_3 + x_T14_S10_We_4 + x_T14_S10_We_5 <= 2
+ max_daily_T14_S10_Th: x_T14_S10_Th_1 + x_T14_S10_Th_2 + x_T14_S10_Th_3 + x_T14_S10_Th_4 + x_T14_S10_Th_5 <= 2
+ max_daily_T14_S10_Fr: x_T14_S10_Fr_1 + x_T14_S10_Fr_2 + x_T14_S10_Fr_3 + x_T14_S10_Fr_4 + x_T14_S10_Fr_5 <= 2
+ max_daily_T14_S13_Mo: x_T14_S13_Mo_1 + x_T14_S13_Mo_2 + x_T14_S13_Mo_3 + x_T14_S13_Mo_4 + x_T14_S13_Mo_5 <= 2
+ max_daily_T14_S13_Tu: x_T14_S13_Tu_1 + x_T14_S13_Tu_2 + x_T14_S13_Tu_3 + x_T14_S13_Tu_4 + x_T14_S13_Tu_5 <= 2
+ max_daily_T14_S13_We: x_T14_S13_We_1 + x_T14_S13_We_2 + x_T14_S13_We_3 + x_T14_S13_We_4 + x_T14_S13_We_5 <= 2
+ max_daily_T14_S13_Th: x_T14_S13_Th_1 + x_T14_S13_Th_2 + x_T14_S13_Th_3 + x_T14_S13_Th_4 + x_T14_S13_Th_5 <= 2
+ max_daily_T14_S13_Fr: x_T14_S13_Fr_1 + x_T14_S13_Fr_2 + x_T14_S13_Fr_3 + x_T14_S13_Fr_4 + x_T14_S13_Fr_5 <= 2
+ max_daily_T14_S16_Mo: x_T14_S16_Mo_1 + x_T14_S16_Mo_2 + x_T14_S16_Mo_3 + x_T14_S16_Mo_4 + x_T14_S16_Mo_5 <= 2
+ max_daily_T14_S16_Tu: x_T14_S16_Tu_1 + x_T14_S16_Tu_2 + x_T14_S16_Tu_3 + x_T14_S16_Tu_4 + x_T14_S16_Tu_5 <= 2
+ max_daily_T14_S16_We: x_T14_S16_We_1 + x_T14_S16_We_2 + x_T14_S16_We_3 + x_T14_S16_We_4 + x_T14_S16_We_5 <= 2
+ max_daily_T14_S16_Th: x_T14_S16_Th_1 + x_T14_S16_Th_2 + x_T14_S16_Th_3 + x_T14_S16_Th_4 + x_T14_S16_Th_5 <= 2
+ max_daily_T14_S16_Fr: x_T14_S16_Fr_1 + x_T14_S16_Fr_2 + x_T14_S16_Fr_3 + x_T14_S16_Fr_4 + x_T14_S16_Fr_5 <= 2
+ max_daily_T14_S17_Mo: x_T14_S17_Mo_1 + x_T14_S17_Mo_2 + x_T14_S17_Mo_3 + x_T14_S17_Mo_4 + x_T14_S17_Mo_5 <= 2
+ max_daily_T14_S17_Tu: x_T14_S17_Tu_1 + x_T14_S17_Tu_2 + x_T14_S17_Tu_3 + x_T14_S17_Tu_4 + x_T14_S17_Tu_5 <= 2
+ max_daily_T14_S17_We: x_T14_S17_We_1 + x_T14_S17_We_2 + x_T14_S17_We_3 + x_T14_S17_We_4 + x_T14_S17_We_5 <= 2
+ max_daily_T14_S17_Th: x_T14_S17_Th_1 + x_T14_S17_Th_2 + x_T14_S17_Th_3 + x_T14_S17_Th_4 + x_T14_S17_Th_5 <= 2
+ max_daily_T14_S17_Fr: x_T14_S17_Fr_1 + x_T14_S17_Fr_2 + x_T14_S17_Fr_3 + x_T14_S17_Fr_4 + x_T14_S17_Fr_5 <= 2
+ max_daily_T15_S4_Mo: x_T15_S4_Mo_1 + x_T15_S4_Mo_2 + x_T15_S4_Mo_3 + x_T15_S4_Mo_4 + x_T15_S4_Mo_5 <= 2
+ max_daily_T15_S4_Tu: x_T15_S4_Tu_1 + x_T15_S4_Tu_2 + x_T15_S4_Tu_3 + x_T15_S4_Tu_4 + x_T15_S4_Tu_5 <= 2
+ max_daily_T15_S4_We: x_T15_S4_We_1 + x_T15_S4_We_2 + x_T15_S4_We_3 + x_T15_S4_We_4 + x_T15_S4_We_5 <= 2
+ max_daily_T15_S4_Th: x_T15_S4_Th_1 + x_T15_S4_Th_2 + x_T15_S4_Th_3 + x_T15_S4_Th_4 + x_T15_S4_Th_5 <= 2
+ max_daily_T15_S4_Fr: x_T15_S4_Fr_1 + x_T15_S4_Fr_2 + x_T15_S4_Fr_3 + x_T15_S4_Fr_4 + x_T15_S4_Fr_5 <= 2
+ max_daily_T15_S5_Mo: x_T15_S5_Mo_1 + x_T15_S5_Mo_2 + x_T15_S5_Mo_3 + x_T15_S5_Mo_4 + x_T15_S5_Mo_5 <= 2
+ max_daily_T15_S5_Tu: x_T15_S5_Tu_1 + x_T15_S5_Tu_2 + x_T15_S5_Tu_3 + x_T15_S5_Tu_4 + x_T15_S5_Tu_5 <= 2
+ max_daily_T15_S5_We: x_T15_S5_We_1 + x_T15_S5_We_2 + x_T15_S5_We_3 + x_T15_S5_We_4 + x_T15_S5_We_5 <= 2
+ max_daily_T15_S5_Th: x_T15_S5_Th_1 + x_T15_S5_Th_2 + x_T15_S5_Th_3 + x_T15_S5_Th_4 + x_T15_S5_Th_5 <= 2
+ max_daily_T15_S5_Fr: x_T15_S5_Fr_1 + x_T15_S5_Fr_2 + x_T15_S5_Fr_3 + x_T15_S5_Fr_4 + x_T15_S5_Fr_5 <= 2
+ max_daily_T15_S6_Mo: x_T15_S6_Mo_1 + x_T15_S6_Mo_2 + x_T15_S6_Mo_3 + x_T15_S6_Mo_4 + x_T15_S6_Mo_5 <= 2
+ max_daily_T15_S6_Tu: x_T15_S6_Tu_1 + x_T15_S6_Tu_2 + x_T15_S6_Tu_3 + x_T15_S6_Tu_4 + x_T15_S6_Tu_5 <= 2
+ max_daily_T15_S6_We: x_T15_S6_We_1 + x_T15_S6_We_2 + x_T15_S6_We_3 + x_T15_S6_We_4 + x_T15_S6_We_5 <= 2
+ max_daily_T15_S6_Th: x_T15_S6_Th_1 + x_T15_S6_Th_2 + x_T15_S6_Th_3 + x_T15_S6_Th_4 + x_T15_S6_Th_5 <= 2
+ max_daily_T15_S6_Fr: x_T15_S6_Fr_1 + x_T15_S6_Fr_2 + x_T15_S6_Fr_3 + x_T15_S6_Fr_4 + x_T15_S6_Fr_5 <= 2
+ max_daily_T15_S11_Mo: x_T15_S11_Mo_1 + x_T15_S11_Mo_2 + x_T15_S11_Mo_3 + x_T15_S11_Mo_4 + x_T15_S11_Mo_5 <= 2
+ max_daily_T15_S11_Tu: x_T15_S11_Tu_1 + x_T15_S11_Tu_2 + x_T15_S11_Tu_3 + x_T15_S11_Tu_4 + x_T15_S11_Tu_5 <= 2
+ max_daily_T15_S11_We: x_T15_S11_We_1 + x_T15_S11_We_2 + x_T15_S11_We_3 + x_T15_S11_We_4 + x_T15_S11_We_5 <= 2
+ max_daily_T15_S11_Th: x_T15_S11_Th_1 + x_T15_S11_Th_2 + x_T15_S11_Th_3 + x_T15_S11_Th_4 + x_T15_S11_Th_5 <= 2
+ max_daily_T15_S11_Fr: x_T15_S11_Fr_1 + x_T15_S11_Fr_2 + x_T15_S11_Fr_3 + x_T15_S11_Fr_4 + x_T15_S11_Fr_5 <= 2
+ max_daily_T15_S14_Mo: x_T15_S14_Mo_1 + x_T15_S14_Mo_2 + x_T15_S14_Mo_3 + x_T15_S14_Mo_4 + x_T15_S14_Mo_5 <= 2
+ max_daily_T15_S14_Tu: x_T15_S14_Tu_1 + x_T15_S14_Tu_2 + x_T15_S14_Tu_3 + x_T15_S14_Tu_4 + x_T15_S14_Tu_5 <= 2
+ max_daily_T15_S14_We: x_T15_S14_We_1 + x_T15_S14_We_2 + x_T15_S14_We_3 + x_T15_S14_We_4 + x_T15_S14_We_5 <= 2
+ max_daily_T15_S14_Th: x_T15_S14_Th_1 + x_T15_S14_Th_2 + x_T15_S14_Th_3 + x_T15_S14_Th_4 + x_T15_S14_Th_5 <= 2
+ max_daily_T15_S14_Fr: x_T15_S14_Fr_1 + x_T15_S14_Fr_2 + x_T15_S14_Fr_3 + x_T15_S14_Fr_4 + x_T15_S14_Fr_5 <= 2
+ max_daily_T15_S18_Mo: x_T15_S18_Mo_1 + x_T15_S18_Mo_2 + x_T15_S18_Mo_3 + x_T15_S18_Mo_4 + x_T15_S18_Mo_5 <= 2
+ max_daily_T15_S18_Tu: x_T15_S18_Tu_1 + x_T15_S18_Tu_2 + x_T15_S18_Tu_3 + x_T15_S18_Tu_4 + x_T15_S18_Tu_5 <= 2
+ max_daily_T15_S18_We: x_T15_S18_We_1 + x_T15_S18_We_2 + x_T15_S18_We_3 + x_T15_S18_We_4 + x_T15_S18_We_5 <= 2
+ max_daily_T15_S18_Th: x_T15_S18_Th_1 + x_T15_S18_Th_2 + x_T15_S18_Th_3 + x_T15_S18_Th_4 + x_T15_S18_Th_5 <= 2
+ max_daily_T15_S18_Fr: x_T15_S18_Fr_1 + x_T15_S18_Fr_2 + x_T15_S18_Fr_3 + x_T15_S18_Fr_4 + x_T15_S18_Fr_5 <= 2
+ max_daily_T15_S19_Mo: x_T15_S19_Mo_1 + x_T15_S19_Mo_2 + x_T15_S19_Mo_3 + x_T15_S19_Mo_4 + x_T15_S19_Mo_5 <= 2
+ max_daily_T15_S19_Tu: x_T15_S19_Tu_1 + x_T15_S19_Tu_2 + x_T15_S19_Tu_3 + x_T15_S19_Tu_4 + x_T15_S19_Tu_5 <= 2
+ max_daily_T15_S19_We: x_T15_S19_We_1 + x_T15_S19_We_2 + x_T15_S19_We_3 + x_T15_S19_We_4 + x_T15_S19_We_5 <= 2
+ max_daily_T15_S19_Th: x_T15_S19_Th_1 + x_T15_S19_Th_2 + x_T15_S19_Th_3 + x_T15_S19_Th_4 + x_T15_S19_Th_5 <= 2
+ max_daily_T15_S19_Fr: x_T15_S19_Fr_1 + x_T15_S19_Fr_2 + x_T15_S19_Fr_3 + x_T15_S19_Fr_4 + x_T15_S19_Fr_5 <= 2
+ max_daily_T16_S7_Mo: x_T16_S7_Mo_1 + x_T16_S7_Mo_2 + x_T16_S7_Mo_3 + x_T16_S7_Mo_4 + x_T16_S7_Mo_5 <= 2
+ max_daily_T16_S7_Tu: x_T16_S7_Tu_1 + x_T16_S7_Tu_2 + x_T16_S7_Tu_3 + x_T16_S7_Tu_4 + x_T16_S7_Tu_5 <= 2
+ max_daily_T16_S7_We: x_T16_S7_We_1 + x_T16_S7_We_2 + x_T16_S7_We_3 + x_T16_S7_We_4 + x_T16_S7_We_5 <= 2
+ max_daily_T16_S7_Th: x_T16_S7_Th_1 + x_T16_S7_Th_2 + x_T16_S7_Th_3 + x_T16_S7_Th_4 + x_T16_S7_Th_5 <= 2
+ max_daily_T16_S7_Fr: x_T16_S7_Fr_1 + x_T16_S7_Fr_2 + x_T16_S7_Fr_3 + x_T16_S7_Fr_4 + x_T16_S7_Fr_5 <= 2
+ max_daily_T16_S8_Mo: x_T16_S8_Mo_1 + x_T16_S8_Mo_2 + x_T16_S8_Mo_3 + x_T16_S8_Mo_4 + x_T16_S8_Mo_5 <= 2
+ max_daily_T16_S8_Tu: x_T16_S8_Tu_1 + x_T16_S8_Tu_2 + x_T16_S8_Tu_3 + x_T16_S8_Tu_4 + x_T16_S8_Tu_5 <= 2
+ max_daily_T16_S8_We: x_T16_S8_We_1 + x_T16_S8_We_2 + x_T16_S8_We_3 + x_T16_S8_We_4 + x_T16_S8_We_5 <= 2
+ max_daily_T16_S8_Th: x_T16_S8_Th_1 + x_T16_S8_Th_2 + x_T16_S8_Th_3 + x_T16_S8_Th_4 + x_T16_S8_Th_5 <= 2
+ max_daily_T16_S8_Fr: x_T16_S8_Fr_1 + x_T16_S8_Fr_2 + x_T16_S8_Fr_3 + x_T16_S8_Fr_4 + x_T16_S8_Fr_5 <= 2
+ max_daily_T16_S9_Mo: x_T16_S9_Mo_1 + x_T16_S9_Mo_2 + x_T16_S9_Mo_3 + x_T16_S9_Mo_4 + x_T16_S9_Mo_5 <= 2
+ max_daily_T16_S9_Tu: x_T16_S9_Tu_1 + x_T16_S9_Tu_2 + x_T16_S9_Tu_3 + x_T16_S9_Tu_4 + x_T16_S9_Tu_5 <= 2
+ max_daily_T16_S9_We: x_T16_S9_We_1 + x_T16_S9_We_2 + x_T16_S9_We_3 + x_T16_S9_We_4 + x_T16_S9_We_5 <= 2
+ max_daily_T16_S9_Th: x_T16_S9_Th_1 + x_T16_S9_Th_2 + x_T16_S9_Th_3 + x_T16_S9_Th_4 + x_T16_S9_Th_5 <= 2
+ max_daily_T16_S9_Fr: x_T16_S9_Fr_1 + x_T16_S9_Fr_2 + x_T16_S9_Fr_3 + x_T16_S9_Fr_4 + x_T16_S9_Fr_5 <= 2
+ max_daily_T16_S12_Mo: x_T16_S12_Mo_1 + x_T16_S12_Mo_2 + x_T16_S12_Mo_3 + x_T16_S12_Mo_4 + x_T16_S12_Mo_5 <= 2
+ max_daily_T16_S12_Tu: x_T16_S12_Tu_1 + x_T16_S12_Tu_2 + x_T16_S12_Tu_3 + x_T16_S12_Tu_4 + x_T16_S12_Tu_5 <= 2
+ max_daily_T16_S12_We: x_T16_S12_We_1 + x_T16_S12_We_2 + x_T16_S12_We_3 + x_T16_S12_We_4 + x_T16_S12_We_5 <= 2
+ max_daily_T16_S12_Th: x_T16_S12_Th_1 + x_T16_S12_Th_2 + x_T16_S12_Th_3 + x_T16_S12_Th_4 + x_T16_S12_Th_5 <= 2
+ max_daily_T16_S12_Fr: x_T16_S12_Fr_1 + x_T16_S12_Fr_2 + x_T16_S12_Fr_3 + x_T16_S12_Fr_4 + x_T16_S12_Fr_5 <= 2
+ max_daily_T16_S15_Mo: x_T16_S15_Mo_1 + x_T16_S15_Mo_2 + x_T16_S15_Mo_3 + x_T16_S15_Mo_4 + x_T16_S15_Mo_5 <= 2
+ max_daily_T16_S15_Tu: x_T16_S15_Tu_1 + x_T16_S15_Tu_2 + x_T16_S15_Tu_3 + x_T16_S15_Tu_4 + x_T16_S15_Tu_5 <= 2
+ max_daily_T16_S15_We: x_T16_S15_We_1 + x_T16_S15_We_2 + x_T16_S15_We_3 + x_T16_S15_We_4 + x_T16_S15_We_5 <= 2
+ max_daily_T16_S15_Th: x_T16_S15_Th_1 + x_T16_S15_Th_2 + x_T16_S15_Th_3 + x_T16_S15_Th_4 + x_T16_S15_Th_5 <= 2
+ max_daily_T16_S15_Fr: x_T16_S15_Fr_1 + x_T16_S15_Fr_2 + x_T16_S15_Fr_3 + x_T16_S15_Fr_4 + x_T16_S15_Fr_5 <= 2
+ max_daily_T16_S20_Mo: x_T16_S20_Mo_1 + x_T16_S20_Mo_2 + x_T16_S20_Mo_3 + x_T16_S20_Mo_4 + x_T16_S20_Mo_5 <= 2
+ max_daily_T16_S20_Tu: x_T16_S20_Tu_1 + x_T16_S20_Tu_2 + x_T16_S20_Tu_3 + x_T16_S20_Tu_4 + x_T16_S20_Tu_5 <= 2
+ max_daily_T16_S20_We: x_T16_S20_We_1 + x_T16_S20_We_2 + x_T16_S20_We_3 + x_T16_S20_We_4 + x_T16_S20_We_5 <= 2
+ max_daily_T16_S20_Th: x_T16_S20_Th_1 + x_T16_S20_Th_2 + x_T16_S20_Th_3 + x_T16_S20_Th_4 + x_T16_S20_Th_5 <= 2
+ max_daily_T16_S20_Fr: x_T16_S20_Fr_1 + x_T16_S20_Fr_2 + x_T16_S20_Fr_3 + x_T16_S20_Fr_4 + x_T16_S20_Fr_5 <= 2
+ max_daily_T17_S1_Mo: x_T17_S1_Mo_1 + x_T17_S1_Mo_2 + x_T17_S1_Mo_3 + x_T17_S1_Mo_4 + x_T17_S1_Mo_5 <= 2
+ max_daily_T17_S1_Tu: x_T17_S1_Tu_1 + x_T17_S1_Tu_2 + x_T17_S1_Tu_3 + x_T17_S1_Tu_4 + x_T17_S1_Tu_5 <= 2
+ max_daily_T17_S1_We: x_T17_S1_We_1 + x_T17_S1_We_2 + x_T17_S1_We_3 + x_T17_S1_We_4 + x_T17_S1_We_5 <= 2
+ max_daily_T17_S1_Th: x_T17_S1_Th_1 + x_T17_S1_Th_2 + x_T17_S1_Th_3 + x_T17_S1_Th_4 + x_T17_S1_Th_5 <= 2
+ max_daily_T17_S1_Fr: x_T17_S1_Fr_1 + x_T17_S1_Fr_2 + x_T17_S1_Fr_3 + x_T17_S1_Fr_4 + x_T17_S1_Fr_5 <= 2
+ max_daily_T17_S2_Mo: x_T17_S2_Mo_1 + x_T17_S2_Mo_2 + x_T17_S2_Mo_3 + x_T17_S2_Mo_4 + x_T17_S2_Mo_5 <= 2
+ max_daily_T17_S2_Tu: x_T17_S2_Tu_1 + x_T17_S2_Tu_2 + x_T17_S2_Tu_3 + x_T17_S2_Tu_4 + x_T17_S2_Tu_5 <= 2
+ max_daily_T17_S2_We: x_T17_S2_We_1 + x_T17_S2_We_2 + x_T17_S2_We_3 + x_T17_S2_We_4 + x_T17_S2_We_5 <= 2
+ max_daily_T17_S2_Th: x_T17_S2_Th_1 + x_T17_S2_Th_2 + x_T17_S2_Th_3 + x_T17_S2_Th_4 + x_T17_S2_Th_5 <= 2
+ max_daily_T17_S2_Fr: x_T17_S2_Fr_1 + x_T17_S2_Fr_2 + x_T17_S2_Fr_3 + x_T17_S2_Fr_4 + x_T17_S2_Fr_5 <= 2
+ max_daily_T17_S3_Mo: x_T17_S3_Mo_1 + x_T17_S3_Mo_2 + x_T17_S3_Mo_3 + x_T17_S3_Mo_4 + x_T17_S3_Mo_5 <= 2
+ max_daily_T17_S3_Tu: x_T17_S3_Tu_1 + x_T17_S3_Tu_2 + x_T17_S3_Tu_3 + x_T17_S3_Tu_4 + x_T17_S3_Tu_5 <= 2
+ max_daily_T17_S3_We: x_T17_S3_We_1 + x_T17_S3_We_2 + x_T17_S3_We_3 + x_T17_S3_We_4 + x_T17_S3_We_5 <= 2
+ max_daily_T17_S3_Th: x_T17_S3_Th_1 + x_T17_S3_Th_2 + x_T17_S3_Th_3 + x_T17_S3_Th_4 + x_T17_S3_Th_5 <= 2
+ max_daily_T17_S3_Fr: x_T17_S3_Fr_1 + x_T17_S3_Fr_2 + x_T17_S3_Fr_3 + x_T17_S3_Fr_4 + x_T17_S3_Fr_5 <= 2
+ max_daily_T17_S10_Mo: x_T17_S10_Mo_1 + x_T17_S10_Mo_2 + x_T17_S10_Mo_3 + x_T17_S10_Mo_4 + x_T17_S10_Mo_5 <= 2
+ max_daily_T17_S10_Tu: x_T17_S10_Tu_1 + x_T17_S10_Tu_2 + x_T17_S10_Tu_3 + x_T17_S10_Tu_4 + x_T17_S10_Tu_5 <= 2
+ max_daily_T17_S10_We: x_T17_S10_We_1 + x_T17_S10_We_2 + x_T17_S10_We_3 + x_T17_S10_We_4 + x_T17_S10_We_5 <= 2
+ max_daily_T17_S10_Th: x_T17_S10_Th_1 + x_T17_S10_Th_2 + x_T17_S10_Th_3 + x_T17_S10_Th_4 + x_T17_S10_Th_5 <= 2
+ max_daily_T17_S10_Fr: x_T17_S10_Fr_1 + x_T17_S10_Fr_2 + x_T17_S10_Fr_3 + x_T17_S10_Fr_4 + x_T17_S10_Fr_5 <= 2
+ max_daily_T17_S13_Mo: x_T17_S13_Mo_1 + x_T17_S13_Mo_2 + x_T17_S13_Mo_3 + x_T17_S13_Mo_4 + x_T17_S13_Mo_5 <= 2
+ max_daily_T17_S13_Tu: x_T17_S13_Tu_1 + x_T17_S13_Tu_2 + x_T17_S13_Tu_3 + x_T17_S13_Tu_4 + x_T17_S13_Tu_5 <= 2
+ max_daily_T17_S13_We: x_T17_S13_We_1 + x_T17_S13_We_2 + x_T17_S13_We_3 + x_T17_S13_We_4 + x_T17_S13_We_5 <= 2
+ max_daily_T17_S13_Th: x_T17_S13_Th_1 + x_T17_S13_Th_2 + x_T17_S13_Th_3 + x_T17_S13_Th_4 + x_T17_S13_Th_5 <= 2
+ max_daily_T17_S13_Fr: x_T17_S13_Fr_1 + x_T17_S13_Fr_2 + x_T17_S13_Fr_3 + x_T17_S13_Fr_4 + x_T17_S13_Fr_5 <= 2
+ max_daily_T17_S16_Mo: x_T17_S16_Mo_1 + x_T17_S16_Mo_2 + x_T17_S16_Mo_3 + x_T17_S16_Mo_4 + x_T17_S16_Mo_5 <= 2
+ max_daily_T17_S16_Tu: x_T17_S16_Tu_1 + x_T17_S16_Tu_2 + x_T17_S16_Tu_3 + x_T17_S16_Tu_4 + x_T17_S16_Tu_5 <= 2
+ max_daily_T17_S16_We: x_T17_S16_We_1 + x_T17_S16_We_2 + x_T17_S16_We_3 + x_T17_S16_We_4 + x_T17_S16_We_5 <= 2
+ max_daily_T17_S16_Th: x_T17_S16_Th_1 + x_T17_S16_Th_2 + x_T17_S16_Th_3 + x_T17_S16_Th_4 + x_T17_S16_Th_5 <= 2
+ max_daily_T17_S16_Fr: x_T17_S16_Fr_1 + x_T17_S16_Fr_2 + x_T17_S16_Fr_3 + x_T17_S16_Fr_4 + x_T17_S16_Fr_5 <= 2
+ max_daily_T17_S17_Mo: x_T17_S17_Mo_1 + x_T17_S17_Mo_2 + x_T17_S17_Mo_3 + x_T17_S17_Mo_4 + x_T17_S17_Mo_5 <= 2
+ max_daily_T17_S17_Tu: x_T17_S17_Tu_1 + x_T17_S17_Tu_2 + x_T17_S17_Tu_3 + x_T17_S17_Tu_4 + x_T17_S17_Tu_5 <= 2
+ max_daily_T17_S17_We: x_T17_S17_We_1 + x_T17_S17_We_2 + x_T17_S17_We_3 + x_T17_S17_We_4 + x_T17_S17_We_5 <= 2
+ max_daily_T17_S17_Th: x_T17_S17_Th_1 + x_T17_S17_Th_2 + x_T17_S17_Th_3 + x_T17_S17_Th_4 + x_T17_S17_Th_5 <= 2
+ max_daily_T17_S17_Fr: x_T17_S17_Fr_1 + x_T17_S17_Fr_2 + x_T17_S17_Fr_3 + x_T17_S17_Fr_4 + x_T17_S17_Fr_5 <= 2
+ max_daily_T18_S4_Mo: x_T18_S4_Mo_1 + x_T18_S4_Mo_2 + x_T18_S4_Mo_3 + x_T18_S4_Mo_4 + x_T18_S4_Mo_5 <= 2
+ max_daily_T18_S4_Tu: x_T18_S4_Tu_1 + x_T18_S4_Tu_2 + x_T18_S4_Tu_3 + x_T18_S4_Tu_4 + x_T18_S4_Tu_5 <= 2
+ max_daily_T18_S4_We: x_T18_S4_We_1 + x_T18_S4_We_2 + x_T18_S4_We_3 + x_T18_S4_We_4 + x_T18_S4_We_5 <= 2
+ max_daily_T18_S4_Th: x_T18_S4_Th_1 + x_T18_S4_Th_2 + x_T18_S4_Th_3 + x_T18_S4_Th_4 + x_T18_S4_Th_5 <= 2
+ max_daily_T18_S4_Fr: x_T18_S4_Fr_1 + x_T18_S4_Fr_2 + x_T18_S4_Fr_3 + x_T18_S4_Fr_4 + x_T18_S4_Fr_5 <= 2
+ max_daily_T18_S5_Mo: x_T18_S5_Mo_1 + x_T18_S5_Mo_2 + x_T18_S5_Mo_3 + x_T18_S5_Mo_4 + x_T18_S5_Mo_5 <= 2
+ max_daily_T18_S5_Tu: x_T18_S5_Tu_1 + x_T18_S5_Tu_2 + x_T18_S5_Tu_3 + x_T18_S5_Tu_4 + x_T18_S5_Tu_5 <= 2
+ max_daily_T18_S5_We: x_T18_S5_We_1 + x_T18_S5_We_2 + x_T18_S5_We_3 + x_T18_S5_We_4 + x_T18_S5_We_5 <= 2
+ max_daily_T18_S5_Th: x_T18_S5_Th_1 + x_T18_S5_Th_2 + x_T18_S5_Th_3 + x_T18_S5_Th_4 + x_T18_S5_Th_5 <= 2
+ max_daily_T18_S5_Fr: x_T18_S5_Fr_1 + x_T18_S5_Fr_2 + x_T18_S5_Fr_3 + x_T18_S5_Fr_4 + x_T18_S5_Fr_5 <= 2
+ max_daily_T18_S6_Mo: x_T18_S6_Mo_1 + x_T18_S6_Mo_2 + x_T18_S6_Mo_3 + x_T18_S6_Mo_4 + x_T18_S6_Mo_5 <= 2
+ max_daily_T18_S6_Tu: x_T18_S6_Tu_1 + x_T18_S6_Tu_2 + x_T18_S6_Tu_3 + x_T18_S6_Tu_4 + x_T18_S6_Tu_5 <= 2
+ max_daily_T18_S6_We: x_T18_S6_We_1 + x_T18_S6_We_2 + x_T18_S6_We_3 + x_T18_S6_We_4 + x_T18_S6_We_5 <= 2
+ max_daily_T18_S6_Th: x_T18_S6_Th_1 + x_T18_S6_Th_2 + x_T18_S6_Th_3 + x_T18_S6_Th_4 + x_T18_S6_Th_5 <= 2
+ max_daily_T18_S6_Fr: x_T18_S6_Fr_1 + x_T18_S6_Fr_2 + x_T18_S6_Fr_3 + x_T18_S6_Fr_4 + x_T18_S6_Fr_5 <= 2
+ max_daily_T18_S11_Mo: x_T18_S11_Mo_1 + x_T18_S11_Mo_2 + x_T18_S11_Mo_3 + x_T18_S11_Mo_4 + x_T18_S11_Mo_5 <= 2
+ max_daily_T18_S11_Tu: x_T18_S11_Tu_1 + x_T18_S11_Tu_2 + x_T18_S11_Tu_3 + x_T18_S11_Tu_4 + x_T18_S11_Tu_5 <= 2
+ max_daily_T18_S11_We: x_T18_S11_We_1 + x_T18_S11_We_2 + x_T18_S11_We_3 + x_T18_S11_We_4 + x_T18_S11_We_5 <= 2
+ max_daily_T18_S11_Th: x_T18_S11_Th_1 + x_T18_S11_Th_2 + x_T18_S11_Th_3 + x_T18_S11_Th_4 + x_T18_S11_Th_5 <= 2
+ max_daily_T18_S11_Fr: x_T18_S11_Fr_1 + x_T18_S11_Fr_2 + x_T18_S11_Fr_3 + x_T18_S11_Fr_4 + x_T18_S11_Fr_5 <= 2
+ max_daily_T18_S14_Mo: x_T18_S14_Mo_1 + x_T18_S14_Mo_2 + x_T18_S14_Mo_3 + x_T18_S14_Mo_4 + x_T18_S14_Mo_5 <= 2
+ max_daily_T18_S14_Tu: x_T18_S14_Tu_1 + x_T18_S14_Tu_2 + x_T18_S14_Tu_3 + x_T18_S14_Tu_4 + x_T18_S14_Tu_5 <= 2
+ max_daily_T18_S14_We: x_T18_S14_We_1 + x_T18_S14_We_2 + x_T18_S14_We_3 + x_T18_S14_We_4 + x_T18_S14_We_5 <= 2
+ max_daily_T18_S14_Th: x_T18_S14_Th_1 + x_T18_S14_Th_2 + x_T18_S14_Th_3 + x_T18_S14_Th_4 + x_T18_S14_Th_5 <= 2
+ max_daily_T18_S14_Fr: x_T18_S14_Fr_1 + x_T18_S14_Fr_2 + x_T18_S14_Fr_3 + x_T18_S14_Fr_4 + x_T18_S14_Fr_5 <= 2
+ max_daily_T18_S18_Mo: x_T18_S18_Mo_1 + x_T18_S18_Mo_2 + x_T18_S18_Mo_3 + x_T18_S18_Mo_4 + x_T18_S18_Mo_5 <= 2
+ max_daily_T18_S18_Tu: x_T18_S18_Tu_1 + x_T18_S18_Tu_2 + x_T18_S18_Tu_3 + x_T18_S18_Tu_4 + x_T18_S18_Tu_5 <= 2
+ max_daily_T18_S18_We: x_T18_S18_We_1 + x_T18_S18_We_2 + x_T18_S18_We_3 + x_T18_S18_We_4 + x_T18_S18_We_5 <= 2
+ max_daily_T18_S18_Th: x_T18_S18_Th_1 + x_T18_S18_Th_2 + x_T18_S18_Th_3 + x_T18_S18_Th_4 + x_T18_S18_Th_5 <= 2
+ max_daily_T18_S18_Fr: x_T18_S18_Fr_1 + x_T18_S18_Fr_2 + x_T18_S18_Fr_3 + x_T18_S18_Fr_4 + x_T18_S18_Fr_5 <= 2
+ max_daily_T18_S19_Mo: x_T18_S19_Mo_1 + x_T18_S19_Mo_2 + x_T18_S19_Mo_3 + x_T18_S19_Mo_4 + x_T18_S19_Mo_5 <= 2
+ max_daily_T18_S19_Tu: x_T18_S19_Tu_1 + x_T18_S19_Tu_2 + x_T18_S19_Tu_3 + x_T18_S19_Tu_4 + x_T18_S19_Tu_5 <= 2
+ max_daily_T18_S19_We: x_T18_S19_We_1 + x_T18_S19_We_2 + x_T18_S19_We_3 + x_T18_S19_We_4 + x_T18_S19_We_5 <= 2
+ max_daily_T18_S19_Th: x_T18_S19_Th_1 + x_T18_S19_Th_2 + x_T18_S19_Th_3 + x_T18_S19_Th_4 + x_T18_S19_Th_5 <= 2
+ max_daily_T18_S19_Fr: x_T18_S19_Fr_1 + x_T18_S19_Fr_2 + x_T18_S19_Fr_3 + x_T18_S19_Fr_4 + x_T18_S19_Fr_5 <= 2
+ max_daily_T19_S7_Mo: x_T19_S7_Mo_1 + x_T19_S7_Mo_2 + x_T19_S7_Mo_3 + x_T19_S7_Mo_4 + x_T19_S7_Mo_5 <= 2
+ max_daily_T19_S7_Tu: x_T19_S7_Tu_1 + x_T19_S7_Tu_2 + x_T19_S7_Tu_3 + x_T19_S7_Tu_4 + x_T19_S7_Tu_5 <= 2
+ max_daily_T19_S7_We: x_T19_S7_We_1 + x_T19_S7_We_2 + x_T19_S7_We_3 + x_T19_S7_We_4 + x_T19_S7_We_5 <= 2
+ max_daily_T19_S7_Th: x_T19_S7_Th_1 + x_T19_S7_Th_2 + x_T19_S7_Th_3 + x_T19_S7_Th_4 + x_T19_S7_Th_5 <= 2
+ max_daily_T19_S7_Fr: x_T19_S7_Fr_1 + x_T19_S7_Fr_2 + x_T19_S7_Fr_3 + x_T19_S7_Fr_4 + x_T19_S7_Fr_5 <= 2
+ max_daily_T19_S8_Mo: x_T19_S8_Mo_1 + x_T19_S8_Mo_2 + x_T19_S8_Mo_3 + x_T19_S8_Mo_4 + x_T19_S8_Mo_5 <= 2
+ max_daily_T19_S8_Tu: x_T19_S8_Tu_1 + x_T19_S8_Tu_2 + x_T19_S8_Tu_3 + x_T19_S8_Tu_4 + x_T19_S8_Tu_5 <= 2
+ max_daily_T19_S8_We: x_T19_S8_We_1 + x_T19_S8_We_2 + x_T19_S8_We_3 + x_T19_S8_We_4 + x_T19_S8_We_5 <= 2
+ max_daily_T19_S8_Th: x_T19_S8_Th_1 + x_T19_S8_Th_2 + x_T19_S8_Th_3 + x_T19_S8_Th_4 + x_T19_S8_Th_5 <= 2
+ max_daily_T19_S8_Fr: x_T19_S8_Fr_1 + x_T19_S8_Fr_2 + x_T19_S8_Fr_3 + x_T19_S8_Fr_4 + x_T19_S8_Fr_5 <= 2
+ max_daily_T19_S9_Mo: x_T19_S9_Mo_1 + x_T19_S9_Mo_2 + x_T19_S9_Mo_3 + x_T19_S9_Mo_4 + x_T19_S9_Mo_5 <= 2
+ max_daily_T19_S9_Tu: x_T19_S9_Tu_1 + x_T19_S9_Tu_2 + x_T19_S9_Tu_3 + x_T19_S9_Tu_4 + x_T19_S9_Tu_5 <= 2
+ max_daily_T19_S9_We: x_T19_S9_We_1 + x_T19_S9_We_2 + x_T19_S9_We_3 + x_T19_S9_We_4 + x_T19_S9_We_5 <= 2
+ max_daily_T19_S9_Th: x_T19_S9_Th_1 + x_T19_S9_Th_2 + x_T19_S9_Th_3 + x_T19_S9_Th_4 + x_T19_S9_Th_5 <= 2
+ max_daily_T19_S9_Fr: x_T19_S9_Fr_1 + x_T19_S9_Fr_2 + x_T19_S9_Fr_3 + x_T19_S9_Fr_4 + x_T19_S9_Fr_5 <= 2
+ max_daily_T19_S12_Mo: x_T19_S12_Mo_1 + x_T19_S12_Mo_2 + x_T19_S12_Mo_3 + x_T19_S12_Mo_4 + x_T19_S12_Mo_5 <= 2
+ max_daily_T19_S12_Tu: x_T19_S12_Tu_1 + x_T19_S12_Tu_2 + x_T19_S12_Tu_3 + x_T19_S12_Tu_4 + x_T19_S12_Tu_5 <= 2
+ max_daily_T19_S12_We: x_T19_S12_We_1 + x_T19_S12_We_2 + x_T19_S12_We_3 + x_T19_S12_We_4 + x_T19_S12_We_5 <= 2
+ max_daily_T19_S12_Th: x_T19_S12_Th_1 + x_T19_S12_Th_2 + x_T19_S12_Th_3 + x_T19_S12_Th_4 + x_T19_S12_Th_5 <= 2
+ max_daily_T19_S12_Fr: x_T19_S12_Fr_1 + x_T19_S12_Fr_2 + x_T19_S12_Fr_3 + x_T19_S12_Fr_4 + x_T19_S12_Fr_5 <= 2
+ max_daily_T19_S15_Mo: x_T19_S15_Mo_1 + x_T19_S15_Mo_2 + x_T19_S15_Mo_3 + x_T19_S15_Mo_4 + x_T19_S15_Mo_5 <= 2
+ max_daily_T19_S15_Tu: x_T19_S15_Tu_1 + x_T19_S15_Tu_2 + x_T19_S15_Tu_3 + x_T19_S15_Tu_4 + x_T19_S15_Tu_5 <= 2
+ max_daily_T19_S15_We: x_T19_S15_We_1 + x_T19_S15_We_2 + x_T19_S15_We_3 + x_T19_S15_We_4 + x_T19_S15_We_5 <= 2
+ max_daily_T19_S15_Th: x_T19_S15_Th_1 + x_T19_S15_Th_2 + x_T19_S15_Th_3 + x_T19_S15_Th_4 + x_T19_S15_Th_5 <= 2
+ max_daily_T19_S15_Fr: x_T19_S15_Fr_1 + x_T19_S15_Fr_2 + x_T19_S15_Fr_3 + x_T19_S15_Fr_4 + x_T19_S15_Fr_5 <= 2
+ max_daily_T19_S20_Mo: x_T19_S20_Mo_1 + x_T19_S20_Mo_2 + x_T19_S20_Mo_3 + x_T19_S20_Mo_4 + x_T19_S20_Mo_5 <= 2
+ max_daily_T19_S20_Tu: x_T19_S20_Tu_1 + x_T19_S20_Tu_2 + x_T19_S20_Tu_3 + x_T19_S20_Tu_4 + x_T19_S20_Tu_5 <= 2
+ max_daily_T19_S20_We: x_T19_S20_We_1 + x_T19_S20_We_2 + x_T19_S20_We_3 + x_T19_S20_We_4 + x_T19_S20_We_5 <= 2
+ max_daily_T19_S20_Th: x_T19_S20_Th_1 + x_T19_S20_Th_2 + x_T19_S20_Th_3 + x_T19_S20_Th_4 + x_T19_S20_Th_5 <= 2
+ max_daily_T19_S20_Fr: x_T19_S20_Fr_1 + x_T19_S20_Fr_2 + x_T19_S20_Fr_3 + x_T19_S20_Fr_4 + x_T19_S20_Fr_5 <= 2
+ max_daily_T20_S1_Mo: x_T20_S1_Mo_1 + x_T20_S1_Mo_2 + x_T20_S1_Mo_3 + x_T20_S1_Mo_4 + x_T20_S1_Mo_5 <= 2
+ max_daily_T20_S1_Tu: x_T20_S1_Tu_1 + x_T20_S1_Tu_2 + x_T20_S1_Tu_3 + x_T20_S1_Tu_4 + x_T20_S1_Tu_5 <= 2
+ max_daily_T20_S1_We: x_T20_S1_We_1 + x_T20_S1_We_2 + x_T20_S1_We_3 + x_T20_S1_We_4 + x_T20_S1_We_5 <= 2
+ max_daily_T20_S1_Th: x_T20_S1_Th_1 + x_T20_S1_Th_2 + x_T20_S1_Th_3 + x_T20_S1_Th_4 + x_T20_S1_Th_5 <= 2
+ max_daily_T20_S1_Fr: x_T20_S1_Fr_1 + x_T20_S1_Fr_2 + x_T20_S1_Fr_3 + x_T20_S1_Fr_4 + x_T20_S1_Fr_5 <= 2
+ max_daily_T20_S2_Mo: x_T20_S2_Mo_1 + x_T20_S2_Mo_2 + x_T20_S2_Mo_3 + x_T20_S2_Mo_4 + x_T20_S2_Mo_5 <= 2
+ max_daily_T20_S2_Tu: x_T20_S2_Tu_1 + x_T20_S2_Tu_2 + x_T20_S2_Tu_3 + x_T20_S2_Tu_4 + x_T20_S2_Tu_5 <= 2
+ max_daily_T20_S2_We: x_T20_S2_We_1 + x_T20_S2_We_2 + x_T20_S2_We_3 + x_T20_S2_We_4 + x_T20_S2_We_5 <= 2
+ max_daily_T20_S2_Th: x_T20_S2_Th_1 + x_T20_S2_Th_2 + x_T20_S2_Th_3 + x_T20_S2_Th_4 + x_T20_S2_Th_5 <= 2
+ max_daily_T20_S2_Fr: x_T20_S2_Fr_1 + x_T20_S2_Fr_2 + x_T20_S2_Fr_3 + x_T20_S2_Fr_4 + x_T20_S2_Fr_5 <= 2
+ max_daily_T20_S3_Mo: x_T20_S3_Mo_1 + x_T20_S3_Mo_2 + x_T20_S3_Mo_3 + x_T20_S3_Mo_4 + x_T20_S3_Mo_5 <= 2
+ max_daily_T20_S3_Tu: x_T20_S3_Tu_1 + x_T20_S3_Tu_2 + x_T20_S3_Tu_3 + x_T20_S3_Tu_4 + x_T20_S3_Tu_5 <= 2
+ max_daily_T20_S3_We: x_T20_S3_We_1 + x_T20_S3_We_2 + x_T20_S3_We_3 + x_T20_S3_We_4 + x_T20_S3_We_5 <= 2
+ max_daily_T20_S3_Th: x_T20_S3_Th_1 + x_T20_S3_Th_2 + x_T20_S3_Th_3 + x_T20_S3_Th_4 + x_T20_S3_Th_5 <= 2
+ max_daily_T20_S3_Fr: x_T20_S3_Fr_1 + x_T20_S3_Fr_2 + x_T20_S3_Fr_3 + x_T20_S3_Fr_4 + x_T20_S3_Fr_5 <= 2
+ max_daily_T20_S4_Mo: x_T20_S4_Mo_1 + x_T20_S4_Mo_2 + x_T20_S4_Mo_3 + x_T20_S4_Mo_4 + x_T20_S4_Mo_5 <= 2
+ max_daily_T20_S4_Tu: x_T20_S4_Tu_1 + x_T20_S4_Tu_2 + x_T20_S4_Tu_3 + x_T20_S4_Tu_4 + x_T20_S4_Tu_5 <= 2
+ max_daily_T20_S4_We: x_T20_S4_We_1 + x_T20_S4_We_2 + x_T20_S4_We_3 + x_T20_S4_We_4 + x_T20_S4_We_5 <= 2
+ max_daily_T20_S4_Th: x_T20_S4_Th_1 + x_T20_S4_Th_2 + x_T20_S4_Th_3 + x_T20_S4_Th_4 + x_T20_S4_Th_5 <= 2
+ max_daily_T20_S4_Fr: x_T20_S4_Fr_1 + x_T20_S4_Fr_2 + x_T20_S4_Fr_3 + x_T20_S4_Fr_4 + x_T20_S4_Fr_5 <= 2
+ max_daily_T20_S5_Mo: x_T20_S5_Mo_1 + x_T20_S5_Mo_2 + x_T20_S5_Mo_3 + x_T20_S5_Mo_4 + x_T20_S5_Mo_5 <= 2
+ max_daily_T20_S5_Tu: x_T20_S5_Tu_1 + x_T20_S5_Tu_2 + x_T20_S5_Tu_3 + x_T20_S5_Tu_4 + x_T20_S5_Tu_5 <= 2
+ max_daily_T20_S5_We: x_T20_S5_We_1 + x_T20_S5_We_2 + x_T20_S5_We_3 + x_T20_S5_We_4 + x_T20_S5_We_5 <= 2
+ max_daily_T20_S5_Th: x_T20_S5_Th_1 + x_T20_S5_Th_2 + x_T20_S5_Th_3 + x_T20_S5_Th_4 + x_T20_S5_Th_5 <= 2
+ max_daily_T20_S5_Fr: x_T20_S5_Fr_1 + x_T20_S5_Fr_2 + x_T20_S5_Fr_3 + x_T20_S5_Fr_4 + x_T20_S5_Fr_5 <= 2
+ max_daily_T20_S6_Mo: x_T20_S6_Mo_1 + x_T20_S6_Mo_2 + x_T20_S6_Mo_3 + x_T20_S6_Mo_4 + x_T20_S6_Mo_5 <= 2
+ max_daily_T20_S6_Tu: x_T20_S6_Tu_1 + x_T20_S6_Tu_2 + x_T20_S6_Tu_3 + x_T20_S6_Tu_4 + x_T20_S6_Tu_5 <= 2
+ max_daily_T20_S6_We: x_T20_S6_We_1 + x_T20_S6_We_2 + x_T20_S6_We_3 + x_T20_S6_We_4 + x_T20_S6_We_5 <= 2
+ max_daily_T20_S6_Th: x_T20_S6_Th_1 + x_T20_S6_Th_2 + x_T20_S6_Th_3 + x_T20_S6_Th_4 + x_T20_S6_Th_5 <= 2
+ max_daily_T20_S6_Fr: x_T20_S6_Fr_1 + x_T20_S6_Fr_2 + x_T20_S6_Fr_3 + x_T20_S6_Fr_4 + x_T20_S6_Fr_5 <= 2
+ max_daily_T20_S7_Mo: x_T20_S7_Mo_1 + x_T20_S7_Mo_2 + x_T20_S7_Mo_3 + x_T20_S7_Mo_4 + x_T20_S7_Mo_5 <= 2
+ max_daily_T20_S7_Tu: x_T20_S7_Tu_1 + x_T20_S7_Tu_2 + x_T20_S7_Tu_3 + x_T20_S7_Tu_4 + x_T20_S7_Tu_5 <= 2
+ max_daily_T20_S7_We: x_T20_S7_We_1 + x_T20_S7_We_2 + x_T20_S7_We_3 + x_T20_S7_We_4 + x_T20_S7_We_5 <= 2
+ max_daily_T20_S7_Th: x_T20_S7_Th_1 + x_T20_S7_Th_2 + x_T20_S7_Th_3 + x_T20_S7_Th_4 + x_T20_S7_Th_5 <= 2
+ max_daily_T20_S7_Fr: x_T20_S7_Fr_1 + x_T20_S7_Fr_2 + x_T20_S7_Fr_3 + x_T20_S7_Fr_4 + x_T20_S7_Fr_5 <= 2
+ max_daily_T21_S8_Mo: x_T21_S8_Mo_1 + x_T21_S8_Mo_2 + x_T21_S8_Mo_3 + x_T21_S8_Mo_4 + x_T21_S8_Mo_5 <= 2
+ max_daily_T21_S8_Tu: x_T21_S8_Tu_1 + x_T21_S8_Tu_2 + x_T21_S8_Tu_3 + x_T21_S8_Tu_4 + x_T21_S8_Tu_5 <= 2
+ max_daily_T21_S8_We: x_T21_S8_We_1 + x_T21_S8_We_2 + x_T21_S8_We_3 + x_T21_S8_We_4 + x_T21_S8_We_5 <= 2
+ max_daily_T21_S8_Th: x_T21_S8_Th_1 + x_T21_S8_Th_2 + x_T21_S8_Th_3 + x_T21_S8_Th_4 + x_T21_S8_Th_5 <= 2
+ max_daily_T21_S8_Fr: x_T21_S8_Fr_1 + x_T21_S8_Fr_2 + x_T21_S8_Fr_3 + x_T21_S8_Fr_4 + x_T21_S8_Fr_5 <= 2
+ max_daily_T21_S9_Mo: x_T21_S9_Mo_1 + x_T21_S9_Mo_2 + x_T21_S9_Mo_3 + x_T21_S9_Mo_4 + x_T21_S9_Mo_5 <= 2
+ max_daily_T21_S9_Tu: x_T21_S9_Tu_1 + x_T21_S9_Tu_2 + x_T21_S9_Tu_3 + x_T21_S9_Tu_4 + x_T21_S9_Tu_5 <= 2
+ max_daily_T21_S9_We: x_T21_S9_We_1 + x_T21_S9_We_2 + x_T21_S9_We_3 + x_T21_S9_We_4 + x_T21_S9_We_5 <= 2
+ max_daily_T21_S9_Th: x_T21_S9_Th_1 + x_T21_S9_Th_2 + x_T21_S9_Th_3 + x_T21_S9_Th_4 + x_T21_S9_Th_5 <= 2
+ max_daily_T21_S9_Fr: x_T21_S9_Fr_1 + x_T21_S9_Fr_2 + x_T21_S9_Fr_3 + x_T21_S9_Fr_4 + x_T21_S9_Fr_5 <= 2
+ max_daily_T21_S10_Mo: x_T21_S10_Mo_1 + x_T21_S10_Mo_2 + x_T21_S10_Mo_3 + x_T21_S10_Mo_4 + x_T21_S10_Mo_5 <= 2
+ max_daily_T21_S10_Tu: x_T21_S10_Tu_1 + x_T21_S10_Tu_2 + x_T21_S10_Tu_3 + x_T21_S10_Tu_4 + x_T21_S10_Tu_5 <= 2
+ max_daily_T21_S10_We: x_T21_S10_We_1 + x_T21_S10_We_2 + x_T21_S10_We_3 + x_T21_S10_We_4 + x_T21_S10_We_5 <= 2
+ max_daily_T21_S10_Th: x_T21_S10_Th_1 + x_T21_S10_Th_2 + x_T21_S10_Th_3 + x_T21_S10_Th_4 + x_T21_S10_Th_5 <= 2
+ max_daily_T21_S10_Fr: x_T21_S10_Fr_1 + x_T21_S10_Fr_2 + x_T21_S10_Fr_3 + x_T21_S10_Fr_4 + x_T21_S10_Fr_5 <= 2
+ max_daily_T21_S11_Mo: x_T21_S11_Mo_1 + x_T21_S11_Mo_2 + x_T21_S11_Mo_3 + x_T21_S11_Mo_4 + x_T21_S11_Mo_5 <= 2
+ max_daily_T21_S11_Tu: x_T21_S11_Tu_1 + x_T21_S11_Tu_2 + x_T21_S11_Tu_3 + x_T21_S11_Tu_4 + x_T21_S11_Tu_5 <= 2
+ max_daily_T21_S11_We: x_T21_S11_We_1 + x_T21_S11_We_2 + x_T21_S11_We_3 + x_T21_S11_We_4 + x_T21_S11_We_5 <= 2
+ max_daily_T21_S11_Th: x_T21_S11_Th_1 + x_T21_S11_Th_2 + x_T21_S11_Th_3 + x_T21_S11_Th_4 + x_T21_S11_Th_5 <= 2
+ max_daily_T21_S11_Fr: x_T21_S11_Fr_1 + x_T21_S11_Fr_2 + x_T21_S11_Fr_3 + x_T21_S11_Fr_4 + x_T21_S11_Fr_5 <= 2
+ max_daily_T21_S12_Mo: x_T21_S12_Mo_1 + x_T21_S12_Mo_2 + x_T21_S12_Mo_3 + x_T21_S12_Mo_4 + x_T21_S12_Mo_5 <= 2
+ max_daily_T21_S12_Tu: x_T21_S12_Tu_1 + x_T21_S12_Tu_2 + x_T21_S12_Tu_3 + x_T21_S12_Tu_4 + x_T21_S12_Tu_5 <= 2
+ max_daily_T21_S12_We: x_T21_S12_We_1 + x_T21_S12_We_2 + x_T21_S12_We_3 + x_T21_S12_We_4 + x_T21_S12_We_5 <= 2
+ max_daily_T21_S12_Th: x_T21_S12_Th_1 + x_T21_S12_Th_2 + x_T21_S12_Th_3 + x_T21_S12_Th_4 + x_T21_S12_Th_5 <= 2
+ max_daily_T21_S12_Fr: x_T21_S12_Fr_1 + x_T21_S12_Fr_2 + x_T21_S12_Fr_3 + x_T21_S12_Fr_4 + x_T21_S12_Fr_5 <= 2
+ max_daily_T21_S13_Mo: x_T21_S13_Mo_1 + x_T21_S13_Mo_2 + x_T21_S13_Mo_3 + x_T21_S13_Mo_4 + x_T21_S13_Mo_5 <= 2
+ max_daily_T21_S13_Tu: x_T21_S13_Tu_1 + x_T21_S13_Tu_2 + x_T21_S13_Tu_3 + x_T21_S13_Tu_4 + x_T21_S13_Tu_5 <= 2
+ max_daily_T21_S13_We: x_T21_S13_We_1 + x_T21_S13_We_2 + x_T21_S13_We_3 + x_T21_S13_We_4 + x_T21_S13_We_5 <= 2
+ max_daily_T21_S13_Th: x_T21_S13_Th_1 + x_T21_S13_Th_2 + x_T21_S13_Th_3 + x_T21_S13_Th_4 + x_T21_S13_Th_5 <= 2
+ max_daily_T21_S13_Fr: x_T21_S13_Fr_1 + x_T21_S13_Fr_2 + x_T21_S13_Fr_3 + x_T21_S13_Fr_4 + x_T21_S13_Fr_5 <= 2
+ max_daily_T21_S14_Mo: x_T21_S14_Mo_1 + x_T21_S14_Mo_2 + x_T21_S14_Mo_3 + x_T21_S14_Mo_4 + x_T21_S14_Mo_5 <= 2
+ max_daily_T21_S14_Tu: x_T21_S14_Tu_1 + x_T21_S14_Tu_2 + x_T21_S14_Tu_3 + x_T21_S14_Tu_4 + x_T21_S14_Tu_5 <= 2
+ max_daily_T21_S14_We: x_T21_S14_We_1 + x_T21_S14_We_2 + x_T21_S14_We_3 + x_T21_S14_We_4 + x_T21_S14_We_5 <= 2
+ max_daily_T21_S14_Th: x_T21_S14_Th_1 + x_T21_S14_Th_2 + x_T21_S14_Th_3 + x_T21_S14_Th_4 + x_T21_S14_Th_5 <= 2
+ max_daily_T21_S14_Fr: x_T21_S14_Fr_1 + x_T21_S14_Fr_2 + x_T21_S14_Fr_3 + x_T21_S14_Fr_4 + x_T21_S14_Fr_5 <= 2
+ max_daily_T22_S15_Mo: x_T22_S15_Mo_1 + x_T22_S15_Mo_2 + x_T22_S15_Mo_3 + x_T22_S15_Mo_4 + x_T22_S15_Mo_5 <= 2
+ max_daily_T22_S15_Tu: x_T22_S15_Tu_1 + x_T22_S15_Tu_2 + x_T22_S15_Tu_3 + x_T22_S15_Tu_4 + x_T22_S15_Tu_5 <= 2
+ max_daily_T22_S15_We: x_T22_S15_We_1 + x_T22_S15_We_2 + x_T22_S15_We_3 + x_T22_S15_We_4 + x_T22_S15_We_5 <= 2
+ max_daily_T22_S15_Th: x_T22_S15_Th_1 + x_T22_S15_Th_2 + x_T22_S15_Th_3 + x_T22_S15_Th_4 + x_T22_S15_Th_5 <= 2
+ max_daily_T22_S15_Fr: x_T22_S15_Fr_1 + x_T22_S15_Fr_2 + x_T22_S15_Fr_3 + x_T22_S15_Fr_4 + x_T22_S15_Fr_5 <= 2
+ max_daily_T22_S16_Mo: x_T22_S16_Mo_1 + x_T22_S16_Mo_2 + x_T22_S16_Mo_3 + x_T22_S16_Mo_4 + x_T22_S16_Mo_5 <= 2
+ max_daily_T22_S16_Tu: x_T22_S16_Tu_1 + x_T22_S16_Tu_2 + x_T22_S16_Tu_3 + x_T22_S16_Tu_4 + x_T22_S16_Tu_5 <= 2
+ max_daily_T22_S16_We: x_T22_S16_We_1 + x_T22_S16_We_2 + x_T22_S16_We_3 + x_T22_S16_We_4 + x_T22_S16_We_5 <= 2
+ max_daily_T22_S16_Th: x_T22_S16_Th_1 + x_T22_S16_Th_2 + x_T22_S16_Th_3 + x_T22_S16_Th_4 + x_T22_S16_Th_5 <= 2
+ max_daily_T22_S16_Fr: x_T22_S16_Fr_1 + x_T22_S16_Fr_2 + x_T22_S16_Fr_3 + x_T22_S16_Fr_4 + x_T22_S16_Fr_5 <= 2
+ max_daily_T22_S17_Mo: x_T22_S17_Mo_1 + x_T22_S17_Mo_2 + x_T22_S17_Mo_3 + x_T22_S17_Mo_4 + x_T22_S17_Mo_5 <= 2
+ max_daily_T22_S17_Tu: x_T22_S17_Tu_1 + x_T22_S17_Tu_2 + x_T22_S17_Tu_3 + x_T22_S17_Tu_4 + x_T22_S17_Tu_5 <= 2
+ max_daily_T22_S17_We: x_T22_S17_We_1 + x_T22_S17_We_2 + x_T22_S17_We_3 + x_T22_S17_We_4 + x_T22_S17_We_5 <= 2
+ max_daily_T22_S17_Th: x_T22_S17_Th_1 + x_T22_S17_Th_2 + x_T22_S17_Th_3 + x_T22_S17_Th_4 + x_T22_S17_Th_5 <= 2
+ max_daily_T22_S17_Fr: x_T22_S17_Fr_1 + x_T22_S17_Fr_2 + x_T22_S17_Fr_3 + x_T22_S17_Fr_4 + x_T22_S17_Fr_5 <= 2
+ max_daily_T22_S18_Mo: x_T22_S18_Mo_1 + x_T22_S18_Mo_2 + x_T22_S18_Mo_3 + x_T22_S18_Mo_4 + x_T22_S18_Mo_5 <= 2
+ max_daily_T22_S18_Tu: x_T22_S18_Tu_1 + x_T22_S18_Tu_2 + x_T22_S18_Tu_3 + x_T22_S18_Tu_4 + x_T22_S18_Tu_5 <= 2
+ max_daily_T22_S18_We: x_T22_S18_We_1 + x_T22_S18_We_2 + x_T22_S18_We_3 + x_T22_S18_We_4 + x_T22_S18_We_5 <= 2
+ max_daily_T22_S18_Th: x_T22_S18_Th_1 + x_T22_S18_Th_2 + x_T22_S18_Th_3 + x_T22_S18_Th_4 + x_T22_S18_Th_5 <= 2
+ max_daily_T22_S18_Fr: x_T22_S18_Fr_1 + x_T22_S18_Fr_2 + x_T22_S18_Fr_3 + x_T22_S18_Fr_4 + x_T22_S18_Fr_5 <= 2
+ max_daily_T22_S19_Mo: x_T22_S19_Mo_1 + x_T22_S19_Mo_2 + x_T22_S19_Mo_3 + x_T22_S19_Mo_4 + x_T22_S19_Mo_5 <= 2
+ max_daily_T22_S19_Tu: x_T22_S19_Tu_1 + x_T22_S19_Tu_2 + x_T22_S19_Tu_3 + x_T22_S19_Tu_4 + x_T22_S19_Tu_5 <= 2
+ max_daily_T22_S19_We: x_T22_S19_We_1 + x_T22_S19_We_2 + x_T22_S19_We_3 + x_T22_S19_We_4 + x_T22_S19_We_5 <= 2
+ max_daily_T22_S19_Th: x_T22_S19_Th_1 + x_T22_S19_Th_2 + x_T22_S19_Th_3 + x_T22_S19_Th_4 + x_T22_S19_Th_5 <= 2
+ max_daily_T22_S19_Fr: x_T22_S19_Fr_1 + x_T22_S19_Fr_2 + x_T22_S19_Fr_3 + x_T22_S19_Fr_4 + x_T22_S19_Fr_5 <= 2
+ max_daily_T22_S20_Mo: x_T22_S20_Mo_1 + x_T22_S20_Mo_2 + x_T22_S20_Mo_3 + x_T22_S20_Mo_4 + x_T22_S20_Mo_5 <= 2
+ max_daily_T22_S20_Tu: x_T22_S20_Tu_1 + x_T22_S20_Tu_2 + x_T22_S20_Tu_3 + x_T22_S20_Tu_4 + x_T22_S20_Tu_5 <= 2
+ max_daily_T22_S20_We: x_T22_S20_We_1 + x_T22_S20_We_2 + x_T22_S20_We_3 + x_T22_S20_We_4 + x_T22_S20_We_5 <= 2
+ max_daily_T22_S20_Th: x_T22_S20_Th_1 + x_T22_S20_Th_2 + x_T22_S20_Th_3 + x_T22_S20_Th_4 + x_T22_S20_Th_5 <= 2
+ max_daily_T22_S20_Fr: x_T22_S20_Fr_1 + x_T22_S20_Fr_2 + x_T22_S20_Fr_3 + x_T22_S20_Fr_4 + x_T22_S20_Fr_5 <= 2
+ max_daily_T23_S1_Mo: x_T23_S1_Mo_1 + x_T23_S1_Mo_2 + x_T23_S1_Mo_3 + x_T23_S1_Mo_4 + x_T23_S1_Mo_5 <= 2
+ max_daily_T23_S1_Tu: x_T23_S1_Tu_1 + x_T23_S1_Tu_2 + x_T23_S1_Tu_3 + x_T23_S1_Tu_4 + x_T23_S1_Tu_5 <= 2
+ max_daily_T23_S1_We: x_T23_S1_We_1 + x_T23_S1_We_2 + x_T23_S1_We_3 + x_T23_S1_We_4 + x_T23_S1_We_5 <= 2
+ max_daily_T23_S1_Th: x_T23_S1_Th_1 + x_T23_S1_Th_2 + x_T23_S1_Th_3 + x_T23_S1_Th_4 + x_T23_S1_Th_5 <= 2
+ max_daily_T23_S1_Fr: x_T23_S1_Fr_1 + x_T23_S1_Fr_2 + x_T23_S1_Fr_3 + x_T23_S1_Fr_4 + x_T23_S1_Fr_5 <= 2
+ max_daily_T23_S2_Mo: x_T23_S2_Mo_1 + x_T23_S2_Mo_2 + x_T23_S2_Mo_3 + x_T23_S2_Mo_4 + x_T23_S2_Mo_5 <= 2
+ max_daily_T23_S2_Tu: x_T23_S2_Tu_1 + x_T23_S2_Tu_2 + x_T23_S2_Tu_3 + x_T23_S2_Tu_4 + x_T23_S2_Tu_5 <= 2
+ max_daily_T23_S2_We: x_T23_S2_We_1 + x_T23_S2_We_2 + x_T23_S2_We_3 + x_T23_S2_We_4 + x_T23_S2_We_5 <= 2
+ max_daily_T23_S2_Th: x_T23_S2_Th_1 + x_T23_S2_Th_2 + x_T23_S2_Th_3 + x_T23_S2_Th_4 + x_T23_S2_Th_5 <= 2
+ max_daily_T23_S2_Fr: x_T23_S2_Fr_1 + x_T23_S2_Fr_2 + x_T23_S2_Fr_3 + x_T23_S2_Fr_4 + x_T23_S2_Fr_5 <= 2
+ max_daily_T23_S3_Mo: x_T23_S3_Mo_1 + x_T23_S3_Mo_2 + x_T23_S3_Mo_3 + x_T23_S3_Mo_4 + x_T23_S3_Mo_5 <= 2
+ max_daily_T23_S3_Tu: x_T23_S3_Tu_1 + x_T23_S3_Tu_2 + x_T23_S3_Tu_3 + x_T23_S3_Tu_4 + x_T23_S3_Tu_5 <= 2
+ max_daily_T23_S3_We: x_T23_S3_We_1 + x_T23_S3_We_2 + x_T23_S3_We_3 + x_T23_S3_We_4 + x_T23_S3_We_5 <= 2
+ max_daily_T23_S3_Th: x_T23_S3_Th_1 + x_T23_S3_Th_2 + x_T23_S3_Th_3 + x_T23_S3_Th_4 + x_T23_S3_Th_5 <= 2
+ max_daily_T23_S3_Fr: x_T23_S3_Fr_1 + x_T23_S3_Fr_2 + x_T23_S3_Fr_3 + x_T23_S3_Fr_4 + x_T23_S3_Fr_5 <= 2
+ max_daily_T23_S10_Mo: x_T23_S10_Mo_1 + x_T23_S10_Mo_2 + x_T23_S10_Mo_3 + x_T23_S10_Mo_4 + x_T23_S10_Mo_5 <= 2
+ max_daily_T23_S10_Tu: x_T23_S10_Tu_1 + x_T23_S10_Tu_2 + x_T23_S10_Tu_3 + x_T23_S10_Tu_4 + x_T23_S10_Tu_5 <= 2
+ max_daily_T23_S10_We: x_T23_S10_We_1 + x_T23_S10_We_2 + x_T23_S10_We_3 + x_T23_S10_We_4 + x_T23_S10_We_5 <= 2
+ max_daily_T23_S10_Th: x_T23_S10_Th_1 + x_T23_S10_Th_2 + x_T23_S10_Th_3 + x_T23_S10_Th_4 + x_T23_S10_Th_5 <= 2
+ max_daily_T23_S10_Fr: x_T23_S10_Fr_1 + x_T23_S10_Fr_2 + x_T23_S10_Fr_3 + x_T23_S10_Fr_4 + x_T23_S10_Fr_5 <= 2
+ max_daily_T23_S11_Mo: x_T23_S11_Mo_1 + x_T23_S11_Mo_2 + x_T23_S11_Mo_3 + x_T23_S11_Mo_4 + x_T23_S11_Mo_5 <= 2
+ max_daily_T23_S11_Tu: x_T23_S11_Tu_1 + x_T23_S11_Tu_2 + x_T23_S11_Tu_3 + x_T23_S11_Tu_4 + x_T23_S11_Tu_5 <= 2
+ max_daily_T23_S11_We: x_T23_S11_We_1 + x_T23_S11_We_2 + x_T23_S11_We_3 + x_T23_S11_We_4 + x_T23_S11_We_5 <= 2
+ max_daily_T23_S11_Th: x_T23_S11_Th_1 + x_T23_S11_Th_2 + x_T23_S11_Th_3 + x_T23_S11_Th_4 + x_T23_S11_Th_5 <= 2
+ max_daily_T23_S11_Fr: x_T23_S11_Fr_1 + x_T23_S11_Fr_2 + x_T23_S11_Fr_3 + x_T23_S11_Fr_4 + x_T23_S11_Fr_5 <= 2
+ max_daily_T23_S12_Mo: x_T23_S12_Mo_1 + x_T23_S12_Mo_2 + x_T23_S12_Mo_3 + x_T23_S12_Mo_4 + x_T23_S12_Mo_5 <= 2
+ max_daily_T23_S12_Tu: x_T23_S12_Tu_1 + x_T23_S12_Tu_2 + x_T23_S12_Tu_3 + x_T23_S12_Tu_4 + x_T23_S12_Tu_5 <= 2
+ max_daily_T23_S12_We: x_T23_S12_We_1 + x_T23_S12_We_2 + x_T23_S12_We_3 + x_T23_S12_We_4 + x_T23_S12_We_5 <= 2
+ max_daily_T23_S12_Th: x_T23_S12_Th_1 + x_T23_S12_Th_2 + x_T23_S12_Th_3 + x_T23_S12_Th_4 + x_T23_S12_Th_5 <= 2
+ max_daily_T23_S12_Fr: x_T23_S12_Fr_1 + x_T23_S12_Fr_2 + x_T23_S12_Fr_3 + x_T23_S12_Fr_4 + x_T23_S12_Fr_5 <= 2
+ max_daily_T23_S19_Mo: x_T23_S19_Mo_1 + x_T23_S19_Mo_2 + x_T23_S19_Mo_3 + x_T23_S19_Mo_4 + x_T23_S19_Mo_5 <= 2
+ max_daily_T23_S19_Tu: x_T23_S19_Tu_1 + x_T23_S19_Tu_2 + x_T23_S19_Tu_3 + x_T23_S19_Tu_4 + x_T23_S19_Tu_5 <= 2
+ max_daily_T23_S19_We: x_T23_S19_We_1 + x_T23_S19_We_2 + x_T23_S19_We_3 + x_T23_S19_We_4 + x_T23_S19_We_5 <= 2
+ max_daily_T23_S19_Th: x_T23_S19_Th_1 + x_T23_S19_Th_2 + x_T23_S19_Th_3 + x_T23_S19_Th_4 + x_T23_S19_Th_5 <= 2
+ max_daily_T23_S19_Fr: x_T23_S19_Fr_1 + x_T23_S19_Fr_2 + x_T23_S19_Fr_3 + x_T23_S19_Fr_4 + x_T23_S19_Fr_5 <= 2
+ max_daily_T24_S4_Mo: x_T24_S4_Mo_1 + x_T24_S4_Mo_2 + x_T24_S4_Mo_3 + x_T24_S4_Mo_4 + x_T24_S4_Mo_5 <= 2
+ max_daily_T24_S4_Tu: x_T24_S4_Tu_1 + x_T24_S4_Tu_2 + x_T24_S4_Tu_3 + x_T24_S4_Tu_4 + x_T24_S4_Tu_5 <= 2
+ max_daily_T24_S4_We: x_T24_S4_We_1 + x_T24_S4_We_2 + x_T24_S4_We_3 + x_T24_S4_We_4 + x_T24_S4_We_5 <= 2
+ max_daily_T24_S4_Th: x_T24_S4_Th_1 + x_T24_S4_Th_2 + x_T24_S4_Th_3 + x_T24_S4_Th_4 + x_T24_S4_Th_5 <= 2
+ max_daily_T24_S4_Fr: x_T24_S4_Fr_1 + x_T24_S4_Fr_2 + x_T24_S4_Fr_3 + x_T24_S4_Fr_4 + x_T24_S4_Fr_5 <= 2
+ max_daily_T24_S5_Mo: x_T24_S5_Mo_1 + x_T24_S5_Mo_2 + x_T24_S5_Mo_3 + x_T24_S5_Mo_4 + x_T24_S5_Mo_5 <= 2
+ max_daily_T24_S5_Tu: x_T24_S5_Tu_1 + x_T24_S5_Tu_2 + x_T24_S5_Tu_3 + x_T24_S5_Tu_4 + x_T24_S5_Tu_5 <= 2
+ max_daily_T24_S5_We: x_T24_S5_We_1 + x_T24_S5_We_2 + x_T24_S5_We_3 + x_T24_S5_We_4 + x_T24_S5_We_5 <= 2
+ max_daily_T24_S5_Th: x_T24_S5_Th_1 + x_T24_S5_Th_2 + x_T24_S5_Th_3 + x_T24_S5_Th_4 + x_T24_S5_Th_5 <= 2
+ max_daily_T24_S5_Fr: x_T24_S5_Fr_1 + x_T24_S5_Fr_2 + x_T24_S5_Fr_3 + x_T24_S5_Fr_4 + x_T24_S5_Fr_5 <= 2
+ max_daily_T24_S6_Mo: x_T24_S6_Mo_1 + x_T24_S6_Mo_2 + x_T24_S6_Mo_3 + x_T24_S6_Mo_4 + x_T24_S6_Mo_5 <= 2
+ max_daily_T24_S6_Tu: x_T24_S6_Tu_1 + x_T24_S6_Tu_2 + x_T24_S6_Tu_3 + x_T24_S6_Tu_4 + x_T24_S6_Tu_5 <= 2
+ max_daily_T24_S6_We: x_T24_S6_We_1 + x_T24_S6_We_2 + x_T24_S6_We_3 + x_T24_S6_We_4 + x_T24_S6_We_5 <= 2
+ max_daily_T24_S6_Th: x_T24_S6_Th_1 + x_T24_S6_Th_2 + x_T24_S6_Th_3 + x_T24_S6_Th_4 + x_T24_S6_Th_5 <= 2
+ max_daily_T24_S6_Fr: x_T24_S6_Fr_1 + x_T24_S6_Fr_2 + x_T24_S6_Fr_3 + x_T24_S6_Fr_4 + x_T24_S6_Fr_5 <= 2
+ max_daily_T24_S13_Mo: x_T24_S13_Mo_1 + x_T24_S13_Mo_2 + x_T24_S13_Mo_3 + x_T24_S13_Mo_4 + x_T24_S13_Mo_5 <= 2
+ max_daily_T24_S13_Tu: x_T24_S13_Tu_1 + x_T24_S13_Tu_2 + x_T24_S13_Tu_3 + x_T24_S13_Tu_4 + x_T24_S13_Tu_5 <= 2
+ max_daily_T24_S13_We: x_T24_S13_We_1 + x_T24_S13_We_2 + x_T24_S13_We_3 + x_T24_S13_We_4 + x_T24_S13_We_5 <= 2
+ max_daily_T24_S13_Th: x_T24_S13_Th_1 + x_T24_S13_Th_2 + x_T24_S13_Th_3 + x_T24_S13_Th_4 + x_T24_S13_Th_5 <= 2
+ max_daily_T24_S13_Fr: x_T24_S13_Fr_1 + x_T24_S13_Fr_2 + x_T24_S13_Fr_3 + x_T24_S13_Fr_4 + x_T24_S13_Fr_5 <= 2
+ max_daily_T24_S14_Mo: x_T24_S14_Mo_1 + x_T24_S14_Mo_2 + x_T24_S14_Mo_3 + x_T24_S14_Mo_4 + x_T24_S14_Mo_5 <= 2
+ max_daily_T24_S14_Tu: x_T24_S14_Tu_1 + x_T24_S14_Tu_2 + x_T24_S14_Tu_3 + x_T24_S14_Tu_4 + x_T24_S14_Tu_5 <= 2
+ max_daily_T24_S14_We: x_T24_S14_We_1 + x_T24_S14_We_2 + x_T24_S14_We_3 + x_T24_S14_We_4 + x_T24_S14_We_5 <= 2
+ max_daily_T24_S14_Th: x_T24_S14_Th_1 + x_T24_S14_Th_2 + x_T24_S14_Th_3 + x_T24_S14_Th_4 + x_T24_S14_Th_5 <= 2
+ max_daily_T24_S14_Fr: x_T24_S14_Fr_1 + x_T24_S14_Fr_2 + x_T24_S14_Fr_3 + x_T24_S14_Fr_4 + x_T24_S14_Fr_5 <= 2
+ max_daily_T24_S15_Mo: x_T24_S15_Mo_1 + x_T24_S15_Mo_2 + x_T24_S15_Mo_3 + x_T24_S15_Mo_4 + x_T24_S15_Mo_5 <= 2
+ max_daily_T24_S15_Tu: x_T24_S15_Tu_1 + x_T24_S15_Tu_2 + x_T24_S15_Tu_3 + x_T24_S15_Tu_4 + x_T24_S15_Tu_5 <= 2
+ max_daily_T24_S15_We: x_T24_S15_We_1 + x_T24_S15_We_2 + x_T24_S15_We_3 + x_T24_S15_We_4 + x_T24_S15_We_5 <= 2
+ max_daily_T24_S15_Th: x_T24_S15_Th_1 + x_T24_S15_Th_2 + x_T24_S15_Th_3 + x_T24_S15_Th_4 + x_T24_S15_Th_5 <= 2
+ max_daily_T24_S15_Fr: x_T24_S15_Fr_1 + x_T24_S15_Fr_2 + x_T24_S15_Fr_3 + x_T24_S15_Fr_4 + x_T24_S15_Fr_5 <= 2
+ max_daily_T24_S20_Mo: x_T24_S20_Mo_1 + x_T24_S20_Mo_2 + x_T24_S20_Mo_3 + x_T24_S20_Mo_4 + x_T24_S20_Mo_5 <= 2
+ max_daily_T24_S20_Tu: x_T24_S20_Tu_1 + x_T24_S20_Tu_2 + x_T24_S20_Tu_3 + x_T24_S20_Tu_4 + x_T24_S20_Tu_5 <= 2
+ max_daily_T24_S20_We: x_T24_S20_We_1 + x_T24_S20_We_2 + x_T24_S20_We_3 + x_T24_S20_We_4 + x_T24_S20_We_5 <= 2
+ max_daily_T24_S20_Th: x_T24_S20_Th_1 + x_T24_S20_Th_2 + x_T24_S20_Th_3 + x_T24_S20_Th_4 + x_T24_S20_Th_5 <= 2
+ max_daily_T24_S20_Fr: x_T24_S20_Fr_1 + x_T24_S20_Fr_2 + x_T24_S20_Fr_3 + x_T24_S20_Fr_4 + x_T24_S20_Fr_5 <= 2
+ max_daily_T25_S7_Mo: x_T25_S7_Mo_1 + x_T25_S7_Mo_2 + x_T25_S7_Mo_3 + x_T25_S7_Mo_4 + x_T25_S7_Mo_5 <= 2
+ max_daily_T25_S7_Tu: x_T25_S7_Tu_1 + x_T25_S7_Tu_2 + x_T25_S7_Tu_3 + x_T25_S7_Tu_4 + x_T25_S7_Tu_5 <= 2
+ max_daily_T25_S7_We: x_T25_S7_We_1 + x_T25_S7_We_2 + x_T25_S7_We_3 + x_T25_S7_We_4 + x_T25_S7_We_5 <= 2
+ max_daily_T25_S7_Th: x_T25_S7_Th_1 + x_T25_S7_Th_2 + x_T25_S7_Th_3 + x_T25_S7_Th_4 + x_T25_S7_Th_5 <= 2
+ max_daily_T25_S7_Fr: x_T25_S7_Fr_1 + x_T25_S7_Fr_2 + x_T25_S7_Fr_3 + x_T25_S7_Fr_4 + x_T25_S7_Fr_5 <= 2
+ max_daily_T25_S8_Mo: x_T25_S8_Mo_1 + x_T25_S8_Mo_2 + x_T25_S8_Mo_3 + x_T25_S8_Mo_4 + x_T25_S8_Mo_5 <= 2
+ max_daily_T25_S8_Tu: x_T25_S8_Tu_1 + x_T25_S8_Tu_2 + x_T25_S8_Tu_3 + x_T25_S8_Tu_4 + x_T25_S8_Tu_5 <= 2
+ max_daily_T25_S8_We: x_T25_S8_We_1 + x_T25_S8_We_2 + x_T25_S8_We_3 + x_T25_S8_We_4 + x_T25_S8_We_5 <= 2
+ max_daily_T25_S8_Th: x_T25_S8_Th_1 + x_T25_S8_Th_2 + x_T25_S8_Th_3 + x_T25_S8_Th_4 + x_T25_S8_Th_5 <= 2
+ max_daily_T25_S8_Fr: x_T25_S8_Fr_1 + x_T25_S8_Fr_2 + x_T25_S8_Fr_3 + x_T25_S8_Fr_4 + x_T25_S8_Fr_5 <= 2
+ max_daily_T25_S9_Mo: x_T25_S9_Mo_1 + x_T25_S9_Mo_2 + x_T25_S9_Mo_3 + x_T25_S9_Mo_4 + x_T25_S9_Mo_5 <= 2
+ max_daily_T25_S9_Tu: x_T25_S9_Tu_1 + x_T25_S9_Tu_2 + x_T25_S9_Tu_3 + x_T25_S9_Tu_4 + x_T25_S9_Tu_5 <= 2
+ max_daily_T25_S9_We: x_T25_S9_We_1 + x_T25_S9_We_2 + x_T25_S9_We_3 + x_T25_S9_We_4 + x_T25_S9_We_5 <= 2
+ max_daily_T25_S9_Th: x_T25_S9_Th_1 + x_T25_S9_Th_2 + x_T25_S9_Th_3 + x_T25_S9_Th_4 + x_T25_S9_Th_5 <= 2
+ max_daily_T25_S9_Fr: x_T25_S9_Fr_1 + x_T25_S9_Fr_2 + x_T25_S9_Fr_3 + x_T25_S9_Fr_4 + x_T25_S9_Fr_5 <= 2
+ max_daily_T25_S16_Mo: x_T25_S16_Mo_1 + x_T25_S16_Mo_2 + x_T25_S16_Mo_3 + x_T25_S16_Mo_4 + x_T25_S16_Mo_5 <= 2
+ max_daily_T25_S16_Tu: x_T25_S16_Tu_1 + x_T25_S16_Tu_2 + x_T25_S16_Tu_3 + x_T25_S16_Tu_4 + x_T25_S16_Tu_5 <= 2
+ max_daily_T25_S16_We: x_T25_S16_We_1 + x_T25_S16_We_2 + x_T25_S16_We_3 + x_T25_S16_We_4 + x_T25_S16_We_5 <= 2
+ max_daily_T25_S16_Th: x_T25_S16_Th_1 + x_T25_S16_Th_2 + x_T25_S16_Th_3 + x_T25_S16_Th_4 + x_T25_S16_Th_5 <= 2
+ max_daily_T25_S16_Fr: x_T25_S16_Fr_1 + x_T25_S16_Fr_2 + x_T25_S16_Fr_3 + x_T25_S16_Fr_4 + x_T25_S16_Fr_5 <= 2
+ max_daily_T25_S17_Mo: x_T25_S17_Mo_1 + x_T25_S17_Mo_2 + x_T25_S17_Mo_3 + x_T25_S17_Mo_4 + x_T25_S17_Mo_5 <= 2
+ max_daily_T25_S17_Tu: x_T25_S17_Tu_1 + x_T25_S17_Tu_2 + x_T25_S17_Tu_3 + x_T25_S17_Tu_4 + x_T25_S17_Tu_5 <= 2
+ max_daily_T25_S17_We: x_T25_S17_We_1 + x_T25_S17_We_2 + x_T25_S17_We_3 + x_T25_S17_We_4 + x_T25_S17_We_5 <= 2
+ max_daily_T25_S17_Th: x_T25_S17_Th_1 + x_T25_S17_Th_2 + x_T25_S17_Th_3 + x_T25_S17_Th_4 + x_T25_S17_Th_5 <= 2
+ max_daily_T25_S17_Fr: x_T25_S17_Fr_1 + x_T25_S17_Fr_2 + x_T25_S17_Fr_3 + x_T25_S17_Fr_4 + x_T25_S17_Fr_5 <= 2
+ max_daily_T25_S18_Mo: x_T25_S18_Mo_1 + x_T25_S18_Mo_2 + x_T25_S18_Mo_3 + x_T25_S18_Mo_4 + x_T25_S18_Mo_5 <= 2
+ max_daily_T25_S18_Tu: x_T25_S18_Tu_1 + x_T25_S18_Tu_2 + x_T25_S18_Tu_3 + x_T25_S18_Tu_4 + x_T25_S18_Tu_5 <= 2
+ max_daily_T25_S18_We: x_T25_S18_We_1 + x_T25_S18_We_2 + x_T25_S18_We_3 + x_T25_S18_We_4 + x_T25_S18_We_5 <= 2
+ max_daily_T25_S18_Th: x_T25_S18_Th_1 + x_T25_S18_Th_2 + x_T25_S18_Th_3 + x_T25_S18_Th_4 + x_T25_S18_Th_5 <= 2
+ max_daily_T25_S18_Fr: x_T25_S18_Fr_1 + x_T25_S18_Fr_2 + x_T25_S18_Fr_3 + x_T25_S18_Fr_4 + x_T25_S18_Fr_5 <= 2
+ max_daily_T26_S1_Mo: x_T26_S1_Mo_1 + x_T26_S1_Mo_2 + x_T26_S1_Mo_3 + x_T26_S1_Mo_4 + x_T26_S1_Mo_5 <= 2
+ max_daily_T26_S1_Tu: x_T26_S1_Tu_1 + x_T26_S1_Tu_2 + x_T26_S1_Tu_3 + x_T26_S1_Tu_4 + x_T26_S1_Tu_5 <= 2
+ max_daily_T26_S1_We: x_T26_S1_We_1 + x_T26_S1_We_2 + x_T26_S1_We_3 + x_T26_S1_We_4 + x_T26_S1_We_5 <= 2
+ max_daily_T26_S1_Th: x_T26_S1_Th_1 + x_T26_S1_Th_2 + x_T26_S1_Th_3 + x_T26_S1_Th_4 + x_T26_S1_Th_5 <= 2
+ max_daily_T26_S1_Fr: x_T26_S1_Fr_1 + x_T26_S1_Fr_2 + x_T26_S1_Fr_3 + x_T26_S1_Fr_4 + x_T26_S1_Fr_5 <= 2
+ max_daily_T26_S4_Mo: x_T26_S4_Mo_1 + x_T26_S4_Mo_2 + x_T26_S4_Mo_3 + x_T26_S4_Mo_4 + x_T26_S4_Mo_5 <= 2
+ max_daily_T26_S4_Tu: x_T26_S4_Tu_1 + x_T26_S4_Tu_2 + x_T26_S4_Tu_3 + x_T26_S4_Tu_4 + x_T26_S4_Tu_5 <= 2
+ max_daily_T26_S4_We: x_T26_S4_We_1 + x_T26_S4_We_2 + x_T26_S4_We_3 + x_T26_S4_We_4 + x_T26_S4_We_5 <= 2
+ max_daily_T26_S4_Th: x_T26_S4_Th_1 + x_T26_S4_Th_2 + x_T26_S4_Th_3 + x_T26_S4_Th_4 + x_T26_S4_Th_5 <= 2
+ max_daily_T26_S4_Fr: x_T26_S4_Fr_1 + x_T26_S4_Fr_2 + x_T26_S4_Fr_3 + x_T26_S4_Fr_4 + x_T26_S4_Fr_5 <= 2
+ max_daily_T26_S7_Mo: x_T26_S7_Mo_1 + x_T26_S7_Mo_2 + x_T26_S7_Mo_3 + x_T26_S7_Mo_4 + x_T26_S7_Mo_5 <= 2
+ max_daily_T26_S7_Tu: x_T26_S7_Tu_1 + x_T26_S7_Tu_2 + x_T26_S7_Tu_3 + x_T26_S7_Tu_4 + x_T26_S7_Tu_5 <= 2
+ max_daily_T26_S7_We: x_T26_S7_We_1 + x_T26_S7_We_2 + x_T26_S7_We_3 + x_T26_S7_We_4 + x_T26_S7_We_5 <= 2
+ max_daily_T26_S7_Th: x_T26_S7_Th_1 + x_T26_S7_Th_2 + x_T26_S7_Th_3 + x_T26_S7_Th_4 + x_T26_S7_Th_5 <= 2
+ max_daily_T26_S7_Fr: x_T26_S7_Fr_1 + x_T26_S7_Fr_2 + x_T26_S7_Fr_3 + x_T26_S7_Fr_4 + x_T26_S7_Fr_5 <= 2
+ max_daily_T26_S10_Mo: x_T26_S10_Mo_1 + x_T26_S10_Mo_2 + x_T26_S10_Mo_3 + x_T26_S10_Mo_4 + x_T26_S10_Mo_5 <= 2
+ max_daily_T26_S10_Tu: x_T26_S10_Tu_1 + x_T26_S10_Tu_2 + x_T26_S10_Tu_3 + x_T26_S10_Tu_4 + x_T26_S10_Tu_5 <= 2
+ max_daily_T26_S10_We: x_T26_S10_We_1 + x_T26_S10_We_2 + x_T26_S10_We_3 + x_T26_S10_We_4 + x_T26_S10_We_5 <= 2
+ max_daily_T26_S10_Th: x_T26_S10_Th_1 + x_T26_S10_Th_2 + x_T26_S10_Th_3 + x_T26_S10_Th_4 + x_T26_S10_Th_5 <= 2
+ max_daily_T26_S10_Fr: x_T26_S10_Fr_1 + x_T26_S10_Fr_2 + x_T26_S10_Fr_3 + x_T26_S10_Fr_4 + x_T26_S10_Fr_5 <= 2
+ max_daily_T26_S13_Mo: x_T26_S13_Mo_1 + x_T26_S13_Mo_2 + x_T26_S13_Mo_3 + x_T26_S13_Mo_4 + x_T26_S13_Mo_5 <= 2
+ max_daily_T26_S13_Tu: x_T26_S13_Tu_1 + x_T26_S13_Tu_2 + x_T26_S13_Tu_3 + x_T26_S13_Tu_4 + x_T26_S13_Tu_5 <= 2
+ max_daily_T26_S13_We: x_T26_S13_We_1 + x_T26_S13_We_2 + x_T26_S13_We_3 + x_T26_S13_We_4 + x_T26_S13_We_5 <= 2
+ max_daily_T26_S13_Th: x_T26_S13_Th_1 + x_T26_S13_Th_2 + x_T26_S13_Th_3 + x_T26_S13_Th_4 + x_T26_S13_Th_5 <= 2
+ max_daily_T26_S13_Fr: x_T26_S13_Fr_1 + x_T26_S13_Fr_2 + x_T26_S13_Fr_3 + x_T26_S13_Fr_4 + x_T26_S13_Fr_5 <= 2
+ max_daily_T26_S16_Mo: x_T26_S16_Mo_1 + x_T26_S16_Mo_2 + x_T26_S16_Mo_3 + x_T26_S16_Mo_4 + x_T26_S16_Mo_5 <= 2
+ max_daily_T26_S16_Tu: x_T26_S16_Tu_1 + x_T26_S16_Tu_2 + x_T26_S16_Tu_3 + x_T26_S16_Tu_4 + x_T26_S16_Tu_5 <= 2
+ max_daily_T26_S16_We: x_T26_S16_We_1 + x_T26_S16_We_2 + x_T26_S16_We_3 + x_T26_S16_We_4 + x_T26_S16_We_5 <= 2
+ max_daily_T26_S16_Th: x_T26_S16_Th_1 + x_T26_S16_Th_2 + x_T26_S16_Th_3 + x_T26_S16_Th_4 + x_T26_S16_Th_5 <= 2
+ max_daily_T26_S16_Fr: x_T26_S16_Fr_1 + x_T26_S16_Fr_2 + x_T26_S16_Fr_3 + x_T26_S16_Fr_4 + x_T26_S16_Fr_5 <= 2
+ max_daily_T26_S19_Mo: x_T26_S19_Mo_1 + x_T26_S19_Mo_2 + x_T26_S19_Mo_3 + x_T26_S19_Mo_4 + x_T26_S19_Mo_5 <= 2
+ max_daily_T26_S19_Tu: x_T26_S19_Tu_1 + x_T26_S19_Tu_2 + x_T26_S19_Tu_3 + x_T26_S19_Tu_4 + x_T26_S19_Tu_5 <= 2
+ max_daily_T26_S19_We: x_T26_S19_We_1 + x_T26_S19_We_2 + x_T26_S19_We_3 + x_T26_S19_We_4 + x_T26_S19_We_5 <= 2
+ max_daily_T26_S19_Th: x_T26_S19_Th_1 + x_T26_S19_Th_2 + x_T26_S19_Th_3 + x_T26_S19_Th_4 + x_T26_S19_Th_5 <= 2
+ max_daily_T26_S19_Fr: x_T26_S19_Fr_1 + x_T26_S19_Fr_2 + x_T26_S19_Fr_3 + x_T26_S19_Fr_4 + x_T26_S19_Fr_5 <= 2
+ max_daily_T27_S2_Mo: x_T27_S2_Mo_1 + x_T27_S2_Mo_2 + x_T27_S2_Mo_3 + x_T27_S2_Mo_4 + x_T27_S2_Mo_5 <= 2
+ max_daily_T27_S2_Tu: x_T27_S2_Tu_1 + x_T27_S2_Tu_2 + x_T27_S2_Tu_3 + x_T27_S2_Tu_4 + x_T27_S2_Tu_5 <= 2
+ max_daily_T27_S2_We: x_T27_S2_We_1 + x_T27_S2_We_2 + x_T27_S2_We_3 + x_T27_S2_We_4 + x_T27_S2_We_5 <= 2
+ max_daily_T27_S2_Th: x_T27_S2_Th_1 + x_T27_S2_Th_2 + x_T27_S2_Th_3 + x_T27_S2_Th_4 + x_T27_S2_Th_5 <= 2
+ max_daily_T27_S2_Fr: x_T27_S2_Fr_1 + x_T27_S2_Fr_2 + x_T27_S2_Fr_3 + x_T27_S2_Fr_4 + x_T27_S2_Fr_5 <= 2
+ max_daily_T27_S5_Mo: x_T27_S5_Mo_1 + x_T27_S5_Mo_2 + x_T27_S5_Mo_3 + x_T27_S5_Mo_4 + x_T27_S5_Mo_5 <= 2
+ max_daily_T27_S5_Tu: x_T27_S5_Tu_1 + x_T27_S5_Tu_2 + x_T27_S5_Tu_3 + x_T27_S5_Tu_4 + x_T27_S5_Tu_5 <= 2
+ max_daily_T27_S5_We: x_T27_S5_We_1 + x_T27_S5_We_2 + x_T27_S5_We_3 + x_T27_S5_We_4 + x_T27_S5_We_5 <= 2
+ max_daily_T27_S5_Th: x_T27_S5_Th_1 + x_T27_S5_Th_2 + x_T27_S5_Th_3 + x_T27_S5_Th_4 + x_T27_S5_Th_5 <= 2
+ max_daily_T27_S5_Fr: x_T27_S5_Fr_1 + x_T27_S5_Fr_2 + x_T27_S5_Fr_3 + x_T27_S5_Fr_4 + x_T27_S5_Fr_5 <= 2
+ max_daily_T27_S8_Mo: x_T27_S8_Mo_1 + x_T27_S8_Mo_2 + x_T27_S8_Mo_3 + x_T27_S8_Mo_4 + x_T27_S8_Mo_5 <= 2
+ max_daily_T27_S8_Tu: x_T27_S8_Tu_1 + x_T27_S8_Tu_2 + x_T27_S8_Tu_3 + x_T27_S8_Tu_4 + x_T27_S8_Tu_5 <= 2
+ max_daily_T27_S8_We: x_T27_S8_We_1 + x_T27_S8_We_2 + x_T27_S8_We_3 + x_T27_S8_We_4 + x_T27_S8_We_5 <= 2
+ max_daily_T27_S8_Th: x_T27_S8_Th_1 + x_T27_S8_Th_2 + x_T27_S8_Th_3 + x_T27_S8_Th_4 + x_T27_S8_Th_5 <= 2
+ max_daily_T27_S8_Fr: x_T27_S8_Fr_1 + x_T27_S8_Fr_2 + x_T27_S8_Fr_3 + x_T27_S8_Fr_4 + x_T27_S8_Fr_5 <= 2
+ max_daily_T27_S11_Mo: x_T27_S11_Mo_1 + x_T27_S11_Mo_2 + x_T27_S11_Mo_3 + x_T27_S11_Mo_4 + x_T27_S11_Mo_5 <= 2
+ max_daily_T27_S11_Tu: x_T27_S11_Tu_1 + x_T27_S11_Tu_2 + x_T27_S11_Tu_3 + x_T27_S11_Tu_4 + x_T27_S11_Tu_5 <= 2
+ max_daily_T27_S11_We: x_T27_S11_We_1 + x_T27_S11_We_2 + x_T27_S11_We_3 + x_T27_S11_We_4 + x_T27_S11_We_5 <= 2
+ max_daily_T27_S11_Th: x_T27_S11_Th_1 + x_T27_S11_Th_2 + x_T27_S11_Th_3 + x_T27_S11_Th_4 + x_T27_S11_Th_5 <= 2
+ max_daily_T27_S11_Fr: x_T27_S11_Fr_1 + x_T27_S11_Fr_2 + x_T27_S11_Fr_3 + x_T27_S11_Fr_4 + x_T27_S11_Fr_5 <= 2
+ max_daily_T27_S14_Mo: x_T27_S14_Mo_1 + x_T27_S14_Mo_2 + x_T27_S14_Mo_3 + x_T27_S14_Mo_4 + x_T27_S14_Mo_5 <= 2
+ max_daily_T27_S14_Tu: x_T27_S14_Tu_1 + x_T27_S14_Tu_2 + x_T27_S14_Tu_3 + x_T27_S14_Tu_4 + x_T27_S14_Tu_5 <= 2
+ max_daily_T27_S14_We: x_T27_S14_We_1 + x_T27_S14_We_2 + x_T27_S14_We_3 + x_T27_S14_We_4 + x_T27_S14_We_5 <= 2
+ max_daily_T27_S14_Th: x_T27_S14_Th_1 + x_T27_S14_Th_2 + x_T27_S14_Th_3 + x_T27_S14_Th_4 + x_T27_S14_Th_5 <= 2
+ max_daily_T27_S14_Fr: x_T27_S14_Fr_1 + x_T27_S14_Fr_2 + x_T27_S14_Fr_3 + x_T27_S14_Fr_4 + x_T27_S14_Fr_5 <= 2
+ max_daily_T27_S17_Mo: x_T27_S17_Mo_1 + x_T27_S17_Mo_2 + x_T27_S17_Mo_3 + x_T27_S17_Mo_4 + x_T27_S17_Mo_5 <= 2
+ max_daily_T27_S17_Tu: x_T27_S17_Tu_1 + x_T27_S17_Tu_2 + x_T27_S17_Tu_3 + x_T27_S17_Tu_4 + x_T27_S17_Tu_5 <= 2
+ max_daily_T27_S17_We: x_T27_S17_We_1 + x_T27_S17_We_2 + x_T27_S17_We_3 + x_T27_S17_We_4 + x_T27_S17_We_5 <= 2
+ max_daily_T27_S17_Th: x_T27_S17_Th_1 + x_T27_S17_Th_2 + x_T27_S17_Th_3 + x_T27_S17_Th_4 + x_T27_S17_Th_5 <= 2
+ max_daily_T27_S17_Fr: x_T27_S17_Fr_1 + x_T27_S17_Fr_2 + x_T27_S17_Fr_3 + x_T27_S17_Fr_4 + x_T27_S17_Fr_5 <= 2
+ max_daily_T27_S20_Mo: x_T27_S20_Mo_1 + x_T27_S20_Mo_2 + x_T27_S20_Mo_3 + x_T27_S20_Mo_4 + x_T27_S20_Mo_5 <= 2
+ max_daily_T27_S20_Tu: x_T27_S20_Tu_1 + x_T27_S20_Tu_2 + x_T27_S20_Tu_3 + x_T27_S20_Tu_4 + x_T27_S20_Tu_5 <= 2
+ max_daily_T27_S20_We: x_T27_S20_We_1 + x_T27_S20_We_2 + x_T27_S20_We_3 + x_T27_S20_We_4 + x_T27_S20_We_5 <= 2
+ max_daily_T27_S20_Th: x_T27_S20_Th_1 + x_T27_S20_Th_2 + x_T27_S20_Th_3 + x_T27_S20_Th_4 + x_T27_S20_Th_5 <= 2
+ max_daily_T27_S20_Fr: x_T27_S20_Fr_1 + x_T27_S20_Fr_2 + x_T27_S20_Fr_3 + x_T27_S20_Fr_4 + x_T27_S20_Fr_5 <= 2
+ max_daily_T28_S3_Mo: x_T28_S3_Mo_1 + x_T28_S3_Mo_2 + x_T28_S3_Mo_3 + x_T28_S3_Mo_4 + x_T28_S3_Mo_5 <= 2
+ max_daily_T28_S3_Tu: x_T28_S3_Tu_1 + x_T28_S3_Tu_2 + x_T28_S3_Tu_3 + x_T28_S3_Tu_4 + x_T28_S3_Tu_5 <= 2
+ max_daily_T28_S3_We: x_T28_S3_We_1 + x_T28_S3_We_2 + x_T28_S3_We_3 + x_T28_S3_We_4 + x_T28_S3_We_5 <= 2
+ max_daily_T28_S3_Th: x_T28_S3_Th_1 + x_T28_S3_Th_2 + x_T28_S3_Th_3 + x_T28_S3_Th_4 + x_T28_S3_Th_5 <= 2
+ max_daily_T28_S3_Fr: x_T28_S3_Fr_1 + x_T28_S3_Fr_2 + x_T28_S3_Fr_3 + x_T28_S3_Fr_4 + x_T28_S3_Fr_5 <= 2
+ max_daily_T28_S6_Mo: x_T28_S6_Mo_1 + x_T28_S6_Mo_2 + x_T28_S6_Mo_3 + x_T28_S6_Mo_4 + x_T28_S6_Mo_5 <= 2
+ max_daily_T28_S6_Tu: x_T28_S6_Tu_1 + x_T28_S6_Tu_2 + x_T28_S6_Tu_3 + x_T28_S6_Tu_4 + x_T28_S6_Tu_5 <= 2
+ max_daily_T28_S6_We: x_T28_S6_We_1 + x_T28_S6_We_2 + x_T28_S6_We_3 + x_T28_S6_We_4 + x_T28_S6_We_5 <= 2
+ max_daily_T28_S6_Th: x_T28_S6_Th_1 + x_T28_S6_Th_2 + x_T28_S6_Th_3 + x_T28_S6_Th_4 + x_T28_S6_Th_5 <= 2
+ max_daily_T28_S6_Fr: x_T28_S6_Fr_1 + x_T28_S6_Fr_2 + x_T28_S6_Fr_3 + x_T28_S6_Fr_4 + x_T28_S6_Fr_5 <= 2
+ max_daily_T28_S9_Mo: x_T28_S9_Mo_1 + x_T28_S9_Mo_2 + x_T28_S9_Mo_3 + x_T28_S9_Mo_4 + x_T28_S9_Mo_5 <= 2
+ max_daily_T28_S9_Tu: x_T28_S9_Tu_1 + x_T28_S9_Tu_2 + x_T28_S9_Tu_3 + x_T28_S9_Tu_4 + x_T28_S9_Tu_5 <= 2
+ max_daily_T28_S9_We: x_T28_S9_We_1 + x_T28_S9_We_2 + x_T28_S9_We_3 + x_T28_S9_We_4 + x_T28_S9_We_5 <= 2
+ max_daily_T28_S9_Th: x_T28_S9_Th_1 + x_T28_S9_Th_2 + x_T28_S9_Th_3 + x_T28_S9_Th_4 + x_T28_S9_Th_5 <= 2
+ max_daily_T28_S9_Fr: x_T28_S9_Fr_1 + x_T28_S9_Fr_2 + x_T28_S9_Fr_3 + x_T28_S9_Fr_4 + x_T28_S9_Fr_5 <= 2
+ max_daily_T28_S12_Mo: x_T28_S12_Mo_1 + x_T28_S12_Mo_2 + x_T28_S12_Mo_3 + x_T28_S12_Mo_4 + x_T28_S12_Mo_5 <= 2
+ max_daily_T28_S12_Tu: x_T28_S12_Tu_1 + x_T28_S12_Tu_2 + x_T28_S12_Tu_3 + x_T28_S12_Tu_4 + x_T28_S12_Tu_5 <= 2
+ max_daily_T28_S12_We: x_T28_S12_We_1 + x_T28_S12_We_2 + x_T28_S12_We_3 + x_T28_S12_We_4 + x_T28_S12_We_5 <= 2
+ max_daily_T28_S12_Th: x_T28_S12_Th_1 + x_T28_S12_Th_2 + x_T28_S12_Th_3 + x_T28_S12_Th_4 + x_T28_S12_Th_5 <= 2
+ max_daily_T28_S12_Fr: x_T28_S12_Fr_1 + x_T28_S12_Fr_2 + x_T28_S12_Fr_3 + x_T28_S12_Fr_4 + x_T28_S12_Fr_5 <= 2
+ max_daily_T28_S15_Mo: x_T28_S15_Mo_1 + x_T28_S15_Mo_2 + x_T28_S15_Mo_3 + x_T28_S15_Mo_4 + x_T28_S15_Mo_5 <= 2
+ max_daily_T28_S15_Tu: x_T28_S15_Tu_1 + x_T28_S15_Tu_2 + x_T28_S15_Tu_3 + x_T28_S15_Tu_4 + x_T28_S15_Tu_5 <= 2
+ max_daily_T28_S15_We: x_T28_S15_We_1 + x_T28_S15_We_2 + x_T28_S15_We_3 + x_T28_S15_We_4 + x_T28_S15_We_5 <= 2
+ max_daily_T28_S15_Th: x_T28_S15_Th_1 + x_T28_S15_Th_2 + x_T28_S15_Th_3 + x_T28_S15_Th_4 + x_T28_S15_Th_5 <= 2
+ max_daily_T28_S15_Fr: x_T28_S15_Fr_1 + x_T28_S15_Fr_2 + x_T28_S15_Fr_3 + x_T28_S15_Fr_4 + x_T28_S15_Fr_5 <= 2
+ max_daily_T28_S18_Mo: x_T28_S18_Mo_1 + x_T28_S18_Mo_2 + x_T28_S18_Mo_3 + x_T28_S18_Mo_4 + x_T28_S18_Mo_5 <= 2
+ max_daily_T28_S18_Tu: x_T28_S18_Tu_1 + x_T28_S18_Tu_2 + x_T28_S18_Tu_3 + x_T28_S18_Tu_4 + x_T28_S18_Tu_5 <= 2
+ max_daily_T28_S18_We: x_T28_S18_We_1 + x_T28_S18_We_2 + x_T28_S18_We_3 + x_T28_S18_We_4 + x_T28_S18_We_5 <= 2
+ max_daily_T28_S18_Th: x_T28_S18_Th_1 + x_T28_S18_Th_2 + x_T28_S18_Th_3 + x_T28_S18_Th_4 + x_T28_S18_Th_5 <= 2
+ max_daily_T28_S18_Fr: x_T28_S18_Fr_1 + x_T28_S18_Fr_2 + x_T28_S18_Fr_3 + x_T28_S18_Fr_4 + x_T28_S18_Fr_5 <= 2
+ max_daily_T29_S1_Mo: x_T29_S1_Mo_1 + x_T29_S1_Mo_2 + x_T29_S1_Mo_3 + x_T29_S1_Mo_4 + x_T29_S1_Mo_5 <= 2
+ max_daily_T29_S1_Tu: x_T29_S1_Tu_1 + x_T29_S1_Tu_2 + x_T29_S1_Tu_3 + x_T29_S1_Tu_4 + x_T29_S1_Tu_5 <= 2
+ max_daily_T29_S1_We: x_T29_S1_We_1 + x_T29_S1_We_2 + x_T29_S1_We_3 + x_T29_S1_We_4 + x_T29_S1_We_5 <= 2
+ max_daily_T29_S1_Th: x_T29_S1_Th_1 + x_T29_S1_Th_2 + x_T29_S1_Th_3 + x_T29_S1_Th_4 + x_T29_S1_Th_5 <= 2
+ max_daily_T29_S1_Fr: x_T29_S1_Fr_1 + x_T29_S1_Fr_2 + x_T29_S1_Fr_3 + x_T29_S1_Fr_4 + x_T29_S1_Fr_5 <= 2
+ max_daily_T29_S4_Mo: x_T29_S4_Mo_1 + x_T29_S4_Mo_2 + x_T29_S4_Mo_3 + x_T29_S4_Mo_4 + x_T29_S4_Mo_5 <= 2
+ max_daily_T29_S4_Tu: x_T29_S4_Tu_1 + x_T29_S4_Tu_2 + x_T29_S4_Tu_3 + x_T29_S4_Tu_4 + x_T29_S4_Tu_5 <= 2
+ max_daily_T29_S4_We: x_T29_S4_We_1 + x_T29_S4_We_2 + x_T29_S4_We_3 + x_T29_S4_We_4 + x_T29_S4_We_5 <= 2
+ max_daily_T29_S4_Th: x_T29_S4_Th_1 + x_T29_S4_Th_2 + x_T29_S4_Th_3 + x_T29_S4_Th_4 + x_T29_S4_Th_5 <= 2
+ max_daily_T29_S4_Fr: x_T29_S4_Fr_1 + x_T29_S4_Fr_2 + x_T29_S4_Fr_3 + x_T29_S4_Fr_4 + x_T29_S4_Fr_5 <= 2
+ max_daily_T29_S7_Mo: x_T29_S7_Mo_1 + x_T29_S7_Mo_2 + x_T29_S7_Mo_3 + x_T29_S7_Mo_4 + x_T29_S7_Mo_5 <= 2
+ max_daily_T29_S7_Tu: x_T29_S7_Tu_1 + x_T29_S7_Tu_2 + x_T29_S7_Tu_3 + x_T29_S7_Tu_4 + x_T29_S7_Tu_5 <= 2
+ max_daily_T29_S7_We: x_T29_S7_We_1 + x_T29_S7_We_2 + x_T29_S7_We_3 + x_T29_S7_We_4 + x_T29_S7_We_5 <= 2
+ max_daily_T29_S7_Th: x_T29_S7_Th_1 + x_T29_S7_Th_2 + x_T29_S7_Th_3 + x_T29_S7_Th_4 + x_T29_S7_Th_5 <= 2
+ max_daily_T29_S7_Fr: x_T29_S7_Fr_1 + x_T29_S7_Fr_2 + x_T29_S7_Fr_3 + x_T29_S7_Fr_4 + x_T29_S7_Fr_5 <= 2
+ max_daily_T29_S10_Mo: x_T29_S10_Mo_1 + x_T29_S10_Mo_2 + x_T29_S10_Mo_3 + x_T29_S10_Mo_4 + x_T29_S10_Mo_5 <= 2
+ max_daily_T29_S10_Tu: x_T29_S10_Tu_1 + x_T29_S10_Tu_2 + x_T29_S10_Tu_3 + x_T29_S10_Tu_4 + x_T29_S10_Tu_5 <= 2
+ max_daily_T29_S10_We: x_T29_S10_We_1 + x_T29_S10_We_2 + x_T29_S10_We_3 + x_T29_S10_We_4 + x_T29_S10_We_5 <= 2
+ max_daily_T29_S10_Th: x_T29_S10_Th_1 + x_T29_S10_Th_2 + x_T29_S10_Th_3 + x_T29_S10_Th_4 + x_T29_S10_Th_5 <= 2
+ max_daily_T29_S10_Fr: x_T29_S10_Fr_1 + x_T29_S10_Fr_2 + x_T29_S10_Fr_3 + x_T29_S10_Fr_4 + x_T29_S10_Fr_5 <= 2
+ max_daily_T29_S13_Mo: x_T29_S13_Mo_1 + x_T29_S13_Mo_2 + x_T29_S13_Mo_3 + x_T29_S13_Mo_4 + x_T29_S13_Mo_5 <= 2
+ max_daily_T29_S13_Tu: x_T29_S13_Tu_1 + x_T29_S13_Tu_2 + x_T29_S13_Tu_3 + x_T29_S13_Tu_4 + x_T29_S13_Tu_5 <= 2
+ max_daily_T29_S13_We: x_T29_S13_We_1 + x_T29_S13_We_2 + x_T29_S13_We_3 + x_T29_S13_We_4 + x_T29_S13_We_5 <= 2
+ max_daily_T29_S13_Th: x_T29_S13_Th_1 + x_T29_S13_Th_2 + x_T29_S13_Th_3 + x_T29_S13_Th_4 + x_T29_S13_Th_5 <= 2
+ max_daily_T29_S13_Fr: x_T29_S13_Fr_1 + x_T29_S13_Fr_2 + x_T29_S13_Fr_3 + x_T29_S13_Fr_4 + x_T29_S13_Fr_5 <= 2
+ max_daily_T29_S16_Mo: x_T29_S16_Mo_1 + x_T29_S16_Mo_2 + x_T29_S16_Mo_3 + x_T29_S16_Mo_4 + x_T29_S16_Mo_5 <= 2
+ max_daily_T29_S16_Tu: x_T29_S16_Tu_1 + x_T29_S16_Tu_2 + x_T29_S16_Tu_3 + x_T29_S16_Tu_4 + x_T29_S16_Tu_5 <= 2
+ max_daily_T29_S16_We: x_T29_S16_We_1 + x_T29_S16_We_2 + x_T29_S16_We_3 + x_T29_S16_We_4 + x_T29_S16_We_5 <= 2
+ max_daily_T29_S16_Th: x_T29_S16_Th_1 + x_T29_S16_Th_2 + x_T29_S16_Th_3 + x_T29_S16_Th_4 + x_T29_S16_Th_5 <= 2
+ max_daily_T29_S16_Fr: x_T29_S16_Fr_1 + x_T29_S16_Fr_2 + x_T29_S16_Fr_3 + x_T29_S16_Fr_4 + x_T29_S16_Fr_5 <= 2
+ max_daily_T29_S19_Mo: x_T29_S19_Mo_1 + x_T29_S19_Mo_2 + x_T29_S19_Mo_3 + x_T29_S19_Mo_4 + x_T29_S19_Mo_5 <= 2
+ max_daily_T29_S19_Tu: x_T29_S19_Tu_1 + x_T29_S19_Tu_2 + x_T29_S19_Tu_3 + x_T29_S19_Tu_4 + x_T29_S19_Tu_5 <= 2
+ max_daily_T29_S19_We: x_T29_S19_We_1 + x_T29_S19_We_2 + x_T29_S19_We_3 + x_T29_S19_We_4 + x_T29_S19_We_5 <= 2
+ max_daily_T29_S19_Th: x_T29_S19_Th_1 + x_T29_S19_Th_2 + x_T29_S19_Th_3 + x_T29_S19_Th_4 + x_T29_S19_Th_5 <= 2
+ max_daily_T29_S19_Fr: x_T29_S19_Fr_1 + x_T29_S19_Fr_2 + x_T29_S19_Fr_3 + x_T29_S19_Fr_4 + x_T29_S19_Fr_5 <= 2
+ max_daily_T30_S2_Mo: x_T30_S2_Mo_1 + x_T30_S2_Mo_2 + x_T30_S2_Mo_3 + x_T30_S2_Mo_4 + x_T30_S2_Mo_5 <= 2
+ max_daily_T30_S2_Tu: x_T30_S2_Tu_1 + x_T30_S2_Tu_2 + x_T30_S2_Tu_3 + x_T30_S2_Tu_4 + x_T30_S2_Tu_5 <= 2
+ max_daily_T30_S2_We: x_T30_S2_We_1 + x_T30_S2_We_2 + x_T30_S2_We_3 + x_T30_S2_We_4 + x_T30_S2_We_5 <= 2
+ max_daily_T30_S2_Th: x_T30_S2_Th_1 + x_T30_S2_Th_2 + x_T30_S2_Th_3 + x_T30_S2_Th_4 + x_T30_S2_Th_5 <= 2
+ max_daily_T30_S2_Fr: x_T30_S2_Fr_1 + x_T30_S2_Fr_2 + x_T30_S2_Fr_3 + x_T30_S2_Fr_4 + x_T30_S2_Fr_5 <= 2
+ max_daily_T30_S5_Mo: x_T30_S5_Mo_1 + x_T30_S5_Mo_2 + x_T30_S5_Mo_3 + x_T30_S5_Mo_4 + x_T30_S5_Mo_5 <= 2
+ max_daily_T30_S5_Tu: x_T30_S5_Tu_1 + x_T30_S5_Tu_2 + x_T30_S5_Tu_3 + x_T30_S5_Tu_4 + x_T30_S5_Tu_5 <= 2
+ max_daily_T30_S5_We: x_T30_S5_We_1 + x_T30_S5_We_2 + x_T30_S5_We_3 + x_T30_S5_We_4 + x_T30_S5_We_5 <= 2
+ max_daily_T30_S5_Th: x_T30_S5_Th_1 + x_T30_S5_Th_2 + x_T30_S5_Th_3 + x_T30_S5_Th_4 + x_T30_S5_Th_5 <= 2
+ max_daily_T30_S5_Fr: x_T30_S5_Fr_1 + x_T30_S5_Fr_2 + x_T30_S5_Fr_3 + x_T30_S5_Fr_4 + x_T30_S5_Fr_5 <= 2
+ max_daily_T30_S8_Mo: x_T30_S8_Mo_1 + x_T30_S8_Mo_2 + x_T30_S8_Mo_3 + x_T30_S8_Mo_4 + x_T30_S8_Mo_5 <= 2
+ max_daily_T30_S8_Tu: x_T30_S8_Tu_1 + x_T30_S8_Tu_2 + x_T30_S8_Tu_3 + x_T30_S8_Tu_4 + x_T30_S8_Tu_5 <= 2
+ max_daily_T30_S8_We: x_T30_S8_We_1 + x_T30_S8_We_2 + x_T30_S8_We_3 + x_T30_S8_We_4 + x_T30_S8_We_5 <= 2
+ max_daily_T30_S8_Th: x_T30_S8_Th_1 + x_T30_S8_Th_2 + x_T30_S8_Th_3 + x_T30_S8_Th_4 + x_T30_S8_Th_5 <= 2
+ max_daily_T30_S8_Fr: x_T30_S8_Fr_1 + x_T30_S8_Fr_2 + x_T30_S8_Fr_3 + x_T30_S8_Fr_4 + x_T30_S8_Fr_5 <= 2
+ max_daily_T30_S11_Mo: x_T30_S11_Mo_1 + x_T30_S11_Mo_2 + x_T30_S11_Mo_3 + x_T30_S11_Mo_4 + x_T30_S11_Mo_5 <= 2
+ max_daily_T30_S11_Tu: x_T30_S11_Tu_1 + x_T30_S11_Tu_2 + x_T30_S11_Tu_3 + x_T30_S11_Tu_4 + x_T30_S11_Tu_5 <= 2
+ max_daily_T30_S11_We: x_T30_S11_We_1 + x_T30_S11_We_2 + x_T30_S11_We_3 + x_T30_S11_We_4 + x_T30_S11_We_5 <= 2
+ max_daily_T30_S11_Th: x_T30_S11_Th_1 + x_T30_S11_Th_2 + x_T30_S11_Th_3 + x_T30_S11_Th_4 + x_T30_S11_Th_5 <= 2
+ max_daily_T30_S11_Fr: x_T30_S11_Fr_1 + x_T30_S11_Fr_2 + x_T30_S11_Fr_3 + x_T30_S11_Fr_4 + x_T30_S11_Fr_5 <= 2
+ max_daily_T30_S14_Mo: x_T30_S14_Mo_1 + x_T30_S14_Mo_2 + x_T30_S14_Mo_3 + x_T30_S14_Mo_4 + x_T30_S14_Mo_5 <= 2
+ max_daily_T30_S14_Tu: x_T30_S14_Tu_1 + x_T30_S14_Tu_2 + x_T30_S14_Tu_3 + x_T30_S14_Tu_4 + x_T30_S14_Tu_5 <= 2
+ max_daily_T30_S14_We: x_T30_S14_We_1 + x_T30_S14_We_2 + x_T30_S14_We_3 + x_T30_S14_We_4 + x_T30_S14_We_5 <= 2
+ max_daily_T30_S14_Th: x_T30_S14_Th_1 + x_T30_S14_Th_2 + x_T30_S14_Th_3 + x_T30_S14_Th_4 + x_T30_S14_Th_5 <= 2
+ max_daily_T30_S14_Fr: x_T30_S14_Fr_1 + x_T30_S14_Fr_2 + x_T30_S14_Fr_3 + x_T30_S14_Fr_4 + x_T30_S14_Fr_5 <= 2
+ max_daily_T30_S17_Mo: x_T30_S17_Mo_1 + x_T30_S17_Mo_2 + x_T30_S17_Mo_3 + x_T30_S17_Mo_4 + x_T30_S17_Mo_5 <= 2
+ max_daily_T30_S17_Tu: x_T30_S17_Tu_1 + x_T30_S17_Tu_2 + x_T30_S17_Tu_3 + x_T30_S17_Tu_4 + x_T30_S17_Tu_5 <= 2
+ max_daily_T30_S17_We: x_T30_S17_We_1 + x_T30_S17_We_2 + x_T30_S17_We_3 + x_T30_S17_We_4 + x_T30_S17_We_5 <= 2
+ max_daily_T30_S17_Th: x_T30_S17_Th_1 + x_T30_S17_Th_2 + x_T30_S17_Th_3 + x_T30_S17_Th_4 + x_T30_S17_Th_5 <= 2
+ max_daily_T30_S17_Fr: x_T30_S17_Fr_1 + x_T30_S17_Fr_2 + x_T30_S17_Fr_3 + x_T30_S17_Fr_4 + x_T30_S17_Fr_5 <= 2
+ max_daily_T31_S3_Mo: x_T31_S3_Mo_1 + x_T31_S3_Mo_2 + x_T31_S3_Mo_3 + x_T31_S3_Mo_4 + x_T31_S3_Mo_5 <= 2
+ max_daily_T31_S3_Tu: x_T31_S3_Tu_1 + x_T31_S3_Tu_2 + x_T31_S3_Tu_3 + x_T31_S3_Tu_4 + x_T31_S3_Tu_5 <= 2
+ max_daily_T31_S3_We: x_T31_S3_We_1 + x_T31_S3_We_2 + x_T31_S3_We_3 + x_T31_S3_We_4 + x_T31_S3_We_5 <= 2
+ max_daily_T31_S3_Th: x_T31_S3_Th_1 + x_T31_S3_Th_2 + x_T31_S3_Th_3 + x_T31_S3_Th_4 + x_T31_S3_Th_5 <= 2
+ max_daily_T31_S3_Fr: x_T31_S3_Fr_1 + x_T31_S3_Fr_2 + x_T31_S3_Fr_3 + x_T31_S3_Fr_4 + x_T31_S3_Fr_5 <= 2
+ max_daily_T31_S6_Mo: x_T31_S6_Mo_1 + x_T31_S6_Mo_2 + x_T31_S6_Mo_3 + x_T31_S6_Mo_4 + x_T31_S6_Mo_5 <= 2
+ max_daily_T31_S6_Tu: x_T31_S6_Tu_1 + x_T31_S6_Tu_2 + x_T31_S6_Tu_3 + x_T31_S6_Tu_4 + x_T31_S6_Tu_5 <= 2
+ max_daily_T31_S6_We: x_T31_S6_We_1 + x_T31_S6_We_2 + x_T31_S6_We_3 + x_T31_S6_We_4 + x_T31_S6_We_5 <= 2
+ max_daily_T31_S6_Th: x_T31_S6_Th_1 + x_T31_S6_Th_2 + x_T31_S6_Th_3 + x_T31_S6_Th_4 + x_T31_S6_Th_5 <= 2
+ max_daily_T31_S6_Fr: x_T31_S6_Fr_1 + x_T31_S6_Fr_2 + x_T31_S6_Fr_3 + x_T31_S6_Fr_4 + x_T31_S6_Fr_5 <= 2
+ max_daily_T31_S9_Mo: x_T31_S9_Mo_1 + x_T31_S9_Mo_2 + x_T31_S9_Mo_3 + x_T31_S9_Mo_4 + x_T31_S9_Mo_5 <= 2
+ max_daily_T31_S9_Tu: x_T31_S9_Tu_1 + x_T31_S9_Tu_2 + x_T31_S9_Tu_3 + x_T31_S9_Tu_4 + x_T31_S9_Tu_5 <= 2
+ max_daily_T31_S9_We: x_T31_S9_We_1 + x_T31_S9_We_2 + x_T31_S9_We_3 + x_T31_S9_We_4 + x_T31_S9_We_5 <= 2
+ max_daily_T31_S9_Th: x_T31_S9_Th_1 + x_T31_S9_Th_2 + x_T31_S9_Th_3 + x_T31_S9_Th_4 + x_T31_S9_Th_5 <= 2
+ max_daily_T31_S9_Fr: x_T31_S9_Fr_1 + x_T31_S9_Fr_2 + x_T31_S9_Fr_3 + x_T31_S9_Fr_4 + x_T31_S9_Fr_5 <= 2
+ max_daily_T31_S12_Mo: x_T31_S12_Mo_1 + x_T31_S12_Mo_2 + x_T31_S12_Mo_3 + x_T31_S12_Mo_4 + x_T31_S12_Mo_5 <= 2
+ max_daily_T31_S12_Tu: x_T31_S12_Tu_1 + x_T31_S12_Tu_2 + x_T31_S12_Tu_3 + x_T31_S12_Tu_4 + x_T31_S12_Tu_5 <= 2
+ max_daily_T31_S12_We: x_T31_S12_We_1 + x_T31_S12_We_2 + x_T31_S12_We_3 + x_T31_S12_We_4 + x_T31_S12_We_5 <= 2
+ max_daily_T31_S12_Th: x_T31_S12_Th_1 + x_T31_S12_Th_2 + x_T31_S12_Th_3 + x_T31_S12_Th_4 + x_T31_S12_Th_5 <= 2
+ max_daily_T31_S12_Fr: x_T31_S12_Fr_1 + x_T31_S12_Fr_2 + x_T31_S12_Fr_3 + x_T31_S12_Fr_4 + x_T31_S12_Fr_5 <= 2
+ max_daily_T31_S15_Mo: x_T31_S15_Mo_1 + x_T31_S15_Mo_2 + x_T31_S15_Mo_3 + x_T31_S15_Mo_4 + x_T31_S15_Mo_5 <= 2
+ max_daily_T31_S15_Tu: x_T31_S15_Tu_1 + x_T31_S15_Tu_2 + x_T31_S15_Tu_3 + x_T31_S15_Tu_4 + x_T31_S15_Tu_5 <= 2
+ max_daily_T31_S15_We: x_T31_S15_We_1 + x_T31_S15_We_2 + x_T31_S15_We_3 + x_T31_S15_We_4 + x_T31_S15_We_5 <= 2
+ max_daily_T31_S15_Th: x_T31_S15_Th_1 + x_T31_S15_Th_2 + x_T31_S15_Th_3 + x_T31_S15_Th_4 + x_T31_S15_Th_5 <= 2
+ max_daily_T31_S15_Fr: x_T31_S15_Fr_1 + x_T31_S15_Fr_2 + x_T31_S15_Fr_3 + x_T31_S15_Fr_4 + x_T31_S15_Fr_5 <= 2
+ max_daily_T31_S18_Mo: x_T31_S18_Mo_1 + x_T31_S18_Mo_2 + x_T31_S18_Mo_3 + x_T31_S18_Mo_4 + x_T31_S18_Mo_5 <= 2
+ max_daily_T31_S18_Tu: x_T31_S18_Tu_1 + x_T31_S18_Tu_2 + x_T31_S18_Tu_3 + x_T31_S18_Tu_4 + x_T31_S18_Tu_5 <= 2
+ max_daily_T31_S18_We: x_T31_S18_We_1 + x_T31_S18_We_2 + x_T31_S18_We_3 + x_T31_S18_We_4 + x_T31_S18_We_5 <= 2
+ max_daily_T31_S18_Th: x_T31_S18_Th_1 + x_T31_S18_Th_2 + x_T31_S18_Th_3 + x_T31_S18_Th_4 + x_T31_S18_Th_5 <= 2
+ max_daily_T31_S18_Fr: x_T31_S18_Fr_1 + x_T31_S18_Fr_2 + x_T31_S18_Fr_3 + x_T31_S18_Fr_4 + x_T31_S18_Fr_5 <= 2
+ max_daily_T31_S20_Mo: x_T31_S20_Mo_1 + x_T31_S20_Mo_2 + x_T31_S20_Mo_3 + x_T31_S20_Mo_4 + x_T31_S20_Mo_5 <= 2
+ max_daily_T31_S20_Tu: x_T31_S20_Tu_1 + x_T31_S20_Tu_2 + x_T31_S20_Tu_3 + x_T31_S20_Tu_4 + x_T31_S20_Tu_5 <= 2
+ max_daily_T31_S20_We: x_T31_S20_We_1 + x_T31_S20_We_2 + x_T31_S20_We_3 + x_T31_S20_We_4 + x_T31_S20_We_5 <= 2
+ max_daily_T31_S20_Th: x_T31_S20_Th_1 + x_T31_S20_Th_2 + x_T31_S20_Th_3 + x_T31_S20_Th_4 + x_T31_S20_Th_5 <= 2
+ max_daily_T31_S20_Fr: x_T31_S20_Fr_1 + x_T31_S20_Fr_2 + x_T31_S20_Fr_3 + x_T31_S20_Fr_4 + x_T31_S20_Fr_5 <= 2
+ max_daily_T32_S1_Mo: x_T32_S1_Mo_1 + x_T32_S1_Mo_2 + x_T32_S1_Mo_3 + x_T32_S1_Mo_4 + x_T32_S1_Mo_5 <= 2
+ max_daily_T32_S1_Tu: x_T32_S1_Tu_1 + x_T32_S1_Tu_2 + x_T32_S1_Tu_3 + x_T32_S1_Tu_4 + x_T32_S1_Tu_5 <= 2
+ max_daily_T32_S1_We: x_T32_S1_We_1 + x_T32_S1_We_2 + x_T32_S1_We_3 + x_T32_S1_We_4 + x_T32_S1_We_5 <= 2
+ max_daily_T32_S1_Th: x_T32_S1_Th_1 + x_T32_S1_Th_2 + x_T32_S1_Th_3 + x_T32_S1_Th_4 + x_T32_S1_Th_5 <= 2
+ max_daily_T32_S1_Fr: x_T32_S1_Fr_1 + x_T32_S1_Fr_2 + x_T32_S1_Fr_3 + x_T32_S1_Fr_4 + x_T32_S1_Fr_5 <= 2
+ max_daily_T32_S2_Mo: x_T32_S2_Mo_1 + x_T32_S2_Mo_2 + x_T32_S2_Mo_3 + x_T32_S2_Mo_4 + x_T32_S2_Mo_5 <= 2
+ max_daily_T32_S2_Tu: x_T32_S2_Tu_1 + x_T32_S2_Tu_2 + x_T32_S2_Tu_3 + x_T32_S2_Tu_4 + x_T32_S2_Tu_5 <= 2
+ max_daily_T32_S2_We: x_T32_S2_We_1 + x_T32_S2_We_2 + x_T32_S2_We_3 + x_T32_S2_We_4 + x_T32_S2_We_5 <= 2
+ max_daily_T32_S2_Th: x_T32_S2_Th_1 + x_T32_S2_Th_2 + x_T32_S2_Th_3 + x_T32_S2_Th_4 + x_T32_S2_Th_5 <= 2
+ max_daily_T32_S2_Fr: x_T32_S2_Fr_1 + x_T32_S2_Fr_2 + x_T32_S2_Fr_3 + x_T32_S2_Fr_4 + x_T32_S2_Fr_5 <= 2
+ max_daily_T32_S3_Mo: x_T32_S3_Mo_1 + x_T32_S3_Mo_2 + x_T32_S3_Mo_3 + x_T32_S3_Mo_4 + x_T32_S3_Mo_5 <= 2
+ max_daily_T32_S3_Tu: x_T32_S3_Tu_1 + x_T32_S3_Tu_2 + x_T32_S3_Tu_3 + x_T32_S3_Tu_4 + x_T32_S3_Tu_5 <= 2
+ max_daily_T32_S3_We: x_T32_S3_We_1 + x_T32_S3_We_2 + x_T32_S3_We_3 + x_T32_S3_We_4 + x_T32_S3_We_5 <= 2
+ max_daily_T32_S3_Th: x_T32_S3_Th_1 + x_T32_S3_Th_2 + x_T32_S3_Th_3 + x_T32_S3_Th_4 + x_T32_S3_Th_5 <= 2
+ max_daily_T32_S3_Fr: x_T32_S3_Fr_1 + x_T32_S3_Fr_2 + x_T32_S3_Fr_3 + x_T32_S3_Fr_4 + x_T32_S3_Fr_5 <= 2
+ max_daily_T32_S4_Mo: x_T32_S4_Mo_1 + x_T32_S4_Mo_2 + x_T32_S4_Mo_3 + x_T32_S4_Mo_4 + x_T32_S4_Mo_5 <= 2
+ max_daily_T32_S4_Tu: x_T32_S4_Tu_1 + x_T32_S4_Tu_2 + x_T32_S4_Tu_3 + x_T32_S4_Tu_4 + x_T32_S4_Tu_5 <= 2
+ max_daily_T32_S4_We: x_T32_S4_We_1 + x_T32_S4_We_2 + x_T32_S4_We_3 + x_T32_S4_We_4 + x_T32_S4_We_5 <= 2
+ max_daily_T32_S4_Th: x_T32_S4_Th_1 + x_T32_S4_Th_2 + x_T32_S4_Th_3 + x_T32_S4_Th_4 + x_T32_S4_Th_5 <= 2
+ max_daily_T32_S4_Fr: x_T32_S4_Fr_1 + x_T32_S4_Fr_2 + x_T32_S4_Fr_3 + x_T32_S4_Fr_4 + x_T32_S4_Fr_5 <= 2
+ max_daily_T32_S5_Mo: x_T32_S5_Mo_1 + x_T32_S5_Mo_2 + x_T32_S5_Mo_3 + x_T32_S5_Mo_4 + x_T32_S5_Mo_5 <= 2
+ max_daily_T32_S5_Tu: x_T32_S5_Tu_1 + x_T32_S5_Tu_2 + x_T32_S5_Tu_3 + x_T32_S5_Tu_4 + x_T32_S5_Tu_5 <= 2
+ max_daily_T32_S5_We: x_T32_S5_We_1 + x_T32_S5_We_2 + x_T32_S5_We_3 + x_T32_S5_We_4 + x_T32_S5_We_5 <= 2
+ max_daily_T32_S5_Th: x_T32_S5_Th_1 + x_T32_S5_Th_2 + x_T32_S5_Th_3 + x_T32_S5_Th_4 + x_T32_S5_Th_5 <= 2
+ max_daily_T32_S5_Fr: x_T32_S5_Fr_1 + x_T32_S5_Fr_2 + x_T32_S5_Fr_3 + x_T32_S5_Fr_4 + x_T32_S5_Fr_5 <= 2
+ max_daily_T32_S6_Mo: x_T32_S6_Mo_1 + x_T32_S6_Mo_2 + x_T32_S6_Mo_3 + x_T32_S6_Mo_4 + x_T32_S6_Mo_5 <= 2
+ max_daily_T32_S6_Tu: x_T32_S6_Tu_1 + x_T32_S6_Tu_2 + x_T32_S6_Tu_3 + x_T32_S6_Tu_4 + x_T32_S6_Tu_5 <= 2
+ max_daily_T32_S6_We: x_T32_S6_We_1 + x_T32_S6_We_2 + x_T32_S6_We_3 + x_T32_S6_We_4 + x_T32_S6_We_5 <= 2
+ max_daily_T32_S6_Th: x_T32_S6_Th_1 + x_T32_S6_Th_2 + x_T32_S6_Th_3 + x_T32_S6_Th_4 + x_T32_S6_Th_5 <= 2
+ max_daily_T32_S6_Fr: x_T32_S6_Fr_1 + x_T32_S6_Fr_2 + x_T32_S6_Fr_3 + x_T32_S6_Fr_4 + x_T32_S6_Fr_5 <= 2
+ max_daily_T32_S7_Mo: x_T32_S7_Mo_1 + x_T32_S7_Mo_2 + x_T32_S7_Mo_3 + x_T32_S7_Mo_4 + x_T32_S7_Mo_5 <= 2
+ max_daily_T32_S7_Tu: x_T32_S7_Tu_1 + x_T32_S7_Tu_2 + x_T32_S7_Tu_3 + x_T32_S7_Tu_4 + x_T32_S7_Tu_5 <= 2
+ max_daily_T32_S7_We: x_T32_S7_We_1 + x_T32_S7_We_2 + x_T32_S7_We_3 + x_T32_S7_We_4 + x_T32_S7_We_5 <= 2
+ max_daily_T32_S7_Th: x_T32_S7_Th_1 + x_T32_S7_Th_2 + x_T32_S7_Th_3 + x_T32_S7_Th_4 + x_T32_S7_Th_5 <= 2
+ max_daily_T32_S7_Fr: x_T32_S7_Fr_1 + x_T32_S7_Fr_2 + x_T32_S7_Fr_3 + x_T32_S7_Fr_4 + x_T32_S7_Fr_5 <= 2
+ max_daily_T32_S8_Mo: x_T32_S8_Mo_1 + x_T32_S8_Mo_2 + x_T32_S8_Mo_3 + x_T32_S8_Mo_4 + x_T32_S8_Mo_5 <= 2
+ max_daily_T32_S8_Tu: x_T32_S8_Tu_1 + x_T32_S8_Tu_2 + x_T32_S8_Tu_3 + x_T32_S8_Tu_4 + x_T32_S8_Tu_5 <= 2
+ max_daily_T32_S8_We: x_T32_S8_We_1 + x_T32_S8_We_2 + x_T32_S8_We_3 + x_T32_S8_We_4 + x_T32_S8_We_5 <= 2
+ max_daily_T32_S8_Th: x_T32_S8_Th_1 + x_T32_S8_Th_2 + x_T32_S8_Th_3 + x_T32_S8_Th_4 + x_T32_S8_Th_5 <= 2
+ max_daily_T32_S8_Fr: x_T32_S8_Fr_1 + x_T32_S8_Fr_2 + x_T32_S8_Fr_3 + x_T32_S8_Fr_4 + x_T32_S8_Fr_5 <= 2
+ max_daily_T32_S9_Mo: x_T32_S9_Mo_1 + x_T32_S9_Mo_2 + x_T32_S9_Mo_3 + x_T32_S9_Mo_4 + x_T32_S9_Mo_5 <= 2
+ max_daily_T32_S9_Tu: x_T32_S9_Tu_1 + x_T32_S9_Tu_2 + x_T32_S9_Tu_3 + x_T32_S9_Tu_4 + x_T32_S9_Tu_5 <= 2
+ max_daily_T32_S9_We: x_T32_S9_We_1 + x_T32_S9_We_2 + x_T32_S9_We_3 + x_T32_S9_We_4 + x_T32_S9_We_5 <= 2
+ max_daily_T32_S9_Th: x_T32_S9_Th_1 + x_T32_S9_Th_2 + x_T32_S9_Th_3 + x_T32_S9_Th_4 + x_T32_S9_Th_5 <= 2
+ max_daily_T32_S9_Fr: x_T32_S9_Fr_1 + x_T32_S9_Fr_2 + x_T32_S9_Fr_3 + x_T32_S9_Fr_4 + x_T32_S9_Fr_5 <= 2
+ max_daily_T32_S16_Mo: x_T32_S16_Mo_1 + x_T32_S16_Mo_2 + x_T32_S16_Mo_3 + x_T32_S16_Mo_4 + x_T32_S16_Mo_5 <= 2
+ max_daily_T32_S16_Tu: x_T32_S16_Tu_1 + x_T32_S16_Tu_2 + x_T32_S16_Tu_3 + x_T32_S16_Tu_4 + x_T32_S16_Tu_5 <= 2
+ max_daily_T32_S16_We: x_T32_S16_We_1 + x_T32_S16_We_2 + x_T32_S16_We_3 + x_T32_S16_We_4 + x_T32_S16_We_5 <= 2
+ max_daily_T32_S16_Th: x_T32_S16_Th_1 + x_T32_S16_Th_2 + x_T32_S16_Th_3 + x_T32_S16_Th_4 + x_T32_S16_Th_5 <= 2
+ max_daily_T32_S16_Fr: x_T32_S16_Fr_1 + x_T32_S16_Fr_2 + x_T32_S16_Fr_3 + x_T32_S16_Fr_4 + x_T32_S16_Fr_5 <= 2
+ max_daily_T32_S17_Mo: x_T32_S17_Mo_1 + x_T32_S17_Mo_2 + x_T32_S17_Mo_3 + x_T32_S17_Mo_4 + x_T32_S17_Mo_5 <= 2
+ max_daily_T32_S17_Tu: x_T32_S17_Tu_1 + x_T32_S17_Tu_2 + x_T32_S17_Tu_3 + x_T32_S17_Tu_4 + x_T32_S17_Tu_5 <= 2
+ max_daily_T32_S17_We: x_T32_S17_We_1 + x_T32_S17_We_2 + x_T32_S17_We_3 + x_T32_S17_We_4 + x_T32_S17_We_5 <= 2
+ max_daily_T32_S17_Th: x_T32_S17_Th_1 + x_T32_S17_Th_2 + x_T32_S17_Th_3 + x_T32_S17_Th_4 + x_T32_S17_Th_5 <= 2
+ max_daily_T32_S17_Fr: x_T32_S17_Fr_1 + x_T32_S17_Fr_2 + x_T32_S17_Fr_3 + x_T32_S17_Fr_4 + x_T32_S17_Fr_5 <= 2
+ max_daily_T32_S18_Mo: x_T32_S18_Mo_1 + x_T32_S18_Mo_2 + x_T32_S18_Mo_3 + x_T32_S18_Mo_4 + x_T32_S18_Mo_5 <= 2
+ max_daily_T32_S18_Tu: x_T32_S18_Tu_1 + x_T32_S18_Tu_2 + x_T32_S18_Tu_3 + x_T32_S18_Tu_4 + x_T32_S18_Tu_5 <= 2
+ max_daily_T32_S18_We: x_T32_S18_We_1 + x_T32_S18_We_2 + x_T32_S18_We_3 + x_T32_S18_We_4 + x_T32_S18_We_5 <= 2
+ max_daily_T32_S18_Th: x_T32_S18_Th_1 + x_T32_S18_Th_2 + x_T32_S18_Th_3 + x_T32_S18_Th_4 + x_T32_S18_Th_5 <= 2
+ max_daily_T32_S18_Fr: x_T32_S18_Fr_1 + x_T32_S18_Fr_2 + x_T32_S18_Fr_3 + x_T32_S18_Fr_4 + x_T32_S18_Fr_5 <= 2
+ max_daily_T32_S19_Mo: x_T32_S19_Mo_1 + x_T32_S19_Mo_2 + x_T32_S19_Mo_3 + x_T32_S19_Mo_4 + x_T32_S19_Mo_5 <= 2
+ max_daily_T32_S19_Tu: x_T32_S19_Tu_1 + x_T32_S19_Tu_2 + x_T32_S19_Tu_3 + x_T32_S19_Tu_4 + x_T32_S19_Tu_5 <= 2
+ max_daily_T32_S19_We: x_T32_S19_We_1 + x_T32_S19_We_2 + x_T32_S19_We_3 + x_T32_S19_We_4 + x_T32_S19_We_5 <= 2
+ max_daily_T32_S19_Th: x_T32_S19_Th_1 + x_T32_S19_Th_2 + x_T32_S19_Th_3 + x_T32_S19_Th_4 + x_T32_S19_Th_5 <= 2
+ max_daily_T32_S19_Fr: x_T32_S19_Fr_1 + x_T32_S19_Fr_2 + x_T32_S19_Fr_3 + x_T32_S19_Fr_4 + x_T32_S19_Fr_5 <= 2
+ max_daily_T32_S20_Mo: x_T32_S20_Mo_1 + x_T32_S20_Mo_2 + x_T32_S20_Mo_3 + x_T32_S20_Mo_4 + x_T32_S20_Mo_5 <= 2
+ max_daily_T32_S20_Tu: x_T32_S20_Tu_1 + x_T32_S20_Tu_2 + x_T32_S20_Tu_3 + x_T32_S20_Tu_4 + x_T32_S20_Tu_5 <= 2
+ max_daily_T32_S20_We: x_T32_S20_We_1 + x_T32_S20_We_2 + x_T32_S20_We_3 + x_T32_S20_We_4 + x_T32_S20_We_5 <= 2
+ max_daily_T32_S20_Th: x_T32_S20_Th_1 + x_T32_S20_Th_2 + x_T32_S20_Th_3 + x_T32_S20_Th_4 + x_T32_S20_Th_5 <= 2
+ max_daily_T32_S20_Fr: x_T32_S20_Fr_1 + x_T32_S20_Fr_2 + x_T32_S20_Fr_3 + x_T32_S20_Fr_4 + x_T32_S20_Fr_5 <= 2
+ max_daily_T33_S16_Mo: x_T33_S16_Mo_1 + x_T33_S16_Mo_2 + x_T33_S16_Mo_3 + x_T33_S16_Mo_4 + x_T33_S16_Mo_5 <= 2
+ max_daily_T33_S16_Tu: x_T33_S16_Tu_1 + x_T33_S16_Tu_2 + x_T33_S16_Tu_3 + x_T33_S16_Tu_4 + x_T33_S16_Tu_5 <= 2
+ max_daily_T33_S16_We: x_T33_S16_We_1 + x_T33_S16_We_2 + x_T33_S16_We_3 + x_T33_S16_We_4 + x_T33_S16_We_5 <= 2
+ max_daily_T33_S16_Th: x_T33_S16_Th_1 + x_T33_S16_Th_2 + x_T33_S16_Th_3 + x_T33_S16_Th_4 + x_T33_S16_Th_5 <= 2
+ max_daily_T33_S16_Fr: x_T33_S16_Fr_1 + x_T33_S16_Fr_2 + x_T33_S16_Fr_3 + x_T33_S16_Fr_4 + x_T33_S16_Fr_5 <= 2
+ max_daily_T33_S17_Mo: x_T33_S17_Mo_1 + x_T33_S17_Mo_2 + x_T33_S17_Mo_3 + x_T33_S17_Mo_4 + x_T33_S17_Mo_5 <= 2
+ max_daily_T33_S17_Tu: x_T33_S17_Tu_1 + x_T33_S17_Tu_2 + x_T33_S17_Tu_3 + x_T33_S17_Tu_4 + x_T33_S17_Tu_5 <= 2
+ max_daily_T33_S17_We: x_T33_S17_We_1 + x_T33_S17_We_2 + x_T33_S17_We_3 + x_T33_S17_We_4 + x_T33_S17_We_5 <= 2
+ max_daily_T33_S17_Th: x_T33_S17_Th_1 + x_T33_S17_Th_2 + x_T33_S17_Th_3 + x_T33_S17_Th_4 + x_T33_S17_Th_5 <= 2
+ max_daily_T33_S17_Fr: x_T33_S17_Fr_1 + x_T33_S17_Fr_2 + x_T33_S17_Fr_3 + x_T33_S17_Fr_4 + x_T33_S17_Fr_5 <= 2
+ max_daily_T33_S18_Mo: x_T33_S18_Mo_1 + x_T33_S18_Mo_2 + x_T33_S18_Mo_3 + x_T33_S18_Mo_4 + x_T33_S18_Mo_5 <= 2
+ max_daily_T33_S18_Tu: x_T33_S18_Tu_1 + x_T33_S18_Tu_2 + x_T33_S18_Tu_3 + x_T33_S18_Tu_4 + x_T33_S18_Tu_5 <= 2
+ max_daily_T33_S18_We: x_T33_S18_We_1 + x_T33_S18_We_2 + x_T33_S18_We_3 + x_T33_S18_We_4 + x_T33_S18_We_5 <= 2
+ max_daily_T33_S18_Th: x_T33_S18_Th_1 + x_T33_S18_Th_2 + x_T33_S18_Th_3 + x_T33_S18_Th_4 + x_T33_S18_Th_5 <= 2
+ max_daily_T33_S18_Fr: x_T33_S18_Fr_1 + x_T33_S18_Fr_2 + x_T33_S18_Fr_3 + x_T33_S18_Fr_4 + x_T33_S18_Fr_5 <= 2
+ max_daily_T33_S19_Mo: x_T33_S19_Mo_1 + x_T33_S19_Mo_2 + x_T33_S19_Mo_3 + x_T33_S19_Mo_4 + x_T33_S19_Mo_5 <= 2
+ max_daily_T33_S19_Tu: x_T33_S19_Tu_1 + x_T33_S19_Tu_2 + x_T33_S19_Tu_3 + x_T33_S19_Tu_4 + x_T33_S19_Tu_5 <= 2
+ max_daily_T33_S19_We: x_T33_S19_We_1 + x_T33_S19_We_2 + x_T33_S19_We_3 + x_T33_S19_We_4 + x_T33_S19_We_5 <= 2
+ max_daily_T33_S19_Th: x_T33_S19_Th_1 + x_T33_S19_Th_2 + x_T33_S19_Th_3 + x_T33_S19_Th_4 + x_T33_S19_Th_5 <= 2
+ max_daily_T33_S19_Fr: x_T33_S19_Fr_1 + x_T33_S19_Fr_2 + x_T33_S19_Fr_3 + x_T33_S19_Fr_4 + x_T33_S19_Fr_5 <= 2
+ max_daily_T33_S20_Mo: x_T33_S20_Mo_1 + x_T33_S20_Mo_2 + x_T33_S20_Mo_3 + x_T33_S20_Mo_4 + x_T33_S20_Mo_5 <= 2
+ max_daily_T33_S20_Tu: x_T33_S20_Tu_1 + x_T33_S20_Tu_2 + x_T33_S20_Tu_3 + x_T33_S20_Tu_4 + x_T33_S20_Tu_5 <= 2
+ max_daily_T33_S20_We: x_T33_S20_We_1 + x_T33_S20_We_2 + x_T33_S20_We_3 + x_T33_S20_We_4 + x_T33_S20_We_5 <= 2
+ max_daily_T33_S20_Th: x_T33_S20_Th_1 + x_T33_S20_Th_2 + x_T33_S20_Th_3 + x_T33_S20_Th_4 + x_T33_S20_Th_5 <= 2
+ max_daily_T33_S20_Fr: x_T33_S20_Fr_1 + x_T33_S20_Fr_2 + x_T33_S20_Fr_3 + x_T33_S20_Fr_4 + x_T33_S20_Fr_5 <= 2
+ first_period_S11_Mo_1: x_T2_S11_Mo_1 + x_T7_S11_Mo_1 + x_T8_S11_Mo_1 + x_T12_S11_Mo_1 + x_T15_S11_Mo_1 + x_T18_S11_Mo_1 + x_T21_S11_Mo_1 + x_T23_S11_Mo_1 + x_T27_S11_Mo_1 + x_T30_S11_Mo_1 <= 1
+ first_period_S11_Tu_1: x_T2_S11_Tu_1 + x_T7_S11_Tu_1 + x_T8_S11_Tu_1 + x_T12_S11_Tu_1 + x_T15_S11_Tu_1 + x_T18_S11_Tu_1 + x_T21_S11_Tu_1 + x_T23_S11_Tu_1 + x_T27_S11_Tu_1 + x_T30_S11_Tu_1 <= 1
+ first_period_S11_We_1: x_T2_S11_We_1 + x_T7_S11_We_1 + x_T8_S11_We_1 + x_T12_S11_We_1 + x_T15_S11_We_1 + x_T18_S11_We_1 + x_T21_S11_We_1 + x_T23_S11_We_1 + x_T27_S11_We_1 + x_T30_S11_We_1 <= 1
+ first_period_S11_Th_1: x_T2_S11_Th_1 + x_T7_S11_Th_1 + x_T8_S11_Th_1 + x_T12_S11_Th_1 + x_T15_S11_Th_1 + x_T18_S11_Th_1 + x_T21_S11_Th_1 + x_T23_S11_Th_1 + x_T27_S11_Th_1 + x_T30_S11_Th_1 <= 1
+ first_period_S11_Fr_1: x_T2_S11_Fr_1 + x_T7_S11_Fr_1 + x_T8_S11_Fr_1 + x_T12_S11_Fr_1 + x_T15_S11_Fr_1 + x_T18_S11_Fr_1 + x_T21_S11_Fr_1 + x_T23_S11_Fr_1 + x_T27_S11_Fr_1 + x_T30_S11_Fr_1 <= 1
+ first_period_S13_Mo_1: x_T3_S13_Mo_1 + x_T7_S13_Mo_1 + x_T8_S13_Mo_1 + x_T12_S13_Mo_1 + x_T14_S13_Mo_1 + x_T17_S13_Mo_1 + x_T21_S13_Mo_1 + x_T24_S13_Mo_1 + x_T26_S13_Mo_1 + x_T29_S13_Mo_1 <= 1
+ first_period_S13_Tu_1: x_T3_S13_Tu_1 + x_T7_S13_Tu_1 + x_T8_S13_Tu_1 + x_T12_S13_Tu_1 + x_T14_S13_Tu_1 + x_T17_S13_Tu_1 + x_T21_S13_Tu_1 + x_T24_S13_Tu_1 + x_T26_S13_Tu_1 + x_T29_S13_Tu_1 <= 1
+ first_period_S13_We_1: x_T3_S13_We_1 + x_T7_S13_We_1 + x_T8_S13_We_1 + x_T12_S13_We_1 + x_T14_S13_We_1 + x_T17_S13_We_1 + x_T21_S13_We_1 + x_T24_S13_We_1 + x_T26_S13_We_1 + x_T29_S13_We_1 <= 1
+ first_period_S13_Th_1: x_T3_S13_Th_1 + x_T7_S13_Th_1 + x_T8_S13_Th_1 + x_T12_S13_Th_1 + x_T14_S13_Th_1 + x_T17_S13_Th_1 + x_T21_S13_Th_1 + x_T24_S13_Th_1 + x_T26_S13_Th_1 + x_T29_S13_Th_1 <= 1
+ first_period_S13_Fr_1: x_T3_S13_Fr_1 + x_T7_S13_Fr_1 + x_T8_S13_Fr_1 + x_T12_S13_Fr_1 + x_T14_S13_Fr_1 + x_T17_S13_Fr_1 + x_T21_S13_Fr_1 + x_T24_S13_Fr_1 + x_T26_S13_Fr_1 + x_T29_S13_Fr_1 <= 1
+ first_period_S2_Mo_1: x_T1_S2_Mo_1 + x_T5_S2_Mo_1 + x_T10_S2_Mo_1 + x_T14_S2_Mo_1 + x_T17_S2_Mo_1 + x_T20_S2_Mo_1 + x_T23_S2_Mo_1 + x_T27_S2_Mo_1 + x_T30_S2_Mo_1 + x_T32_S2_Mo_1 <= 1
+ first_period_S2_Tu_1: x_T1_S2_Tu_1 + x_T5_S2_Tu_1 + x_T10_S2_Tu_1 + x_T14_S2_Tu_1 + x_T17_S2_Tu_1 + x_T20_S2_Tu_1 + x_T23_S2_Tu_1 + x_T27_S2_Tu_1 + x_T30_S2_Tu_1 + x_T32_S2_Tu_1 <= 1
+ first_period_S2_We_1: x_T1_S2_We_1 + x_T5_S2_We_1 + x_T10_S2_We_1 + x_T14_S2_We_1 + x_T17_S2_We_1 + x_T20_S2_We_1 + x_T23_S2_We_1 + x_T27_S2_We_1 + x_T30_S2_We_1 + x_T32_S2_We_1 <= 1
+ first_period_S2_Th_1: x_T1_S2_Th_1 + x_T5_S2_Th_1 + x_T10_S2_Th_1 + x_T14_S2_Th_1 + x_T17_S2_Th_1 + x_T20_S2_Th_1 + x_T23_S2_Th_1 + x_T27_S2_Th_1 + x_T30_S2_Th_1 + x_T32_S2_Th_1 <= 1
+ first_period_S2_Fr_1: x_T1_S2_Fr_1 + x_T5_S2_Fr_1 + x_T10_S2_Fr_1 + x_T14_S2_Fr_1 + x_T17_S2_Fr_1 + x_T20_S2_Fr_1 + x_T23_S2_Fr_1 + x_T27_S2_Fr_1 + x_T30_S2_Fr_1 + x_T32_S2_Fr_1 <= 1
+ first_period_S3_Mo_1: x_T1_S3_Mo_1 + x_T5_S3_Mo_1 + x_T10_S3_Mo_1 + x_T14_S3_Mo_1 + x_T17_S3_Mo_1 + x_T20_S3_Mo_1 + x_T23_S3_Mo_1 + x_T28_S3_Mo_1 + x_T31_S3_Mo_1 + x_T32_S3_Mo_1 <= 1
+ first_period_S3_Tu_1: x_T1_S3_Tu_1 + x_T5_S3_Tu_1 + x_T10_S3_Tu_1 + x_T14_S3_Tu_1 + x_T17_S3_Tu_1 + x_T20_S3_Tu_1 + x_T23_S3_Tu_1 + x_T28_S3_Tu_1 + x_T31_S3_Tu_1 + x_T32_S3_Tu_1 <= 1
+ first_period_S3_We_1: x_T1_S3_We_1 + x_T5_S3_We_1 + x_T10_S3_We_1 + x_T14_S3_We_1 + x_T17_S3_We_1 + x_T20_S3_We_1 + x_T23_S3_We_1 + x_T28_S3_We_1 + x_T31_S3_We_1 + x_T32_S3_We_1 <= 1
+ first_period_S3_Th_1: x_T1_S3_Th_1 + x_T5_S3_Th_1 + x_T10_S3_Th_1 + x_T14_S3_Th_1 + x_T17_S3_Th_1 + x_T20_S3_Th_1 + x_T23_S3_Th_1 + x_T28_S3_Th_1 + x_T31_S3_Th_1 + x_T32_S3_Th_1 <= 1
+ first_period_S3_Fr_1: x_T1_S3_Fr_1 + x_T5_S3_Fr_1 + x_T10_S3_Fr_1 + x_T14_S3_Fr_1 + x_T17_S3_Fr_1 + x_T20_S3_Fr_1 + x_T23_S3_Fr_1 + x_T28_S3_Fr_1 + x_T31_S3_Fr_1 + x_T32_S3_Fr_1 <= 1
+ first_period_S17_Mo_1: x_T1_S17_Mo_1 + x_T9_S17_Mo_1 + x_T13_S17_Mo_1 + x_T14_S17_Mo_1 + x_T17_S17_Mo_1 + x_T22_S17_Mo_1 + x_T25_S17_Mo_1 + x_T27_S17_Mo_1 + x_T30_S17_Mo_1 + x_T32_S17_Mo_1 + x_T33_S17_Mo_1 <= 1
+ first_period_S17_Tu_1: x_T1_S17_Tu_1 + x_T9_S17_Tu_1 + x_T13_S17_Tu_1 + x_T14_S17_Tu_1 + x_T17_S17_Tu_1 + x_T22_S17_Tu_1 + x_T25_S17_Tu_1 + x_T27_S17_Tu_1 + x_T30_S17_Tu_1 + x_T32_S17_Tu_1 + x_T33_S17_Tu_1 <= 1
+ first_period_S17_We_1: x_T1_S17_We_1 + x_T9_S17_We_1 + x_T13_S17_We_1 + x_T14_S17_We_1 + x_T17_S17_We_1 + x_T22_S17_We_1 + x_T25_S17_We_1 + x_T27_S17_We_1 + x_T30_S17_We_1 + x_T32_S17_We_1 + x_T33_S17_We_1 <= 1
+ first_period_S17_Th_1: x_T1_S17_Th_1 + x_T9_S17_Th_1 + x_T13_S17_Th_1 + x_T14_S17_Th_1 + x_T17_S17_Th_1 + x_T22_S17_Th_1 + x_T25_S17_Th_1 + x_T27_S17_Th_1 + x_T30_S17_Th_1 + x_T32_S17_Th_1 + x_T33_S17_Th_1 <= 1
+ first_period_S17_Fr_1: x_T1_S17_Fr_1 + x_T9_S17_Fr_1 + x_T13_S17_Fr_1 + x_T14_S17_Fr_1 + x_T17_S17_Fr_1 + x_T22_S17_Fr_1 + x_T25_S17_Fr_1 + x_T27_S17_Fr_1 + x_T30_S17_Fr_1 + x_T32_S17_Fr_1 + x_T33_S17_Fr_1 <= 1
+ first_period_S8_Mo_1: x_T2_S8_Mo_1 + x_T6_S8_Mo_1 + x_T11_S8_Mo_1 + x_T16_S8_Mo_1 + x_T19_S8_Mo_1 + x_T21_S8_Mo_1 + x_T25_S8_Mo_1 + x_T27_S8_Mo_1 + x_T30_S8_Mo_1 + x_T32_S8_Mo_1 <= 1
+ first_period_S8_Tu_1: x_T2_S8_Tu_1 + x_T6_S8_Tu_1 + x_T11_S8_Tu_1 + x_T16_S8_Tu_1 + x_T19_S8_Tu_1 + x_T21_S8_Tu_1 + x_T25_S8_Tu_1 + x_T27_S8_Tu_1 + x_T30_S8_Tu_1 + x_T32_S8_Tu_1 <= 1
+ first_period_S8_We_1: x_T2_S8_We_1 + x_T6_S8_We_1 + x_T11_S8_We_1 + x_T16_S8_We_1 + x_T19_S8_We_1 + x_T21_S8_We_1 + x_T25_S8_We_1 + x_T27_S8_We_1 + x_T30_S8_We_1 + x_T32_S8_We_1 <= 1
+ first_period_S8_Th_1: x_T2_S8_Th_1 + x_T6_S8_Th_1 + x_T11_S8_Th_1 + x_T16_S8_Th_1 + x_T19_S8_Th_1 + x_T21_S8_Th_1 + x_T25_S8_Th_1 + x_T27_S8_Th_1 + x_T30_S8_Th_1 + x_T32_S8_Th_1 <= 1
+ first_period_S8_Fr_1: x_T2_S8_Fr_1 + x_T6_S8_Fr_1 + x_T11_S8_Fr_1 + x_T16_S8_Fr_1 + x_T19_S8_Fr_1 + x_T21_S8_Fr_1 + x_T25_S8_Fr_1 + x_T27_S8_Fr_1 + x_T30_S8_Fr_1 + x_T32_S8_Fr_1 <= 1
+ first_period_S14_Mo_1: x_T3_S14_Mo_1 + x_T5_S14_Mo_1 + x_T8_S14_Mo_1 + x_T12_S14_Mo_1 + x_T15_S14_Mo_1 + x_T18_S14_Mo_1 + x_T21_S14_Mo_1 + x_T24_S14_Mo_1 + x_T27_S14_Mo_1 + x_T30_S14_Mo_1 <= 1
+ first_period_S14_Tu_1: x_T3_S14_Tu_1 + x_T5_S14_Tu_1 + x_T8_S14_Tu_1 + x_T12_S14_Tu_1 + x_T15_S14_Tu_1 + x_T18_S14_Tu_1 + x_T21_S14_Tu_1 + x_T24_S14_Tu_1 + x_T27_S14_Tu_1 + x_T30_S14_Tu_1 <= 1
+ first_period_S14_We_1: x_T3_S14_We_1 + x_T5_S14_We_1 + x_T8_S14_We_1 + x_T12_S14_We_1 + x_T15_S14_We_1 + x_T18_S14_We_1 + x_T21_S14_We_1 + x_T24_S14_We_1 + x_T27_S14_We_1 + x_T30_S14_We_1 <= 1
+ first_period_S14_Th_1: x_T3_S14_Th_1 + x_T5_S14_Th_1 + x_T8_S14_Th_1 + x_T12_S14_Th_1 + x_T15_S14_Th_1 + x_T18_S14_Th_1 + x_T21_S14_Th_1 + x_T24_S14_Th_1 + x_T27_S14_Th_1 + x_T30_S14_Th_1 <= 1
+ first_period_S14_Fr_1: x_T3_S14_Fr_1 + x_T5_S14_Fr_1 + x_T8_S14_Fr_1 + x_T12_S14_Fr_1 + x_T15_S14_Fr_1 + x_T18_S14_Fr_1 + x_T21_S14_Fr_1 + x_T24_S14_Fr_1 + x_T27_S14_Fr_1 + x_T30_S14_Fr_1 <= 1
+ first_period_S7_Mo_1: x_T2_S7_Mo_1 + x_T6_S7_Mo_1 + x_T11_S7_Mo_1 + x_T16_S7_Mo_1 + x_T19_S7_Mo_1 + x_T20_S7_Mo_1 + x_T25_S7_Mo_1 + x_T26_S7_Mo_1 + x_T29_S7_Mo_1 + x_T32_S7_Mo_1 <= 1
+ first_period_S7_Tu_1: x_T2_S7_Tu_1 + x_T6_S7_Tu_1 + x_T11_S7_Tu_1 + x_T16_S7_Tu_1 + x_T19_S7_Tu_1 + x_T20_S7_Tu_1 + x_T25_S7_Tu_1 + x_T26_S7_Tu_1 + x_T29_S7_Tu_1 + x_T32_S7_Tu_1 <= 1
+ first_period_S7_We_1: x_T2_S7_We_1 + x_T6_S7_We_1 + x_T11_S7_We_1 + x_T16_S7_We_1 + x_T19_S7_We_1 + x_T20_S7_We_1 + x_T25_S7_We_1 + x_T26_S7_We_1 + x_T29_S7_We_1 + x_T32_S7_We_1 <= 1
+ first_period_S7_Th_1: x_T2_S7_Th_1 + x_T6_S7_Th_1 + x_T11_S7_Th_1 + x_T16_S7_Th_1 + x_T19_S7_Th_1 + x_T20_S7_Th_1 + x_T25_S7_Th_1 + x_T26_S7_Th_1 + x_T29_S7_Th_1 + x_T32_S7_Th_1 <= 1
+ first_period_S7_Fr_1: x_T2_S7_Fr_1 + x_T6_S7_Fr_1 + x_T11_S7_Fr_1 + x_T16_S7_Fr_1 + x_T19_S7_Fr_1 + x_T20_S7_Fr_1 + x_T25_S7_Fr_1 + x_T26_S7_Fr_1 + x_T29_S7_Fr_1 + x_T32_S7_Fr_1 <= 1
+ first_period_S16_Mo_1: x_T1_S16_Mo_1 + x_T8_S16_Mo_1 + x_T13_S16_Mo_1 + x_T14_S16_Mo_1 + x_T17_S16_Mo_1 + x_T22_S16_Mo_1 + x_T25_S16_Mo_1 + x_T26_S16_Mo_1 + x_T29_S16_Mo_1 + x_T32_S16_Mo_1 + x_T33_S16_Mo_1 <= 1
+ first_period_S16_Tu_1: x_T1_S16_Tu_1 + x_T8_S16_Tu_1 + x_T13_S16_Tu_1 + x_T14_S16_Tu_1 + x_T17_S16_Tu_1 + x_T22_S16_Tu_1 + x_T25_S16_Tu_1 + x_T26_S16_Tu_1 + x_T29_S16_Tu_1 + x_T32_S16_Tu_1 + x_T33_S16_Tu_1 <= 1
+ first_period_S16_We_1: x_T1_S16_We_1 + x_T8_S16_We_1 + x_T13_S16_We_1 + x_T14_S16_We_1 + x_T17_S16_We_1 + x_T22_S16_We_1 + x_T25_S16_We_1 + x_T26_S16_We_1 + x_T29_S16_We_1 + x_T32_S16_We_1 + x_T33_S16_We_1 <= 1
+ first_period_S16_Th_1: x_T1_S16_Th_1 + x_T8_S16_Th_1 + x_T13_S16_Th_1 + x_T14_S16_Th_1 + x_T17_S16_Th_1 + x_T22_S16_Th_1 + x_T25_S16_Th_1 + x_T26_S16_Th_1 + x_T29_S16_Th_1 + x_T32_S16_Th_1 + x_T33_S16_Th_1 <= 1
+ first_period_S16_Fr_1: x_T1_S16_Fr_1 + x_T8_S16_Fr_1 + x_T13_S16_Fr_1 + x_T14_S16_Fr_1 + x_T17_S16_Fr_1 + x_T22_S16_Fr_1 + x_T25_S16_Fr_1 + x_T26_S16_Fr_1 + x_T29_S16_Fr_1 + x_T32_S16_Fr_1 + x_T33_S16_Fr_1 <= 1
+ first_period_S1_Mo_1: x_T1_S1_Mo_1 + x_T5_S1_Mo_1 + x_T10_S1_Mo_1 + x_T14_S1_Mo_1 + x_T17_S1_Mo_1 + x_T20_S1_Mo_1 + x_T23_S1_Mo_1 + x_T26_S1_Mo_1 + x_T29_S1_Mo_1 + x_T32_S1_Mo_1 <= 1
+ first_period_S1_Tu_1: x_T1_S1_Tu_1 + x_T5_S1_Tu_1 + x_T10_S1_Tu_1 + x_T14_S1_Tu_1 + x_T17_S1_Tu_1 + x_T20_S1_Tu_1 + x_T23_S1_Tu_1 + x_T26_S1_Tu_1 + x_T29_S1_Tu_1 + x_T32_S1_Tu_1 <= 1
+ first_period_S1_We_1: x_T1_S1_We_1 + x_T5_S1_We_1 + x_T10_S1_We_1 + x_T14_S1_We_1 + x_T17_S1_We_1 + x_T20_S1_We_1 + x_T23_S1_We_1 + x_T26_S1_We_1 + x_T29_S1_We_1 + x_T32_S1_We_1 <= 1
+ first_period_S1_Th_1: x_T1_S1_Th_1 + x_T5_S1_Th_1 + x_T10_S1_Th_1 + x_T14_S1_Th_1 + x_T17_S1_Th_1 + x_T20_S1_Th_1 + x_T23_S1_Th_1 + x_T26_S1_Th_1 + x_T29_S1_Th_1 + x_T32_S1_Th_1 <= 1
+ first_period_S1_Fr_1: x_T1_S1_Fr_1 + x_T5_S1_Fr_1 + x_T10_S1_Fr_1 + x_T14_S1_Fr_1 + x_T17_S1_Fr_1 + x_T20_S1_Fr_1 + x_T23_S1_Fr_1 + x_T26_S1_Fr_1 + x_T29_S1_Fr_1 + x_T32_S1_Fr_1 <= 1
+ first_period_S18_Mo_1: x_T4_S18_Mo_1 + x_T9_S18_Mo_1 + x_T13_S18_Mo_1 + x_T15_S18_Mo_1 + x_T18_S18_Mo_1 + x_T22_S18_Mo_1 + x_T25_S18_Mo_1 + x_T28_S18_Mo_1 + x_T31_S18_Mo_1 + x_T32_S18_Mo_1 + x_T33_S18_Mo_1 <= 1
+ first_period_S18_Tu_1: x_T4_S18_Tu_1 + x_T9_S18_Tu_1 + x_T13_S18_Tu_1 + x_T15_S18_Tu_1 + x_T18_S18_Tu_1 + x_T22_S18_Tu_1 + x_T25_S18_Tu_1 + x_T28_S18_Tu_1 + x_T31_S18_Tu_1 + x_T32_S18_Tu_1 + x_T33_S18_Tu_1 <= 1
+ first_period_S18_We_1: x_T4_S18_We_1 + x_T9_S18_We_1 + x_T13_S18_We_1 + x_T15_S18_We_1 + x_T18_S18_We_1 + x_T22_S18_We_1 + x_T25_S18_We_1 + x_T28_S18_We_1 + x_T31_S18_We_1 + x_T32_S18_We_1 + x_T33_S18_We_1 <= 1
+ first_period_S18_Th_1: x_T4_S18_Th_1 + x_T9_S18_Th_1 + x_T13_S18_Th_1 + x_T15_S18_Th_1 + x_T18_S18_Th_1 + x_T22_S18_Th_1 + x_T25_S18_Th_1 + x_T28_S18_Th_1 + x_T31_S18_Th_1 + x_T32_S18_Th_1 + x_T33_S18_Th_1 <= 1
+ first_period_S18_Fr_1: x_T4_S18_Fr_1 + x_T9_S18_Fr_1 + x_T13_S18_Fr_1 + x_T15_S18_Fr_1 + x_T18_S18_Fr_1 + x_T22_S18_Fr_1 + x_T25_S18_Fr_1 + x_T28_S18_Fr_1 + x_T31_S18_Fr_1 + x_T32_S18_Fr_1 + x_T33_S18_Fr_1 <= 1
+ first_period_S20_Mo_1: x_T4_S20_Mo_1 + x_T9_S20_Mo_1 + x_T13_S20_Mo_1 + x_T16_S20_Mo_1 + x_T19_S20_Mo_1 + x_T22_S20_Mo_1 + x_T24_S20_Mo_1 + x_T27_S20_Mo_1 + x_T31_S20_Mo_1 + x_T32_S20_Mo_1 + x_T33_S20_Mo_1 <= 1
+ first_period_S20_Tu_1: x_T4_S20_Tu_1 + x_T9_S20_Tu_1 + x_T13_S20_Tu_1 + x_T16_S20_Tu_1 + x_T19_S20_Tu_1 + x_T22_S20_Tu_1 + x_T24_S20_Tu_1 + x_T27_S20_Tu_1 + x_T31_S20_Tu_1 + x_T32_S20_Tu_1 + x_T33_S20_Tu_1 <= 1
+ first_period_S20_We_1: x_T4_S20_We_1 + x_T9_S20_We_1 + x_T13_S20_We_1 + x_T16_S20_We_1 + x_T19_S20_We_1 + x_T22_S20_We_1 + x_T24_S20_We_1 + x_T27_S20_We_1 + x_T31_S20_We_1 + x_T32_S20_We_1 + x_T33_S20_We_1 <= 1
+ first_period_S20_Th_1: x_T4_S20_Th_1 + x_T9_S20_Th_1 + x_T13_S20_Th_1 + x_T16_S20_Th_1 + x_T19_S20_Th_1 + x_T22_S20_Th_1 + x_T24_S20_Th_1 + x_T27_S20_Th_1 + x_T31_S20_Th_1 + x_T32_S20_Th_1 + x_T33_S20_Th_1 <= 1
+ first_period_S20_Fr_1: x_T4_S20_Fr_1 + x_T9_S20_Fr_1 + x_T13_S20_Fr_1 + x_T16_S20_Fr_1 + x_T19_S20_Fr_1 + x_T22_S20_Fr_1 + x_T24_S20_Fr_1 + x_T27_S20_Fr_1 + x_T31_S20_Fr_1 + x_T32_S20_Fr_1 + x_T33_S20_Fr_1 <= 1
+ first_period_S5_Mo_1: x_T4_S5_Mo_1 + x_T6_S5_Mo_1 + x_T10_S5_Mo_1 + x_T15_S5_Mo_1 + x_T18_S5_Mo_1 + x_T20_S5_Mo_1 + x_T24_S5_Mo_1 + x_T27_S5_Mo_1 + x_T30_S5_Mo_1 + x_T32_S5_Mo_1 <= 1
+ first_period_S5_Tu_1: x_T4_S5_Tu_1 + x_T6_S5_Tu_1 + x_T10_S5_Tu_1 + x_T15_S5_Tu_1 + x_T18_S5_Tu_1 + x_T20_S5_Tu_1 + x_T24_S5_Tu_1 + x_T27_S5_Tu_1 + x_T30_S5_Tu_1 + x_T32_S5_Tu_1 <= 1
+ first_period_S5_We_1: x_T4_S5_We_1 + x_T6_S5_We_1 + x_T10_S5_We_1 + x_T15_S5_We_1 + x_T18_S5_We_1 + x_T20_S5_We_1 + x_T24_S5_We_1 + x_T27_S5_We_1 + x_T30_S5_We_1 + x_T32_S5_We_1 <= 1
+ first_period_S5_Th_1: x_T4_S5_Th_1 + x_T6_S5_Th_1 + x_T10_S5_Th_1 + x_T15_S5_Th_1 + x_T18_S5_Th_1 + x_T20_S5_Th_1 + x_T24_S5_Th_1 + x_T27_S5_Th_1 + x_T30_S5_Th_1 + x_T32_S5_Th_1 <= 1
+ first_period_S5_Fr_1: x_T4_S5_Fr_1 + x_T6_S5_Fr_1 + x_T10_S5_Fr_1 + x_T15_S5_Fr_1 + x_T18_S5_Fr_1 + x_T20_S5_Fr_1 + x_T24_S5_Fr_1 + x_T27_S5_Fr_1 + x_T30_S5_Fr_1 + x_T32_S5_Fr_1 <= 1
+ first_period_S10_Mo_1: x_T2_S10_Mo_1 + x_T6_S10_Mo_1 + x_T7_S10_Mo_1 + x_T11_S10_Mo_1 + x_T14_S10_Mo_1 + x_T17_S10_Mo_1 + x_T21_S10_Mo_1 + x_T23_S10_Mo_1 + x_T26_S10_Mo_1 + x_T29_S10_Mo_1 <= 1
+ first_period_S10_Tu_1: x_T2_S10_Tu_1 + x_T6_S10_Tu_1 + x_T7_S10_Tu_1 + x_T11_S10_Tu_1 + x_T14_S10_Tu_1 + x_T17_S10_Tu_1 + x_T21_S10_Tu_1 + x_T23_S10_Tu_1 + x_T26_S10_Tu_1 + x_T29_S10_Tu_1 <= 1
+ first_period_S10_We_1: x_T2_S10_We_1 + x_T6_S10_We_1 + x_T7_S10_We_1 + x_T11_S10_We_1 + x_T14_S10_We_1 + x_T17_S10_We_1 + x_T21_S10_We_1 + x_T23_S10_We_1 + x_T26_S10_We_1 + x_T29_S10_We_1 <= 1
+ first_period_S10_Th_1: x_T2_S10_Th_1 + x_T6_S10_Th_1 + x_T7_S10_Th_1 + x_T11_S10_Th_1 + x_T14_S10_Th_1 + x_T17_S10_Th_1 + x_T21_S10_Th_1 + x_T23_S10_Th_1 + x_T26_S10_Th_1 + x_T29_S10_Th_1 <= 1
+ first_period_S10_Fr_1: x_T2_S10_Fr_1 + x_T6_S10_Fr_1 + x_T7_S10_Fr_1 + x_T11_S10_Fr_1 + x_T14_S10_Fr_1 + x_T17_S10_Fr_1 + x_T21_S10_Fr_1 + x_T23_S10_Fr_1 + x_T26_S10_Fr_1 + x_T29_S10_Fr_1 <= 1
+ first_period_S6_Mo_1: x_T4_S6_Mo_1 + x_T6_S6_Mo_1 + x_T11_S6_Mo_1 + x_T15_S6_Mo_1 + x_T18_S6_Mo_1 + x_T20_S6_Mo_1 + x_T24_S6_Mo_1 + x_T28_S6_Mo_1 + x_T31_S6_Mo_1 + x_T32_S6_Mo_1 <= 1
+ first_period_S6_Tu_1: x_T4_S6_Tu_1 + x_T6_S6_Tu_1 + x_T11_S6_Tu_1 + x_T15_S6_Tu_1 + x_T18_S6_Tu_1 + x_T20_S6_Tu_1 + x_T24_S6_Tu_1 + x_T28_S6_Tu_1 + x_T31_S6_Tu_1 + x_T32_S6_Tu_1 <= 1
+ first_period_S6_We_1: x_T4_S6_We_1 + x_T6_S6_We_1 + x_T11_S6_We_1 + x_T15_S6_We_1 + x_T18_S6_We_1 + x_T20_S6_We_1 + x_T24_S6_We_1 + x_T28_S6_We_1 + x_T31_S6_We_1 + x_T32_S6_We_1 <= 1
+ first_period_S6_Th_1: x_T4_S6_Th_1 + x_T6_S6_Th_1 + x_T11_S6_Th_1 + x_T15_S6_Th_1 + x_T18_S6_Th_1 + x_T20_S6_Th_1 + x_T24_S6_Th_1 + x_T28_S6_Th_1 + x_T31_S6_Th_1 + x_T32_S6_Th_1 <= 1
+ first_period_S6_Fr_1: x_T4_S6_Fr_1 + x_T6_S6_Fr_1 + x_T11_S6_Fr_1 + x_T15_S6_Fr_1 + x_T18_S6_Fr_1 + x_T20_S6_Fr_1 + x_T24_S6_Fr_1 + x_T28_S6_Fr_1 + x_T31_S6_Fr_1 + x_T32_S6_Fr_1 <= 1
+ first_period_S12_Mo_1: x_T3_S12_Mo_1 + x_T6_S12_Mo_1 + x_T7_S12_Mo_1 + x_T12_S12_Mo_1 + x_T16_S12_Mo_1 + x_T19_S12_Mo_1 + x_T21_S12_Mo_1 + x_T23_S12_Mo_1 + x_T28_S12_Mo_1 + x_T31_S12_Mo_1 <= 1
+ first_period_S12_Tu_1: x_T3_S12_Tu_1 + x_T6_S12_Tu_1 + x_T7_S12_Tu_1 + x_T12_S12_Tu_1 + x_T16_S12_Tu_1 + x_T19_S12_Tu_1 + x_T21_S12_Tu_1 + x_T23_S12_Tu_1 + x_T28_S12_Tu_1 + x_T31_S12_Tu_1 <= 1
+ first_period_S12_We_1: x_T3_S12_We_1 + x_T6_S12_We_1 + x_T7_S12_We_1 + x_T12_S12_We_1 + x_T16_S12_We_1 + x_T19_S12_We_1 + x_T21_S12_We_1 + x_T23_S12_We_1 + x_T28_S12_We_1 + x_T31_S12_We_1 <= 1
+ first_period_S12_Th_1: x_T3_S12_Th_1 + x_T6_S12_Th_1 + x_T7_S12_Th_1 + x_T12_S12_Th_1 + x_T16_S12_Th_1 + x_T19_S12_Th_1 + x_T21_S12_Th_1 + x_T23_S12_Th_1 + x_T28_S12_Th_1 + x_T31_S12_Th_1 <= 1
+ first_period_S12_Fr_1: x_T3_S12_Fr_1 + x_T6_S12_Fr_1 + x_T7_S12_Fr_1 + x_T12_S12_Fr_1 + x_T16_S12_Fr_1 + x_T19_S12_Fr_1 + x_T21_S12_Fr_1 + x_T23_S12_Fr_1 + x_T28_S12_Fr_1 + x_T31_S12_Fr_1 <= 1
+ first_period_S15_Mo_1: x_T3_S15_Mo_1 + x_T8_S15_Mo_1 + x_T9_S15_Mo_1 + x_T12_S15_Mo_1 + x_T16_S15_Mo_1 + x_T19_S15_Mo_1 + x_T22_S15_Mo_1 + x_T24_S15_Mo_1 + x_T28_S15_Mo_1 + x_T31_S15_Mo_1 <= 1
+ first_period_S15_Tu_1: x_T3_S15_Tu_1 + x_T8_S15_Tu_1 + x_T9_S15_Tu_1 + x_T12_S15_Tu_1 + x_T16_S15_Tu_1 + x_T19_S15_Tu_1 + x_T22_S15_Tu_1 + x_T24_S15_Tu_1 + x_T28_S15_Tu_1 + x_T31_S15_Tu_1 <= 1
+ first_period_S15_We_1: x_T3_S15_We_1 + x_T8_S15_We_1 + x_T9_S15_We_1 + x_T12_S15_We_1 + x_T16_S15_We_1 + x_T19_S15_We_1 + x_T22_S15_We_1 + x_T24_S15_We_1 + x_T28_S15_We_1 + x_T31_S15_We_1 <= 1
+ first_period_S15_Th_1: x_T3_S15_Th_1 + x_T8_S15_Th_1 + x_T9_S15_Th_1 + x_T12_S15_Th_1 + x_T16_S15_Th_1 + x_T19_S15_Th_1 + x_T22_S15_Th_1 + x_T24_S15_Th_1 + x_T28_S15_Th_1 + x_T31_S15_Th_1 <= 1
+ first_period_S15_Fr_1: x_T3_S15_Fr_1 + x_T8_S15_Fr_1 + x_T9_S15_Fr_1 + x_T12_S15_Fr_1 + x_T16_S15_Fr_1 + x_T19_S15_Fr_1 + x_T22_S15_Fr_1 + x_T24_S15_Fr_1 + x_T28_S15_Fr_1 + x_T31_S15_Fr_1 <= 1
+ first_period_S4_Mo_1: x_T1_S4_Mo_1 + x_T5_S4_Mo_1 + x_T10_S4_Mo_1 + x_T15_S4_Mo_1 + x_T18_S4_Mo_1 + x_T20_S4_Mo_1 + x_T24_S4_Mo_1 + x_T26_S4_Mo_1 + x_T29_S4_Mo_1 + x_T32_S4_Mo_1 <= 1
+ first_period_S4_Tu_1: x_T1_S4_Tu_1 + x_T5_S4_Tu_1 + x_T10_S4_Tu_1 + x_T15_S4_Tu_1 + x_T18_S4_Tu_1 + x_T20_S4_Tu_1 + x_T24_S4_Tu_1 + x_T26_S4_Tu_1 + x_T29_S4_Tu_1 + x_T32_S4_Tu_1 <= 1
+ first_period_S4_We_1: x_T1_S4_We_1 + x_T5_S4_We_1 + x_T10_S4_We_1 + x_T15_S4_We_1 + x_T18_S4_We_1 + x_T20_S4_We_1 + x_T24_S4_We_1 + x_T26_S4_We_1 + x_T29_S4_We_1 + x_T32_S4_We_1 <= 1
+ first_period_S4_Th_1: x_T1_S4_Th_1 + x_T5_S4_Th_1 + x_T10_S4_Th_1 + x_T15_S4_Th_1 + x_T18_S4_Th_1 + x_T20_S4_Th_1 + x_T24_S4_Th_1 + x_T26_S4_Th_1 + x_T29_S4_Th_1 + x_T32_S4_Th_1 <= 1
+ first_period_S4_Fr_1: x_T1_S4_Fr_1 + x_T5_S4_Fr_1 + x_T10_S4_Fr_1 + x_T15_S4_Fr_1 + x_T18_S4_Fr_1 + x_T20_S4_Fr_1 + x_T24_S4_Fr_1 + x_T26_S4_Fr_1 + x_T29_S4_Fr_1 + x_T32_S4_Fr_1 <= 1
+ first_period_S9_Mo_1: x_T2_S9_Mo_1 + x_T7_S9_Mo_1 + x_T11_S9_Mo_1 + x_T16_S9_Mo_1 + x_T19_S9_Mo_1 + x_T21_S9_Mo_1 + x_T25_S9_Mo_1 + x_T28_S9_Mo_1 + x_T31_S9_Mo_1 + x_T32_S9_Mo_1 <= 1
+ first_period_S9_Tu_1: x_T2_S9_Tu_1 + x_T7_S9_Tu_1 + x_T11_S9_Tu_1 + x_T16_S9_Tu_1 + x_T19_S9_Tu_1 + x_T21_S9_Tu_1 + x_T25_S9_Tu_1 + x_T28_S9_Tu_1 + x_T31_S9_Tu_1 + x_T32_S9_Tu_1 <= 1
+ first_period_S9_We_1: x_T2_S9_We_1 + x_T7_S9_We_1 + x_T11_S9_We_1 + x_T16_S9_We_1 + x_T19_S9_We_1 + x_T21_S9_We_1 + x_T25_S9_We_1 + x_T28_S9_We_1 + x_T31_S9_We_1 + x_T32_S9_We_1 <= 1
+ first_period_S9_Th_1: x_T2_S9_Th_1 + x_T7_S9_Th_1 + x_T11_S9_Th_1 + x_T16_S9_Th_1 + x_T19_S9_Th_1 + x_T21_S9_Th_1 + x_T25_S9_Th_1 + x_T28_S9_Th_1 + x_T31_S9_Th_1 + x_T32_S9_Th_1 <= 1
+ first_period_S9_Fr_1: x_T2_S9_Fr_1 + x_T7_S9_Fr_1 + x_T11_S9_Fr_1 + x_T16_S9_Fr_1 + x_T19_S9_Fr_1 + x_T21_S9_Fr_1 + x_T25_S9_Fr_1 + x_T28_S9_Fr_1 + x_T31_S9_Fr_1 + x_T32_S9_Fr_1 <= 1
+ first_period_S19_Mo_1: x_T4_S19_Mo_1 + x_T9_S19_Mo_1 + x_T13_S19_Mo_1 + x_T15_S19_Mo_1 + x_T18_S19_Mo_1 + x_T22_S19_Mo_1 + x_T23_S19_Mo_1 + x_T26_S19_Mo_1 + x_T29_S19_Mo_1 + x_T32_S19_Mo_1 + x_T33_S19_Mo_1 <= 1
+ first_period_S19_Tu_1: x_T4_S19_Tu_1 + x_T9_S19_Tu_1 + x_T13_S19_Tu_1 + x_T15_S19_Tu_1 + x_T18_S19_Tu_1 + x_T22_S19_Tu_1 + x_T23_S19_Tu_1 + x_T26_S19_Tu_1 + x_T29_S19_Tu_1 + x_T32_S19_Tu_1 + x_T33_S19_Tu_1 <= 1
+ first_period_S19_We_1: x_T4_S19_We_1 + x_T9_S19_We_1 + x_T13_S19_We_1 + x_T15_S19_We_1 + x_T18_S19_We_1 + x_T22_S19_We_1 + x_T23_S19_We_1 + x_T26_S19_We_1 + x_T29_S19_We_1 + x_T32_S19_We_1 + x_T33_S19_We_1 <= 1
+ first_period_S19_Th_1: x_T4_S19_Th_1 + x_T9_S19_Th_1 + x_T13_S19_Th_1 + x_T15_S19_Th_1 + x_T18_S19_Th_1 + x_T22_S19_Th_1 + x_T23_S19_Th_1 + x_T26_S19_Th_1 + x_T29_S19_Th_1 + x_T32_S19_Th_1 + x_T33_S19_Th_1 <= 1
+ first_period_S19_Fr_1: x_T4_S19_Fr_1 + x_T9_S19_Fr_1 + x_T13_S19_Fr_1 + x_T15_S19_Fr_1 + x_T18_S19_Fr_1 + x_T22_S19_Fr_1 + x_T23_S19_Fr_1 + x_T26_S19_Fr_1 + x_T29_S19_Fr_1 + x_T32_S19_Fr_1 + x_T33_S19_Fr_1 <= 1
+ double_lessons_T1_S1: g_T1_S1 >= 2 - x_T1_S1_Mo_1 - x_T1_S1_Mo_2 - x_T1_S1_Mo_2 - x_T1_S1_Mo_3 - x_T1_S1_Mo_3 - x_T1_S1_Mo_4 - x_T1_S1_Mo_4 - x_T1_S1_Mo_5 - x_T1_S1_Tu_1 - x_T1_S1_Tu_2 - x_T1_S1_Tu_2 - x_T1_S1_Tu_3 - x_T1_S1_Tu_3 - x_T1_S1_Tu_4 - x_T1_S1_Tu_4 - x_T1_S1_Tu_5 - x_T1_S1_We_1 - x_T1_S1_We_2 - x_T1_S1_We_2 - x_T1_S1_We_3 - x_T1_S1_We_3 - x_T1_S1_We_4 - x_T1_S1_We_4 - x_T1_S1_We_5 - x_T1_S1_Th_1 - x_T1_S1_Th_2 - x_T1_S1_Th_2 - x_T1_S1_Th_3 - x_T1_S1_Th_3 - x_T1_S1_Th_4 - x_T1_S1_Th_4 - x_T1_S1_Th_5 - x_T1_S1_Fr_1 - x_T1_S1_Fr_2 - x_T1_S1_Fr_2 - x_T1_S1_Fr_3 - x_T1_S1_Fr_3 - x_T1_S1_Fr_4 - x_T1_S1_Fr_4 - x_T1_S1_Fr_5
+ double_lessons_T1_S2: g_T1_S2 >= 2 - x_T1_S2_Mo_1 - x_T1_S2_Mo_2 - x_T1_S2_Mo_2 - x_T1_S2_Mo_3 - x_T1_S2_Mo_3 - x_T1_S2_Mo_4 - x_T1_S2_Mo_4 - x_T1_S2_Mo_5 - x_T1_S2_Tu_1 - x_T1_S2_Tu_2 - x_T1_S2_Tu_2 - x_T1_S2_Tu_3 - x_T1_S2_Tu_3 - x_T1_S2_Tu_4 - x_T1_S2_Tu_4 - x_T1_S2_Tu_5 - x_T1_S2_We_1 - x_T1_S2_We_2 - x_T1_S2_We_2 - x_T1_S2_We_3 - x_T1_S2_We_3 - x_T1_S2_We_4 - x_T1_S2_We_4 - x_T1_S2_We_5 - x_T1_S2_Th_1 - x_T1_S2_Th_2 - x_T1_S2_Th_2 - x_T1_S2_Th_3 - x_T1_S2_Th_3 - x_T1_S2_Th_4 - x_T1_S2_Th_4 - x_T1_S2_Th_5 - x_T1_S2_Fr_1 - x_T1_S2_Fr_2 - x_T1_S2_Fr_2 - x_T1_S2_Fr_3 - x_T1_S2_Fr_3 - x_T1_S2_Fr_4 - x_T1_S2_Fr_4 - x_T1_S2_Fr_5
+ double_lessons_T1_S3: g_T1_S3 >= 2 - x_T1_S3_Mo_1 - x_T1_S3_Mo_2 - x_T1_S3_Mo_2 - x_T1_S3_Mo_3 - x_T1_S3_Mo_3 - x_T1_S3_Mo_4 - x_T1_S3_Mo_4 - x_T1_S3_Mo_5 - x_T1_S3_Tu_1 - x_T1_S3_Tu_2 - x_T1_S3_Tu_2 - x_T1_S3_Tu_3 - x_T1_S3_Tu_3 - x_T1_S3_Tu_4 - x_T1_S3_Tu_4 - x_T1_S3_Tu_5 - x_T1_S3_We_1 - x_T1_S3_We_2 - x_T1_S3_We_2 - x_T1_S3_We_3 - x_T1_S3_We_3 - x_T1_S3_We_4 - x_T1_S3_We_4 - x_T1_S3_We_5 - x_T1_S3_Th_1 - x_T1_S3_Th_2 - x_T1_S3_Th_2 - x_T1_S3_Th_3 - x_T1_S3_Th_3 - x_T1_S3_Th_4 - x_T1_S3_Th_4 - x_T1_S3_Th_5 - x_T1_S3_Fr_1 - x_T1_S3_Fr_2 - x_T1_S3_Fr_2 - x_T1_S3_Fr_3 - x_T1_S3_Fr_3 - x_T1_S3_Fr_4 - x_T1_S3_Fr_4 - x_T1_S3_Fr_5
+ double_lessons_T1_S4: g_T1_S4 >= 2 - x_T1_S4_Mo_1 - x_T1_S4_Mo_2 - x_T1_S4_Mo_2 - x_T1_S4_Mo_3 - x_T1_S4_Mo_3 - x_T1_S4_Mo_4 - x_T1_S4_Mo_4 - x_T1_S4_Mo_5 - x_T1_S4_Tu_1 - x_T1_S4_Tu_2 - x_T1_S4_Tu_2 - x_T1_S4_Tu_3 - x_T1_S4_Tu_3 - x_T1_S4_Tu_4 - x_T1_S4_Tu_4 - x_T1_S4_Tu_5 - x_T1_S4_We_1 - x_T1_S4_We_2 - x_T1_S4_We_2 - x_T1_S4_We_3 - x_T1_S4_We_3 - x_T1_S4_We_4 - x_T1_S4_We_4 - x_T1_S4_We_5 - x_T1_S4_Th_1 - x_T1_S4_Th_2 - x_T1_S4_Th_2 - x_T1_S4_Th_3 - x_T1_S4_Th_3 - x_T1_S4_Th_4 - x_T1_S4_Th_4 - x_T1_S4_Th_5 - x_T1_S4_Fr_1 - x_T1_S4_Fr_2 - x_T1_S4_Fr_2 - x_T1_S4_Fr_3 - x_T1_S4_Fr_3 - x_T1_S4_Fr_4 - x_T1_S4_Fr_4 - x_T1_S4_Fr_5
+ double_lessons_T1_S16: g_T1_S16 >= 2 - x_T1_S16_Mo_1 - x_T1_S16_Mo_2 - x_T1_S16_Mo_2 - x_T1_S16_Mo_3 - x_T1_S16_Mo_3 - x_T1_S16_Mo_4 - x_T1_S16_Mo_4 - x_T1_S16_Mo_5 - x_T1_S16_Tu_1 - x_T1_S16_Tu_2 - x_T1_S16_Tu_2 - x_T1_S16_Tu_3 - x_T1_S16_Tu_3 - x_T1_S16_Tu_4 - x_T1_S16_Tu_4 - x_T1_S16_Tu_5 - x_T1_S16_We_1 - x_T1_S16_We_2 - x_T1_S16_We_2 - x_T1_S16_We_3 - x_T1_S16_We_3 - x_T1_S16_We_4 - x_T1_S16_We_4 - x_T1_S16_We_5 - x_T1_S16_Th_1 - x_T1_S16_Th_2 - x_T1_S16_Th_2 - x_T1_S16_Th_3 - x_T1_S16_Th_3 - x_T1_S16_Th_4 - x_T1_S16_Th_4 - x_T1_S16_Th_5 - x_T1_S16_Fr_1 - x_T1_S16_Fr_2 - x_T1_S16_Fr_2 - x_T1_S16_Fr_3 - x_T1_S16_Fr_3 - x_T1_S16_Fr_4 - x_T1_S16_Fr_4 - x_T1_S16_Fr_5
+ double_lessons_T1_S17: g_T1_S17 >= 2 - x_T1_S17_Mo_1 - x_T1_S17_Mo_2 - x_T1_S17_Mo_2 - x_T1_S17_Mo_3 - x_T1_S17_Mo_3 - x_T1_S17_Mo_4 - x_T1_S17_Mo_4 - x_T1_S17_Mo_5 - x_T1_S17_Tu_1 - x_T1_S17_Tu_2 - x_T1_S17_Tu_2 - x_T1_S17_Tu_3 - x_T1_S17_Tu_3 - x_T1_S17_Tu_4 - x_T1_S17_Tu_4 - x_T1_S17_Tu_5 - x_T1_S17_We_1 - x_T1_S17_We_2 - x_T1_S17_We_2 - x_T1_S17_We_3 - x_T1_S17_We_3 - x_T1_S17_We_4 - x_T1_S17_We_4 - x_T1_S17_We_5 - x_T1_S17_Th_1 - x_T1_S17_Th_2 - x_T1_S17_Th_2 - x_T1_S17_Th_3 - x_T1_S17_Th_3 - x_T1_S17_Th_4 - x_T1_S17_Th_4 - x_T1_S17_Th_5 - x_T1_S17_Fr_1 - x_T1_S17_Fr_2 - x_T1_S17_Fr_2 - x_T1_S17_Fr_3 - x_T1_S17_Fr_3 - x_T1_S17_Fr_4 - x_T1_S17_Fr_4 - x_T1_S17_Fr_5
+ double_lessons_T2_S7: g_T2_S7 >= 2 - x_T2_S7_Mo_1 - x_T2_S7_Mo_2 - x_T2_S7_Mo_2 - x_T2_S7_Mo_3 - x_T2_S7_Mo_3 - x_T2_S7_Mo_4 - x_T2_S7_Mo_4 - x_T2_S7_Mo_5 - x_T2_S7_Tu_1 - x_T2_S7_Tu_2 - x_T2_S7_Tu_2 - x_T2_S7_Tu_3 - x_T2_S7_Tu_3 - x_T2_S7_Tu_4 - x_T2_S7_Tu_4 - x_T2_S7_Tu_5 - x_T2_S7_We_1 - x_T2_S7_We_2 - x_T2_S7_We_2 - x_T2_S7_We_3 - x_T2_S7_We_3 - x_T2_S7_We_4 - x_T2_S7_We_4 - x_T2_S7_We_5 - x_T2_S7_Th_1 - x_T2_S7_Th_2 - x_T2_S7_Th_2 - x_T2_S7_Th_3 - x_T2_S7_Th_3 - x_T2_S7_Th_4 - x_T2_S7_Th_4 - x_T2_S7_Th_5 - x_T2_S7_Fr_1 - x_T2_S7_Fr_2 - x_T2_S7_Fr_2 - x_T2_S7_Fr_3 - x_T2_S7_Fr_3 - x_T2_S7_Fr_4 - x_T2_S7_Fr_4 - x_T2_S7_Fr_5
+ double_lessons_T2_S8: g_T2_S8 >= 2 - x_T2_S8_Mo_1 - x_T2_S8_Mo_2 - x_T2_S8_Mo_2 - x_T2_S8_Mo_3 - x_T2_S8_Mo_3 - x_T2_S8_Mo_4 - x_T2_S8_Mo_4 - x_T2_S8_Mo_5 - x_T2_S8_Tu_1 - x_T2_S8_Tu_2 - x_T2_S8_Tu_2 - x_T2_S8_Tu_3 - x_T2_S8_Tu_3 - x_T2_S8_Tu_4 - x_T2_S8_Tu_4 - x_T2_S8_Tu_5 - x_T2_S8_We_1 - x_T2_S8_We_2 - x_T2_S8_We_2 - x_T2_S8_We_3 - x_T2_S8_We_3 - x_T2_S8_We_4 - x_T2_S8_We_4 - x_T2_S8_We_5 - x_T2_S8_Th_1 - x_T2_S8_Th_2 - x_T2_S8_Th_2 - x_T2_S8_Th_3 - x_T2_S8_Th_3 - x_T2_S8_Th_4 - x_T2_S8_Th_4 - x_T2_S8_Th_5 - x_T2_S8_Fr_1 - x_T2_S8_Fr_2 - x_T2_S8_Fr_2 - x_T2_S8_Fr_3 - x_T2_S8_Fr_3 - x_T2_S8_Fr_4 - x_T2_S8_Fr_4 - x_T2_S8_Fr_5
+ double_lessons_T2_S9: g_T2_S9 >= 2 - x_T2_S9_Mo_1 - x_T2_S9_Mo_2 - x_T2_S9_Mo_2 - x_T2_S9_Mo_3 - x_T2_S9_Mo_3 - x_T2_S9_Mo_4 - x_T2_S9_Mo_4 - x_T2_S9_Mo_5 - x_T2_S9_Tu_1 - x_T2_S9_Tu_2 - x_T2_S9_Tu_2 - x_T2_S9_Tu_3 - x_T2_S9_Tu_3 - x_T2_S9_Tu_4 - x_T2_S9_Tu_4 - x_T2_S9_Tu_5 - x_T2_S9_We_1 - x_T2_S9_We_2 - x_T2_S9_We_2 - x_T2_S9_We_3 - x_T2_S9_We_3 - x_T2_S9_We_4 - x_T2_S9_We_4 - x_T2_S9_We_5 - x_T2_S9_Th_1 - x_T2_S9_Th_2 - x_T2_S9_Th_2 - x_T2_S9_Th_3 - x_T2_S9_Th_3 - x_T2_S9_Th_4 - x_T2_S9_Th_4 - x_T2_S9_Th_5 - x_T2_S9_Fr_1 - x_T2_S9_Fr_2 - x_T2_S9_Fr_2 - x_T2_S9_Fr_3 - x_T2_S9_Fr_3 - x_T2_S9_Fr_4 - x_T2_S9_Fr_4 - x_T2_S9_Fr_5
+ double_lessons_T2_S10: g_T2_S10 >= 2 - x_T2_S10_Mo_1 - x_T2_S10_Mo_2 - x_T2_S10_Mo_2 - x_T2_S10_Mo_3 - x_T2_S10_Mo_3 - x_T2_S10_Mo_4 - x_T2_S10_Mo_4 - x_T2_S10_Mo_5 - x_T2_S10_Tu_1 - x_T2_S10_Tu_2 - x_T2_S10_Tu_2 - x_T2_S10_Tu_3 - x_T2_S10_Tu_3 - x_T2_S10_Tu_4 - x_T2_S10_Tu_4 - x_T2_S10_Tu_5 - x_T2_S10_We_1 - x_T2_S10_We_2 - x_T2_S10_We_2 - x_T2_S10_We_3 - x_T2_S10_We_3 - x_T2_S10_We_4 - x_T2_S10_We_4 - x_T2_S10_We_5 - x_T2_S10_Th_1 - x_T2_S10_Th_2 - x_T2_S10_Th_2 - x_T2_S10_Th_3 - x_T2_S10_Th_3 - x_T2_S10_Th_4 - x_T2_S10_Th_4 - x_T2_S10_Th_5 - x_T2_S10_Fr_1 - x_T2_S10_Fr_2 - x_T2_S10_Fr_2 - x_T2_S10_Fr_3 - x_T2_S10_Fr_3 - x_T2_S10_Fr_4 - x_T2_S10_Fr_4 - x_T2_S10_Fr_5
+ double_lessons_T2_S11: g_T2_S11 >= 2 - x_T2_S11_Mo_1 - x_T2_S11_Mo_2 - x_T2_S11_Mo_2 - x_T2_S11_Mo_3 - x_T2_S11_Mo_3 - x_T2_S11_Mo_4 - x_T2_S11_Mo_4 - x_T2_S11_Mo_5 - x_T2_S11_Tu_1 - x_T2_S11_Tu_2 - x_T2_S11_Tu_2 - x_T2_S11_Tu_3 - x_T2_S11_Tu_3 - x_T2_S11_Tu_4 - x_T2_S11_Tu_4 - x_T2_S11_Tu_5 - x_T2_S11_We_1 - x_T2_S11_We_2 - x_T2_S11_We_2 - x_T2_S11_We_3 - x_T2_S11_We_3 - x_T2_S11_We_4 - x_T2_S11_We_4 - x_T2_S11_We_5 - x_T2_S11_Th_1 - x_T2_S11_Th_2 - x_T2_S11_Th_2 - x_T2_S11_Th_3 - x_T2_S11_Th_3 - x_T2_S11_Th_4 - x_T2_S11_Th_4 - x_T2_S11_Th_5 - x_T2_S11_Fr_1 - x_T2_S11_Fr_2 - x_T2_S11_Fr_2 - x_T2_S11_Fr_3 - x_T2_S11_Fr_3 - x_T2_S11_Fr_4 - x_T2_S11_Fr_4 - x_T2_S11_Fr_5
+ double_lessons_T3_S12: g_T3_S12 >= 2 - x_T3_S12_Mo_1 - x_T3_S12_Mo_2 - x_T3_S12_Mo_2 - x_T3_S12_Mo_3 - x_T3_S12_Mo_3 - x_T3_S12_Mo_4 - x_T3_S12_Mo_4 - x_T3_S12_Mo_5 - x_T3_S12_Tu_1 - x_T3_S12_Tu_2 - x_T3_S12_Tu_2 - x_T3_S12_Tu_3 - x_T3_S12_Tu_3 - x_T3_S12_Tu_4 - x_T3_S12_Tu_4 - x_T3_S12_Tu_5 - x_T3_S12_We_1 - x_T3_S12_We_2 - x_T3_S12_We_2 - x_T3_S12_We_3 - x_T3_S12_We_3 - x_T3_S12_We_4 - x_T3_S12_We_4 - x_T3_S12_We_5 - x_T3_S12_Th_1 - x_T3_S12_Th_2 - x_T3_S12_Th_2 - x_T3_S12_Th_3 - x_T3_S12_Th_3 - x_T3_S12_Th_4 - x_T3_S12_Th_4 - x_T3_S12_Th_5 - x_T3_S12_Fr_1 - x_T3_S12_Fr_2 - x_T3_S12_Fr_2 - x_T3_S12_Fr_3 - x_T3_S12_Fr_3 - x_T3_S12_Fr_4 - x_T3_S12_Fr_4 - x_T3_S12_Fr_5
+ double_lessons_T3_S13: g_T3_S13 >= 2 - x_T3_S13_Mo_1 - x_T3_S13_Mo_2 - x_T3_S13_Mo_2 - x_T3_S13_Mo_3 - x_T3_S13_Mo_3 - x_T3_S13_Mo_4 - x_T3_S13_Mo_4 - x_T3_S13_Mo_5 - x_T3_S13_Tu_1 - x_T3_S13_Tu_2 - x_T3_S13_Tu_2 - x_T3_S13_Tu_3 - x_T3_S13_Tu_3 - x_T3_S13_Tu_4 - x_T3_S13_Tu_4 - x_T3_S13_Tu_5 - x_T3_S13_We_1 - x_T3_S13_We_2 - x_T3_S13_We_2 - x_T3_S13_We_3 - x_T3_S13_We_3 - x_T3_S13_We_4 - x_T3_S13_We_4 - x_T3_S13_We_5 - x_T3_S13_Th_1 - x_T3_S13_Th_2 - x_T3_S13_Th_2 - x_T3_S13_Th_3 - x_T3_S13_Th_3 - x_T3_S13_Th_4 - x_T3_S13_Th_4 - x_T3_S13_Th_5 - x_T3_S13_Fr_1 - x_T3_S13_Fr_2 - x_T3_S13_Fr_2 - x_T3_S13_Fr_3 - x_T3_S13_Fr_3 - x_T3_S13_Fr_4 - x_T3_S13_Fr_4 - x_T3_S13_Fr_5
+ double_lessons_T3_S14: g_T3_S14 >= 2 - x_T3_S14_Mo_1 - x_T3_S14_Mo_2 - x_T3_S14_Mo_2 - x_T3_S14_Mo_3 - x_T3_S14_Mo_3 - x_T3_S14_Mo_4 - x_T3_S14_Mo_4 - x_T3_S14_Mo_5 - x_T3_S14_Tu_1 - x_T3_S14_Tu_2 - x_T3_S14_Tu_2 - x_T3_S14_Tu_3 - x_T3_S14_Tu_3 - x_T3_S14_Tu_4 - x_T3_S14_Tu_4 - x_T3_S14_Tu_5 - x_T3_S14_We_1 - x_T3_S14_We_2 - x_T3_S14_We_2 - x_T3_S14_We_3 - x_T3_S14_We_3 - x_T3_S14_We_4 - x_T3_S14_We_4 - x_T3_S14_We_5 - x_T3_S14_Th_1 - x_T3_S14_Th_2 - x_T3_S14_Th_2 - x_T3_S14_Th_3 - x_T3_S14_Th_3 - x_T3_S14_Th_4 - x_T3_S14_Th_4 - x_T3_S14_Th_5 - x_T3_S14_Fr_1 - x_T3_S14_Fr_2 - x_T3_S14_Fr_2 - x_T3_S14_Fr_3 - x_T3_S14_Fr_3 - x_T3_S14_Fr_4 - x_T3_S14_Fr_4 - x_T3_S14_Fr_5
+ double_lessons_T3_S15: g_T3_S15 >= 2 - x_T3_S15_Mo_1 - x_T3_S15_Mo_2 - x_T3_S15_Mo_2 - x_T3_S15_Mo_3 - x_T3_S15_Mo_3 - x_T3_S15_Mo_4 - x_T3_S15_Mo_4 - x_T3_S15_Mo_5 - x_T3_S15_Tu_1 - x_T3_S15_Tu_2 - x_T3_S15_Tu_2 - x_T3_S15_Tu_3 - x_T3_S15_Tu_3 - x_T3_S15_Tu_4 - x_T3_S15_Tu_4 - x_T3_S15_Tu_5 - x_T3_S15_We_1 - x_T3_S15_We_2 - x_T3_S15_We_2 - x_T3_S15_We_3 - x_T3_S15_We_3 - x_T3_S15_We_4 - x_T3_S15_We_4 - x_T3_S15_We_5 - x_T3_S15_Th_1 - x_T3_S15_Th_2 - x_T3_S15_Th_2 - x_T3_S15_Th_3 - x_T3_S15_Th_3 - x_T3_S15_Th_4 - x_T3_S15_Th_4 - x_T3_S15_Th_5 - x_T3_S15_Fr_1 - x_T3_S15_Fr_2 - x_T3_S15_Fr_2 - x_T3_S15_Fr_3 - x_T3_S15_Fr_3 - x_T3_S15_Fr_4 - x_T3_S15_Fr_4 - x_T3_S15_Fr_5
+ double_lessons_T4_S5: g_T4_S5 >= 2 - x_T4_S5_Mo_1 - x_T4_S5_Mo_2 - x_T4_S5_Mo_2 - x_T4_S5_Mo_3 - x_T4_S5_Mo_3 - x_T4_S5_Mo_4 - x_T4_S5_Mo_4 - x_T4_S5_Mo_5 - x_T4_S5_Tu_1 - x_T4_S5_Tu_2 - x_T4_S5_Tu_2 - x_T4_S5_Tu_3 - x_T4_S5_Tu_3 - x_T4_S5_Tu_4 - x_T4_S5_Tu_4 - x_T4_S5_Tu_5 - x_T4_S5_We_1 - x_T4_S5_We_2 - x_T4_S5_We_2 - x_T4_S5_We_3 - x_T4_S5_We_3 - x_T4_S5_We_4 - x_T4_S5_We_4 - x_T4_S5_We_5 - x_T4_S5_Th_1 - x_T4_S5_Th_2 - x_T4_S5_Th_2 - x_T4_S5_Th_3 - x_T4_S5_Th_3 - x_T4_S5_Th_4 - x_T4_S5_Th_4 - x_T4_S5_Th_5 - x_T4_S5_Fr_1 - x_T4_S5_Fr_2 - x_T4_S5_Fr_2 - x_T4_S5_Fr_3 - x_T4_S5_Fr_3 - x_T4_S5_Fr_4 - x_T4_S5_Fr_4 - x_T4_S5_Fr_5
+ double_lessons_T4_S6: g_T4_S6 >= 2 - x_T4_S6_Mo_1 - x_T4_S6_Mo_2 - x_T4_S6_Mo_2 - x_T4_S6_Mo_3 - x_T4_S6_Mo_3 - x_T4_S6_Mo_4 - x_T4_S6_Mo_4 - x_T4_S6_Mo_5 - x_T4_S6_Tu_1 - x_T4_S6_Tu_2 - x_T4_S6_Tu_2 - x_T4_S6_Tu_3 - x_T4_S6_Tu_3 - x_T4_S6_Tu_4 - x_T4_S6_Tu_4 - x_T4_S6_Tu_5 - x_T4_S6_We_1 - x_T4_S6_We_2 - x_T4_S6_We_2 - x_T4_S6_We_3 - x_T4_S6_We_3 - x_T4_S6_We_4 - x_T4_S6_We_4 - x_T4_S6_We_5 - x_T4_S6_Th_1 - x_T4_S6_Th_2 - x_T4_S6_Th_2 - x_T4_S6_Th_3 - x_T4_S6_Th_3 - x_T4_S6_Th_4 - x_T4_S6_Th_4 - x_T4_S6_Th_5 - x_T4_S6_Fr_1 - x_T4_S6_Fr_2 - x_T4_S6_Fr_2 - x_T4_S6_Fr_3 - x_T4_S6_Fr_3 - x_T4_S6_Fr_4 - x_T4_S6_Fr_4 - x_T4_S6_Fr_5
+ double_lessons_T4_S18: g_T4_S18 >= 2 - x_T4_S18_Mo_1 - x_T4_S18_Mo_2 - x_T4_S18_Mo_2 - x_T4_S18_Mo_3 - x_T4_S18_Mo_3 - x_T4_S18_Mo_4 - x_T4_S18_Mo_4 - x_T4_S18_Mo_5 - x_T4_S18_Tu_1 - x_T4_S18_Tu_2 - x_T4_S18_Tu_2 - x_T4_S18_Tu_3 - x_T4_S18_Tu_3 - x_T4_S18_Tu_4 - x_T4_S18_Tu_4 - x_T4_S18_Tu_5 - x_T4_S18_We_1 - x_T4_S18_We_2 - x_T4_S18_We_2 - x_T4_S18_We_3 - x_T4_S18_We_3 - x_T4_S18_We_4 - x_T4_S18_We_4 - x_T4_S18_We_5 - x_T4_S18_Th_1 - x_T4_S18_Th_2 - x_T4_S18_Th_2 - x_T4_S18_Th_3 - x_T4_S18_Th_3 - x_T4_S18_Th_4 - x_T4_S18_Th_4 - x_T4_S18_Th_5 - x_T4_S18_Fr_1 - x_T4_S18_Fr_2 - x_T4_S18_Fr_2 - x_T4_S18_Fr_3 - x_T4_S18_Fr_3 - x_T4_S18_Fr_4 - x_T4_S18_Fr_4 - x_T4_S18_Fr_5
+ double_lessons_T4_S19: g_T4_S19 >= 2 - x_T4_S19_Mo_1 - x_T4_S19_Mo_2 - x_T4_S19_Mo_2 - x_T4_S19_Mo_3 - x_T4_S19_Mo_3 - x_T4_S19_Mo_4 - x_T4_S19_Mo_4 - x_T4_S19_Mo_5 - x_T4_S19_Tu_1 - x_T4_S19_Tu_2 - x_T4_S19_Tu_2 - x_T4_S19_Tu_3 - x_T4_S19_Tu_3 - x_T4_S19_Tu_4 - x_T4_S19_Tu_4 - x_T4_S19_Tu_5 - x_T4_S19_We_1 - x_T4_S19_We_2 - x_T4_S19_We_2 - x_T4_S19_We_3 - x_T4_S19_We_3 - x_T4_S19_We_4 - x_T4_S19_We_4 - x_T4_S19_We_5 - x_T4_S19_Th_1 - x_T4_S19_Th_2 - x_T4_S19_Th_2 - x_T4_S19_Th_3 - x_T4_S19_Th_3 - x_T4_S19_Th_4 - x_T4_S19_Th_4 - x_T4_S19_Th_5 - x_T4_S19_Fr_1 - x_T4_S19_Fr_2 - x_T4_S19_Fr_2 - x_T4_S19_Fr_3 - x_T4_S19_Fr_3 - x_T4_S19_Fr_4 - x_T4_S19_Fr_4 - x_T4_S19_Fr_5
+ double_lessons_T4_S20: g_T4_S20 >= 2 - x_T4_S20_Mo_1 - x_T4_S20_Mo_2 - x_T4_S20_Mo_2 - x_T4_S20_Mo_3 - x_T4_S20_Mo_3 - x_T4_S20_Mo_4 - x_T4_S20_Mo_4 - x_T4_S20_Mo_5 - x_T4_S20_Tu_1 - x_T4_S20_Tu_2 - x_T4_S20_Tu_2 - x_T4_S20_Tu_3 - x_T4_S20_Tu_3 - x_T4_S20_Tu_4 - x_T4_S20_Tu_4 - x_T4_S20_Tu_5 - x_T4_S20_We_1 - x_T4_S20_We_2 - x_T4_S20_We_2 - x_T4_S20_We_3 - x_T4_S20_We_3 - x_T4_S20_We_4 - x_T4_S20_We_4 - x_T4_S20_We_5 - x_T4_S20_Th_1 - x_T4_S20_Th_2 - x_T4_S20_Th_2 - x_T4_S20_Th_3 - x_T4_S20_Th_3 - x_T4_S20_Th_4 - x_T4_S20_Th_4 - x_T4_S20_Th_5 - x_T4_S20_Fr_1 - x_T4_S20_Fr_2 - x_T4_S20_Fr_2 - x_T4_S20_Fr_3 - x_T4_S20_Fr_3 - x_T4_S20_Fr_4 - x_T4_S20_Fr_4 - x_T4_S20_Fr_5
+ double_lessons_T5_S1: g_T5_S1 >= 2 - x_T5_S1_Mo_1 - x_T5_S1_Mo_2 - x_T5_S1_Mo_2 - x_T5_S1_Mo_3 - x_T5_S1_Mo_3 - x_T5_S1_Mo_4 - x_T5_S1_Mo_4 - x_T5_S1_Mo_5 - x_T5_S1_Tu_1 - x_T5_S1_Tu_2 - x_T5_S1_Tu_2 - x_T5_S1_Tu_3 - x_T5_S1_Tu_3 - x_T5_S1_Tu_4 - x_T5_S1_Tu_4 - x_T5_S1_Tu_5 - x_T5_S1_We_1 - x_T5_S1_We_2 - x_T5_S1_We_2 - x_T5_S1_We_3 - x_T5_S1_We_3 - x_T5_S1_We_4 - x_T5_S1_We_4 - x_T5_S1_We_5 - x_T5_S1_Th_1 - x_T5_S1_Th_2 - x_T5_S1_Th_2 - x_T5_S1_Th_3 - x_T5_S1_Th_3 - x_T5_S1_Th_4 - x_T5_S1_Th_4 - x_T5_S1_Th_5 - x_T5_S1_Fr_1 - x_T5_S1_Fr_2 - x_T5_S1_Fr_2 - x_T5_S1_Fr_3 - x_T5_S1_Fr_3 - x_T5_S1_Fr_4 - x_T5_S1_Fr_4 - x_T5_S1_Fr_5
+ double_lessons_T5_S2: g_T5_S2 >= 2 - x_T5_S2_Mo_1 - x_T5_S2_Mo_2 - x_T5_S2_Mo_2 - x_T5_S2_Mo_3 - x_T5_S2_Mo_3 - x_T5_S2_Mo_4 - x_T5_S2_Mo_4 - x_T5_S2_Mo_5 - x_T5_S2_Tu_1 - x_T5_S2_Tu_2 - x_T5_S2_Tu_2 - x_T5_S2_Tu_3 - x_T5_S2_Tu_3 - x_T5_S2_Tu_4 - x_T5_S2_Tu_4 - x_T5_S2_Tu_5 - x_T5_S2_We_1 - x_T5_S2_We_2 - x_T5_S2_We_2 - x_T5_S2_We_3 - x_T5_S2_We_3 - x_T5_S2_We_4 - x_T5_S2_We_4 - x_T5_S2_We_5 - x_T5_S2_Th_1 - x_T5_S2_Th_2 - x_T5_S2_Th_2 - x_T5_S2_Th_3 - x_T5_S2_Th_3 - x_T5_S2_Th_4 - x_T5_S2_Th_4 - x_T5_S2_Th_5 - x_T5_S2_Fr_1 - x_T5_S2_Fr_2 - x_T5_S2_Fr_2 - x_T5_S2_Fr_3 - x_T5_S2_Fr_3 - x_T5_S2_Fr_4 - x_T5_S2_Fr_4 - x_T5_S2_Fr_5
+ double_lessons_T5_S3: g_T5_S3 >= 2 - x_T5_S3_Mo_1 - x_T5_S3_Mo_2 - x_T5_S3_Mo_2 - x_T5_S3_Mo_3 - x_T5_S3_Mo_3 - x_T5_S3_Mo_4 - x_T5_S3_Mo_4 - x_T5_S3_Mo_5 - x_T5_S3_Tu_1 - x_T5_S3_Tu_2 - x_T5_S3_Tu_2 - x_T5_S3_Tu_3 - x_T5_S3_Tu_3 - x_T5_S3_Tu_4 - x_T5_S3_Tu_4 - x_T5_S3_Tu_5 - x_T5_S3_We_1 - x_T5_S3_We_2 - x_T5_S3_We_2 - x_T5_S3_We_3 - x_T5_S3_We_3 - x_T5_S3_We_4 - x_T5_S3_We_4 - x_T5_S3_We_5 - x_T5_S3_Th_1 - x_T5_S3_Th_2 - x_T5_S3_Th_2 - x_T5_S3_Th_3 - x_T5_S3_Th_3 - x_T5_S3_Th_4 - x_T5_S3_Th_4 - x_T5_S3_Th_5 - x_T5_S3_Fr_1 - x_T5_S3_Fr_2 - x_T5_S3_Fr_2 - x_T5_S3_Fr_3 - x_T5_S3_Fr_3 - x_T5_S3_Fr_4 - x_T5_S3_Fr_4 - x_T5_S3_Fr_5
+ double_lessons_T5_S4: g_T5_S4 >= 2 - x_T5_S4_Mo_1 - x_T5_S4_Mo_2 - x_T5_S4_Mo_2 - x_T5_S4_Mo_3 - x_T5_S4_Mo_3 - x_T5_S4_Mo_4 - x_T5_S4_Mo_4 - x_T5_S4_Mo_5 - x_T5_S4_Tu_1 - x_T5_S4_Tu_2 - x_T5_S4_Tu_2 - x_T5_S4_Tu_3 - x_T5_S4_Tu_3 - x_T5_S4_Tu_4 - x_T5_S4_Tu_4 - x_T5_S4_Tu_5 - x_T5_S4_We_1 - x_T5_S4_We_2 - x_T5_S4_We_2 - x_T5_S4_We_3 - x_T5_S4_We_3 - x_T5_S4_We_4 - x_T5_S4_We_4 - x_T5_S4_We_5 - x_T5_S4_Th_1 - x_T5_S4_Th_2 - x_T5_S4_Th_2 - x_T5_S4_Th_3 - x_T5_S4_Th_3 - x_T5_S4_Th_4 - x_T5_S4_Th_4 - x_T5_S4_Th_5 - x_T5_S4_Fr_1 - x_T5_S4_Fr_2 - x_T5_S4_Fr_2 - x_T5_S4_Fr_3 - x_T5_S4_Fr_3 - x_T5_S4_Fr_4 - x_T5_S4_Fr_4 - x_T5_S4_Fr_5
+ double_lessons_T5_S14: g_T5_S14 >= 2 - x_T5_S14_Mo_1 - x_T5_S14_Mo_2 - x_T5_S14_Mo_2 - x_T5_S14_Mo_3 - x_T5_S14_Mo_3 - x_T5_S14_Mo_4 - x_T5_S14_Mo_4 - x_T5_S14_Mo_5 - x_T5_S14_Tu_1 - x_T5_S14_Tu_2 - x_T5_S14_Tu_2 - x_T5_S14_Tu_3 - x_T5_S14_Tu_3 - x_T5_S14_Tu_4 - x_T5_S14_Tu_4 - x_T5_S14_Tu_5 - x_T5_S14_We_1 - x_T5_S14_We_2 - x_T5_S14_We_2 - x_T5_S14_We_3 - x_T5_S14_We_3 - x_T5_S14_We_4 - x_T5_S14_We_4 - x_T5_S14_We_5 - x_T5_S14_Th_1 - x_T5_S14_Th_2 - x_T5_S14_Th_2 - x_T5_S14_Th_3 - x_T5_S14_Th_3 - x_T5_S14_Th_4 - x_T5_S14_Th_4 - x_T5_S14_Th_5 - x_T5_S14_Fr_1 - x_T5_S14_Fr_2 - x_T5_S14_Fr_2 - x_T5_S14_Fr_3 - x_T5_S14_Fr_3 - x_T5_S14_Fr_4 - x_T5_S14_Fr_4 - x_T5_S14_Fr_5
+ double_lessons_T6_S5: g_T6_S5 >= 2 - x_T6_S5_Mo_1 - x_T6_S5_Mo_2 - x_T6_S5_Mo_2 - x_T6_S5_Mo_3 - x_T6_S5_Mo_3 - x_T6_S5_Mo_4 - x_T6_S5_Mo_4 - x_T6_S5_Mo_5 - x_T6_S5_Tu_1 - x_T6_S5_Tu_2 - x_T6_S5_Tu_2 - x_T6_S5_Tu_3 - x_T6_S5_Tu_3 - x_T6_S5_Tu_4 - x_T6_S5_Tu_4 - x_T6_S5_Tu_5 - x_T6_S5_We_1 - x_T6_S5_We_2 - x_T6_S5_We_2 - x_T6_S5_We_3 - x_T6_S5_We_3 - x_T6_S5_We_4 - x_T6_S5_We_4 - x_T6_S5_We_5 - x_T6_S5_Th_1 - x_T6_S5_Th_2 - x_T6_S5_Th_2 - x_T6_S5_Th_3 - x_T6_S5_Th_3 - x_T6_S5_Th_4 - x_T6_S5_Th_4 - x_T6_S5_Th_5 - x_T6_S5_Fr_1 - x_T6_S5_Fr_2 - x_T6_S5_Fr_2 - x_T6_S5_Fr_3 - x_T6_S5_Fr_3 - x_T6_S5_Fr_4 - x_T6_S5_Fr_4 - x_T6_S5_Fr_5
+ double_lessons_T6_S6: g_T6_S6 >= 2 - x_T6_S6_Mo_1 - x_T6_S6_Mo_2 - x_T6_S6_Mo_2 - x_T6_S6_Mo_3 - x_T6_S6_Mo_3 - x_T6_S6_Mo_4 - x_T6_S6_Mo_4 - x_T6_S6_Mo_5 - x_T6_S6_Tu_1 - x_T6_S6_Tu_2 - x_T6_S6_Tu_2 - x_T6_S6_Tu_3 - x_T6_S6_Tu_3 - x_T6_S6_Tu_4 - x_T6_S6_Tu_4 - x_T6_S6_Tu_5 - x_T6_S6_We_1 - x_T6_S6_We_2 - x_T6_S6_We_2 - x_T6_S6_We_3 - x_T6_S6_We_3 - x_T6_S6_We_4 - x_T6_S6_We_4 - x_T6_S6_We_5 - x_T6_S6_Th_1 - x_T6_S6_Th_2 - x_T6_S6_Th_2 - x_T6_S6_Th_3 - x_T6_S6_Th_3 - x_T6_S6_Th_4 - x_T6_S6_Th_4 - x_T6_S6_Th_5 - x_T6_S6_Fr_1 - x_T6_S6_Fr_2 - x_T6_S6_Fr_2 - x_T6_S6_Fr_3 - x_T6_S6_Fr_3 - x_T6_S6_Fr_4 - x_T6_S6_Fr_4 - x_T6_S6_Fr_5
+ double_lessons_T6_S7: g_T6_S7 >= 2 - x_T6_S7_Mo_1 - x_T6_S7_Mo_2 - x_T6_S7_Mo_2 - x_T6_S7_Mo_3 - x_T6_S7_Mo_3 - x_T6_S7_Mo_4 - x_T6_S7_Mo_4 - x_T6_S7_Mo_5 - x_T6_S7_Tu_1 - x_T6_S7_Tu_2 - x_T6_S7_Tu_2 - x_T6_S7_Tu_3 - x_T6_S7_Tu_3 - x_T6_S7_Tu_4 - x_T6_S7_Tu_4 - x_T6_S7_Tu_5 - x_T6_S7_We_1 - x_T6_S7_We_2 - x_T6_S7_We_2 - x_T6_S7_We_3 - x_T6_S7_We_3 - x_T6_S7_We_4 - x_T6_S7_We_4 - x_T6_S7_We_5 - x_T6_S7_Th_1 - x_T6_S7_Th_2 - x_T6_S7_Th_2 - x_T6_S7_Th_3 - x_T6_S7_Th_3 - x_T6_S7_Th_4 - x_T6_S7_Th_4 - x_T6_S7_Th_5 - x_T6_S7_Fr_1 - x_T6_S7_Fr_2 - x_T6_S7_Fr_2 - x_T6_S7_Fr_3 - x_T6_S7_Fr_3 - x_T6_S7_Fr_4 - x_T6_S7_Fr_4 - x_T6_S7_Fr_5
+ double_lessons_T6_S8: g_T6_S8 >= 2 - x_T6_S8_Mo_1 - x_T6_S8_Mo_2 - x_T6_S8_Mo_2 - x_T6_S8_Mo_3 - x_T6_S8_Mo_3 - x_T6_S8_Mo_4 - x_T6_S8_Mo_4 - x_T6_S8_Mo_5 - x_T6_S8_Tu_1 - x_T6_S8_Tu_2 - x_T6_S8_Tu_2 - x_T6_S8_Tu_3 - x_T6_S8_Tu_3 - x_T6_S8_Tu_4 - x_T6_S8_Tu_4 - x_T6_S8_Tu_5 - x_T6_S8_We_1 - x_T6_S8_We_2 - x_T6_S8_We_2 - x_T6_S8_We_3 - x_T6_S8_We_3 - x_T6_S8_We_4 - x_T6_S8_We_4 - x_T6_S8_We_5 - x_T6_S8_Th_1 - x_T6_S8_Th_2 - x_T6_S8_Th_2 - x_T6_S8_Th_3 - x_T6_S8_Th_3 - x_T6_S8_Th_4 - x_T6_S8_Th_4 - x_T6_S8_Th_5 - x_T6_S8_Fr_1 - x_T6_S8_Fr_2 - x_T6_S8_Fr_2 - x_T6_S8_Fr_3 - x_T6_S8_Fr_3 - x_T6_S8_Fr_4 - x_T6_S8_Fr_4 - x_T6_S8_Fr_5
+ double_lessons_T6_S10: g_T6_S10 >= 2 - x_T6_S10_Mo_1 - x_T6_S10_Mo_2 - x_T6_S10_Mo_2 - x_T6_S10_Mo_3 - x_T6_S10_Mo_3 - x_T6_S10_Mo_4 - x_T6_S10_Mo_4 - x_T6_S10_Mo_5 - x_T6_S10_Tu_1 - x_T6_S10_Tu_2 - x_T6_S10_Tu_2 - x_T6_S10_Tu_3 - x_T6_S10_Tu_3 - x_T6_S10_Tu_4 - x_T6_S10_Tu_4 - x_T6_S10_Tu_5 - x_T6_S10_We_1 - x_T6_S10_We_2 - x_T6_S10_We_2 - x_T6_S10_We_3 - x_T6_S10_We_3 - x_T6_S10_We_4 - x_T6_S10_We_4 - x_T6_S10_We_5 - x_T6_S10_Th_1 - x_T6_S10_Th_2 - x_T6_S10_Th_2 - x_T6_S10_Th_3 - x_T6_S10_Th_3 - x_T6_S10_Th_4 - x_T6_S10_Th_4 - x_T6_S10_Th_5 - x_T6_S10_Fr_1 - x_T6_S10_Fr_2 - x_T6_S10_Fr_2 - x_T6_S10_Fr_3 - x_T6_S10_Fr_3 - x_T6_S10_Fr_4 - x_T6_S10_Fr_4 - x_T6_S10_Fr_5
+ double_lessons_T6_S12: g_T6_S12 >= 2 - x_T6_S12_Mo_1 - x_T6_S12_Mo_2 - x_T6_S12_Mo_2 - x_T6_S12_Mo_3 - x_T6_S12_Mo_3 - x_T6_S12_Mo_4 - x_T6_S12_Mo_4 - x_T6_S12_Mo_5 - x_T6_S12_Tu_1 - x_T6_S12_Tu_2 - x_T6_S12_Tu_2 - x_T6_S12_Tu_3 - x_T6_S12_Tu_3 - x_T6_S12_Tu_4 - x_T6_S12_Tu_4 - x_T6_S12_Tu_5 - x_T6_S12_We_1 - x_T6_S12_We_2 - x_T6_S12_We_2 - x_T6_S12_We_3 - x_T6_S12_We_3 - x_T6_S12_We_4 - x_T6_S12_We_4 - x_T6_S12_We_5 - x_T6_S12_Th_1 - x_T6_S12_Th_2 - x_T6_S12_Th_2 - x_T6_S12_Th_3 - x_T6_S12_Th_3 - x_T6_S12_Th_4 - x_T6_S12_Th_4 - x_T6_S12_Th_5 - x_T6_S12_Fr_1 - x_T6_S12_Fr_2 - x_T6_S12_Fr_2 - x_T6_S12_Fr_3 - x_T6_S12_Fr_3 - x_T6_S12_Fr_4 - x_T6_S12_Fr_4 - x_T6_S12_Fr_5
+ double_lessons_T7_S9: g_T7_S9 >= 2 - x_T7_S9_Mo_1 - x_T7_S9_Mo_2 - x_T7_S9_Mo_2 - x_T7_S9_Mo_3 - x_T7_S9_Mo_3 - x_T7_S9_Mo_4 - x_T7_S9_Mo_4 - x_T7_S9_Mo_5 - x_T7_S9_Tu_1 - x_T7_S9_Tu_2 - x_T7_S9_Tu_2 - x_T7_S9_Tu_3 - x_T7_S9_Tu_3 - x_T7_S9_Tu_4 - x_T7_S9_Tu_4 - x_T7_S9_Tu_5 - x_T7_S9_We_1 - x_T7_S9_We_2 - x_T7_S9_We_2 - x_T7_S9_We_3 - x_T7_S9_We_3 - x_T7_S9_We_4 - x_T7_S9_We_4 - x_T7_S9_We_5 - x_T7_S9_Th_1 - x_T7_S9_Th_2 - x_T7_S9_Th_2 - x_T7_S9_Th_3 - x_T7_S9_Th_3 - x_T7_S9_Th_4 - x_T7_S9_Th_4 - x_T7_S9_Th_5 - x_T7_S9_Fr_1 - x_T7_S9_Fr_2 - x_T7_S9_Fr_2 - x_T7_S9_Fr_3 - x_T7_S9_Fr_3 - x_T7_S9_Fr_4 - x_T7_S9_Fr_4 - x_T7_S9_Fr_5
+ double_lessons_T7_S10: g_T7_S10 >= 2 - x_T7_S10_Mo_1 - x_T7_S10_Mo_2 - x_T7_S10_Mo_2 - x_T7_S10_Mo_3 - x_T7_S10_Mo_3 - x_T7_S10_Mo_4 - x_T7_S10_Mo_4 - x_T7_S10_Mo_5 - x_T7_S10_Tu_1 - x_T7_S10_Tu_2 - x_T7_S10_Tu_2 - x_T7_S10_Tu_3 - x_T7_S10_Tu_3 - x_T7_S10_Tu_4 - x_T7_S10_Tu_4 - x_T7_S10_Tu_5 - x_T7_S10_We_1 - x_T7_S10_We_2 - x_T7_S10_We_2 - x_T7_S10_We_3 - x_T7_S10_We_3 - x_T7_S10_We_4 - x_T7_S10_We_4 - x_T7_S10_We_5 - x_T7_S10_Th_1 - x_T7_S10_Th_2 - x_T7_S10_Th_2 - x_T7_S10_Th_3 - x_T7_S10_Th_3 - x_T7_S10_Th_4 - x_T7_S10_Th_4 - x_T7_S10_Th_5 - x_T7_S10_Fr_1 - x_T7_S10_Fr_2 - x_T7_S10_Fr_2 - x_T7_S10_Fr_3 - x_T7_S10_Fr_3 - x_T7_S10_Fr_4 - x_T7_S10_Fr_4 - x_T7_S10_Fr_5
+ double_lessons_T7_S11: g_T7_S11 >= 2 - x_T7_S11_Mo_1 - x_T7_S11_Mo_2 - x_T7_S11_Mo_2 - x_T7_S11_Mo_3 - x_T7_S11_Mo_3 - x_T7_S11_Mo_4 - x_T7_S11_Mo_4 - x_T7_S11_Mo_5 - x_T7_S11_Tu_1 - x_T7_S11_Tu_2 - x_T7_S11_Tu_2 - x_T7_S11_Tu_3 - x_T7_S11_Tu_3 - x_T7_S11_Tu_4 - x_T7_S11_Tu_4 - x_T7_S11_Tu_5 - x_T7_S11_We_1 - x_T7_S11_We_2 - x_T7_S11_We_2 - x_T7_S11_We_3 - x_T7_S11_We_3 - x_T7_S11_We_4 - x_T7_S11_We_4 - x_T7_S11_We_5 - x_T7_S11_Th_1 - x_T7_S11_Th_2 - x_T7_S11_Th_2 - x_T7_S11_Th_3 - x_T7_S11_Th_3 - x_T7_S11_Th_4 - x_T7_S11_Th_4 - x_T7_S11_Th_5 - x_T7_S11_Fr_1 - x_T7_S11_Fr_2 - x_T7_S11_Fr_2 - x_T7_S11_Fr_3 - x_T7_S11_Fr_3 - x_T7_S11_Fr_4 - x_T7_S11_Fr_4 - x_T7_S11_Fr_5
+ double_lessons_T7_S12: g_T7_S12 >= 2 - x_T7_S12_Mo_1 - x_T7_S12_Mo_2 - x_T7_S12_Mo_2 - x_T7_S12_Mo_3 - x_T7_S12_Mo_3 - x_T7_S12_Mo_4 - x_T7_S12_Mo_4 - x_T7_S12_Mo_5 - x_T7_S12_Tu_1 - x_T7_S12_Tu_2 - x_T7_S12_Tu_2 - x_T7_S12_Tu_3 - x_T7_S12_Tu_3 - x_T7_S12_Tu_4 - x_T7_S12_Tu_4 - x_T7_S12_Tu_5 - x_T7_S12_We_1 - x_T7_S12_We_2 - x_T7_S12_We_2 - x_T7_S12_We_3 - x_T7_S12_We_3 - x_T7_S12_We_4 - x_T7_S12_We_4 - x_T7_S12_We_5 - x_T7_S12_Th_1 - x_T7_S12_Th_2 - x_T7_S12_Th_2 - x_T7_S12_Th_3 - x_T7_S12_Th_3 - x_T7_S12_Th_4 - x_T7_S12_Th_4 - x_T7_S12_Th_5 - x_T7_S12_Fr_1 - x_T7_S12_Fr_2 - x_T7_S12_Fr_2 - x_T7_S12_Fr_3 - x_T7_S12_Fr_3 - x_T7_S12_Fr_4 - x_T7_S12_Fr_4 - x_T7_S12_Fr_5
+ double_lessons_T7_S13: g_T7_S13 >= 2 - x_T7_S13_Mo_1 - x_T7_S13_Mo_2 - x_T7_S13_Mo_2 - x_T7_S13_Mo_3 - x_T7_S13_Mo_3 - x_T7_S13_Mo_4 - x_T7_S13_Mo_4 - x_T7_S13_Mo_5 - x_T7_S13_Tu_1 - x_T7_S13_Tu_2 - x_T7_S13_Tu_2 - x_T7_S13_Tu_3 - x_T7_S13_Tu_3 - x_T7_S13_Tu_4 - x_T7_S13_Tu_4 - x_T7_S13_Tu_5 - x_T7_S13_We_1 - x_T7_S13_We_2 - x_T7_S13_We_2 - x_T7_S13_We_3 - x_T7_S13_We_3 - x_T7_S13_We_4 - x_T7_S13_We_4 - x_T7_S13_We_5 - x_T7_S13_Th_1 - x_T7_S13_Th_2 - x_T7_S13_Th_2 - x_T7_S13_Th_3 - x_T7_S13_Th_3 - x_T7_S13_Th_4 - x_T7_S13_Th_4 - x_T7_S13_Th_5 - x_T7_S13_Fr_1 - x_T7_S13_Fr_2 - x_T7_S13_Fr_2 - x_T7_S13_Fr_3 - x_T7_S13_Fr_3 - x_T7_S13_Fr_4 - x_T7_S13_Fr_4 - x_T7_S13_Fr_5
+ double_lessons_T8_S11: g_T8_S11 >= 2 - x_T8_S11_Mo_1 - x_T8_S11_Mo_2 - x_T8_S11_Mo_2 - x_T8_S11_Mo_3 - x_T8_S11_Mo_3 - x_T8_S11_Mo_4 - x_T8_S11_Mo_4 - x_T8_S11_Mo_5 - x_T8_S11_Tu_1 - x_T8_S11_Tu_2 - x_T8_S11_Tu_2 - x_T8_S11_Tu_3 - x_T8_S11_Tu_3 - x_T8_S11_Tu_4 - x_T8_S11_Tu_4 - x_T8_S11_Tu_5 - x_T8_S11_We_1 - x_T8_S11_We_2 - x_T8_S11_We_2 - x_T8_S11_We_3 - x_T8_S11_We_3 - x_T8_S11_We_4 - x_T8_S11_We_4 - x_T8_S11_We_5 - x_T8_S11_Th_1 - x_T8_S11_Th_2 - x_T8_S11_Th_2 - x_T8_S11_Th_3 - x_T8_S11_Th_3 - x_T8_S11_Th_4 - x_T8_S11_Th_4 - x_T8_S11_Th_5 - x_T8_S11_Fr_1 - x_T8_S11_Fr_2 - x_T8_S11_Fr_2 - x_T8_S11_Fr_3 - x_T8_S11_Fr_3 - x_T8_S11_Fr_4 - x_T8_S11_Fr_4 - x_T8_S11_Fr_5
+ double_lessons_T8_S13: g_T8_S13 >= 2 - x_T8_S13_Mo_1 - x_T8_S13_Mo_2 - x_T8_S13_Mo_2 - x_T8_S13_Mo_3 - x_T8_S13_Mo_3 - x_T8_S13_Mo_4 - x_T8_S13_Mo_4 - x_T8_S13_Mo_5 - x_T8_S13_Tu_1 - x_T8_S13_Tu_2 - x_T8_S13_Tu_2 - x_T8_S13_Tu_3 - x_T8_S13_Tu_3 - x_T8_S13_Tu_4 - x_T8_S13_Tu_4 - x_T8_S13_Tu_5 - x_T8_S13_We_1 - x_T8_S13_We_2 - x_T8_S13_We_2 - x_T8_S13_We_3 - x_T8_S13_We_3 - x_T8_S13_We_4 - x_T8_S13_We_4 - x_T8_S13_We_5 - x_T8_S13_Th_1 - x_T8_S13_Th_2 - x_T8_S13_Th_2 - x_T8_S13_Th_3 - x_T8_S13_Th_3 - x_T8_S13_Th_4 - x_T8_S13_Th_4 - x_T8_S13_Th_5 - x_T8_S13_Fr_1 - x_T8_S13_Fr_2 - x_T8_S13_Fr_2 - x_T8_S13_Fr_3 - x_T8_S13_Fr_3 - x_T8_S13_Fr_4 - x_T8_S13_Fr_4 - x_T8_S13_Fr_5
+ double_lessons_T8_S14: g_T8_S14 >= 2 - x_T8_S14_Mo_1 - x_T8_S14_Mo_2 - x_T8_S14_Mo_2 - x_T8_S14_Mo_3 - x_T8_S14_Mo_3 - x_T8_S14_Mo_4 - x_T8_S14_Mo_4 - x_T8_S14_Mo_5 - x_T8_S14_Tu_1 - x_T8_S14_Tu_2 - x_T8_S14_Tu_2 - x_T8_S14_Tu_3 - x_T8_S14_Tu_3 - x_T8_S14_Tu_4 - x_T8_S14_Tu_4 - x_T8_S14_Tu_5 - x_T8_S14_We_1 - x_T8_S14_We_2 - x_T8_S14_We_2 - x_T8_S14_We_3 - x_T8_S14_We_3 - x_T8_S14_We_4 - x_T8_S14_We_4 - x_T8_S14_We_5 - x_T8_S14_Th_1 - x_T8_S14_Th_2 - x_T8_S14_Th_2 - x_T8_S14_Th_3 - x_T8_S14_Th_3 - x_T8_S14_Th_4 - x_T8_S14_Th_4 - x_T8_S14_Th_5 - x_T8_S14_Fr_1 - x_T8_S14_Fr_2 - x_T8_S14_Fr_2 - x_T8_S14_Fr_3 - x_T8_S14_Fr_3 - x_T8_S14_Fr_4 - x_T8_S14_Fr_4 - x_T8_S14_Fr_5
+ double_lessons_T8_S15: g_T8_S15 >= 2 - x_T8_S15_Mo_1 - x_T8_S15_Mo_2 - x_T8_S15_Mo_2 - x_T8_S15_Mo_3 - x_T8_S15_Mo_3 - x_T8_S15_Mo_4 - x_T8_S15_Mo_4 - x_T8_S15_Mo_5 - x_T8_S15_Tu_1 - x_T8_S15_Tu_2 - x_T8_S15_Tu_2 - x_T8_S15_Tu_3 - x_T8_S15_Tu_3 - x_T8_S15_Tu_4 - x_T8_S15_Tu_4 - x_T8_S15_Tu_5 - x_T8_S15_We_1 - x_T8_S15_We_2 - x_T8_S15_We_2 - x_T8_S15_We_3 - x_T8_S15_We_3 - x_T8_S15_We_4 - x_T8_S15_We_4 - x_T8_S15_We_5 - x_T8_S15_Th_1 - x_T8_S15_Th_2 - x_T8_S15_Th_2 - x_T8_S15_Th_3 - x_T8_S15_Th_3 - x_T8_S15_Th_4 - x_T8_S15_Th_4 - x_T8_S15_Th_5 - x_T8_S15_Fr_1 - x_T8_S15_Fr_2 - x_T8_S15_Fr_2 - x_T8_S15_Fr_3 - x_T8_S15_Fr_3 - x_T8_S15_Fr_4 - x_T8_S15_Fr_4 - x_T8_S15_Fr_5
+ double_lessons_T8_S16: g_T8_S16 >= 2 - x_T8_S16_Mo_1 - x_T8_S16_Mo_2 - x_T8_S16_Mo_2 - x_T8_S16_Mo_3 - x_T8_S16_Mo_3 - x_T8_S16_Mo_4 - x_T8_S16_Mo_4 - x_T8_S16_Mo_5 - x_T8_S16_Tu_1 - x_T8_S16_Tu_2 - x_T8_S16_Tu_2 - x_T8_S16_Tu_3 - x_T8_S16_Tu_3 - x_T8_S16_Tu_4 - x_T8_S16_Tu_4 - x_T8_S16_Tu_5 - x_T8_S16_We_1 - x_T8_S16_We_2 - x_T8_S16_We_2 - x_T8_S16_We_3 - x_T8_S16_We_3 - x_T8_S16_We_4 - x_T8_S16_We_4 - x_T8_S16_We_5 - x_T8_S16_Th_1 - x_T8_S16_Th_2 - x_T8_S16_Th_2 - x_T8_S16_Th_3 - x_T8_S16_Th_3 - x_T8_S16_Th_4 - x_T8_S16_Th_4 - x_T8_S16_Th_5 - x_T8_S16_Fr_1 - x_T8_S16_Fr_2 - x_T8_S16_Fr_2 - x_T8_S16_Fr_3 - x_T8_S16_Fr_3 - x_T8_S16_Fr_4 - x_T8_S16_Fr_4 - x_T8_S16_Fr_5
+ double_lessons_T9_S15: g_T9_S15 >= 2 - x_T9_S15_Mo_1 - x_T9_S15_Mo_2 - x_T9_S15_Mo_2 - x_T9_S15_Mo_3 - x_T9_S15_Mo_3 - x_T9_S15_Mo_4 - x_T9_S15_Mo_4 - x_T9_S15_Mo_5 - x_T9_S15_Tu_1 - x_T9_S15_Tu_2 - x_T9_S15_Tu_2 - x_T9_S15_Tu_3 - x_T9_S15_Tu_3 - x_T9_S15_Tu_4 - x_T9_S15_Tu_4 - x_T9_S15_Tu_5 - x_T9_S15_We_1 - x_T9_S15_We_2 - x_T9_S15_We_2 - x_T9_S15_We_3 - x_T9_S15_We_3 - x_T9_S15_We_4 - x_T9_S15_We_4 - x_T9_S15_We_5 - x_T9_S15_Th_1 - x_T9_S15_Th_2 - x_T9_S15_Th_2 - x_T9_S15_Th_3 - x_T9_S15_Th_3 - x_T9_S15_Th_4 - x_T9_S15_Th_4 - x_T9_S15_Th_5 - x_T9_S15_Fr_1 - x_T9_S15_Fr_2 - x_T9_S15_Fr_2 - x_T9_S15_Fr_3 - x_T9_S15_Fr_3 - x_T9_S15_Fr_4 - x_T9_S15_Fr_4 - x_T9_S15_Fr_5
+ double_lessons_T9_S17: g_T9_S17 >= 2 - x_T9_S17_Mo_1 - x_T9_S17_Mo_2 - x_T9_S17_Mo_2 - x_T9_S17_Mo_3 - x_T9_S17_Mo_3 - x_T9_S17_Mo_4 - x_T9_S17_Mo_4 - x_T9_S17_Mo_5 - x_T9_S17_Tu_1 - x_T9_S17_Tu_2 - x_T9_S17_Tu_2 - x_T9_S17_Tu_3 - x_T9_S17_Tu_3 - x_T9_S17_Tu_4 - x_T9_S17_Tu_4 - x_T9_S17_Tu_5 - x_T9_S17_We_1 - x_T9_S17_We_2 - x_T9_S17_We_2 - x_T9_S17_We_3 - x_T9_S17_We_3 - x_T9_S17_We_4 - x_T9_S17_We_4 - x_T9_S17_We_5 - x_T9_S17_Th_1 - x_T9_S17_Th_2 - x_T9_S17_Th_2 - x_T9_S17_Th_3 - x_T9_S17_Th_3 - x_T9_S17_Th_4 - x_T9_S17_Th_4 - x_T9_S17_Th_5 - x_T9_S17_Fr_1 - x_T9_S17_Fr_2 - x_T9_S17_Fr_2 - x_T9_S17_Fr_3 - x_T9_S17_Fr_3 - x_T9_S17_Fr_4 - x_T9_S17_Fr_4 - x_T9_S17_Fr_5
+ double_lessons_T9_S18: g_T9_S18 >= 2 - x_T9_S18_Mo_1 - x_T9_S18_Mo_2 - x_T9_S18_Mo_2 - x_T9_S18_Mo_3 - x_T9_S18_Mo_3 - x_T9_S18_Mo_4 - x_T9_S18_Mo_4 - x_T9_S18_Mo_5 - x_T9_S18_Tu_1 - x_T9_S18_Tu_2 - x_T9_S18_Tu_2 - x_T9_S18_Tu_3 - x_T9_S18_Tu_3 - x_T9_S18_Tu_4 - x_T9_S18_Tu_4 - x_T9_S18_Tu_5 - x_T9_S18_We_1 - x_T9_S18_We_2 - x_T9_S18_We_2 - x_T9_S18_We_3 - x_T9_S18_We_3 - x_T9_S18_We_4 - x_T9_S18_We_4 - x_T9_S18_We_5 - x_T9_S18_Th_1 - x_T9_S18_Th_2 - x_T9_S18_Th_2 - x_T9_S18_Th_3 - x_T9_S18_Th_3 - x_T9_S18_Th_4 - x_T9_S18_Th_4 - x_T9_S18_Th_5 - x_T9_S18_Fr_1 - x_T9_S18_Fr_2 - x_T9_S18_Fr_2 - x_T9_S18_Fr_3 - x_T9_S18_Fr_3 - x_T9_S18_Fr_4 - x_T9_S18_Fr_4 - x_T9_S18_Fr_5
+ double_lessons_T9_S19: g_T9_S19 >= 2 - x_T9_S19_Mo_1 - x_T9_S19_Mo_2 - x_T9_S19_Mo_2 - x_T9_S19_Mo_3 - x_T9_S19_Mo_3 - x_T9_S19_Mo_4 - x_T9_S19_Mo_4 - x_T9_S19_Mo_5 - x_T9_S19_Tu_1 - x_T9_S19_Tu_2 - x_T9_S19_Tu_2 - x_T9_S19_Tu_3 - x_T9_S19_Tu_3 - x_T9_S19_Tu_4 - x_T9_S19_Tu_4 - x_T9_S19_Tu_5 - x_T9_S19_We_1 - x_T9_S19_We_2 - x_T9_S19_We_2 - x_T9_S19_We_3 - x_T9_S19_We_3 - x_T9_S19_We_4 - x_T9_S19_We_4 - x_T9_S19_We_5 - x_T9_S19_Th_1 - x_T9_S19_Th_2 - x_T9_S19_Th_2 - x_T9_S19_Th_3 - x_T9_S19_Th_3 - x_T9_S19_Th_4 - x_T9_S19_Th_4 - x_T9_S19_Th_5 - x_T9_S19_Fr_1 - x_T9_S19_Fr_2 - x_T9_S19_Fr_2 - x_T9_S19_Fr_3 - x_T9_S19_Fr_3 - x_T9_S19_Fr_4 - x_T9_S19_Fr_4 - x_T9_S19_Fr_5
+ double_lessons_T9_S20: g_T9_S20 >= 2 - x_T9_S20_Mo_1 - x_T9_S20_Mo_2 - x_T9_S20_Mo_2 - x_T9_S20_Mo_3 - x_T9_S20_Mo_3 - x_T9_S20_Mo_4 - x_T9_S20_Mo_4 - x_T9_S20_Mo_5 - x_T9_S20_Tu_1 - x_T9_S20_Tu_2 - x_T9_S20_Tu_2 - x_T9_S20_Tu_3 - x_T9_S20_Tu_3 - x_T9_S20_Tu_4 - x_T9_S20_Tu_4 - x_T9_S20_Tu_5 - x_T9_S20_We_1 - x_T9_S20_We_2 - x_T9_S20_We_2 - x_T9_S20_We_3 - x_T9_S20_We_3 - x_T9_S20_We_4 - x_T9_S20_We_4 - x_T9_S20_We_5 - x_T9_S20_Th_1 - x_T9_S20_Th_2 - x_T9_S20_Th_2 - x_T9_S20_Th_3 - x_T9_S20_Th_3 - x_T9_S20_Th_4 - x_T9_S20_Th_4 - x_T9_S20_Th_5 - x_T9_S20_Fr_1 - x_T9_S20_Fr_2 - x_T9_S20_Fr_2 - x_T9_S20_Fr_3 - x_T9_S20_Fr_3 - x_T9_S20_Fr_4 - x_T9_S20_Fr_4 - x_T9_S20_Fr_5
+ double_lessons_T10_S1: g_T10_S1 >= 2 - x_T10_S1_Mo_1 - x_T10_S1_Mo_2 - x_T10_S1_Mo_2 - x_T10_S1_Mo_3 - x_T10_S1_Mo_3 - x_T10_S1_Mo_4 - x_T10_S1_Mo_4 - x_T10_S1_Mo_5 - x_T10_S1_Tu_1 - x_T10_S1_Tu_2 - x_T10_S1_Tu_2 - x_T10_S1_Tu_3 - x_T10_S1_Tu_3 - x_T10_S1_Tu_4 - x_T10_S1_Tu_4 - x_T10_S1_Tu_5 - x_T10_S1_We_1 - x_T10_S1_We_2 - x_T10_S1_We_2 - x_T10_S1_We_3 - x_T10_S1_We_3 - x_T10_S1_We_4 - x_T10_S1_We_4 - x_T10_S1_We_5 - x_T10_S1_Th_1 - x_T10_S1_Th_2 - x_T10_S1_Th_2 - x_T10_S1_Th_3 - x_T10_S1_Th_3 - x_T10_S1_Th_4 - x_T10_S1_Th_4 - x_T10_S1_Th_5 - x_T10_S1_Fr_1 - x_T10_S1_Fr_2 - x_T10_S1_Fr_2 - x_T10_S1_Fr_3 - x_T10_S1_Fr_3 - x_T10_S1_Fr_4 - x_T10_S1_Fr_4 - x_T10_S1_Fr_5
+ double_lessons_T10_S2: g_T10_S2 >= 2 - x_T10_S2_Mo_1 - x_T10_S2_Mo_2 - x_T10_S2_Mo_2 - x_T10_S2_Mo_3 - x_T10_S2_Mo_3 - x_T10_S2_Mo_4 - x_T10_S2_Mo_4 - x_T10_S2_Mo_5 - x_T10_S2_Tu_1 - x_T10_S2_Tu_2 - x_T10_S2_Tu_2 - x_T10_S2_Tu_3 - x_T10_S2_Tu_3 - x_T10_S2_Tu_4 - x_T10_S2_Tu_4 - x_T10_S2_Tu_5 - x_T10_S2_We_1 - x_T10_S2_We_2 - x_T10_S2_We_2 - x_T10_S2_We_3 - x_T10_S2_We_3 - x_T10_S2_We_4 - x_T10_S2_We_4 - x_T10_S2_We_5 - x_T10_S2_Th_1 - x_T10_S2_Th_2 - x_T10_S2_Th_2 - x_T10_S2_Th_3 - x_T10_S2_Th_3 - x_T10_S2_Th_4 - x_T10_S2_Th_4 - x_T10_S2_Th_5 - x_T10_S2_Fr_1 - x_T10_S2_Fr_2 - x_T10_S2_Fr_2 - x_T10_S2_Fr_3 - x_T10_S2_Fr_3 - x_T10_S2_Fr_4 - x_T10_S2_Fr_4 - x_T10_S2_Fr_5
+ double_lessons_T10_S3: g_T10_S3 >= 2 - x_T10_S3_Mo_1 - x_T10_S3_Mo_2 - x_T10_S3_Mo_2 - x_T10_S3_Mo_3 - x_T10_S3_Mo_3 - x_T10_S3_Mo_4 - x_T10_S3_Mo_4 - x_T10_S3_Mo_5 - x_T10_S3_Tu_1 - x_T10_S3_Tu_2 - x_T10_S3_Tu_2 - x_T10_S3_Tu_3 - x_T10_S3_Tu_3 - x_T10_S3_Tu_4 - x_T10_S3_Tu_4 - x_T10_S3_Tu_5 - x_T10_S3_We_1 - x_T10_S3_We_2 - x_T10_S3_We_2 - x_T10_S3_We_3 - x_T10_S3_We_3 - x_T10_S3_We_4 - x_T10_S3_We_4 - x_T10_S3_We_5 - x_T10_S3_Th_1 - x_T10_S3_Th_2 - x_T10_S3_Th_2 - x_T10_S3_Th_3 - x_T10_S3_Th_3 - x_T10_S3_Th_4 - x_T10_S3_Th_4 - x_T10_S3_Th_5 - x_T10_S3_Fr_1 - x_T10_S3_Fr_2 - x_T10_S3_Fr_2 - x_T10_S3_Fr_3 - x_T10_S3_Fr_3 - x_T10_S3_Fr_4 - x_T10_S3_Fr_4 - x_T10_S3_Fr_5
+ double_lessons_T10_S4: g_T10_S4 >= 2 - x_T10_S4_Mo_1 - x_T10_S4_Mo_2 - x_T10_S4_Mo_2 - x_T10_S4_Mo_3 - x_T10_S4_Mo_3 - x_T10_S4_Mo_4 - x_T10_S4_Mo_4 - x_T10_S4_Mo_5 - x_T10_S4_Tu_1 - x_T10_S4_Tu_2 - x_T10_S4_Tu_2 - x_T10_S4_Tu_3 - x_T10_S4_Tu_3 - x_T10_S4_Tu_4 - x_T10_S4_Tu_4 - x_T10_S4_Tu_5 - x_T10_S4_We_1 - x_T10_S4_We_2 - x_T10_S4_We_2 - x_T10_S4_We_3 - x_T10_S4_We_3 - x_T10_S4_We_4 - x_T10_S4_We_4 - x_T10_S4_We_5 - x_T10_S4_Th_1 - x_T10_S4_Th_2 - x_T10_S4_Th_2 - x_T10_S4_Th_3 - x_T10_S4_Th_3 - x_T10_S4_Th_4 - x_T10_S4_Th_4 - x_T10_S4_Th_5 - x_T10_S4_Fr_1 - x_T10_S4_Fr_2 - x_T10_S4_Fr_2 - x_T10_S4_Fr_3 - x_T10_S4_Fr_3 - x_T10_S4_Fr_4 - x_T10_S4_Fr_4 - x_T10_S4_Fr_5
+ double_lessons_T10_S5: g_T10_S5 >= 2 - x_T10_S5_Mo_1 - x_T10_S5_Mo_2 - x_T10_S5_Mo_2 - x_T10_S5_Mo_3 - x_T10_S5_Mo_3 - x_T10_S5_Mo_4 - x_T10_S5_Mo_4 - x_T10_S5_Mo_5 - x_T10_S5_Tu_1 - x_T10_S5_Tu_2 - x_T10_S5_Tu_2 - x_T10_S5_Tu_3 - x_T10_S5_Tu_3 - x_T10_S5_Tu_4 - x_T10_S5_Tu_4 - x_T10_S5_Tu_5 - x_T10_S5_We_1 - x_T10_S5_We_2 - x_T10_S5_We_2 - x_T10_S5_We_3 - x_T10_S5_We_3 - x_T10_S5_We_4 - x_T10_S5_We_4 - x_T10_S5_We_5 - x_T10_S5_Th_1 - x_T10_S5_Th_2 - x_T10_S5_Th_2 - x_T10_S5_Th_3 - x_T10_S5_Th_3 - x_T10_S5_Th_4 - x_T10_S5_Th_4 - x_T10_S5_Th_5 - x_T10_S5_Fr_1 - x_T10_S5_Fr_2 - x_T10_S5_Fr_2 - x_T10_S5_Fr_3 - x_T10_S5_Fr_3 - x_T10_S5_Fr_4 - x_T10_S5_Fr_4 - x_T10_S5_Fr_5
+ double_lessons_T11_S6: g_T11_S6 >= 2 - x_T11_S6_Mo_1 - x_T11_S6_Mo_2 - x_T11_S6_Mo_2 - x_T11_S6_Mo_3 - x_T11_S6_Mo_3 - x_T11_S6_Mo_4 - x_T11_S6_Mo_4 - x_T11_S6_Mo_5 - x_T11_S6_Tu_1 - x_T11_S6_Tu_2 - x_T11_S6_Tu_2 - x_T11_S6_Tu_3 - x_T11_S6_Tu_3 - x_T11_S6_Tu_4 - x_T11_S6_Tu_4 - x_T11_S6_Tu_5 - x_T11_S6_We_1 - x_T11_S6_We_2 - x_T11_S6_We_2 - x_T11_S6_We_3 - x_T11_S6_We_3 - x_T11_S6_We_4 - x_T11_S6_We_4 - x_T11_S6_We_5 - x_T11_S6_Th_1 - x_T11_S6_Th_2 - x_T11_S6_Th_2 - x_T11_S6_Th_3 - x_T11_S6_Th_3 - x_T11_S6_Th_4 - x_T11_S6_Th_4 - x_T11_S6_Th_5 - x_T11_S6_Fr_1 - x_T11_S6_Fr_2 - x_T11_S6_Fr_2 - x_T11_S6_Fr_3 - x_T11_S6_Fr_3 - x_T11_S6_Fr_4 - x_T11_S6_Fr_4 - x_T11_S6_Fr_5
+ double_lessons_T11_S7: g_T11_S7 >= 2 - x_T11_S7_Mo_1 - x_T11_S7_Mo_2 - x_T11_S7_Mo_2 - x_T11_S7_Mo_3 - x_T11_S7_Mo_3 - x_T11_S7_Mo_4 - x_T11_S7_Mo_4 - x_T11_S7_Mo_5 - x_T11_S7_Tu_1 - x_T11_S7_Tu_2 - x_T11_S7_Tu_2 - x_T11_S7_Tu_3 - x_T11_S7_Tu_3 - x_T11_S7_Tu_4 - x_T11_S7_Tu_4 - x_T11_S7_Tu_5 - x_T11_S7_We_1 - x_T11_S7_We_2 - x_T11_S7_We_2 - x_T11_S7_We_3 - x_T11_S7_We_3 - x_T11_S7_We_4 - x_T11_S7_We_4 - x_T11_S7_We_5 - x_T11_S7_Th_1 - x_T11_S7_Th_2 - x_T11_S7_Th_2 - x_T11_S7_Th_3 - x_T11_S7_Th_3 - x_T11_S7_Th_4 - x_T11_S7_Th_4 - x_T11_S7_Th_5 - x_T11_S7_Fr_1 - x_T11_S7_Fr_2 - x_T11_S7_Fr_2 - x_T11_S7_Fr_3 - x_T11_S7_Fr_3 - x_T11_S7_Fr_4 - x_T11_S7_Fr_4 - x_T11_S7_Fr_5
+ double_lessons_T11_S8: g_T11_S8 >= 2 - x_T11_S8_Mo_1 - x_T11_S8_Mo_2 - x_T11_S8_Mo_2 - x_T11_S8_Mo_3 - x_T11_S8_Mo_3 - x_T11_S8_Mo_4 - x_T11_S8_Mo_4 - x_T11_S8_Mo_5 - x_T11_S8_Tu_1 - x_T11_S8_Tu_2 - x_T11_S8_Tu_2 - x_T11_S8_Tu_3 - x_T11_S8_Tu_3 - x_T11_S8_Tu_4 - x_T11_S8_Tu_4 - x_T11_S8_Tu_5 - x_T11_S8_We_1 - x_T11_S8_We_2 - x_T11_S8_We_2 - x_T11_S8_We_3 - x_T11_S8_We_3 - x_T11_S8_We_4 - x_T11_S8_We_4 - x_T11_S8_We_5 - x_T11_S8_Th_1 - x_T11_S8_Th_2 - x_T11_S8_Th_2 - x_T11_S8_Th_3 - x_T11_S8_Th_3 - x_T11_S8_Th_4 - x_T11_S8_Th_4 - x_T11_S8_Th_5 - x_T11_S8_Fr_1 - x_T11_S8_Fr_2 - x_T11_S8_Fr_2 - x_T11_S8_Fr_3 - x_T11_S8_Fr_3 - x_T11_S8_Fr_4 - x_T11_S8_Fr_4 - x_T11_S8_Fr_5
+ double_lessons_T11_S9: g_T11_S9 >= 2 - x_T11_S9_Mo_1 - x_T11_S9_Mo_2 - x_T11_S9_Mo_2 - x_T11_S9_Mo_3 - x_T11_S9_Mo_3 - x_T11_S9_Mo_4 - x_T11_S9_Mo_4 - x_T11_S9_Mo_5 - x_T11_S9_Tu_1 - x_T11_S9_Tu_2 - x_T11_S9_Tu_2 - x_T11_S9_Tu_3 - x_T11_S9_Tu_3 - x_T11_S9_Tu_4 - x_T11_S9_Tu_4 - x_T11_S9_Tu_5 - x_T11_S9_We_1 - x_T11_S9_We_2 - x_T11_S9_We_2 - x_T11_S9_We_3 - x_T11_S9_We_3 - x_T11_S9_We_4 - x_T11_S9_We_4 - x_T11_S9_We_5 - x_T11_S9_Th_1 - x_T11_S9_Th_2 - x_T11_S9_Th_2 - x_T11_S9_Th_3 - x_T11_S9_Th_3 - x_T11_S9_Th_4 - x_T11_S9_Th_4 - x_T11_S9_Th_5 - x_T11_S9_Fr_1 - x_T11_S9_Fr_2 - x_T11_S9_Fr_2 - x_T11_S9_Fr_3 - x_T11_S9_Fr_3 - x_T11_S9_Fr_4 - x_T11_S9_Fr_4 - x_T11_S9_Fr_5
+ double_lessons_T11_S10: g_T11_S10 >= 2 - x_T11_S10_Mo_1 - x_T11_S10_Mo_2 - x_T11_S10_Mo_2 - x_T11_S10_Mo_3 - x_T11_S10_Mo_3 - x_T11_S10_Mo_4 - x_T11_S10_Mo_4 - x_T11_S10_Mo_5 - x_T11_S10_Tu_1 - x_T11_S10_Tu_2 - x_T11_S10_Tu_2 - x_T11_S10_Tu_3 - x_T11_S10_Tu_3 - x_T11_S10_Tu_4 - x_T11_S10_Tu_4 - x_T11_S10_Tu_5 - x_T11_S10_We_1 - x_T11_S10_We_2 - x_T11_S10_We_2 - x_T11_S10_We_3 - x_T11_S10_We_3 - x_T11_S10_We_4 - x_T11_S10_We_4 - x_T11_S10_We_5 - x_T11_S10_Th_1 - x_T11_S10_Th_2 - x_T11_S10_Th_2 - x_T11_S10_Th_3 - x_T11_S10_Th_3 - x_T11_S10_Th_4 - x_T11_S10_Th_4 - x_T11_S10_Th_5 - x_T11_S10_Fr_1 - x_T11_S10_Fr_2 - x_T11_S10_Fr_2 - x_T11_S10_Fr_3 - x_T11_S10_Fr_3 - x_T11_S10_Fr_4 - x_T11_S10_Fr_4 - x_T11_S10_Fr_5
+ double_lessons_T12_S11: g_T12_S11 >= 2 - x_T12_S11_Mo_1 - x_T12_S11_Mo_2 - x_T12_S11_Mo_2 - x_T12_S11_Mo_3 - x_T12_S11_Mo_3 - x_T12_S11_Mo_4 - x_T12_S11_Mo_4 - x_T12_S11_Mo_5 - x_T12_S11_Tu_1 - x_T12_S11_Tu_2 - x_T12_S11_Tu_2 - x_T12_S11_Tu_3 - x_T12_S11_Tu_3 - x_T12_S11_Tu_4 - x_T12_S11_Tu_4 - x_T12_S11_Tu_5 - x_T12_S11_We_1 - x_T12_S11_We_2 - x_T12_S11_We_2 - x_T12_S11_We_3 - x_T12_S11_We_3 - x_T12_S11_We_4 - x_T12_S11_We_4 - x_T12_S11_We_5 - x_T12_S11_Th_1 - x_T12_S11_Th_2 - x_T12_S11_Th_2 - x_T12_S11_Th_3 - x_T12_S11_Th_3 - x_T12_S11_Th_4 - x_T12_S11_Th_4 - x_T12_S11_Th_5 - x_T12_S11_Fr_1 - x_T12_S11_Fr_2 - x_T12_S11_Fr_2 - x_T12_S11_Fr_3 - x_T12_S11_Fr_3 - x_T12_S11_Fr_4 - x_T12_S11_Fr_4 - x_T12_S11_Fr_5
+ double_lessons_T12_S12: g_T12_S12 >= 2 - x_T12_S12_Mo_1 - x_T12_S12_Mo_2 - x_T12_S12_Mo_2 - x_T12_S12_Mo_3 - x_T12_S12_Mo_3 - x_T12_S12_Mo_4 - x_T12_S12_Mo_4 - x_T12_S12_Mo_5 - x_T12_S12_Tu_1 - x_T12_S12_Tu_2 - x_T12_S12_Tu_2 - x_T12_S12_Tu_3 - x_T12_S12_Tu_3 - x_T12_S12_Tu_4 - x_T12_S12_Tu_4 - x_T12_S12_Tu_5 - x_T12_S12_We_1 - x_T12_S12_We_2 - x_T12_S12_We_2 - x_T12_S12_We_3 - x_T12_S12_We_3 - x_T12_S12_We_4 - x_T12_S12_We_4 - x_T12_S12_We_5 - x_T12_S12_Th_1 - x_T12_S12_Th_2 - x_T12_S12_Th_2 - x_T12_S12_Th_3 - x_T12_S12_Th_3 - x_T12_S12_Th_4 - x_T12_S12_Th_4 - x_T12_S12_Th_5 - x_T12_S12_Fr_1 - x_T12_S12_Fr_2 - x_T12_S12_Fr_2 - x_T12_S12_Fr_3 - x_T12_S12_Fr_3 - x_T12_S12_Fr_4 - x_T12_S12_Fr_4 - x_T12_S12_Fr_5
+ double_lessons_T12_S13: g_T12_S13 >= 2 - x_T12_S13_Mo_1 - x_T12_S13_Mo_2 - x_T12_S13_Mo_2 - x_T12_S13_Mo_3 - x_T12_S13_Mo_3 - x_T12_S13_Mo_4 - x_T12_S13_Mo_4 - x_T12_S13_Mo_5 - x_T12_S13_Tu_1 - x_T12_S13_Tu_2 - x_T12_S13_Tu_2 - x_T12_S13_Tu_3 - x_T12_S13_Tu_3 - x_T12_S13_Tu_4 - x_T12_S13_Tu_4 - x_T12_S13_Tu_5 - x_T12_S13_We_1 - x_T12_S13_We_2 - x_T12_S13_We_2 - x_T12_S13_We_3 - x_T12_S13_We_3 - x_T12_S13_We_4 - x_T12_S13_We_4 - x_T12_S13_We_5 - x_T12_S13_Th_1 - x_T12_S13_Th_2 - x_T12_S13_Th_2 - x_T12_S13_Th_3 - x_T12_S13_Th_3 - x_T12_S13_Th_4 - x_T12_S13_Th_4 - x_T12_S13_Th_5 - x_T12_S13_Fr_1 - x_T12_S13_Fr_2 - x_T12_S13_Fr_2 - x_T12_S13_Fr_3 - x_T12_S13_Fr_3 - x_T12_S13_Fr_4 - x_T12_S13_Fr_4 - x_T12_S13_Fr_5
+ double_lessons_T12_S14: g_T12_S14 >= 2 - x_T12_S14_Mo_1 - x_T12_S14_Mo_2 - x_T12_S14_Mo_2 - x_T12_S14_Mo_3 - x_T12_S14_Mo_3 - x_T12_S14_Mo_4 - x_T12_S14_Mo_4 - x_T12_S14_Mo_5 - x_T12_S14_Tu_1 - x_T12_S14_Tu_2 - x_T12_S14_Tu_2 - x_T12_S14_Tu_3 - x_T12_S14_Tu_3 - x_T12_S14_Tu_4 - x_T12_S14_Tu_4 - x_T12_S14_Tu_5 - x_T12_S14_We_1 - x_T12_S14_We_2 - x_T12_S14_We_2 - x_T12_S14_We_3 - x_T12_S14_We_3 - x_T12_S14_We_4 - x_T12_S14_We_4 - x_T12_S14_We_5 - x_T12_S14_Th_1 - x_T12_S14_Th_2 - x_T12_S14_Th_2 - x_T12_S14_Th_3 - x_T12_S14_Th_3 - x_T12_S14_Th_4 - x_T12_S14_Th_4 - x_T12_S14_Th_5 - x_T12_S14_Fr_1 - x_T12_S14_Fr_2 - x_T12_S14_Fr_2 - x_T12_S14_Fr_3 - x_T12_S14_Fr_3 - x_T12_S14_Fr_4 - x_T12_S14_Fr_4 - x_T12_S14_Fr_5
+ double_lessons_T12_S15: g_T12_S15 >= 2 - x_T12_S15_Mo_1 - x_T12_S15_Mo_2 - x_T12_S15_Mo_2 - x_T12_S15_Mo_3 - x_T12_S15_Mo_3 - x_T12_S15_Mo_4 - x_T12_S15_Mo_4 - x_T12_S15_Mo_5 - x_T12_S15_Tu_1 - x_T12_S15_Tu_2 - x_T12_S15_Tu_2 - x_T12_S15_Tu_3 - x_T12_S15_Tu_3 - x_T12_S15_Tu_4 - x_T12_S15_Tu_4 - x_T12_S15_Tu_5 - x_T12_S15_We_1 - x_T12_S15_We_2 - x_T12_S15_We_2 - x_T12_S15_We_3 - x_T12_S15_We_3 - x_T12_S15_We_4 - x_T12_S15_We_4 - x_T12_S15_We_5 - x_T12_S15_Th_1 - x_T12_S15_Th_2 - x_T12_S15_Th_2 - x_T12_S15_Th_3 - x_T12_S15_Th_3 - x_T12_S15_Th_4 - x_T12_S15_Th_4 - x_T12_S15_Th_5 - x_T12_S15_Fr_1 - x_T12_S15_Fr_2 - x_T12_S15_Fr_2 - x_T12_S15_Fr_3 - x_T12_S15_Fr_3 - x_T12_S15_Fr_4 - x_T12_S15_Fr_4 - x_T12_S15_Fr_5
+ double_lessons_T13_S16: g_T13_S16 >= 2 - x_T13_S16_Mo_1 - x_T13_S16_Mo_2 - x_T13_S16_Mo_2 - x_T13_S16_Mo_3 - x_T13_S16_Mo_3 - x_T13_S16_Mo_4 - x_T13_S16_Mo_4 - x_T13_S16_Mo_5 - x_T13_S16_Tu_1 - x_T13_S16_Tu_2 - x_T13_S16_Tu_2 - x_T13_S16_Tu_3 - x_T13_S16_Tu_3 - x_T13_S16_Tu_4 - x_T13_S16_Tu_4 - x_T13_S16_Tu_5 - x_T13_S16_We_1 - x_T13_S16_We_2 - x_T13_S16_We_2 - x_T13_S16_We_3 - x_T13_S16_We_3 - x_T13_S16_We_4 - x_T13_S16_We_4 - x_T13_S16_We_5 - x_T13_S16_Th_1 - x_T13_S16_Th_2 - x_T13_S16_Th_2 - x_T13_S16_Th_3 - x_T13_S16_Th_3 - x_T13_S16_Th_4 - x_T13_S16_Th_4 - x_T13_S16_Th_5 - x_T13_S16_Fr_1 - x_T13_S16_Fr_2 - x_T13_S16_Fr_2 - x_T13_S16_Fr_3 - x_T13_S16_Fr_3 - x_T13_S16_Fr_4 - x_T13_S16_Fr_4 - x_T13_S16_Fr_5
+ double_lessons_T13_S17: g_T13_S17 >= 2 - x_T13_S17_Mo_1 - x_T13_S17_Mo_2 - x_T13_S17_Mo_2 - x_T13_S17_Mo_3 - x_T13_S17_Mo_3 - x_T13_S17_Mo_4 - x_T13_S17_Mo_4 - x_T13_S17_Mo_5 - x_T13_S17_Tu_1 - x_T13_S17_Tu_2 - x_T13_S17_Tu_2 - x_T13_S17_Tu_3 - x_T13_S17_Tu_3 - x_T13_S17_Tu_4 - x_T13_S17_Tu_4 - x_T13_S17_Tu_5 - x_T13_S17_We_1 - x_T13_S17_We_2 - x_T13_S17_We_2 - x_T13_S17_We_3 - x_T13_S17_We_3 - x_T13_S17_We_4 - x_T13_S17_We_4 - x_T13_S17_We_5 - x_T13_S17_Th_1 - x_T13_S17_Th_2 - x_T13_S17_Th_2 - x_T13_S17_Th_3 - x_T13_S17_Th_3 - x_T13_S17_Th_4 - x_T13_S17_Th_4 - x_T13_S17_Th_5 - x_T13_S17_Fr_1 - x_T13_S17_Fr_2 - x_T13_S17_Fr_2 - x_T13_S17_Fr_3 - x_T13_S17_Fr_3 - x_T13_S17_Fr_4 - x_T13_S17_Fr_4 - x_T13_S17_Fr_5
+ double_lessons_T13_S18: g_T13_S18 >= 2 - x_T13_S18_Mo_1 - x_T13_S18_Mo_2 - x_T13_S18_Mo_2 - x_T13_S18_Mo_3 - x_T13_S18_Mo_3 - x_T13_S18_Mo_4 - x_T13_S18_Mo_4 - x_T13_S18_Mo_5 - x_T13_S18_Tu_1 - x_T13_S18_Tu_2 - x_T13_S18_Tu_2 - x_T13_S18_Tu_3 - x_T13_S18_Tu_3 - x_T13_S18_Tu_4 - x_T13_S18_Tu_4 - x_T13_S18_Tu_5 - x_T13_S18_We_1 - x_T13_S18_We_2 - x_T13_S18_We_2 - x_T13_S18_We_3 - x_T13_S18_We_3 - x_T13_S18_We_4 - x_T13_S18_We_4 - x_T13_S18_We_5 - x_T13_S18_Th_1 - x_T13_S18_Th_2 - x_T13_S18_Th_2 - x_T13_S18_Th_3 - x_T13_S18_Th_3 - x_T13_S18_Th_4 - x_T13_S18_Th_4 - x_T13_S18_Th_5 - x_T13_S18_Fr_1 - x_T13_S18_Fr_2 - x_T13_S18_Fr_2 - x_T13_S18_Fr_3 - x_T13_S18_Fr_3 - x_T13_S18_Fr_4 - x_T13_S18_Fr_4 - x_T13_S18_Fr_5
+ double_lessons_T13_S19: g_T13_S19 >= 2 - x_T13_S19_Mo_1 - x_T13_S19_Mo_2 - x_T13_S19_Mo_2 - x_T13_S19_Mo_3 - x_T13_S19_Mo_3 - x_T13_S19_Mo_4 - x_T13_S19_Mo_4 - x_T13_S19_Mo_5 - x_T13_S19_Tu_1 - x_T13_S19_Tu_2 - x_T13_S19_Tu_2 - x_T13_S19_Tu_3 - x_T13_S19_Tu_3 - x_T13_S19_Tu_4 - x_T13_S19_Tu_4 - x_T13_S19_Tu_5 - x_T13_S19_We_1 - x_T13_S19_We_2 - x_T13_S19_We_2 - x_T13_S19_We_3 - x_T13_S19_We_3 - x_T13_S19_We_4 - x_T13_S19_We_4 - x_T13_S19_We_5 - x_T13_S19_Th_1 - x_T13_S19_Th_2 - x_T13_S19_Th_2 - x_T13_S19_Th_3 - x_T13_S19_Th_3 - x_T13_S19_Th_4 - x_T13_S19_Th_4 - x_T13_S19_Th_5 - x_T13_S19_Fr_1 - x_T13_S19_Fr_2 - x_T13_S19_Fr_2 - x_T13_S19_Fr_3 - x_T13_S19_Fr_3 - x_T13_S19_Fr_4 - x_T13_S19_Fr_4 - x_T13_S19_Fr_5
+ double_lessons_T13_S20: g_T13_S20 >= 2 - x_T13_S20_Mo_1 - x_T13_S20_Mo_2 - x_T13_S20_Mo_2 - x_T13_S20_Mo_3 - x_T13_S20_Mo_3 - x_T13_S20_Mo_4 - x_T13_S20_Mo_4 - x_T13_S20_Mo_5 - x_T13_S20_Tu_1 - x_T13_S20_Tu_2 - x_T13_S20_Tu_2 - x_T13_S20_Tu_3 - x_T13_S20_Tu_3 - x_T13_S20_Tu_4 - x_T13_S20_Tu_4 - x_T13_S20_Tu_5 - x_T13_S20_We_1 - x_T13_S20_We_2 - x_T13_S20_We_2 - x_T13_S20_We_3 - x_T13_S20_We_3 - x_T13_S20_We_4 - x_T13_S20_We_4 - x_T13_S20_We_5 - x_T13_S20_Th_1 - x_T13_S20_Th_2 - x_T13_S20_Th_2 - x_T13_S20_Th_3 - x_T13_S20_Th_3 - x_T13_S20_Th_4 - x_T13_S20_Th_4 - x_T13_S20_Th_5 - x_T13_S20_Fr_1 - x_T13_S20_Fr_2 - x_T13_S20_Fr_2 - x_T13_S20_Fr_3 - x_T13_S20_Fr_3 - x_T13_S20_Fr_4 - x_T13_S20_Fr_4 - x_T13_S20_Fr_5
+ double_lessons_T14_S1: g_T14_S1 >= 2 - x_T14_S1_Mo_1 - x_T14_S1_Mo_2 - x_T14_S1_Mo_2 - x_T14_S1_Mo_3 - x_T14_S1_Mo_3 - x_T14_S1_Mo_4 - x_T14_S1_Mo_4 - x_T14_S1_Mo_5 - x_T14_S1_Tu_1 - x_T14_S1_Tu_2 - x_T14_S1_Tu_2 - x_T14_S1_Tu_3 - x_T14_S1_Tu_3 - x_T14_S1_Tu_4 - x_T14_S1_Tu_4 - x_T14_S1_Tu_5 - x_T14_S1_We_1 - x_T14_S1_We_2 - x_T14_S1_We_2 - x_T14_S1_We_3 - x_T14_S1_We_3 - x_T14_S1_We_4 - x_T14_S1_We_4 - x_T14_S1_We_5 - x_T14_S1_Th_1 - x_T14_S1_Th_2 - x_T14_S1_Th_2 - x_T14_S1_Th_3 - x_T14_S1_Th_3 - x_T14_S1_Th_4 - x_T14_S1_Th_4 - x_T14_S1_Th_5 - x_T14_S1_Fr_1 - x_T14_S1_Fr_2 - x_T14_S1_Fr_2 - x_T14_S1_Fr_3 - x_T14_S1_Fr_3 - x_T14_S1_Fr_4 - x_T14_S1_Fr_4 - x_T14_S1_Fr_5
+ double_lessons_T14_S2: g_T14_S2 >= 2 - x_T14_S2_Mo_1 - x_T14_S2_Mo_2 - x_T14_S2_Mo_2 - x_T14_S2_Mo_3 - x_T14_S2_Mo_3 - x_T14_S2_Mo_4 - x_T14_S2_Mo_4 - x_T14_S2_Mo_5 - x_T14_S2_Tu_1 - x_T14_S2_Tu_2 - x_T14_S2_Tu_2 - x_T14_S2_Tu_3 - x_T14_S2_Tu_3 - x_T14_S2_Tu_4 - x_T14_S2_Tu_4 - x_T14_S2_Tu_5 - x_T14_S2_We_1 - x_T14_S2_We_2 - x_T14_S2_We_2 - x_T14_S2_We_3 - x_T14_S2_We_3 - x_T14_S2_We_4 - x_T14_S2_We_4 - x_T14_S2_We_5 - x_T14_S2_Th_1 - x_T14_S2_Th_2 - x_T14_S2_Th_2 - x_T14_S2_Th_3 - x_T14_S2_Th_3 - x_T14_S2_Th_4 - x_T14_S2_Th_4 - x_T14_S2_Th_5 - x_T14_S2_Fr_1 - x_T14_S2_Fr_2 - x_T14_S2_Fr_2 - x_T14_S2_Fr_3 - x_T14_S2_Fr_3 - x_T14_S2_Fr_4 - x_T14_S2_Fr_4 - x_T14_S2_Fr_5
+ double_lessons_T14_S3: g_T14_S3 >= 2 - x_T14_S3_Mo_1 - x_T14_S3_Mo_2 - x_T14_S3_Mo_2 - x_T14_S3_Mo_3 - x_T14_S3_Mo_3 - x_T14_S3_Mo_4 - x_T14_S3_Mo_4 - x_T14_S3_Mo_5 - x_T14_S3_Tu_1 - x_T14_S3_Tu_2 - x_T14_S3_Tu_2 - x_T14_S3_Tu_3 - x_T14_S3_Tu_3 - x_T14_S3_Tu_4 - x_T14_S3_Tu_4 - x_T14_S3_Tu_5 - x_T14_S3_We_1 - x_T14_S3_We_2 - x_T14_S3_We_2 - x_T14_S3_We_3 - x_T14_S3_We_3 - x_T14_S3_We_4 - x_T14_S3_We_4 - x_T14_S3_We_5 - x_T14_S3_Th_1 - x_T14_S3_Th_2 - x_T14_S3_Th_2 - x_T14_S3_Th_3 - x_T14_S3_Th_3 - x_T14_S3_Th_4 - x_T14_S3_Th_4 - x_T14_S3_Th_5 - x_T14_S3_Fr_1 - x_T14_S3_Fr_2 - x_T14_S3_Fr_2 - x_T14_S3_Fr_3 - x_T14_S3_Fr_3 - x_T14_S3_Fr_4 - x_T14_S3_Fr_4 - x_T14_S3_Fr_5
+ double_lessons_T14_S10: g_T14_S10 >= 2 - x_T14_S10_Mo_1 - x_T14_S10_Mo_2 - x_T14_S10_Mo_2 - x_T14_S10_Mo_3 - x_T14_S10_Mo_3 - x_T14_S10_Mo_4 - x_T14_S10_Mo_4 - x_T14_S10_Mo_5 - x_T14_S10_Tu_1 - x_T14_S10_Tu_2 - x_T14_S10_Tu_2 - x_T14_S10_Tu_3 - x_T14_S10_Tu_3 - x_T14_S10_Tu_4 - x_T14_S10_Tu_4 - x_T14_S10_Tu_5 - x_T14_S10_We_1 - x_T14_S10_We_2 - x_T14_S10_We_2 - x_T14_S10_We_3 - x_T14_S10_We_3 - x_T14_S10_We_4 - x_T14_S10_We_4 - x_T14_S10_We_5 - x_T14_S10_Th_1 - x_T14_S10_Th_2 - x_T14_S10_Th_2 - x_T14_S10_Th_3 - x_T14_S10_Th_3 - x_T14_S10_Th_4 - x_T14_S10_Th_4 - x_T14_S10_Th_5 - x_T14_S10_Fr_1 - x_T14_S10_Fr_2 - x_T14_S10_Fr_2 - x_T14_S10_Fr_3 - x_T14_S10_Fr_3 - x_T14_S10_Fr_4 - x_T14_S10_Fr_4 - x_T14_S10_Fr_5
+ double_lessons_T14_S13: g_T14_S13 >= 2 - x_T14_S13_Mo_1 - x_T14_S13_Mo_2 - x_T14_S13_Mo_2 - x_T14_S13_Mo_3 - x_T14_S13_Mo_3 - x_T14_S13_Mo_4 - x_T14_S13_Mo_4 - x_T14_S13_Mo_5 - x_T14_S13_Tu_1 - x_T14_S13_Tu_2 - x_T14_S13_Tu_2 - x_T14_S13_Tu_3 - x_T14_S13_Tu_3 - x_T14_S13_Tu_4 - x_T14_S13_Tu_4 - x_T14_S13_Tu_5 - x_T14_S13_We_1 - x_T14_S13_We_2 - x_T14_S13_We_2 - x_T14_S13_We_3 - x_T14_S13_We_3 - x_T14_S13_We_4 - x_T14_S13_We_4 - x_T14_S13_We_5 - x_T14_S13_Th_1 - x_T14_S13_Th_2 - x_T14_S13_Th_2 - x_T14_S13_Th_3 - x_T14_S13_Th_3 - x_T14_S13_Th_4 - x_T14_S13_Th_4 - x_T14_S13_Th_5 - x_T14_S13_Fr_1 - x_T14_S13_Fr_2 - x_T14_S13_Fr_2 - x_T14_S13_Fr_3 - x_T14_S13_Fr_3 - x_T14_S13_Fr_4 - x_T14_S13_Fr_4 - x_T14_S13_Fr_5
+ double_lessons_T14_S16: g_T14_S16 >= 2 - x_T14_S16_Mo_1 - x_T14_S16_Mo_2 - x_T14_S16_Mo_2 - x_T14_S16_Mo_3 - x_T14_S16_Mo_3 - x_T14_S16_Mo_4 - x_T14_S16_Mo_4 - x_T14_S16_Mo_5 - x_T14_S16_Tu_1 - x_T14_S16_Tu_2 - x_T14_S16_Tu_2 - x_T14_S16_Tu_3 - x_T14_S16_Tu_3 - x_T14_S16_Tu_4 - x_T14_S16_Tu_4 - x_T14_S16_Tu_5 - x_T14_S16_We_1 - x_T14_S16_We_2 - x_T14_S16_We_2 - x_T14_S16_We_3 - x_T14_S16_We_3 - x_T14_S16_We_4 - x_T14_S16_We_4 - x_T14_S16_We_5 - x_T14_S16_Th_1 - x_T14_S16_Th_2 - x_T14_S16_Th_2 - x_T14_S16_Th_3 - x_T14_S16_Th_3 - x_T14_S16_Th_4 - x_T14_S16_Th_4 - x_T14_S16_Th_5 - x_T14_S16_Fr_1 - x_T14_S16_Fr_2 - x_T14_S16_Fr_2 - x_T14_S16_Fr_3 - x_T14_S16_Fr_3 - x_T14_S16_Fr_4 - x_T14_S16_Fr_4 - x_T14_S16_Fr_5
+ double_lessons_T14_S17: g_T14_S17 >= 2 - x_T14_S17_Mo_1 - x_T14_S17_Mo_2 - x_T14_S17_Mo_2 - x_T14_S17_Mo_3 - x_T14_S17_Mo_3 - x_T14_S17_Mo_4 - x_T14_S17_Mo_4 - x_T14_S17_Mo_5 - x_T14_S17_Tu_1 - x_T14_S17_Tu_2 - x_T14_S17_Tu_2 - x_T14_S17_Tu_3 - x_T14_S17_Tu_3 - x_T14_S17_Tu_4 - x_T14_S17_Tu_4 - x_T14_S17_Tu_5 - x_T14_S17_We_1 - x_T14_S17_We_2 - x_T14_S17_We_2 - x_T14_S17_We_3 - x_T14_S17_We_3 - x_T14_S17_We_4 - x_T14_S17_We_4 - x_T14_S17_We_5 - x_T14_S17_Th_1 - x_T14_S17_Th_2 - x_T14_S17_Th_2 - x_T14_S17_Th_3 - x_T14_S17_Th_3 - x_T14_S17_Th_4 - x_T14_S17_Th_4 - x_T14_S17_Th_5 - x_T14_S17_Fr_1 - x_T14_S17_Fr_2 - x_T14_S17_Fr_2 - x_T14_S17_Fr_3 - x_T14_S17_Fr_3 - x_T14_S17_Fr_4 - x_T14_S17_Fr_4 - x_T14_S17_Fr_5
+ double_lessons_T15_S4: g_T15_S4 >= 2 - x_T15_S4_Mo_1 - x_T15_S4_Mo_2 - x_T15_S4_Mo_2 - x_T15_S4_Mo_3 - x_T15_S4_Mo_3 - x_T15_S4_Mo_4 - x_T15_S4_Mo_4 - x_T15_S4_Mo_5 - x_T15_S4_Tu_1 - x_T15_S4_Tu_2 - x_T15_S4_Tu_2 - x_T15_S4_Tu_3 - x_T15_S4_Tu_3 - x_T15_S4_Tu_4 - x_T15_S4_Tu_4 - x_T15_S4_Tu_5 - x_T15_S4_We_1 - x_T15_S4_We_2 - x_T15_S4_We_2 - x_T15_S4_We_3 - x_T15_S4_We_3 - x_T15_S4_We_4 - x_T15_S4_We_4 - x_T15_S4_We_5 - x_T15_S4_Th_1 - x_T15_S4_Th_2 - x_T15_S4_Th_2 - x_T15_S4_Th_3 - x_T15_S4_Th_3 - x_T15_S4_Th_4 - x_T15_S4_Th_4 - x_T15_S4_Th_5 - x_T15_S4_Fr_1 - x_T15_S4_Fr_2 - x_T15_S4_Fr_2 - x_T15_S4_Fr_3 - x_T15_S4_Fr_3 - x_T15_S4_Fr_4 - x_T15_S4_Fr_4 - x_T15_S4_Fr_5
+ double_lessons_T15_S5: g_T15_S5 >= 2 - x_T15_S5_Mo_1 - x_T15_S5_Mo_2 - x_T15_S5_Mo_2 - x_T15_S5_Mo_3 - x_T15_S5_Mo_3 - x_T15_S5_Mo_4 - x_T15_S5_Mo_4 - x_T15_S5_Mo_5 - x_T15_S5_Tu_1 - x_T15_S5_Tu_2 - x_T15_S5_Tu_2 - x_T15_S5_Tu_3 - x_T15_S5_Tu_3 - x_T15_S5_Tu_4 - x_T15_S5_Tu_4 - x_T15_S5_Tu_5 - x_T15_S5_We_1 - x_T15_S5_We_2 - x_T15_S5_We_2 - x_T15_S5_We_3 - x_T15_S5_We_3 - x_T15_S5_We_4 - x_T15_S5_We_4 - x_T15_S5_We_5 - x_T15_S5_Th_1 - x_T15_S5_Th_2 - x_T15_S5_Th_2 - x_T15_S5_Th_3 - x_T15_S5_Th_3 - x_T15_S5_Th_4 - x_T15_S5_Th_4 - x_T15_S5_Th_5 - x_T15_S5_Fr_1 - x_T15_S5_Fr_2 - x_T15_S5_Fr_2 - x_T15_S5_Fr_3 - x_T15_S5_Fr_3 - x_T15_S5_Fr_4 - x_T15_S5_Fr_4 - x_T15_S5_Fr_5
+ double_lessons_T15_S6: g_T15_S6 >= 2 - x_T15_S6_Mo_1 - x_T15_S6_Mo_2 - x_T15_S6_Mo_2 - x_T15_S6_Mo_3 - x_T15_S6_Mo_3 - x_T15_S6_Mo_4 - x_T15_S6_Mo_4 - x_T15_S6_Mo_5 - x_T15_S6_Tu_1 - x_T15_S6_Tu_2 - x_T15_S6_Tu_2 - x_T15_S6_Tu_3 - x_T15_S6_Tu_3 - x_T15_S6_Tu_4 - x_T15_S6_Tu_4 - x_T15_S6_Tu_5 - x_T15_S6_We_1 - x_T15_S6_We_2 - x_T15_S6_We_2 - x_T15_S6_We_3 - x_T15_S6_We_3 - x_T15_S6_We_4 - x_T15_S6_We_4 - x_T15_S6_We_5 - x_T15_S6_Th_1 - x_T15_S6_Th_2 - x_T15_S6_Th_2 - x_T15_S6_Th_3 - x_T15_S6_Th_3 - x_T15_S6_Th_4 - x_T15_S6_Th_4 - x_T15_S6_Th_5 - x_T15_S6_Fr_1 - x_T15_S6_Fr_2 - x_T15_S6_Fr_2 - x_T15_S6_Fr_3 - x_T15_S6_Fr_3 - x_T15_S6_Fr_4 - x_T15_S6_Fr_4 - x_T15_S6_Fr_5
+ double_lessons_T15_S11: g_T15_S11 >= 2 - x_T15_S11_Mo_1 - x_T15_S11_Mo_2 - x_T15_S11_Mo_2 - x_T15_S11_Mo_3 - x_T15_S11_Mo_3 - x_T15_S11_Mo_4 - x_T15_S11_Mo_4 - x_T15_S11_Mo_5 - x_T15_S11_Tu_1 - x_T15_S11_Tu_2 - x_T15_S11_Tu_2 - x_T15_S11_Tu_3 - x_T15_S11_Tu_3 - x_T15_S11_Tu_4 - x_T15_S11_Tu_4 - x_T15_S11_Tu_5 - x_T15_S11_We_1 - x_T15_S11_We_2 - x_T15_S11_We_2 - x_T15_S11_We_3 - x_T15_S11_We_3 - x_T15_S11_We_4 - x_T15_S11_We_4 - x_T15_S11_We_5 - x_T15_S11_Th_1 - x_T15_S11_Th_2 - x_T15_S11_Th_2 - x_T15_S11_Th_3 - x_T15_S11_Th_3 - x_T15_S11_Th_4 - x_T15_S11_Th_4 - x_T15_S11_Th_5 - x_T15_S11_Fr_1 - x_T15_S11_Fr_2 - x_T15_S11_Fr_2 - x_T15_S11_Fr_3 - x_T15_S11_Fr_3 - x_T15_S11_Fr_4 - x_T15_S11_Fr_4 - x_T15_S11_Fr_5
+ double_lessons_T15_S14: g_T15_S14 >= 2 - x_T15_S14_Mo_1 - x_T15_S14_Mo_2 - x_T15_S14_Mo_2 - x_T15_S14_Mo_3 - x_T15_S14_Mo_3 - x_T15_S14_Mo_4 - x_T15_S14_Mo_4 - x_T15_S14_Mo_5 - x_T15_S14_Tu_1 - x_T15_S14_Tu_2 - x_T15_S14_Tu_2 - x_T15_S14_Tu_3 - x_T15_S14_Tu_3 - x_T15_S14_Tu_4 - x_T15_S14_Tu_4 - x_T15_S14_Tu_5 - x_T15_S14_We_1 - x_T15_S14_We_2 - x_T15_S14_We_2 - x_T15_S14_We_3 - x_T15_S14_We_3 - x_T15_S14_We_4 - x_T15_S14_We_4 - x_T15_S14_We_5 - x_T15_S14_Th_1 - x_T15_S14_Th_2 - x_T15_S14_Th_2 - x_T15_S14_Th_3 - x_T15_S14_Th_3 - x_T15_S14_Th_4 - x_T15_S14_Th_4 - x_T15_S14_Th_5 - x_T15_S14_Fr_1 - x_T15_S14_Fr_2 - x_T15_S14_Fr_2 - x_T15_S14_Fr_3 - x_T15_S14_Fr_3 - x_T15_S14_Fr_4 - x_T15_S14_Fr_4 - x_T15_S14_Fr_5
+ double_lessons_T15_S18: g_T15_S18 >= 2 - x_T15_S18_Mo_1 - x_T15_S18_Mo_2 - x_T15_S18_Mo_2 - x_T15_S18_Mo_3 - x_T15_S18_Mo_3 - x_T15_S18_Mo_4 - x_T15_S18_Mo_4 - x_T15_S18_Mo_5 - x_T15_S18_Tu_1 - x_T15_S18_Tu_2 - x_T15_S18_Tu_2 - x_T15_S18_Tu_3 - x_T15_S18_Tu_3 - x_T15_S18_Tu_4 - x_T15_S18_Tu_4 - x_T15_S18_Tu_5 - x_T15_S18_We_1 - x_T15_S18_We_2 - x_T15_S18_We_2 - x_T15_S18_We_3 - x_T15_S18_We_3 - x_T15_S18_We_4 - x_T15_S18_We_4 - x_T15_S18_We_5 - x_T15_S18_Th_1 - x_T15_S18_Th_2 - x_T15_S18_Th_2 - x_T15_S18_Th_3 - x_T15_S18_Th_3 - x_T15_S18_Th_4 - x_T15_S18_Th_4 - x_T15_S18_Th_5 - x_T15_S18_Fr_1 - x_T15_S18_Fr_2 - x_T15_S18_Fr_2 - x_T15_S18_Fr_3 - x_T15_S18_Fr_3 - x_T15_S18_Fr_4 - x_T15_S18_Fr_4 - x_T15_S18_Fr_5
+ double_lessons_T15_S19: g_T15_S19 >= 2 - x_T15_S19_Mo_1 - x_T15_S19_Mo_2 - x_T15_S19_Mo_2 - x_T15_S19_Mo_3 - x_T15_S19_Mo_3 - x_T15_S19_Mo_4 - x_T15_S19_Mo_4 - x_T15_S19_Mo_5 - x_T15_S19_Tu_1 - x_T15_S19_Tu_2 - x_T15_S19_Tu_2 - x_T15_S19_Tu_3 - x_T15_S19_Tu_3 - x_T15_S19_Tu_4 - x_T15_S19_Tu_4 - x_T15_S19_Tu_5 - x_T15_S19_We_1 - x_T15_S19_We_2 - x_T15_S19_We_2 - x_T15_S19_We_3 - x_T15_S19_We_3 - x_T15_S19_We_4 - x_T15_S19_We_4 - x_T15_S19_We_5 - x_T15_S19_Th_1 - x_T15_S19_Th_2 - x_T15_S19_Th_2 - x_T15_S19_Th_3 - x_T15_S19_Th_3 - x_T15_S19_Th_4 - x_T15_S19_Th_4 - x_T15_S19_Th_5 - x_T15_S19_Fr_1 - x_T15_S19_Fr_2 - x_T15_S19_Fr_2 - x_T15_S19_Fr_3 - x_T15_S19_Fr_3 - x_T15_S19_Fr_4 - x_T15_S19_Fr_4 - x_T15_S19_Fr_5
+ double_lessons_T16_S7: g_T16_S7 >= 2 - x_T16_S7_Mo_1 - x_T16_S7_Mo_2 - x_T16_S7_Mo_2 - x_T16_S7_Mo_3 - x_T16_S7_Mo_3 - x_T16_S7_Mo_4 - x_T16_S7_Mo_4 - x_T16_S7_Mo_5 - x_T16_S7_Tu_1 - x_T16_S7_Tu_2 - x_T16_S7_Tu_2 - x_T16_S7_Tu_3 - x_T16_S7_Tu_3 - x_T16_S7_Tu_4 - x_T16_S7_Tu_4 - x_T16_S7_Tu_5 - x_T16_S7_We_1 - x_T16_S7_We_2 - x_T16_S7_We_2 - x_T16_S7_We_3 - x_T16_S7_We_3 - x_T16_S7_We_4 - x_T16_S7_We_4 - x_T16_S7_We_5 - x_T16_S7_Th_1 - x_T16_S7_Th_2 - x_T16_S7_Th_2 - x_T16_S7_Th_3 - x_T16_S7_Th_3 - x_T16_S7_Th_4 - x_T16_S7_Th_4 - x_T16_S7_Th_5 - x_T16_S7_Fr_1 - x_T16_S7_Fr_2 - x_T16_S7_Fr_2 - x_T16_S7_Fr_3 - x_T16_S7_Fr_3 - x_T16_S7_Fr_4 - x_T16_S7_Fr_4 - x_T16_S7_Fr_5
+ double_lessons_T16_S8: g_T16_S8 >= 2 - x_T16_S8_Mo_1 - x_T16_S8_Mo_2 - x_T16_S8_Mo_2 - x_T16_S8_Mo_3 - x_T16_S8_Mo_3 - x_T16_S8_Mo_4 - x_T16_S8_Mo_4 - x_T16_S8_Mo_5 - x_T16_S8_Tu_1 - x_T16_S8_Tu_2 - x_T16_S8_Tu_2 - x_T16_S8_Tu_3 - x_T16_S8_Tu_3 - x_T16_S8_Tu_4 - x_T16_S8_Tu_4 - x_T16_S8_Tu_5 - x_T16_S8_We_1 - x_T16_S8_We_2 - x_T16_S8_We_2 - x_T16_S8_We_3 - x_T16_S8_We_3 - x_T16_S8_We_4 - x_T16_S8_We_4 - x_T16_S8_We_5 - x_T16_S8_Th_1 - x_T16_S8_Th_2 - x_T16_S8_Th_2 - x_T16_S8_Th_3 - x_T16_S8_Th_3 - x_T16_S8_Th_4 - x_T16_S8_Th_4 - x_T16_S8_Th_5 - x_T16_S8_Fr_1 - x_T16_S8_Fr_2 - x_T16_S8_Fr_2 - x_T16_S8_Fr_3 - x_T16_S8_Fr_3 - x_T16_S8_Fr_4 - x_T16_S8_Fr_4 - x_T16_S8_Fr_5
+ double_lessons_T16_S9: g_T16_S9 >= 2 - x_T16_S9_Mo_1 - x_T16_S9_Mo_2 - x_T16_S9_Mo_2 - x_T16_S9_Mo_3 - x_T16_S9_Mo_3 - x_T16_S9_Mo_4 - x_T16_S9_Mo_4 - x_T16_S9_Mo_5 - x_T16_S9_Tu_1 - x_T16_S9_Tu_2 - x_T16_S9_Tu_2 - x_T16_S9_Tu_3 - x_T16_S9_Tu_3 - x_T16_S9_Tu_4 - x_T16_S9_Tu_4 - x_T16_S9_Tu_5 - x_T16_S9_We_1 - x_T16_S9_We_2 - x_T16_S9_We_2 - x_T16_S9_We_3 - x_T16_S9_We_3 - x_T16_S9_We_4 - x_T16_S9_We_4 - x_T16_S9_We_5 - x_T16_S9_Th_1 - x_T16_S9_Th_2 - x_T16_S9_Th_2 - x_T16_S9_Th_3 - x_T16_S9_Th_3 - x_T16_S9_Th_4 - x_T16_S9_Th_4 - x_T16_S9_Th_5 - x_T16_S9_Fr_1 - x_T16_S9_Fr_2 - x_T16_S9_Fr_2 - x_T16_S9_Fr_3 - x_T16_S9_Fr_3 - x_T16_S9_Fr_4 - x_T16_S9_Fr_4 - x_T16_S9_Fr_5
+ double_lessons_T16_S12: g_T16_S12 >= 2 - x_T16_S12_Mo_1 - x_T16_S12_Mo_2 - x_T16_S12_Mo_2 - x_T16_S12_Mo_3 - x_T16_S12_Mo_3 - x_T16_S12_Mo_4 - x_T16_S12_Mo_4 - x_T16_S12_Mo_5 - x_T16_S12_Tu_1 - x_T16_S12_Tu_2 - x_T16_S12_Tu_2 - x_T16_S12_Tu_3 - x_T16_S12_Tu_3 - x_T16_S12_Tu_4 - x_T16_S12_Tu_4 - x_T16_S12_Tu_5 - x_T16_S12_We_1 - x_T16_S12_We_2 - x_T16_S12_We_2 - x_T16_S12_We_3 - x_T16_S12_We_3 - x_T16_S12_We_4 - x_T16_S12_We_4 - x_T16_S12_We_5 - x_T16_S12_Th_1 - x_T16_S12_Th_2 - x_T16_S12_Th_2 - x_T16_S12_Th_3 - x_T16_S12_Th_3 - x_T16_S12_Th_4 - x_T16_S12_Th_4 - x_T16_S12_Th_5 - x_T16_S12_Fr_1 - x_T16_S12_Fr_2 - x_T16_S12_Fr_2 - x_T16_S12_Fr_3 - x_T16_S12_Fr_3 - x_T16_S12_Fr_4 - x_T16_S12_Fr_4 - x_T16_S12_Fr_5
+ double_lessons_T16_S15: g_T16_S15 >= 2 - x_T16_S15_Mo_1 - x_T16_S15_Mo_2 - x_T16_S15_Mo_2 - x_T16_S15_Mo_3 - x_T16_S15_Mo_3 - x_T16_S15_Mo_4 - x_T16_S15_Mo_4 - x_T16_S15_Mo_5 - x_T16_S15_Tu_1 - x_T16_S15_Tu_2 - x_T16_S15_Tu_2 - x_T16_S15_Tu_3 - x_T16_S15_Tu_3 - x_T16_S15_Tu_4 - x_T16_S15_Tu_4 - x_T16_S15_Tu_5 - x_T16_S15_We_1 - x_T16_S15_We_2 - x_T16_S15_We_2 - x_T16_S15_We_3 - x_T16_S15_We_3 - x_T16_S15_We_4 - x_T16_S15_We_4 - x_T16_S15_We_5 - x_T16_S15_Th_1 - x_T16_S15_Th_2 - x_T16_S15_Th_2 - x_T16_S15_Th_3 - x_T16_S15_Th_3 - x_T16_S15_Th_4 - x_T16_S15_Th_4 - x_T16_S15_Th_5 - x_T16_S15_Fr_1 - x_T16_S15_Fr_2 - x_T16_S15_Fr_2 - x_T16_S15_Fr_3 - x_T16_S15_Fr_3 - x_T16_S15_Fr_4 - x_T16_S15_Fr_4 - x_T16_S15_Fr_5
+ double_lessons_T16_S20: g_T16_S20 >= 2 - x_T16_S20_Mo_1 - x_T16_S20_Mo_2 - x_T16_S20_Mo_2 - x_T16_S20_Mo_3 - x_T16_S20_Mo_3 - x_T16_S20_Mo_4 - x_T16_S20_Mo_4 - x_T16_S20_Mo_5 - x_T16_S20_Tu_1 - x_T16_S20_Tu_2 - x_T16_S20_Tu_2 - x_T16_S20_Tu_3 - x_T16_S20_Tu_3 - x_T16_S20_Tu_4 - x_T16_S20_Tu_4 - x_T16_S20_Tu_5 - x_T16_S20_We_1 - x_T16_S20_We_2 - x_T16_S20_We_2 - x_T16_S20_We_3 - x_T16_S20_We_3 - x_T16_S20_We_4 - x_T16_S20_We_4 - x_T16_S20_We_5 - x_T16_S20_Th_1 - x_T16_S20_Th_2 - x_T16_S20_Th_2 - x_T16_S20_Th_3 - x_T16_S20_Th_3 - x_T16_S20_Th_4 - x_T16_S20_Th_4 - x_T16_S20_Th_5 - x_T16_S20_Fr_1 - x_T16_S20_Fr_2 - x_T16_S20_Fr_2 - x_T16_S20_Fr_3 - x_T16_S20_Fr_3 - x_T16_S20_Fr_4 - x_T16_S20_Fr_4 - x_T16_S20_Fr_5
+ double_lessons_T17_S1: g_T17_S1 >= 2 - x_T17_S1_Mo_1 - x_T17_S1_Mo_2 - x_T17_S1_Mo_2 - x_T17_S1_Mo_3 - x_T17_S1_Mo_3 - x_T17_S1_Mo_4 - x_T17_S1_Mo_4 - x_T17_S1_Mo_5 - x_T17_S1_Tu_1 - x_T17_S1_Tu_2 - x_T17_S1_Tu_2 - x_T17_S1_Tu_3 - x_T17_S1_Tu_3 - x_T17_S1_Tu_4 - x_T17_S1_Tu_4 - x_T17_S1_Tu_5 - x_T17_S1_We_1 - x_T17_S1_We_2 - x_T17_S1_We_2 - x_T17_S1_We_3 - x_T17_S1_We_3 - x_T17_S1_We_4 - x_T17_S1_We_4 - x_T17_S1_We_5 - x_T17_S1_Th_1 - x_T17_S1_Th_2 - x_T17_S1_Th_2 - x_T17_S1_Th_3 - x_T17_S1_Th_3 - x_T17_S1_Th_4 - x_T17_S1_Th_4 - x_T17_S1_Th_5 - x_T17_S1_Fr_1 - x_T17_S1_Fr_2 - x_T17_S1_Fr_2 - x_T17_S1_Fr_3 - x_T17_S1_Fr_3 - x_T17_S1_Fr_4 - x_T17_S1_Fr_4 - x_T17_S1_Fr_5
+ double_lessons_T17_S2: g_T17_S2 >= 2 - x_T17_S2_Mo_1 - x_T17_S2_Mo_2 - x_T17_S2_Mo_2 - x_T17_S2_Mo_3 - x_T17_S2_Mo_3 - x_T17_S2_Mo_4 - x_T17_S2_Mo_4 - x_T17_S2_Mo_5 - x_T17_S2_Tu_1 - x_T17_S2_Tu_2 - x_T17_S2_Tu_2 - x_T17_S2_Tu_3 - x_T17_S2_Tu_3 - x_T17_S2_Tu_4 - x_T17_S2_Tu_4 - x_T17_S2_Tu_5 - x_T17_S2_We_1 - x_T17_S2_We_2 - x_T17_S2_We_2 - x_T17_S2_We_3 - x_T17_S2_We_3 - x_T17_S2_We_4 - x_T17_S2_We_4 - x_T17_S2_We_5 - x_T17_S2_Th_1 - x_T17_S2_Th_2 - x_T17_S2_Th_2 - x_T17_S2_Th_3 - x_T17_S2_Th_3 - x_T17_S2_Th_4 - x_T17_S2_Th_4 - x_T17_S2_Th_5 - x_T17_S2_Fr_1 - x_T17_S2_Fr_2 - x_T17_S2_Fr_2 - x_T17_S2_Fr_3 - x_T17_S2_Fr_3 - x_T17_S2_Fr_4 - x_T17_S2_Fr_4 - x_T17_S2_Fr_5
+ double_lessons_T17_S3: g_T17_S3 >= 2 - x_T17_S3_Mo_1 - x_T17_S3_Mo_2 - x_T17_S3_Mo_2 - x_T17_S3_Mo_3 - x_T17_S3_Mo_3 - x_T17_S3_Mo_4 - x_T17_S3_Mo_4 - x_T17_S3_Mo_5 - x_T17_S3_Tu_1 - x_T17_S3_Tu_2 - x_T17_S3_Tu_2 - x_T17_S3_Tu_3 - x_T17_S3_Tu_3 - x_T17_S3_Tu_4 - x_T17_S3_Tu_4 - x_T17_S3_Tu_5 - x_T17_S3_We_1 - x_T17_S3_We_2 - x_T17_S3_We_2 - x_T17_S3_We_3 - x_T17_S3_We_3 - x_T17_S3_We_4 - x_T17_S3_We_4 - x_T17_S3_We_5 - x_T17_S3_Th_1 - x_T17_S3_Th_2 - x_T17_S3_Th_2 - x_T17_S3_Th_3 - x_T17_S3_Th_3 - x_T17_S3_Th_4 - x_T17_S3_Th_4 - x_T17_S3_Th_5 - x_T17_S3_Fr_1 - x_T17_S3_Fr_2 - x_T17_S3_Fr_2 - x_T17_S3_Fr_3 - x_T17_S3_Fr_3 - x_T17_S3_Fr_4 - x_T17_S3_Fr_4 - x_T17_S3_Fr_5
+ double_lessons_T17_S10: g_T17_S10 >= 2 - x_T17_S10_Mo_1 - x_T17_S10_Mo_2 - x_T17_S10_Mo_2 - x_T17_S10_Mo_3 - x_T17_S10_Mo_3 - x_T17_S10_Mo_4 - x_T17_S10_Mo_4 - x_T17_S10_Mo_5 - x_T17_S10_Tu_1 - x_T17_S10_Tu_2 - x_T17_S10_Tu_2 - x_T17_S10_Tu_3 - x_T17_S10_Tu_3 - x_T17_S10_Tu_4 - x_T17_S10_Tu_4 - x_T17_S10_Tu_5 - x_T17_S10_We_1 - x_T17_S10_We_2 - x_T17_S10_We_2 - x_T17_S10_We_3 - x_T17_S10_We_3 - x_T17_S10_We_4 - x_T17_S10_We_4 - x_T17_S10_We_5 - x_T17_S10_Th_1 - x_T17_S10_Th_2 - x_T17_S10_Th_2 - x_T17_S10_Th_3 - x_T17_S10_Th_3 - x_T17_S10_Th_4 - x_T17_S10_Th_4 - x_T17_S10_Th_5 - x_T17_S10_Fr_1 - x_T17_S10_Fr_2 - x_T17_S10_Fr_2 - x_T17_S10_Fr_3 - x_T17_S10_Fr_3 - x_T17_S10_Fr_4 - x_T17_S10_Fr_4 - x_T17_S10_Fr_5
+ double_lessons_T17_S13: g_T17_S13 >= 2 - x_T17_S13_Mo_1 - x_T17_S13_Mo_2 - x_T17_S13_Mo_2 - x_T17_S13_Mo_3 - x_T17_S13_Mo_3 - x_T17_S13_Mo_4 - x_T17_S13_Mo_4 - x_T17_S13_Mo_5 - x_T17_S13_Tu_1 - x_T17_S13_Tu_2 - x_T17_S13_Tu_2 - x_T17_S13_Tu_3 - x_T17_S13_Tu_3 - x_T17_S13_Tu_4 - x_T17_S13_Tu_4 - x_T17_S13_Tu_5 - x_T17_S13_We_1 - x_T17_S13_We_2 - x_T17_S13_We_2 - x_T17_S13_We_3 - x_T17_S13_We_3 - x_T17_S13_We_4 - x_T17_S13_We_4 - x_T17_S13_We_5 - x_T17_S13_Th_1 - x_T17_S13_Th_2 - x_T17_S13_Th_2 - x_T17_S13_Th_3 - x_T17_S13_Th_3 - x_T17_S13_Th_4 - x_T17_S13_Th_4 - x_T17_S13_Th_5 - x_T17_S13_Fr_1 - x_T17_S13_Fr_2 - x_T17_S13_Fr_2 - x_T17_S13_Fr_3 - x_T17_S13_Fr_3 - x_T17_S13_Fr_4 - x_T17_S13_Fr_4 - x_T17_S13_Fr_5
+ double_lessons_T17_S16: g_T17_S16 >= 2 - x_T17_S16_Mo_1 - x_T17_S16_Mo_2 - x_T17_S16_Mo_2 - x_T17_S16_Mo_3 - x_T17_S16_Mo_3 - x_T17_S16_Mo_4 - x_T17_S16_Mo_4 - x_T17_S16_Mo_5 - x_T17_S16_Tu_1 - x_T17_S16_Tu_2 - x_T17_S16_Tu_2 - x_T17_S16_Tu_3 - x_T17_S16_Tu_3 - x_T17_S16_Tu_4 - x_T17_S16_Tu_4 - x_T17_S16_Tu_5 - x_T17_S16_We_1 - x_T17_S16_We_2 - x_T17_S16_We_2 - x_T17_S16_We_3 - x_T17_S16_We_3 - x_T17_S16_We_4 - x_T17_S16_We_4 - x_T17_S16_We_5 - x_T17_S16_Th_1 - x_T17_S16_Th_2 - x_T17_S16_Th_2 - x_T17_S16_Th_3 - x_T17_S16_Th_3 - x_T17_S16_Th_4 - x_T17_S16_Th_4 - x_T17_S16_Th_5 - x_T17_S16_Fr_1 - x_T17_S16_Fr_2 - x_T17_S16_Fr_2 - x_T17_S16_Fr_3 - x_T17_S16_Fr_3 - x_T17_S16_Fr_4 - x_T17_S16_Fr_4 - x_T17_S16_Fr_5
+ double_lessons_T17_S17: g_T17_S17 >= 2 - x_T17_S17_Mo_1 - x_T17_S17_Mo_2 - x_T17_S17_Mo_2 - x_T17_S17_Mo_3 - x_T17_S17_Mo_3 - x_T17_S17_Mo_4 - x_T17_S17_Mo_4 - x_T17_S17_Mo_5 - x_T17_S17_Tu_1 - x_T17_S17_Tu_2 - x_T17_S17_Tu_2 - x_T17_S17_Tu_3 - x_T17_S17_Tu_3 - x_T17_S17_Tu_4 - x_T17_S17_Tu_4 - x_T17_S17_Tu_5 - x_T17_S17_We_1 - x_T17_S17_We_2 - x_T17_S17_We_2 - x_T17_S17_We_3 - x_T17_S17_We_3 - x_T17_S17_We_4 - x_T17_S17_We_4 - x_T17_S17_We_5 - x_T17_S17_Th_1 - x_T17_S17_Th_2 - x_T17_S17_Th_2 - x_T17_S17_Th_3 - x_T17_S17_Th_3 - x_T17_S17_Th_4 - x_T17_S17_Th_4 - x_T17_S17_Th_5 - x_T17_S17_Fr_1 - x_T17_S17_Fr_2 - x_T17_S17_Fr_2 - x_T17_S17_Fr_3 - x_T17_S17_Fr_3 - x_T17_S17_Fr_4 - x_T17_S17_Fr_4 - x_T17_S17_Fr_5
+ double_lessons_T18_S4: g_T18_S4 >= 2 - x_T18_S4_Mo_1 - x_T18_S4_Mo_2 - x_T18_S4_Mo_2 - x_T18_S4_Mo_3 - x_T18_S4_Mo_3 - x_T18_S4_Mo_4 - x_T18_S4_Mo_4 - x_T18_S4_Mo_5 - x_T18_S4_Tu_1 - x_T18_S4_Tu_2 - x_T18_S4_Tu_2 - x_T18_S4_Tu_3 - x_T18_S4_Tu_3 - x_T18_S4_Tu_4 - x_T18_S4_Tu_4 - x_T18_S4_Tu_5 - x_T18_S4_We_1 - x_T18_S4_We_2 - x_T18_S4_We_2 - x_T18_S4_We_3 - x_T18_S4_We_3 - x_T18_S4_We_4 - x_T18_S4_We_4 - x_T18_S4_We_5 - x_T18_S4_Th_1 - x_T18_S4_Th_2 - x_T18_S4_Th_2 - x_T18_S4_Th_3 - x_T18_S4_Th_3 - x_T18_S4_Th_4 - x_T18_S4_Th_4 - x_T18_S4_Th_5 - x_T18_S4_Fr_1 - x_T18_S4_Fr_2 - x_T18_S4_Fr_2 - x_T18_S4_Fr_3 - x_T18_S4_Fr_3 - x_T18_S4_Fr_4 - x_T18_S4_Fr_4 - x_T18_S4_Fr_5
+ double_lessons_T18_S5: g_T18_S5 >= 2 - x_T18_S5_Mo_1 - x_T18_S5_Mo_2 - x_T18_S5_Mo_2 - x_T18_S5_Mo_3 - x_T18_S5_Mo_3 - x_T18_S5_Mo_4 - x_T18_S5_Mo_4 - x_T18_S5_Mo_5 - x_T18_S5_Tu_1 - x_T18_S5_Tu_2 - x_T18_S5_Tu_2 - x_T18_S5_Tu_3 - x_T18_S5_Tu_3 - x_T18_S5_Tu_4 - x_T18_S5_Tu_4 - x_T18_S5_Tu_5 - x_T18_S5_We_1 - x_T18_S5_We_2 - x_T18_S5_We_2 - x_T18_S5_We_3 - x_T18_S5_We_3 - x_T18_S5_We_4 - x_T18_S5_We_4 - x_T18_S5_We_5 - x_T18_S5_Th_1 - x_T18_S5_Th_2 - x_T18_S5_Th_2 - x_T18_S5_Th_3 - x_T18_S5_Th_3 - x_T18_S5_Th_4 - x_T18_S5_Th_4 - x_T18_S5_Th_5 - x_T18_S5_Fr_1 - x_T18_S5_Fr_2 - x_T18_S5_Fr_2 - x_T18_S5_Fr_3 - x_T18_S5_Fr_3 - x_T18_S5_Fr_4 - x_T18_S5_Fr_4 - x_T18_S5_Fr_5
+ double_lessons_T18_S6: g_T18_S6 >= 2 - x_T18_S6_Mo_1 - x_T18_S6_Mo_2 - x_T18_S6_Mo_2 - x_T18_S6_Mo_3 - x_T18_S6_Mo_3 - x_T18_S6_Mo_4 - x_T18_S6_Mo_4 - x_T18_S6_Mo_5 - x_T18_S6_Tu_1 - x_T18_S6_Tu_2 - x_T18_S6_Tu_2 - x_T18_S6_Tu_3 - x_T18_S6_Tu_3 - x_T18_S6_Tu_4 - x_T18_S6_Tu_4 - x_T18_S6_Tu_5 - x_T18_S6_We_1 - x_T18_S6_We_2 - x_T18_S6_We_2 - x_T18_S6_We_3 - x_T18_S6_We_3 - x_T18_S6_We_4 - x_T18_S6_We_4 - x_T18_S6_We_5 - x_T18_S6_Th_1 - x_T18_S6_Th_2 - x_T18_S6_Th_2 - x_T18_S6_Th_3 - x_T18_S6_Th_3 - x_T18_S6_Th_4 - x_T18_S6_Th_4 - x_T18_S6_Th_5 - x_T18_S6_Fr_1 - x_T18_S6_Fr_2 - x_T18_S6_Fr_2 - x_T18_S6_Fr_3 - x_T18_S6_Fr_3 - x_T18_S6_Fr_4 - x_T18_S6_Fr_4 - x_T18_S6_Fr_5
+ double_lessons_T18_S11: g_T18_S11 >= 2 - x_T18_S11_Mo_1 - x_T18_S11_Mo_2 - x_T18_S11_Mo_2 - x_T18_S11_Mo_3 - x_T18_S11_Mo_3 - x_T18_S11_Mo_4 - x_T18_S11_Mo_4 - x_T18_S11_Mo_5 - x_T18_S11_Tu_1 - x_T18_S11_Tu_2 - x_T18_S11_Tu_2 - x_T18_S11_Tu_3 - x_T18_S11_Tu_3 - x_T18_S11_Tu_4 - x_T18_S11_Tu_4 - x_T18_S11_Tu_5 - x_T18_S11_We_1 - x_T18_S11_We_2 - x_T18_S11_We_2 - x_T18_S11_We_3 - x_T18_S11_We_3 - x_T18_S11_We_4 - x_T18_S11_We_4 - x_T18_S11_We_5 - x_T18_S11_Th_1 - x_T18_S11_Th_2 - x_T18_S11_Th_2 - x_T18_S11_Th_3 - x_T18_S11_Th_3 - x_T18_S11_Th_4 - x_T18_S11_Th_4 - x_T18_S11_Th_5 - x_T18_S11_Fr_1 - x_T18_S11_Fr_2 - x_T18_S11_Fr_2 - x_T18_S11_Fr_3 - x_T18_S11_Fr_3 - x_T18_S11_Fr_4 - x_T18_S11_Fr_4 - x_T18_S11_Fr_5
+ double_lessons_T18_S14: g_T18_S14 >= 2 - x_T18_S14_Mo_1 - x_T18_S14_Mo_2 - x_T18_S14_Mo_2 - x_T18_S14_Mo_3 - x_T18_S14_Mo_3 - x_T18_S14_Mo_4 - x_T18_S14_Mo_4 - x_T18_S14_Mo_5 - x_T18_S14_Tu_1 - x_T18_S14_Tu_2 - x_T18_S14_Tu_2 - x_T18_S14_Tu_3 - x_T18_S14_Tu_3 - x_T18_S14_Tu_4 - x_T18_S14_Tu_4 - x_T18_S14_Tu_5 - x_T18_S14_We_1 - x_T18_S14_We_2 - x_T18_S14_We_2 - x_T18_S14_We_3 - x_T18_S14_We_3 - x_T18_S14_We_4 - x_T18_S14_We_4 - x_T18_S14_We_5 - x_T18_S14_Th_1 - x_T18_S14_Th_2 - x_T18_S14_Th_2 - x_T18_S14_Th_3 - x_T18_S14_Th_3 - x_T18_S14_Th_4 - x_T18_S14_Th_4 - x_T18_S14_Th_5 - x_T18_S14_Fr_1 - x_T18_S14_Fr_2 - x_T18_S14_Fr_2 - x_T18_S14_Fr_3 - x_T18_S14_Fr_3 - x_T18_S14_Fr_4 - x_T18_S14_Fr_4 - x_T18_S14_Fr_5
+ double_lessons_T18_S18: g_T18_S18 >= 2 - x_T18_S18_Mo_1 - x_T18_S18_Mo_2 - x_T18_S18_Mo_2 - x_T18_S18_Mo_3 - x_T18_S18_Mo_3 - x_T18_S18_Mo_4 - x_T18_S18_Mo_4 - x_T18_S18_Mo_5 - x_T18_S18_Tu_1 - x_T18_S18_Tu_2 - x_T18_S18_Tu_2 - x_T18_S18_Tu_3 - x_T18_S18_Tu_3 - x_T18_S18_Tu_4 - x_T18_S18_Tu_4 - x_T18_S18_Tu_5 - x_T18_S18_We_1 - x_T18_S18_We_2 - x_T18_S18_We_2 - x_T18_S18_We_3 - x_T18_S18_We_3 - x_T18_S18_We_4 - x_T18_S18_We_4 - x_T18_S18_We_5 - x_T18_S18_Th_1 - x_T18_S18_Th_2 - x_T18_S18_Th_2 - x_T18_S18_Th_3 - x_T18_S18_Th_3 - x_T18_S18_Th_4 - x_T18_S18_Th_4 - x_T18_S18_Th_5 - x_T18_S18_Fr_1 - x_T18_S18_Fr_2 - x_T18_S18_Fr_2 - x_T18_S18_Fr_3 - x_T18_S18_Fr_3 - x_T18_S18_Fr_4 - x_T18_S18_Fr_4 - x_T18_S18_Fr_5
+ double_lessons_T18_S19: g_T18_S19 >= 2 - x_T18_S19_Mo_1 - x_T18_S19_Mo_2 - x_T18_S19_Mo_2 - x_T18_S19_Mo_3 - x_T18_S19_Mo_3 - x_T18_S19_Mo_4 - x_T18_S19_Mo_4 - x_T18_S19_Mo_5 - x_T18_S19_Tu_1 - x_T18_S19_Tu_2 - x_T18_S19_Tu_2 - x_T18_S19_Tu_3 - x_T18_S19_Tu_3 - x_T18_S19_Tu_4 - x_T18_S19_Tu_4 - x_T18_S19_Tu_5 - x_T18_S19_We_1 - x_T18_S19_We_2 - x_T18_S19_We_2 - x_T18_S19_We_3 - x_T18_S19_We_3 - x_T18_S19_We_4 - x_T18_S19_We_4 - x_T18_S19_We_5 - x_T18_S19_Th_1 - x_T18_S19_Th_2 - x_T18_S19_Th_2 - x_T18_S19_Th_3 - x_T18_S19_Th_3 - x_T18_S19_Th_4 - x_T18_S19_Th_4 - x_T18_S19_Th_5 - x_T18_S19_Fr_1 - x_T18_S19_Fr_2 - x_T18_S19_Fr_2 - x_T18_S19_Fr_3 - x_T18_S19_Fr_3 - x_T18_S19_Fr_4 - x_T18_S19_Fr_4 - x_T18_S19_Fr_5
+ double_lessons_T19_S7: g_T19_S7 >= 2 - x_T19_S7_Mo_1 - x_T19_S7_Mo_2 - x_T19_S7_Mo_2 - x_T19_S7_Mo_3 - x_T19_S7_Mo_3 - x_T19_S7_Mo_4 - x_T19_S7_Mo_4 - x_T19_S7_Mo_5 - x_T19_S7_Tu_1 - x_T19_S7_Tu_2 - x_T19_S7_Tu_2 - x_T19_S7_Tu_3 - x_T19_S7_Tu_3 - x_T19_S7_Tu_4 - x_T19_S7_Tu_4 - x_T19_S7_Tu_5 - x_T19_S7_We_1 - x_T19_S7_We_2 - x_T19_S7_We_2 - x_T19_S7_We_3 - x_T19_S7_We_3 - x_T19_S7_We_4 - x_T19_S7_We_4 - x_T19_S7_We_5 - x_T19_S7_Th_1 - x_T19_S7_Th_2 - x_T19_S7_Th_2 - x_T19_S7_Th_3 - x_T19_S7_Th_3 - x_T19_S7_Th_4 - x_T19_S7_Th_4 - x_T19_S7_Th_5 - x_T19_S7_Fr_1 - x_T19_S7_Fr_2 - x_T19_S7_Fr_2 - x_T19_S7_Fr_3 - x_T19_S7_Fr_3 - x_T19_S7_Fr_4 - x_T19_S7_Fr_4 - x_T19_S7_Fr_5
+ double_lessons_T19_S8: g_T19_S8 >= 2 - x_T19_S8_Mo_1 - x_T19_S8_Mo_2 - x_T19_S8_Mo_2 - x_T19_S8_Mo_3 - x_T19_S8_Mo_3 - x_T19_S8_Mo_4 - x_T19_S8_Mo_4 - x_T19_S8_Mo_5 - x_T19_S8_Tu_1 - x_T19_S8_Tu_2 - x_T19_S8_Tu_2 - x_T19_S8_Tu_3 - x_T19_S8_Tu_3 - x_T19_S8_Tu_4 - x_T19_S8_Tu_4 - x_T19_S8_Tu_5 - x_T19_S8_We_1 - x_T19_S8_We_2 - x_T19_S8_We_2 - x_T19_S8_We_3 - x_T19_S8_We_3 - x_T19_S8_We_4 - x_T19_S8_We_4 - x_T19_S8_We_5 - x_T19_S8_Th_1 - x_T19_S8_Th_2 - x_T19_S8_Th_2 - x_T19_S8_Th_3 - x_T19_S8_Th_3 - x_T19_S8_Th_4 - x_T19_S8_Th_4 - x_T19_S8_Th_5 - x_T19_S8_Fr_1 - x_T19_S8_Fr_2 - x_T19_S8_Fr_2 - x_T19_S8_Fr_3 - x_T19_S8_Fr_3 - x_T19_S8_Fr_4 - x_T19_S8_Fr_4 - x_T19_S8_Fr_5
+ double_lessons_T19_S9: g_T19_S9 >= 2 - x_T19_S9_Mo_1 - x_T19_S9_Mo_2 - x_T19_S9_Mo_2 - x_T19_S9_Mo_3 - x_T19_S9_Mo_3 - x_T19_S9_Mo_4 - x_T19_S9_Mo_4 - x_T19_S9_Mo_5 - x_T19_S9_Tu_1 - x_T19_S9_Tu_2 - x_T19_S9_Tu_2 - x_T19_S9_Tu_3 - x_T19_S9_Tu_3 - x_T19_S9_Tu_4 - x_T19_S9_Tu_4 - x_T19_S9_Tu_5 - x_T19_S9_We_1 - x_T19_S9_We_2 - x_T19_S9_We_2 - x_T19_S9_We_3 - x_T19_S9_We_3 - x_T19_S9_We_4 - x_T19_S9_We_4 - x_T19_S9_We_5 - x_T19_S9_Th_1 - x_T19_S9_Th_2 - x_T19_S9_Th_2 - x_T19_S9_Th_3 - x_T19_S9_Th_3 - x_T19_S9_Th_4 - x_T19_S9_Th_4 - x_T19_S9_Th_5 - x_T19_S9_Fr_1 - x_T19_S9_Fr_2 - x_T19_S9_Fr_2 - x_T19_S9_Fr_3 - x_T19_S9_Fr_3 - x_T19_S9_Fr_4 - x_T19_S9_Fr_4 - x_T19_S9_Fr_5
+ double_lessons_T19_S12: g_T19_S12 >= 2 - x_T19_S12_Mo_1 - x_T19_S12_Mo_2 - x_T19_S12_Mo_2 - x_T19_S12_Mo_3 - x_T19_S12_Mo_3 - x_T19_S12_Mo_4 - x_T19_S12_Mo_4 - x_T19_S12_Mo_5 - x_T19_S12_Tu_1 - x_T19_S12_Tu_2 - x_T19_S12_Tu_2 - x_T19_S12_Tu_3 - x_T19_S12_Tu_3 - x_T19_S12_Tu_4 - x_T19_S12_Tu_4 - x_T19_S12_Tu_5 - x_T19_S12_We_1 - x_T19_S12_We_2 - x_T19_S12_We_2 - x_T19_S12_We_3 - x_T19_S12_We_3 - x_T19_S12_We_4 - x_T19_S12_We_4 - x_T19_S12_We_5 - x_T19_S12_Th_1 - x_T19_S12_Th_2 - x_T19_S12_Th_2 - x_T19_S12_Th_3 - x_T19_S12_Th_3 - x_T19_S12_Th_4 - x_T19_S12_Th_4 - x_T19_S12_Th_5 - x_T19_S12_Fr_1 - x_T19_S12_Fr_2 - x_T19_S12_Fr_2 - x_T19_S12_Fr_3 - x_T19_S12_Fr_3 - x_T19_S12_Fr_4 - x_T19_S12_Fr_4 - x_T19_S12_Fr_5
+ double_lessons_T19_S15: g_T19_S15 >= 2 - x_T19_S15_Mo_1 - x_T19_S15_Mo_2 - x_T19_S15_Mo_2 - x_T19_S15_Mo_3 - x_T19_S15_Mo_3 - x_T19_S15_Mo_4 - x_T19_S15_Mo_4 - x_T19_S15_Mo_5 - x_T19_S15_Tu_1 - x_T19_S15_Tu_2 - x_T19_S15_Tu_2 - x_T19_S15_Tu_3 - x_T19_S15_Tu_3 - x_T19_S15_Tu_4 - x_T19_S15_Tu_4 - x_T19_S15_Tu_5 - x_T19_S15_We_1 - x_T19_S15_We_2 - x_T19_S15_We_2 - x_T19_S15_We_3 - x_T19_S15_We_3 - x_T19_S15_We_4 - x_T19_S15_We_4 - x_T19_S15_We_5 - x_T19_S15_Th_1 - x_T19_S15_Th_2 - x_T19_S15_Th_2 - x_T19_S15_Th_3 - x_T19_S15_Th_3 - x_T19_S15_Th_4 - x_T19_S15_Th_4 - x_T19_S15_Th_5 - x_T19_S15_Fr_1 - x_T19_S15_Fr_2 - x_T19_S15_Fr_2 - x_T19_S15_Fr_3 - x_T19_S15_Fr_3 - x_T19_S15_Fr_4 - x_T19_S15_Fr_4 - x_T19_S15_Fr_5
+ double_lessons_T19_S20: g_T19_S20 >= 2 - x_T19_S20_Mo_1 - x_T19_S20_Mo_2 - x_T19_S20_Mo_2 - x_T19_S20_Mo_3 - x_T19_S20_Mo_3 - x_T19_S20_Mo_4 - x_T19_S20_Mo_4 - x_T19_S20_Mo_5 - x_T19_S20_Tu_1 - x_T19_S20_Tu_2 - x_T19_S20_Tu_2 - x_T19_S20_Tu_3 - x_T19_S20_Tu_3 - x_T19_S20_Tu_4 - x_T19_S20_Tu_4 - x_T19_S20_Tu_5 - x_T19_S20_We_1 - x_T19_S20_We_2 - x_T19_S20_We_2 - x_T19_S20_We_3 - x_T19_S20_We_3 - x_T19_S20_We_4 - x_T19_S20_We_4 - x_T19_S20_We_5 - x_T19_S20_Th_1 - x_T19_S20_Th_2 - x_T19_S20_Th_2 - x_T19_S20_Th_3 - x_T19_S20_Th_3 - x_T19_S20_Th_4 - x_T19_S20_Th_4 - x_T19_S20_Th_5 - x_T19_S20_Fr_1 - x_T19_S20_Fr_2 - x_T19_S20_Fr_2 - x_T19_S20_Fr_3 - x_T19_S20_Fr_3 - x_T19_S20_Fr_4 - x_T19_S20_Fr_4 - x_T19_S20_Fr_5
+ double_lessons_T20_S1: g_T20_S1 >= 2 - x_T20_S1_Mo_1 - x_T20_S1_Mo_2 - x_T20_S1_Mo_2 - x_T20_S1_Mo_3 - x_T20_S1_Mo_3 - x_T20_S1_Mo_4 - x_T20_S1_Mo_4 - x_T20_S1_Mo_5 - x_T20_S1_Tu_1 - x_T20_S1_Tu_2 - x_T20_S1_Tu_2 - x_T20_S1_Tu_3 - x_T20_S1_Tu_3 - x_T20_S1_Tu_4 - x_T20_S1_Tu_4 - x_T20_S1_Tu_5 - x_T20_S1_We_1 - x_T20_S1_We_2 - x_T20_S1_We_2 - x_T20_S1_We_3 - x_T20_S1_We_3 - x_T20_S1_We_4 - x_T20_S1_We_4 - x_T20_S1_We_5 - x_T20_S1_Th_1 - x_T20_S1_Th_2 - x_T20_S1_Th_2 - x_T20_S1_Th_3 - x_T20_S1_Th_3 - x_T20_S1_Th_4 - x_T20_S1_Th_4 - x_T20_S1_Th_5 - x_T20_S1_Fr_1 - x_T20_S1_Fr_2 - x_T20_S1_Fr_2 - x_T20_S1_Fr_3 - x_T20_S1_Fr_3 - x_T20_S1_Fr_4 - x_T20_S1_Fr_4 - x_T20_S1_Fr_5
+ double_lessons_T20_S2: g_T20_S2 >= 2 - x_T20_S2_Mo_1 - x_T20_S2_Mo_2 - x_T20_S2_Mo_2 - x_T20_S2_Mo_3 - x_T20_S2_Mo_3 - x_T20_S2_Mo_4 - x_T20_S2_Mo_4 - x_T20_S2_Mo_5 - x_T20_S2_Tu_1 - x_T20_S2_Tu_2 - x_T20_S2_Tu_2 - x_T20_S2_Tu_3 - x_T20_S2_Tu_3 - x_T20_S2_Tu_4 - x_T20_S2_Tu_4 - x_T20_S2_Tu_5 - x_T20_S2_We_1 - x_T20_S2_We_2 - x_T20_S2_We_2 - x_T20_S2_We_3 - x_T20_S2_We_3 - x_T20_S2_We_4 - x_T20_S2_We_4 - x_T20_S2_We_5 - x_T20_S2_Th_1 - x_T20_S2_Th_2 - x_T20_S2_Th_2 - x_T20_S2_Th_3 - x_T20_S2_Th_3 - x_T20_S2_Th_4 - x_T20_S2_Th_4 - x_T20_S2_Th_5 - x_T20_S2_Fr_1 - x_T20_S2_Fr_2 - x_T20_S2_Fr_2 - x_T20_S2_Fr_3 - x_T20_S2_Fr_3 - x_T20_S2_Fr_4 - x_T20_S2_Fr_4 - x_T20_S2_Fr_5
+ double_lessons_T20_S3: g_T20_S3 >= 2 - x_T20_S3_Mo_1 - x_T20_S3_Mo_2 - x_T20_S3_Mo_2 - x_T20_S3_Mo_3 - x_T20_S3_Mo_3 - x_T20_S3_Mo_4 - x_T20_S3_Mo_4 - x_T20_S3_Mo_5 - x_T20_S3_Tu_1 - x_T20_S3_Tu_2 - x_T20_S3_Tu_2 - x_T20_S3_Tu_3 - x_T20_S3_Tu_3 - x_T20_S3_Tu_4 - x_T20_S3_Tu_4 - x_T20_S3_Tu_5 - x_T20_S3_We_1 - x_T20_S3_We_2 - x_T20_S3_We_2 - x_T20_S3_We_3 - x_T20_S3_We_3 - x_T20_S3_We_4 - x_T20_S3_We_4 - x_T20_S3_We_5 - x_T20_S3_Th_1 - x_T20_S3_Th_2 - x_T20_S3_Th_2 - x_T20_S3_Th_3 - x_T20_S3_Th_3 - x_T20_S3_Th_4 - x_T20_S3_Th_4 - x_T20_S3_Th_5 - x_T20_S3_Fr_1 - x_T20_S3_Fr_2 - x_T20_S3_Fr_2 - x_T20_S3_Fr_3 - x_T20_S3_Fr_3 - x_T20_S3_Fr_4 - x_T20_S3_Fr_4 - x_T20_S3_Fr_5
+ double_lessons_T20_S4: g_T20_S4 >= 2 - x_T20_S4_Mo_1 - x_T20_S4_Mo_2 - x_T20_S4_Mo_2 - x_T20_S4_Mo_3 - x_T20_S4_Mo_3 - x_T20_S4_Mo_4 - x_T20_S4_Mo_4 - x_T20_S4_Mo_5 - x_T20_S4_Tu_1 - x_T20_S4_Tu_2 - x_T20_S4_Tu_2 - x_T20_S4_Tu_3 - x_T20_S4_Tu_3 - x_T20_S4_Tu_4 - x_T20_S4_Tu_4 - x_T20_S4_Tu_5 - x_T20_S4_We_1 - x_T20_S4_We_2 - x_T20_S4_We_2 - x_T20_S4_We_3 - x_T20_S4_We_3 - x_T20_S4_We_4 - x_T20_S4_We_4 - x_T20_S4_We_5 - x_T20_S4_Th_1 - x_T20_S4_Th_2 - x_T20_S4_Th_2 - x_T20_S4_Th_3 - x_T20_S4_Th_3 - x_T20_S4_Th_4 - x_T20_S4_Th_4 - x_T20_S4_Th_5 - x_T20_S4_Fr_1 - x_T20_S4_Fr_2 - x_T20_S4_Fr_2 - x_T20_S4_Fr_3 - x_T20_S4_Fr_3 - x_T20_S4_Fr_4 - x_T20_S4_Fr_4 - x_T20_S4_Fr_5
+ double_lessons_T20_S5: g_T20_S5 >= 2 - x_T20_S5_Mo_1 - x_T20_S5_Mo_2 - x_T20_S5_Mo_2 - x_T20_S5_Mo_3 - x_T20_S5_Mo_3 - x_T20_S5_Mo_4 - x_T20_S5_Mo_4 - x_T20_S5_Mo_5 - x_T20_S5_Tu_1 - x_T20_S5_Tu_2 - x_T20_S5_Tu_2 - x_T20_S5_Tu_3 - x_T20_S5_Tu_3 - x_T20_S5_Tu_4 - x_T20_S5_Tu_4 - x_T20_S5_Tu_5 - x_T20_S5_We_1 - x_T20_S5_We_2 - x_T20_S5_We_2 - x_T20_S5_We_3 - x_T20_S5_We_3 - x_T20_S5_We_4 - x_T20_S5_We_4 - x_T20_S5_We_5 - x_T20_S5_Th_1 - x_T20_S5_Th_2 - x_T20_S5_Th_2 - x_T20_S5_Th_3 - x_T20_S5_Th_3 - x_T20_S5_Th_4 - x_T20_S5_Th_4 - x_T20_S5_Th_5 - x_T20_S5_Fr_1 - x_T20_S5_Fr_2 - x_T20_S5_Fr_2 - x_T20_S5_Fr_3 - x_T20_S5_Fr_3 - x_T20_S5_Fr_4 - x_T20_S5_Fr_4 - x_T20_S5_Fr_5
+ double_lessons_T20_S6: g_T20_S6 >= 2 - x_T20_S6_Mo_1 - x_T20_S6_Mo_2 - x_T20_S6_Mo_2 - x_T20_S6_Mo_3 - x_T20_S6_Mo_3 - x_T20_S6_Mo_4 - x_T20_S6_Mo_4 - x_T20_S6_Mo_5 - x_T20_S6_Tu_1 - x_T20_S6_Tu_2 - x_T20_S6_Tu_2 - x_T20_S6_Tu_3 - x_T20_S6_Tu_3 - x_T20_S6_Tu_4 - x_T20_S6_Tu_4 - x_T20_S6_Tu_5 - x_T20_S6_We_1 - x_T20_S6_We_2 - x_T20_S6_We_2 - x_T20_S6_We_3 - x_T20_S6_We_3 - x_T20_S6_We_4 - x_T20_S6_We_4 - x_T20_S6_We_5 - x_T20_S6_Th_1 - x_T20_S6_Th_2 - x_T20_S6_Th_2 - x_T20_S6_Th_3 - x_T20_S6_Th_3 - x_T20_S6_Th_4 - x_T20_S6_Th_4 - x_T20_S6_Th_5 - x_T20_S6_Fr_1 - x_T20_S6_Fr_2 - x_T20_S6_Fr_2 - x_T20_S6_Fr_3 - x_T20_S6_Fr_3 - x_T20_S6_Fr_4 - x_T20_S6_Fr_4 - x_T20_S6_Fr_5
+ double_lessons_T20_S7: g_T20_S7 >= 2 - x_T20_S7_Mo_1 - x_T20_S7_Mo_2 - x_T20_S7_Mo_2 - x_T20_S7_Mo_3 - x_T20_S7_Mo_3 - x_T20_S7_Mo_4 - x_T20_S7_Mo_4 - x_T20_S7_Mo_5 - x_T20_S7_Tu_1 - x_T20_S7_Tu_2 - x_T20_S7_Tu_2 - x_T20_S7_Tu_3 - x_T20_S7_Tu_3 - x_T20_S7_Tu_4 - x_T20_S7_Tu_4 - x_T20_S7_Tu_5 - x_T20_S7_We_1 - x_T20_S7_We_2 - x_T20_S7_We_2 - x_T20_S7_We_3 - x_T20_S7_We_3 - x_T20_S7_We_4 - x_T20_S7_We_4 - x_T20_S7_We_5 - x_T20_S7_Th_1 - x_T20_S7_Th_2 - x_T20_S7_Th_2 - x_T20_S7_Th_3 - x_T20_S7_Th_3 - x_T20_S7_Th_4 - x_T20_S7_Th_4 - x_T20_S7_Th_5 - x_T20_S7_Fr_1 - x_T20_S7_Fr_2 - x_T20_S7_Fr_2 - x_T20_S7_Fr_3 - x_T20_S7_Fr_3 - x_T20_S7_Fr_4 - x_T20_S7_Fr_4 - x_T20_S7_Fr_5
+ double_lessons_T21_S8: g_T21_S8 >= 2 - x_T21_S8_Mo_1 - x_T21_S8_Mo_2 - x_T21_S8_Mo_2 - x_T21_S8_Mo_3 - x_T21_S8_Mo_3 - x_T21_S8_Mo_4 - x_T21_S8_Mo_4 - x_T21_S8_Mo_5 - x_T21_S8_Tu_1 - x_T21_S8_Tu_2 - x_T21_S8_Tu_2 - x_T21_S8_Tu_3 - x_T21_S8_Tu_3 - x_T21_S8_Tu_4 - x_T21_S8_Tu_4 - x_T21_S8_Tu_5 - x_T21_S8_We_1 - x_T21_S8_We_2 - x_T21_S8_We_2 - x_T21_S8_We_3 - x_T21_S8_We_3 - x_T21_S8_We_4 - x_T21_S8_We_4 - x_T21_S8_We_5 - x_T21_S8_Th_1 - x_T21_S8_Th_2 - x_T21_S8_Th_2 - x_T21_S8_Th_3 - x_T21_S8_Th_3 - x_T21_S8_Th_4 - x_T21_S8_Th_4 - x_T21_S8_Th_5 - x_T21_S8_Fr_1 - x_T21_S8_Fr_2 - x_T21_S8_Fr_2 - x_T21_S8_Fr_3 - x_T21_S8_Fr_3 - x_T21_S8_Fr_4 - x_T21_S8_Fr_4 - x_T21_S8_Fr_5
+ double_lessons_T21_S9: g_T21_S9 >= 2 - x_T21_S9_Mo_1 - x_T21_S9_Mo_2 - x_T21_S9_Mo_2 - x_T21_S9_Mo_3 - x_T21_S9_Mo_3 - x_T21_S9_Mo_4 - x_T21_S9_Mo_4 - x_T21_S9_Mo_5 - x_T21_S9_Tu_1 - x_T21_S9_Tu_2 - x_T21_S9_Tu_2 - x_T21_S9_Tu_3 - x_T21_S9_Tu_3 - x_T21_S9_Tu_4 - x_T21_S9_Tu_4 - x_T21_S9_Tu_5 - x_T21_S9_We_1 - x_T21_S9_We_2 - x_T21_S9_We_2 - x_T21_S9_We_3 - x_T21_S9_We_3 - x_T21_S9_We_4 - x_T21_S9_We_4 - x_T21_S9_We_5 - x_T21_S9_Th_1 - x_T21_S9_Th_2 - x_T21_S9_Th_2 - x_T21_S9_Th_3 - x_T21_S9_Th_3 - x_T21_S9_Th_4 - x_T21_S9_Th_4 - x_T21_S9_Th_5 - x_T21_S9_Fr_1 - x_T21_S9_Fr_2 - x_T21_S9_Fr_2 - x_T21_S9_Fr_3 - x_T21_S9_Fr_3 - x_T21_S9_Fr_4 - x_T21_S9_Fr_4 - x_T21_S9_Fr_5
+ double_lessons_T21_S10: g_T21_S10 >= 2 - x_T21_S10_Mo_1 - x_T21_S10_Mo_2 - x_T21_S10_Mo_2 - x_T21_S10_Mo_3 - x_T21_S10_Mo_3 - x_T21_S10_Mo_4 - x_T21_S10_Mo_4 - x_T21_S10_Mo_5 - x_T21_S10_Tu_1 - x_T21_S10_Tu_2 - x_T21_S10_Tu_2 - x_T21_S10_Tu_3 - x_T21_S10_Tu_3 - x_T21_S10_Tu_4 - x_T21_S10_Tu_4 - x_T21_S10_Tu_5 - x_T21_S10_We_1 - x_T21_S10_We_2 - x_T21_S10_We_2 - x_T21_S10_We_3 - x_T21_S10_We_3 - x_T21_S10_We_4 - x_T21_S10_We_4 - x_T21_S10_We_5 - x_T21_S10_Th_1 - x_T21_S10_Th_2 - x_T21_S10_Th_2 - x_T21_S10_Th_3 - x_T21_S10_Th_3 - x_T21_S10_Th_4 - x_T21_S10_Th_4 - x_T21_S10_Th_5 - x_T21_S10_Fr_1 - x_T21_S10_Fr_2 - x_T21_S10_Fr_2 - x_T21_S10_Fr_3 - x_T21_S10_Fr_3 - x_T21_S10_Fr_4 - x_T21_S10_Fr_4 - x_T21_S10_Fr_5
+ double_lessons_T21_S11: g_T21_S11 >= 2 - x_T21_S11_Mo_1 - x_T21_S11_Mo_2 - x_T21_S11_Mo_2 - x_T21_S11_Mo_3 - x_T21_S11_Mo_3 - x_T21_S11_Mo_4 - x_T21_S11_Mo_4 - x_T21_S11_Mo_5 - x_T21_S11_Tu_1 - x_T21_S11_Tu_2 - x_T21_S11_Tu_2 - x_T21_S11_Tu_3 - x_T21_S11_Tu_3 - x_T21_S11_Tu_4 - x_T21_S11_Tu_4 - x_T21_S11_Tu_5 - x_T21_S11_We_1 - x_T21_S11_We_2 - x_T21_S11_We_2 - x_T21_S11_We_3 - x_T21_S11_We_3 - x_T21_S11_We_4 - x_T21_S11_We_4 - x_T21_S11_We_5 - x_T21_S11_Th_1 - x_T21_S11_Th_2 - x_T21_S11_Th_2 - x_T21_S11_Th_3 - x_T21_S11_Th_3 - x_T21_S11_Th_4 - x_T21_S11_Th_4 - x_T21_S11_Th_5 - x_T21_S11_Fr_1 - x_T21_S11_Fr_2 - x_T21_S11_Fr_2 - x_T21_S11_Fr_3 - x_T21_S11_Fr_3 - x_T21_S11_Fr_4 - x_T21_S11_Fr_4 - x_T21_S11_Fr_5
+ double_lessons_T21_S12: g_T21_S12 >= 2 - x_T21_S12_Mo_1 - x_T21_S12_Mo_2 - x_T21_S12_Mo_2 - x_T21_S12_Mo_3 - x_T21_S12_Mo_3 - x_T21_S12_Mo_4 - x_T21_S12_Mo_4 - x_T21_S12_Mo_5 - x_T21_S12_Tu_1 - x_T21_S12_Tu_2 - x_T21_S12_Tu_2 - x_T21_S12_Tu_3 - x_T21_S12_Tu_3 - x_T21_S12_Tu_4 - x_T21_S12_Tu_4 - x_T21_S12_Tu_5 - x_T21_S12_We_1 - x_T21_S12_We_2 - x_T21_S12_We_2 - x_T21_S12_We_3 - x_T21_S12_We_3 - x_T21_S12_We_4 - x_T21_S12_We_4 - x_T21_S12_We_5 - x_T21_S12_Th_1 - x_T21_S12_Th_2 - x_T21_S12_Th_2 - x_T21_S12_Th_3 - x_T21_S12_Th_3 - x_T21_S12_Th_4 - x_T21_S12_Th_4 - x_T21_S12_Th_5 - x_T21_S12_Fr_1 - x_T21_S12_Fr_2 - x_T21_S12_Fr_2 - x_T21_S12_Fr_3 - x_T21_S12_Fr_3 - x_T21_S12_Fr_4 - x_T21_S12_Fr_4 - x_T21_S12_Fr_5
+ double_lessons_T21_S13: g_T21_S13 >= 2 - x_T21_S13_Mo_1 - x_T21_S13_Mo_2 - x_T21_S13_Mo_2 - x_T21_S13_Mo_3 - x_T21_S13_Mo_3 - x_T21_S13_Mo_4 - x_T21_S13_Mo_4 - x_T21_S13_Mo_5 - x_T21_S13_Tu_1 - x_T21_S13_Tu_2 - x_T21_S13_Tu_2 - x_T21_S13_Tu_3 - x_T21_S13_Tu_3 - x_T21_S13_Tu_4 - x_T21_S13_Tu_4 - x_T21_S13_Tu_5 - x_T21_S13_We_1 - x_T21_S13_We_2 - x_T21_S13_We_2 - x_T21_S13_We_3 - x_T21_S13_We_3 - x_T21_S13_We_4 - x_T21_S13_We_4 - x_T21_S13_We_5 - x_T21_S13_Th_1 - x_T21_S13_Th_2 - x_T21_S13_Th_2 - x_T21_S13_Th_3 - x_T21_S13_Th_3 - x_T21_S13_Th_4 - x_T21_S13_Th_4 - x_T21_S13_Th_5 - x_T21_S13_Fr_1 - x_T21_S13_Fr_2 - x_T21_S13_Fr_2 - x_T21_S13_Fr_3 - x_T21_S13_Fr_3 - x_T21_S13_Fr_4 - x_T21_S13_Fr_4 - x_T21_S13_Fr_5
+ double_lessons_T21_S14: g_T21_S14 >= 2 - x_T21_S14_Mo_1 - x_T21_S14_Mo_2 - x_T21_S14_Mo_2 - x_T21_S14_Mo_3 - x_T21_S14_Mo_3 - x_T21_S14_Mo_4 - x_T21_S14_Mo_4 - x_T21_S14_Mo_5 - x_T21_S14_Tu_1 - x_T21_S14_Tu_2 - x_T21_S14_Tu_2 - x_T21_S14_Tu_3 - x_T21_S14_Tu_3 - x_T21_S14_Tu_4 - x_T21_S14_Tu_4 - x_T21_S14_Tu_5 - x_T21_S14_We_1 - x_T21_S14_We_2 - x_T21_S14_We_2 - x_T21_S14_We_3 - x_T21_S14_We_3 - x_T21_S14_We_4 - x_T21_S14_We_4 - x_T21_S14_We_5 - x_T21_S14_Th_1 - x_T21_S14_Th_2 - x_T21_S14_Th_2 - x_T21_S14_Th_3 - x_T21_S14_Th_3 - x_T21_S14_Th_4 - x_T21_S14_Th_4 - x_T21_S14_Th_5 - x_T21_S14_Fr_1 - x_T21_S14_Fr_2 - x_T21_S14_Fr_2 - x_T21_S14_Fr_3 - x_T21_S14_Fr_3 - x_T21_S14_Fr_4 - x_T21_S14_Fr_4 - x_T21_S14_Fr_5
+ double_lessons_T22_S15: g_T22_S15 >= 2 - x_T22_S15_Mo_1 - x_T22_S15_Mo_2 - x_T22_S15_Mo_2 - x_T22_S15_Mo_3 - x_T22_S15_Mo_3 - x_T22_S15_Mo_4 - x_T22_S15_Mo_4 - x_T22_S15_Mo_5 - x_T22_S15_Tu_1 - x_T22_S15_Tu_2 - x_T22_S15_Tu_2 - x_T22_S15_Tu_3 - x_T22_S15_Tu_3 - x_T22_S15_Tu_4 - x_T22_S15_Tu_4 - x_T22_S15_Tu_5 - x_T22_S15_We_1 - x_T22_S15_We_2 - x_T22_S15_We_2 - x_T22_S15_We_3 - x_T22_S15_We_3 - x_T22_S15_We_4 - x_T22_S15_We_4 - x_T22_S15_We_5 - x_T22_S15_Th_1 - x_T22_S15_Th_2 - x_T22_S15_Th_2 - x_T22_S15_Th_3 - x_T22_S15_Th_3 - x_T22_S15_Th_4 - x_T22_S15_Th_4 - x_T22_S15_Th_5 - x_T22_S15_Fr_1 - x_T22_S15_Fr_2 - x_T22_S15_Fr_2 - x_T22_S15_Fr_3 - x_T22_S15_Fr_3 - x_T22_S15_Fr_4 - x_T22_S15_Fr_4 - x_T22_S15_Fr_5
+ double_lessons_T22_S16: g_T22_S16 >= 2 - x_T22_S16_Mo_1 - x_T22_S16_Mo_2 - x_T22_S16_Mo_2 - x_T22_S16_Mo_3 - x_T22_S16_Mo_3 - x_T22_S16_Mo_4 - x_T22_S16_Mo_4 - x_T22_S16_Mo_5 - x_T22_S16_Tu_1 - x_T22_S16_Tu_2 - x_T22_S16_Tu_2 - x_T22_S16_Tu_3 - x_T22_S16_Tu_3 - x_T22_S16_Tu_4 - x_T22_S16_Tu_4 - x_T22_S16_Tu_5 - x_T22_S16_We_1 - x_T22_S16_We_2 - x_T22_S16_We_2 - x_T22_S16_We_3 - x_T22_S16_We_3 - x_T22_S16_We_4 - x_T22_S16_We_4 - x_T22_S16_We_5 - x_T22_S16_Th_1 - x_T22_S16_Th_2 - x_T22_S16_Th_2 - x_T22_S16_Th_3 - x_T22_S16_Th_3 - x_T22_S16_Th_4 - x_T22_S16_Th_4 - x_T22_S16_Th_5 - x_T22_S16_Fr_1 - x_T22_S16_Fr_2 - x_T22_S16_Fr_2 - x_T22_S16_Fr_3 - x_T22_S16_Fr_3 - x_T22_S16_Fr_4 - x_T22_S16_Fr_4 - x_T22_S16_Fr_5
+ double_lessons_T22_S17: g_T22_S17 >= 2 - x_T22_S17_Mo_1 - x_T22_S17_Mo_2 - x_T22_S17_Mo_2 - x_T22_S17_Mo_3 - x_T22_S17_Mo_3 - x_T22_S17_Mo_4 - x_T22_S17_Mo_4 - x_T22_S17_Mo_5 - x_T22_S17_Tu_1 - x_T22_S17_Tu_2 - x_T22_S17_Tu_2 - x_T22_S17_Tu_3 - x_T22_S17_Tu_3 - x_T22_S17_Tu_4 - x_T22_S17_Tu_4 - x_T22_S17_Tu_5 - x_T22_S17_We_1 - x_T22_S17_We_2 - x_T22_S17_We_2 - x_T22_S17_We_3 - x_T22_S17_We_3 - x_T22_S17_We_4 - x_T22_S17_We_4 - x_T22_S17_We_5 - x_T22_S17_Th_1 - x_T22_S17_Th_2 - x_T22_S17_Th_2 - x_T22_S17_Th_3 - x_T22_S17_Th_3 - x_T22_S17_Th_4 - x_T22_S17_Th_4 - x_T22_S17_Th_5 - x_T22_S17_Fr_1 - x_T22_S17_Fr_2 - x_T22_S17_Fr_2 - x_T22_S17_Fr_3 - x_T22_S17_Fr_3 - x_T22_S17_Fr_4 - x_T22_S17_Fr_4 - x_T22_S17_Fr_5
+ double_lessons_T22_S18: g_T22_S18 >= 2 - x_T22_S18_Mo_1 - x_T22_S18_Mo_2 - x_T22_S18_Mo_2 - x_T22_S18_Mo_3 - x_T22_S18_Mo_3 - x_T22_S18_Mo_4 - x_T22_S18_Mo_4 - x_T22_S18_Mo_5 - x_T22_S18_Tu_1 - x_T22_S18_Tu_2 - x_T22_S18_Tu_2 - x_T22_S18_Tu_3 - x_T22_S18_Tu_3 - x_T22_S18_Tu_4 - x_T22_S18_Tu_4 - x_T22_S18_Tu_5 - x_T22_S18_We_1 - x_T22_S18_We_2 - x_T22_S18_We_2 - x_T22_S18_We_3 - x_T22_S18_We_3 - x_T22_S18_We_4 - x_T22_S18_We_4 - x_T22_S18_We_5 - x_T22_S18_Th_1 - x_T22_S18_Th_2 - x_T22_S18_Th_2 - x_T22_S18_Th_3 - x_T22_S18_Th_3 - x_T22_S18_Th_4 - x_T22_S18_Th_4 - x_T22_S18_Th_5 - x_T22_S18_Fr_1 - x_T22_S18_Fr_2 - x_T22_S18_Fr_2 - x_T22_S18_Fr_3 - x_T22_S18_Fr_3 - x_T22_S18_Fr_4 - x_T22_S18_Fr_4 - x_T22_S18_Fr_5
+ double_lessons_T22_S19: g_T22_S19 >= 2 - x_T22_S19_Mo_1 - x_T22_S19_Mo_2 - x_T22_S19_Mo_2 - x_T22_S19_Mo_3 - x_T22_S19_Mo_3 - x_T22_S19_Mo_4 - x_T22_S19_Mo_4 - x_T22_S19_Mo_5 - x_T22_S19_Tu_1 - x_T22_S19_Tu_2 - x_T22_S19_Tu_2 - x_T22_S19_Tu_3 - x_T22_S19_Tu_3 - x_T22_S19_Tu_4 - x_T22_S19_Tu_4 - x_T22_S19_Tu_5 - x_T22_S19_We_1 - x_T22_S19_We_2 - x_T22_S19_We_2 - x_T22_S19_We_3 - x_T22_S19_We_3 - x_T22_S19_We_4 - x_T22_S19_We_4 - x_T22_S19_We_5 - x_T22_S19_Th_1 - x_T22_S19_Th_2 - x_T22_S19_Th_2 - x_T22_S19_Th_3 - x_T22_S19_Th_3 - x_T22_S19_Th_4 - x_T22_S19_Th_4 - x_T22_S19_Th_5 - x_T22_S19_Fr_1 - x_T22_S19_Fr_2 - x_T22_S19_Fr_2 - x_T22_S19_Fr_3 - x_T22_S19_Fr_3 - x_T22_S19_Fr_4 - x_T22_S19_Fr_4 - x_T22_S19_Fr_5
+ double_lessons_T22_S20: g_T22_S20 >= 2 - x_T22_S20_Mo_1 - x_T22_S20_Mo_2 - x_T22_S20_Mo_2 - x_T22_S20_Mo_3 - x_T22_S20_Mo_3 - x_T22_S20_Mo_4 - x_T22_S20_Mo_4 - x_T22_S20_Mo_5 - x_T22_S20_Tu_1 - x_T22_S20_Tu_2 - x_T22_S20_Tu_2 - x_T22_S20_Tu_3 - x_T22_S20_Tu_3 - x_T22_S20_Tu_4 - x_T22_S20_Tu_4 - x_T22_S20_Tu_5 - x_T22_S20_We_1 - x_T22_S20_We_2 - x_T22_S20_We_2 - x_T22_S20_We_3 - x_T22_S20_We_3 - x_T22_S20_We_4 - x_T22_S20_We_4 - x_T22_S20_We_5 - x_T22_S20_Th_1 - x_T22_S20_Th_2 - x_T22_S20_Th_2 - x_T22_S20_Th_3 - x_T22_S20_Th_3 - x_T22_S20_Th_4 - x_T22_S20_Th_4 - x_T22_S20_Th_5 - x_T22_S20_Fr_1 - x_T22_S20_Fr_2 - x_T22_S20_Fr_2 - x_T22_S20_Fr_3 - x_T22_S20_Fr_3 - x_T22_S20_Fr_4 - x_T22_S20_Fr_4 - x_T22_S20_Fr_5
+ double_lessons_T23_S1: g_T23_S1 >= 2 - x_T23_S1_Mo_1 - x_T23_S1_Mo_2 - x_T23_S1_Mo_2 - x_T23_S1_Mo_3 - x_T23_S1_Mo_3 - x_T23_S1_Mo_4 - x_T23_S1_Mo_4 - x_T23_S1_Mo_5 - x_T23_S1_Tu_1 - x_T23_S1_Tu_2 - x_T23_S1_Tu_2 - x_T23_S1_Tu_3 - x_T23_S1_Tu_3 - x_T23_S1_Tu_4 - x_T23_S1_Tu_4 - x_T23_S1_Tu_5 - x_T23_S1_We_1 - x_T23_S1_We_2 - x_T23_S1_We_2 - x_T23_S1_We_3 - x_T23_S1_We_3 - x_T23_S1_We_4 - x_T23_S1_We_4 - x_T23_S1_We_5 - x_T23_S1_Th_1 - x_T23_S1_Th_2 - x_T23_S1_Th_2 - x_T23_S1_Th_3 - x_T23_S1_Th_3 - x_T23_S1_Th_4 - x_T23_S1_Th_4 - x_T23_S1_Th_5 - x_T23_S1_Fr_1 - x_T23_S1_Fr_2 - x_T23_S1_Fr_2 - x_T23_S1_Fr_3 - x_T23_S1_Fr_3 - x_T23_S1_Fr_4 - x_T23_S1_Fr_4 - x_T23_S1_Fr_5
+ double_lessons_T23_S2: g_T23_S2 >= 2 - x_T23_S2_Mo_1 - x_T23_S2_Mo_2 - x_T23_S2_Mo_2 - x_T23_S2_Mo_3 - x_T23_S2_Mo_3 - x_T23_S2_Mo_4 - x_T23_S2_Mo_4 - x_T23_S2_Mo_5 - x_T23_S2_Tu_1 - x_T23_S2_Tu_2 - x_T23_S2_Tu_2 - x_T23_S2_Tu_3 - x_T23_S2_Tu_3 - x_T23_S2_Tu_4 - x_T23_S2_Tu_4 - x_T23_S2_Tu_5 - x_T23_S2_We_1 - x_T23_S2_We_2 - x_T23_S2_We_2 - x_T23_S2_We_3 - x_T23_S2_We_3 - x_T23_S2_We_4 - x_T23_S2_We_4 - x_T23_S2_We_5 - x_T23_S2_Th_1 - x_T23_S2_Th_2 - x_T23_S2_Th_2 - x_T23_S2_Th_3 - x_T23_S2_Th_3 - x_T23_S2_Th_4 - x_T23_S2_Th_4 - x_T23_S2_Th_5 - x_T23_S2_Fr_1 - x_T23_S2_Fr_2 - x_T23_S2_Fr_2 - x_T23_S2_Fr_3 - x_T23_S2_Fr_3 - x_T23_S2_Fr_4 - x_T23_S2_Fr_4 - x_T23_S2_Fr_5
+ double_lessons_T23_S3: g_T23_S3 >= 2 - x_T23_S3_Mo_1 - x_T23_S3_Mo_2 - x_T23_S3_Mo_2 - x_T23_S3_Mo_3 - x_T23_S3_Mo_3 - x_T23_S3_Mo_4 - x_T23_S3_Mo_4 - x_T23_S3_Mo_5 - x_T23_S3_Tu_1 - x_T23_S3_Tu_2 - x_T23_S3_Tu_2 - x_T23_S3_Tu_3 - x_T23_S3_Tu_3 - x_T23_S3_Tu_4 - x_T23_S3_Tu_4 - x_T23_S3_Tu_5 - x_T23_S3_We_1 - x_T23_S3_We_2 - x_T23_S3_We_2 - x_T23_S3_We_3 - x_T23_S3_We_3 - x_T23_S3_We_4 - x_T23_S3_We_4 - x_T23_S3_We_5 - x_T23_S3_Th_1 - x_T23_S3_Th_2 - x_T23_S3_Th_2 - x_T23_S3_Th_3 - x_T23_S3_Th_3 - x_T23_S3_Th_4 - x_T23_S3_Th_4 - x_T23_S3_Th_5 - x_T23_S3_Fr_1 - x_T23_S3_Fr_2 - x_T23_S3_Fr_2 - x_T23_S3_Fr_3 - x_T23_S3_Fr_3 - x_T23_S3_Fr_4 - x_T23_S3_Fr_4 - x_T23_S3_Fr_5
+ double_lessons_T23_S10: g_T23_S10 >= 2 - x_T23_S10_Mo_1 - x_T23_S10_Mo_2 - x_T23_S10_Mo_2 - x_T23_S10_Mo_3 - x_T23_S10_Mo_3 - x_T23_S10_Mo_4 - x_T23_S10_Mo_4 - x_T23_S10_Mo_5 - x_T23_S10_Tu_1 - x_T23_S10_Tu_2 - x_T23_S10_Tu_2 - x_T23_S10_Tu_3 - x_T23_S10_Tu_3 - x_T23_S10_Tu_4 - x_T23_S10_Tu_4 - x_T23_S10_Tu_5 - x_T23_S10_We_1 - x_T23_S10_We_2 - x_T23_S10_We_2 - x_T23_S10_We_3 - x_T23_S10_We_3 - x_T23_S10_We_4 - x_T23_S10_We_4 - x_T23_S10_We_5 - x_T23_S10_Th_1 - x_T23_S10_Th_2 - x_T23_S10_Th_2 - x_T23_S10_Th_3 - x_T23_S10_Th_3 - x_T23_S10_Th_4 - x_T23_S10_Th_4 - x_T23_S10_Th_5 - x_T23_S10_Fr_1 - x_T23_S10_Fr_2 - x_T23_S10_Fr_2 - x_T23_S10_Fr_3 - x_T23_S10_Fr_3 - x_T23_S10_Fr_4 - x_T23_S10_Fr_4 - x_T23_S10_Fr_5
+ double_lessons_T23_S11: g_T23_S11 >= 2 - x_T23_S11_Mo_1 - x_T23_S11_Mo_2 - x_T23_S11_Mo_2 - x_T23_S11_Mo_3 - x_T23_S11_Mo_3 - x_T23_S11_Mo_4 - x_T23_S11_Mo_4 - x_T23_S11_Mo_5 - x_T23_S11_Tu_1 - x_T23_S11_Tu_2 - x_T23_S11_Tu_2 - x_T23_S11_Tu_3 - x_T23_S11_Tu_3 - x_T23_S11_Tu_4 - x_T23_S11_Tu_4 - x_T23_S11_Tu_5 - x_T23_S11_We_1 - x_T23_S11_We_2 - x_T23_S11_We_2 - x_T23_S11_We_3 - x_T23_S11_We_3 - x_T23_S11_We_4 - x_T23_S11_We_4 - x_T23_S11_We_5 - x_T23_S11_Th_1 - x_T23_S11_Th_2 - x_T23_S11_Th_2 - x_T23_S11_Th_3 - x_T23_S11_Th_3 - x_T23_S11_Th_4 - x_T23_S11_Th_4 - x_T23_S11_Th_5 - x_T23_S11_Fr_1 - x_T23_S11_Fr_2 - x_T23_S11_Fr_2 - x_T23_S11_Fr_3 - x_T23_S11_Fr_3 - x_T23_S11_Fr_4 - x_T23_S11_Fr_4 - x_T23_S11_Fr_5
+ double_lessons_T23_S12: g_T23_S12 >= 2 - x_T23_S12_Mo_1 - x_T23_S12_Mo_2 - x_T23_S12_Mo_2 - x_T23_S12_Mo_3 - x_T23_S12_Mo_3 - x_T23_S12_Mo_4 - x_T23_S12_Mo_4 - x_T23_S12_Mo_5 - x_T23_S12_Tu_1 - x_T23_S12_Tu_2 - x_T23_S12_Tu_2 - x_T23_S12_Tu_3 - x_T23_S12_Tu_3 - x_T23_S12_Tu_4 - x_T23_S12_Tu_4 - x_T23_S12_Tu_5 - x_T23_S12_We_1 - x_T23_S12_We_2 - x_T23_S12_We_2 - x_T23_S12_We_3 - x_T23_S12_We_3 - x_T23_S12_We_4 - x_T23_S12_We_4 - x_T23_S12_We_5 - x_T23_S12_Th_1 - x_T23_S12_Th_2 - x_T23_S12_Th_2 - x_T23_S12_Th_3 - x_T23_S12_Th_3 - x_T23_S12_Th_4 - x_T23_S12_Th_4 - x_T23_S12_Th_5 - x_T23_S12_Fr_1 - x_T23_S12_Fr_2 - x_T23_S12_Fr_2 - x_T23_S12_Fr_3 - x_T23_S12_Fr_3 - x_T23_S12_Fr_4 - x_T23_S12_Fr_4 - x_T23_S12_Fr_5
+ double_lessons_T23_S19: g_T23_S19 >= 2 - x_T23_S19_Mo_1 - x_T23_S19_Mo_2 - x_T23_S19_Mo_2 - x_T23_S19_Mo_3 - x_T23_S19_Mo_3 - x_T23_S19_Mo_4 - x_T23_S19_Mo_4 - x_T23_S19_Mo_5 - x_T23_S19_Tu_1 - x_T23_S19_Tu_2 - x_T23_S19_Tu_2 - x_T23_S19_Tu_3 - x_T23_S19_Tu_3 - x_T23_S19_Tu_4 - x_T23_S19_Tu_4 - x_T23_S19_Tu_5 - x_T23_S19_We_1 - x_T23_S19_We_2 - x_T23_S19_We_2 - x_T23_S19_We_3 - x_T23_S19_We_3 - x_T23_S19_We_4 - x_T23_S19_We_4 - x_T23_S19_We_5 - x_T23_S19_Th_1 - x_T23_S19_Th_2 - x_T23_S19_Th_2 - x_T23_S19_Th_3 - x_T23_S19_Th_3 - x_T23_S19_Th_4 - x_T23_S19_Th_4 - x_T23_S19_Th_5 - x_T23_S19_Fr_1 - x_T23_S19_Fr_2 - x_T23_S19_Fr_2 - x_T23_S19_Fr_3 - x_T23_S19_Fr_3 - x_T23_S19_Fr_4 - x_T23_S19_Fr_4 - x_T23_S19_Fr_5
+ double_lessons_T24_S4: g_T24_S4 >= 2 - x_T24_S4_Mo_1 - x_T24_S4_Mo_2 - x_T24_S4_Mo_2 - x_T24_S4_Mo_3 - x_T24_S4_Mo_3 - x_T24_S4_Mo_4 - x_T24_S4_Mo_4 - x_T24_S4_Mo_5 - x_T24_S4_Tu_1 - x_T24_S4_Tu_2 - x_T24_S4_Tu_2 - x_T24_S4_Tu_3 - x_T24_S4_Tu_3 - x_T24_S4_Tu_4 - x_T24_S4_Tu_4 - x_T24_S4_Tu_5 - x_T24_S4_We_1 - x_T24_S4_We_2 - x_T24_S4_We_2 - x_T24_S4_We_3 - x_T24_S4_We_3 - x_T24_S4_We_4 - x_T24_S4_We_4 - x_T24_S4_We_5 - x_T24_S4_Th_1 - x_T24_S4_Th_2 - x_T24_S4_Th_2 - x_T24_S4_Th_3 - x_T24_S4_Th_3 - x_T24_S4_Th_4 - x_T24_S4_Th_4 - x_T24_S4_Th_5 - x_T24_S4_Fr_1 - x_T24_S4_Fr_2 - x_T24_S4_Fr_2 - x_T24_S4_Fr_3 - x_T24_S4_Fr_3 - x_T24_S4_Fr_4 - x_T24_S4_Fr_4 - x_T24_S4_Fr_5
+ double_lessons_T24_S5: g_T24_S5 >= 2 - x_T24_S5_Mo_1 - x_T24_S5_Mo_2 - x_T24_S5_Mo_2 - x_T24_S5_Mo_3 - x_T24_S5_Mo_3 - x_T24_S5_Mo_4 - x_T24_S5_Mo_4 - x_T24_S5_Mo_5 - x_T24_S5_Tu_1 - x_T24_S5_Tu_2 - x_T24_S5_Tu_2 - x_T24_S5_Tu_3 - x_T24_S5_Tu_3 - x_T24_S5_Tu_4 - x_T24_S5_Tu_4 - x_T24_S5_Tu_5 - x_T24_S5_We_1 - x_T24_S5_We_2 - x_T24_S5_We_2 - x_T24_S5_We_3 - x_T24_S5_We_3 - x_T24_S5_We_4 - x_T24_S5_We_4 - x_T24_S5_We_5 - x_T24_S5_Th_1 - x_T24_S5_Th_2 - x_T24_S5_Th_2 - x_T24_S5_Th_3 - x_T24_S5_Th_3 - x_T24_S5_Th_4 - x_T24_S5_Th_4 - x_T24_S5_Th_5 - x_T24_S5_Fr_1 - x_T24_S5_Fr_2 - x_T24_S5_Fr_2 - x_T24_S5_Fr_3 - x_T24_S5_Fr_3 - x_T24_S5_Fr_4 - x_T24_S5_Fr_4 - x_T24_S5_Fr_5
+ double_lessons_T24_S6: g_T24_S6 >= 2 - x_T24_S6_Mo_1 - x_T24_S6_Mo_2 - x_T24_S6_Mo_2 - x_T24_S6_Mo_3 - x_T24_S6_Mo_3 - x_T24_S6_Mo_4 - x_T24_S6_Mo_4 - x_T24_S6_Mo_5 - x_T24_S6_Tu_1 - x_T24_S6_Tu_2 - x_T24_S6_Tu_2 - x_T24_S6_Tu_3 - x_T24_S6_Tu_3 - x_T24_S6_Tu_4 - x_T24_S6_Tu_4 - x_T24_S6_Tu_5 - x_T24_S6_We_1 - x_T24_S6_We_2 - x_T24_S6_We_2 - x_T24_S6_We_3 - x_T24_S6_We_3 - x_T24_S6_We_4 - x_T24_S6_We_4 - x_T24_S6_We_5 - x_T24_S6_Th_1 - x_T24_S6_Th_2 - x_T24_S6_Th_2 - x_T24_S6_Th_3 - x_T24_S6_Th_3 - x_T24_S6_Th_4 - x_T24_S6_Th_4 - x_T24_S6_Th_5 - x_T24_S6_Fr_1 - x_T24_S6_Fr_2 - x_T24_S6_Fr_2 - x_T24_S6_Fr_3 - x_T24_S6_Fr_3 - x_T24_S6_Fr_4 - x_T24_S6_Fr_4 - x_T24_S6_Fr_5
+ double_lessons_T24_S13: g_T24_S13 >= 2 - x_T24_S13_Mo_1 - x_T24_S13_Mo_2 - x_T24_S13_Mo_2 - x_T24_S13_Mo_3 - x_T24_S13_Mo_3 - x_T24_S13_Mo_4 - x_T24_S13_Mo_4 - x_T24_S13_Mo_5 - x_T24_S13_Tu_1 - x_T24_S13_Tu_2 - x_T24_S13_Tu_2 - x_T24_S13_Tu_3 - x_T24_S13_Tu_3 - x_T24_S13_Tu_4 - x_T24_S13_Tu_4 - x_T24_S13_Tu_5 - x_T24_S13_We_1 - x_T24_S13_We_2 - x_T24_S13_We_2 - x_T24_S13_We_3 - x_T24_S13_We_3 - x_T24_S13_We_4 - x_T24_S13_We_4 - x_T24_S13_We_5 - x_T24_S13_Th_1 - x_T24_S13_Th_2 - x_T24_S13_Th_2 - x_T24_S13_Th_3 - x_T24_S13_Th_3 - x_T24_S13_Th_4 - x_T24_S13_Th_4 - x_T24_S13_Th_5 - x_T24_S13_Fr_1 - x_T24_S13_Fr_2 - x_T24_S13_Fr_2 - x_T24_S13_Fr_3 - x_T24_S13_Fr_3 - x_T24_S13_Fr_4 - x_T24_S13_Fr_4 - x_T24_S13_Fr_5
+ double_lessons_T24_S14: g_T24_S14 >= 2 - x_T24_S14_Mo_1 - x_T24_S14_Mo_2 - x_T24_S14_Mo_2 - x_T24_S14_Mo_3 - x_T24_S14_Mo_3 - x_T24_S14_Mo_4 - x_T24_S14_Mo_4 - x_T24_S14_Mo_5 - x_T24_S14_Tu_1 - x_T24_S14_Tu_2 - x_T24_S14_Tu_2 - x_T24_S14_Tu_3 - x_T24_S14_Tu_3 - x_T24_S14_Tu_4 - x_T24_S14_Tu_4 - x_T24_S14_Tu_5 - x_T24_S14_We_1 - x_T24_S14_We_2 - x_T24_S14_We_2 - x_T24_S14_We_3 - x_T24_S14_We_3 - x_T24_S14_We_4 - x_T24_S14_We_4 - x_T24_S14_We_5 - x_T24_S14_Th_1 - x_T24_S14_Th_2 - x_T24_S14_Th_2 - x_T24_S14_Th_3 - x_T24_S14_Th_3 - x_T24_S14_Th_4 - x_T24_S14_Th_4 - x_T24_S14_Th_5 - x_T24_S14_Fr_1 - x_T24_S14_Fr_2 - x_T24_S14_Fr_2 - x_T24_S14_Fr_3 - x_T24_S14_Fr_3 - x_T24_S14_Fr_4 - x_T24_S14_Fr_4 - x_T24_S14_Fr_5
+ double_lessons_T24_S15: g_T24_S15 >= 2 - x_T24_S15_Mo_1 - x_T24_S15_Mo_2 - x_T24_S15_Mo_2 - x_T24_S15_Mo_3 - x_T24_S15_Mo_3 - x_T24_S15_Mo_4 - x_T24_S15_Mo_4 - x_T24_S15_Mo_5 - x_T24_S15_Tu_1 - x_T24_S15_Tu_2 - x_T24_S15_Tu_2 - x_T24_S15_Tu_3 - x_T24_S15_Tu_3 - x_T24_S15_Tu_4 - x_T24_S15_Tu_4 - x_T24_S15_Tu_5 - x_T24_S15_We_1 - x_T24_S15_We_2 - x_T24_S15_We_2 - x_T24_S15_We_3 - x_T24_S15_We_3 - x_T24_S15_We_4 - x_T24_S15_We_4 - x_T24_S15_We_5 - x_T24_S15_Th_1 - x_T24_S15_Th_2 - x_T24_S15_Th_2 - x_T24_S15_Th_3 - x_T24_S15_Th_3 - x_T24_S15_Th_4 - x_T24_S15_Th_4 - x_T24_S15_Th_5 - x_T24_S15_Fr_1 - x_T24_S15_Fr_2 - x_T24_S15_Fr_2 - x_T24_S15_Fr_3 - x_T24_S15_Fr_3 - x_T24_S15_Fr_4 - x_T24_S15_Fr_4 - x_T24_S15_Fr_5
+ double_lessons_T24_S20: g_T24_S20 >= 2 - x_T24_S20_Mo_1 - x_T24_S20_Mo_2 - x_T24_S20_Mo_2 - x_T24_S20_Mo_3 - x_T24_S20_Mo_3 - x_T24_S20_Mo_4 - x_T24_S20_Mo_4 - x_T24_S20_Mo_5 - x_T24_S20_Tu_1 - x_T24_S20_Tu_2 - x_T24_S20_Tu_2 - x_T24_S20_Tu_3 - x_T24_S20_Tu_3 - x_T24_S20_Tu_4 - x_T24_S20_Tu_4 - x_T24_S20_Tu_5 - x_T24_S20_We_1 - x_T24_S20_We_2 - x_T24_S20_We_2 - x_T24_S20_We_3 - x_T24_S20_We_3 - x_T24_S20_We_4 - x_T24_S20_We_4 - x_T24_S20_We_5 - x_T24_S20_Th_1 - x_T24_S20_Th_2 - x_T24_S20_Th_2 - x_T24_S20_Th_3 - x_T24_S20_Th_3 - x_T24_S20_Th_4 - x_T24_S20_Th_4 - x_T24_S20_Th_5 - x_T24_S20_Fr_1 - x_T24_S20_Fr_2 - x_T24_S20_Fr_2 - x_T24_S20_Fr_3 - x_T24_S20_Fr_3 - x_T24_S20_Fr_4 - x_T24_S20_Fr_4 - x_T24_S20_Fr_5
+ double_lessons_T25_S7: g_T25_S7 >= 2 - x_T25_S7_Mo_1 - x_T25_S7_Mo_2 - x_T25_S7_Mo_2 - x_T25_S7_Mo_3 - x_T25_S7_Mo_3 - x_T25_S7_Mo_4 - x_T25_S7_Mo_4 - x_T25_S7_Mo_5 - x_T25_S7_Tu_1 - x_T25_S7_Tu_2 - x_T25_S7_Tu_2 - x_T25_S7_Tu_3 - x_T25_S7_Tu_3 - x_T25_S7_Tu_4 - x_T25_S7_Tu_4 - x_T25_S7_Tu_5 - x_T25_S7_We_1 - x_T25_S7_We_2 - x_T25_S7_We_2 - x_T25_S7_We_3 - x_T25_S7_We_3 - x_T25_S7_We_4 - x_T25_S7_We_4 - x_T25_S7_We_5 - x_T25_S7_Th_1 - x_T25_S7_Th_2 - x_T25_S7_Th_2 - x_T25_S7_Th_3 - x_T25_S7_Th_3 - x_T25_S7_Th_4 - x_T25_S7_Th_4 - x_T25_S7_Th_5 - x_T25_S7_Fr_1 - x_T25_S7_Fr_2 - x_T25_S7_Fr_2 - x_T25_S7_Fr_3 - x_T25_S7_Fr_3 - x_T25_S7_Fr_4 - x_T25_S7_Fr_4 - x_T25_S7_Fr_5
+ double_lessons_T25_S8: g_T25_S8 >= 2 - x_T25_S8_Mo_1 - x_T25_S8_Mo_2 - x_T25_S8_Mo_2 - x_T25_S8_Mo_3 - x_T25_S8_Mo_3 - x_T25_S8_Mo_4 - x_T25_S8_Mo_4 - x_T25_S8_Mo_5 - x_T25_S8_Tu_1 - x_T25_S8_Tu_2 - x_T25_S8_Tu_2 - x_T25_S8_Tu_3 - x_T25_S8_Tu_3 - x_T25_S8_Tu_4 - x_T25_S8_Tu_4 - x_T25_S8_Tu_5 - x_T25_S8_We_1 - x_T25_S8_We_2 - x_T25_S8_We_2 - x_T25_S8_We_3 - x_T25_S8_We_3 - x_T25_S8_We_4 - x_T25_S8_We_4 - x_T25_S8_We_5 - x_T25_S8_Th_1 - x_T25_S8_Th_2 - x_T25_S8_Th_2 - x_T25_S8_Th_3 - x_T25_S8_Th_3 - x_T25_S8_Th_4 - x_T25_S8_Th_4 - x_T25_S8_Th_5 - x_T25_S8_Fr_1 - x_T25_S8_Fr_2 - x_T25_S8_Fr_2 - x_T25_S8_Fr_3 - x_T25_S8_Fr_3 - x_T25_S8_Fr_4 - x_T25_S8_Fr_4 - x_T25_S8_Fr_5
+ double_lessons_T25_S9: g_T25_S9 >= 2 - x_T25_S9_Mo_1 - x_T25_S9_Mo_2 - x_T25_S9_Mo_2 - x_T25_S9_Mo_3 - x_T25_S9_Mo_3 - x_T25_S9_Mo_4 - x_T25_S9_Mo_4 - x_T25_S9_Mo_5 - x_T25_S9_Tu_1 - x_T25_S9_Tu_2 - x_T25_S9_Tu_2 - x_T25_S9_Tu_3 - x_T25_S9_Tu_3 - x_T25_S9_Tu_4 - x_T25_S9_Tu_4 - x_T25_S9_Tu_5 - x_T25_S9_We_1 - x_T25_S9_We_2 - x_T25_S9_We_2 - x_T25_S9_We_3 - x_T25_S9_We_3 - x_T25_S9_We_4 - x_T25_S9_We_4 - x_T25_S9_We_5 - x_T25_S9_Th_1 - x_T25_S9_Th_2 - x_T25_S9_Th_2 - x_T25_S9_Th_3 - x_T25_S9_Th_3 - x_T25_S9_Th_4 - x_T25_S9_Th_4 - x_T25_S9_Th_5 - x_T25_S9_Fr_1 - x_T25_S9_Fr_2 - x_T25_S9_Fr_2 - x_T25_S9_Fr_3 - x_T25_S9_Fr_3 - x_T25_S9_Fr_4 - x_T25_S9_Fr_4 - x_T25_S9_Fr_5
+ double_lessons_T25_S16: g_T25_S16 >= 2 - x_T25_S16_Mo_1 - x_T25_S16_Mo_2 - x_T25_S16_Mo_2 - x_T25_S16_Mo_3 - x_T25_S16_Mo_3 - x_T25_S16_Mo_4 - x_T25_S16_Mo_4 - x_T25_S16_Mo_5 - x_T25_S16_Tu_1 - x_T25_S16_Tu_2 - x_T25_S16_Tu_2 - x_T25_S16_Tu_3 - x_T25_S16_Tu_3 - x_T25_S16_Tu_4 - x_T25_S16_Tu_4 - x_T25_S16_Tu_5 - x_T25_S16_We_1 - x_T25_S16_We_2 - x_T25_S16_We_2 - x_T25_S16_We_3 - x_T25_S16_We_3 - x_T25_S16_We_4 - x_T25_S16_We_4 - x_T25_S16_We_5 - x_T25_S16_Th_1 - x_T25_S16_Th_2 - x_T25_S16_Th_2 - x_T25_S16_Th_3 - x_T25_S16_Th_3 - x_T25_S16_Th_4 - x_T25_S16_Th_4 - x_T25_S16_Th_5 - x_T25_S16_Fr_1 - x_T25_S16_Fr_2 - x_T25_S16_Fr_2 - x_T25_S16_Fr_3 - x_T25_S16_Fr_3 - x_T25_S16_Fr_4 - x_T25_S16_Fr_4 - x_T25_S16_Fr_5
+ double_lessons_T25_S17: g_T25_S17 >= 2 - x_T25_S17_Mo_1 - x_T25_S17_Mo_2 - x_T25_S17_Mo_2 - x_T25_S17_Mo_3 - x_T25_S17_Mo_3 - x_T25_S17_Mo_4 - x_T25_S17_Mo_4 - x_T25_S17_Mo_5 - x_T25_S17_Tu_1 - x_T25_S17_Tu_2 - x_T25_S17_Tu_2 - x_T25_S17_Tu_3 - x_T25_S17_Tu_3 - x_T25_S17_Tu_4 - x_T25_S17_Tu_4 - x_T25_S17_Tu_5 - x_T25_S17_We_1 - x_T25_S17_We_2 - x_T25_S17_We_2 - x_T25_S17_We_3 - x_T25_S17_We_3 - x_T25_S17_We_4 - x_T25_S17_We_4 - x_T25_S17_We_5 - x_T25_S17_Th_1 - x_T25_S17_Th_2 - x_T25_S17_Th_2 - x_T25_S17_Th_3 - x_T25_S17_Th_3 - x_T25_S17_Th_4 - x_T25_S17_Th_4 - x_T25_S17_Th_5 - x_T25_S17_Fr_1 - x_T25_S17_Fr_2 - x_T25_S17_Fr_2 - x_T25_S17_Fr_3 - x_T25_S17_Fr_3 - x_T25_S17_Fr_4 - x_T25_S17_Fr_4 - x_T25_S17_Fr_5
+ double_lessons_T25_S18: g_T25_S18 >= 2 - x_T25_S18_Mo_1 - x_T25_S18_Mo_2 - x_T25_S18_Mo_2 - x_T25_S18_Mo_3 - x_T25_S18_Mo_3 - x_T25_S18_Mo_4 - x_T25_S18_Mo_4 - x_T25_S18_Mo_5 - x_T25_S18_Tu_1 - x_T25_S18_Tu_2 - x_T25_S18_Tu_2 - x_T25_S18_Tu_3 - x_T25_S18_Tu_3 - x_T25_S18_Tu_4 - x_T25_S18_Tu_4 - x_T25_S18_Tu_5 - x_T25_S18_We_1 - x_T25_S18_We_2 - x_T25_S18_We_2 - x_T25_S18_We_3 - x_T25_S18_We_3 - x_T25_S18_We_4 - x_T25_S18_We_4 - x_T25_S18_We_5 - x_T25_S18_Th_1 - x_T25_S18_Th_2 - x_T25_S18_Th_2 - x_T25_S18_Th_3 - x_T25_S18_Th_3 - x_T25_S18_Th_4 - x_T25_S18_Th_4 - x_T25_S18_Th_5 - x_T25_S18_Fr_1 - x_T25_S18_Fr_2 - x_T25_S18_Fr_2 - x_T25_S18_Fr_3 - x_T25_S18_Fr_3 - x_T25_S18_Fr_4 - x_T25_S18_Fr_4 - x_T25_S18_Fr_5
+ double_lessons_T26_S1: g_T26_S1 >= 2 - x_T26_S1_Mo_1 - x_T26_S1_Mo_2 - x_T26_S1_Mo_2 - x_T26_S1_Mo_3 - x_T26_S1_Mo_3 - x_T26_S1_Mo_4 - x_T26_S1_Mo_4 - x_T26_S1_Mo_5 - x_T26_S1_Tu_1 - x_T26_S1_Tu_2 - x_T26_S1_Tu_2 - x_T26_S1_Tu_3 - x_T26_S1_Tu_3 - x_T26_S1_Tu_4 - x_T26_S1_Tu_4 - x_T26_S1_Tu_5 - x_T26_S1_We_1 - x_T26_S1_We_2 - x_T26_S1_We_2 - x_T26_S1_We_3 - x_T26_S1_We_3 - x_T26_S1_We_4 - x_T26_S1_We_4 - x_T26_S1_We_5 - x_T26_S1_Th_1 - x_T26_S1_Th_2 - x_T26_S1_Th_2 - x_T26_S1_Th_3 - x_T26_S1_Th_3 - x_T26_S1_Th_4 - x_T26_S1_Th_4 - x_T26_S1_Th_5 - x_T26_S1_Fr_1 - x_T26_S1_Fr_2 - x_T26_S1_Fr_2 - x_T26_S1_Fr_3 - x_T26_S1_Fr_3 - x_T26_S1_Fr_4 - x_T26_S1_Fr_4 - x_T26_S1_Fr_5
+ double_lessons_T26_S4: g_T26_S4 >= 2 - x_T26_S4_Mo_1 - x_T26_S4_Mo_2 - x_T26_S4_Mo_2 - x_T26_S4_Mo_3 - x_T26_S4_Mo_3 - x_T26_S4_Mo_4 - x_T26_S4_Mo_4 - x_T26_S4_Mo_5 - x_T26_S4_Tu_1 - x_T26_S4_Tu_2 - x_T26_S4_Tu_2 - x_T26_S4_Tu_3 - x_T26_S4_Tu_3 - x_T26_S4_Tu_4 - x_T26_S4_Tu_4 - x_T26_S4_Tu_5 - x_T26_S4_We_1 - x_T26_S4_We_2 - x_T26_S4_We_2 - x_T26_S4_We_3 - x_T26_S4_We_3 - x_T26_S4_We_4 - x_T26_S4_We_4 - x_T26_S4_We_5 - x_T26_S4_Th_1 - x_T26_S4_Th_2 - x_T26_S4_Th_2 - x_T26_S4_Th_3 - x_T26_S4_Th_3 - x_T26_S4_Th_4 - x_T26_S4_Th_4 - x_T26_S4_Th_5 - x_T26_S4_Fr_1 - x_T26_S4_Fr_2 - x_T26_S4_Fr_2 - x_T26_S4_Fr_3 - x_T26_S4_Fr_3 - x_T26_S4_Fr_4 - x_T26_S4_Fr_4 - x_T26_S4_Fr_5
+ double_lessons_T26_S7: g_T26_S7 >= 2 - x_T26_S7_Mo_1 - x_T26_S7_Mo_2 - x_T26_S7_Mo_2 - x_T26_S7_Mo_3 - x_T26_S7_Mo_3 - x_T26_S7_Mo_4 - x_T26_S7_Mo_4 - x_T26_S7_Mo_5 - x_T26_S7_Tu_1 - x_T26_S7_Tu_2 - x_T26_S7_Tu_2 - x_T26_S7_Tu_3 - x_T26_S7_Tu_3 - x_T26_S7_Tu_4 - x_T26_S7_Tu_4 - x_T26_S7_Tu_5 - x_T26_S7_We_1 - x_T26_S7_We_2 - x_T26_S7_We_2 - x_T26_S7_We_3 - x_T26_S7_We_3 - x_T26_S7_We_4 - x_T26_S7_We_4 - x_T26_S7_We_5 - x_T26_S7_Th_1 - x_T26_S7_Th_2 - x_T26_S7_Th_2 - x_T26_S7_Th_3 - x_T26_S7_Th_3 - x_T26_S7_Th_4 - x_T26_S7_Th_4 - x_T26_S7_Th_5 - x_T26_S7_Fr_1 - x_T26_S7_Fr_2 - x_T26_S7_Fr_2 - x_T26_S7_Fr_3 - x_T26_S7_Fr_3 - x_T26_S7_Fr_4 - x_T26_S7_Fr_4 - x_T26_S7_Fr_5
+ double_lessons_T26_S10: g_T26_S10 >= 2 - x_T26_S10_Mo_1 - x_T26_S10_Mo_2 - x_T26_S10_Mo_2 - x_T26_S10_Mo_3 - x_T26_S10_Mo_3 - x_T26_S10_Mo_4 - x_T26_S10_Mo_4 - x_T26_S10_Mo_5 - x_T26_S10_Tu_1 - x_T26_S10_Tu_2 - x_T26_S10_Tu_2 - x_T26_S10_Tu_3 - x_T26_S10_Tu_3 - x_T26_S10_Tu_4 - x_T26_S10_Tu_4 - x_T26_S10_Tu_5 - x_T26_S10_We_1 - x_T26_S10_We_2 - x_T26_S10_We_2 - x_T26_S10_We_3 - x_T26_S10_We_3 - x_T26_S10_We_4 - x_T26_S10_We_4 - x_T26_S10_We_5 - x_T26_S10_Th_1 - x_T26_S10_Th_2 - x_T26_S10_Th_2 - x_T26_S10_Th_3 - x_T26_S10_Th_3 - x_T26_S10_Th_4 - x_T26_S10_Th_4 - x_T26_S10_Th_5 - x_T26_S10_Fr_1 - x_T26_S10_Fr_2 - x_T26_S10_Fr_2 - x_T26_S10_Fr_3 - x_T26_S10_Fr_3 - x_T26_S10_Fr_4 - x_T26_S10_Fr_4 - x_T26_S10_Fr_5
+ double_lessons_T26_S13: g_T26_S13 >= 2 - x_T26_S13_Mo_1 - x_T26_S13_Mo_2 - x_T26_S13_Mo_2 - x_T26_S13_Mo_3 - x_T26_S13_Mo_3 - x_T26_S13_Mo_4 - x_T26_S13_Mo_4 - x_T26_S13_Mo_5 - x_T26_S13_Tu_1 - x_T26_S13_Tu_2 - x_T26_S13_Tu_2 - x_T26_S13_Tu_3 - x_T26_S13_Tu_3 - x_T26_S13_Tu_4 - x_T26_S13_Tu_4 - x_T26_S13_Tu_5 - x_T26_S13_We_1 - x_T26_S13_We_2 - x_T26_S13_We_2 - x_T26_S13_We_3 - x_T26_S13_We_3 - x_T26_S13_We_4 - x_T26_S13_We_4 - x_T26_S13_We_5 - x_T26_S13_Th_1 - x_T26_S13_Th_2 - x_T26_S13_Th_2 - x_T26_S13_Th_3 - x_T26_S13_Th_3 - x_T26_S13_Th_4 - x_T26_S13_Th_4 - x_T26_S13_Th_5 - x_T26_S13_Fr_1 - x_T26_S13_Fr_2 - x_T26_S13_Fr_2 - x_T26_S13_Fr_3 - x_T26_S13_Fr_3 - x_T26_S13_Fr_4 - x_T26_S13_Fr_4 - x_T26_S13_Fr_5
+ double_lessons_T26_S16: g_T26_S16 >= 2 - x_T26_S16_Mo_1 - x_T26_S16_Mo_2 - x_T26_S16_Mo_2 - x_T26_S16_Mo_3 - x_T26_S16_Mo_3 - x_T26_S16_Mo_4 - x_T26_S16_Mo_4 - x_T26_S16_Mo_5 - x_T26_S16_Tu_1 - x_T26_S16_Tu_2 - x_T26_S16_Tu_2 - x_T26_S16_Tu_3 - x_T26_S16_Tu_3 - x_T26_S16_Tu_4 - x_T26_S16_Tu_4 - x_T26_S16_Tu_5 - x_T26_S16_We_1 - x_T26_S16_We_2 - x_T26_S16_We_2 - x_T26_S16_We_3 - x_T26_S16_We_3 - x_T26_S16_We_4 - x_T26_S16_We_4 - x_T26_S16_We_5 - x_T26_S16_Th_1 - x_T26_S16_Th_2 - x_T26_S16_Th_2 - x_T26_S16_Th_3 - x_T26_S16_Th_3 - x_T26_S16_Th_4 - x_T26_S16_Th_4 - x_T26_S16_Th_5 - x_T26_S16_Fr_1 - x_T26_S16_Fr_2 - x_T26_S16_Fr_2 - x_T26_S16_Fr_3 - x_T26_S16_Fr_3 - x_T26_S16_Fr_4 - x_T26_S16_Fr_4 - x_T26_S16_Fr_5
+ double_lessons_T26_S19: g_T26_S19 >= 2 - x_T26_S19_Mo_1 - x_T26_S19_Mo_2 - x_T26_S19_Mo_2 - x_T26_S19_Mo_3 - x_T26_S19_Mo_3 - x_T26_S19_Mo_4 - x_T26_S19_Mo_4 - x_T26_S19_Mo_5 - x_T26_S19_Tu_1 - x_T26_S19_Tu_2 - x_T26_S19_Tu_2 - x_T26_S19_Tu_3 - x_T26_S19_Tu_3 - x_T26_S19_Tu_4 - x_T26_S19_Tu_4 - x_T26_S19_Tu_5 - x_T26_S19_We_1 - x_T26_S19_We_2 - x_T26_S19_We_2 - x_T26_S19_We_3 - x_T26_S19_We_3 - x_T26_S19_We_4 - x_T26_S19_We_4 - x_T26_S19_We_5 - x_T26_S19_Th_1 - x_T26_S19_Th_2 - x_T26_S19_Th_2 - x_T26_S19_Th_3 - x_T26_S19_Th_3 - x_T26_S19_Th_4 - x_T26_S19_Th_4 - x_T26_S19_Th_5 - x_T26_S19_Fr_1 - x_T26_S19_Fr_2 - x_T26_S19_Fr_2 - x_T26_S19_Fr_3 - x_T26_S19_Fr_3 - x_T26_S19_Fr_4 - x_T26_S19_Fr_4 - x_T26_S19_Fr_5
+ double_lessons_T27_S2: g_T27_S2 >= 2 - x_T27_S2_Mo_1 - x_T27_S2_Mo_2 - x_T27_S2_Mo_2 - x_T27_S2_Mo_3 - x_T27_S2_Mo_3 - x_T27_S2_Mo_4 - x_T27_S2_Mo_4 - x_T27_S2_Mo_5 - x_T27_S2_Tu_1 - x_T27_S2_Tu_2 - x_T27_S2_Tu_2 - x_T27_S2_Tu_3 - x_T27_S2_Tu_3 - x_T27_S2_Tu_4 - x_T27_S2_Tu_4 - x_T27_S2_Tu_5 - x_T27_S2_We_1 - x_T27_S2_We_2 - x_T27_S2_We_2 - x_T27_S2_We_3 - x_T27_S2_We_3 - x_T27_S2_We_4 - x_T27_S2_We_4 - x_T27_S2_We_5 - x_T27_S2_Th_1 - x_T27_S2_Th_2 - x_T27_S2_Th_2 - x_T27_S2_Th_3 - x_T27_S2_Th_3 - x_T27_S2_Th_4 - x_T27_S2_Th_4 - x_T27_S2_Th_5 - x_T27_S2_Fr_1 - x_T27_S2_Fr_2 - x_T27_S2_Fr_2 - x_T27_S2_Fr_3 - x_T27_S2_Fr_3 - x_T27_S2_Fr_4 - x_T27_S2_Fr_4 - x_T27_S2_Fr_5
+ double_lessons_T27_S5: g_T27_S5 >= 2 - x_T27_S5_Mo_1 - x_T27_S5_Mo_2 - x_T27_S5_Mo_2 - x_T27_S5_Mo_3 - x_T27_S5_Mo_3 - x_T27_S5_Mo_4 - x_T27_S5_Mo_4 - x_T27_S5_Mo_5 - x_T27_S5_Tu_1 - x_T27_S5_Tu_2 - x_T27_S5_Tu_2 - x_T27_S5_Tu_3 - x_T27_S5_Tu_3 - x_T27_S5_Tu_4 - x_T27_S5_Tu_4 - x_T27_S5_Tu_5 - x_T27_S5_We_1 - x_T27_S5_We_2 - x_T27_S5_We_2 - x_T27_S5_We_3 - x_T27_S5_We_3 - x_T27_S5_We_4 - x_T27_S5_We_4 - x_T27_S5_We_5 - x_T27_S5_Th_1 - x_T27_S5_Th_2 - x_T27_S5_Th_2 - x_T27_S5_Th_3 - x_T27_S5_Th_3 - x_T27_S5_Th_4 - x_T27_S5_Th_4 - x_T27_S5_Th_5 - x_T27_S5_Fr_1 - x_T27_S5_Fr_2 - x_T27_S5_Fr_2 - x_T27_S5_Fr_3 - x_T27_S5_Fr_3 - x_T27_S5_Fr_4 - x_T27_S5_Fr_4 - x_T27_S5_Fr_5
+ double_lessons_T27_S8: g_T27_S8 >= 2 - x_T27_S8_Mo_1 - x_T27_S8_Mo_2 - x_T27_S8_Mo_2 - x_T27_S8_Mo_3 - x_T27_S8_Mo_3 - x_T27_S8_Mo_4 - x_T27_S8_Mo_4 - x_T27_S8_Mo_5 - x_T27_S8_Tu_1 - x_T27_S8_Tu_2 - x_T27_S8_Tu_2 - x_T27_S8_Tu_3 - x_T27_S8_Tu_3 - x_T27_S8_Tu_4 - x_T27_S8_Tu_4 - x_T27_S8_Tu_5 - x_T27_S8_We_1 - x_T27_S8_We_2 - x_T27_S8_We_2 - x_T27_S8_We_3 - x_T27_S8_We_3 - x_T27_S8_We_4 - x_T27_S8_We_4 - x_T27_S8_We_5 - x_T27_S8_Th_1 - x_T27_S8_Th_2 - x_T27_S8_Th_2 - x_T27_S8_Th_3 - x_T27_S8_Th_3 - x_T27_S8_Th_4 - x_T27_S8_Th_4 - x_T27_S8_Th_5 - x_T27_S8_Fr_1 - x_T27_S8_Fr_2 - x_T27_S8_Fr_2 - x_T27_S8_Fr_3 - x_T27_S8_Fr_3 - x_T27_S8_Fr_4 - x_T27_S8_Fr_4 - x_T27_S8_Fr_5
+ double_lessons_T27_S11: g_T27_S11 >= 2 - x_T27_S11_Mo_1 - x_T27_S11_Mo_2 - x_T27_S11_Mo_2 - x_T27_S11_Mo_3 - x_T27_S11_Mo_3 - x_T27_S11_Mo_4 - x_T27_S11_Mo_4 - x_T27_S11_Mo_5 - x_T27_S11_Tu_1 - x_T27_S11_Tu_2 - x_T27_S11_Tu_2 - x_T27_S11_Tu_3 - x_T27_S11_Tu_3 - x_T27_S11_Tu_4 - x_T27_S11_Tu_4 - x_T27_S11_Tu_5 - x_T27_S11_We_1 - x_T27_S11_We_2 - x_T27_S11_We_2 - x_T27_S11_We_3 - x_T27_S11_We_3 - x_T27_S11_We_4 - x_T27_S11_We_4 - x_T27_S11_We_5 - x_T27_S11_Th_1 - x_T27_S11_Th_2 - x_T27_S11_Th_2 - x_T27_S11_Th_3 - x_T27_S11_Th_3 - x_T27_S11_Th_4 - x_T27_S11_Th_4 - x_T27_S11_Th_5 - x_T27_S11_Fr_1 - x_T27_S11_Fr_2 - x_T27_S11_Fr_2 - x_T27_S11_Fr_3 - x_T27_S11_Fr_3 - x_T27_S11_Fr_4 - x_T27_S11_Fr_4 - x_T27_S11_Fr_5
+ double_lessons_T27_S14: g_T27_S14 >= 2 - x_T27_S14_Mo_1 - x_T27_S14_Mo_2 - x_T27_S14_Mo_2 - x_T27_S14_Mo_3 - x_T27_S14_Mo_3 - x_T27_S14_Mo_4 - x_T27_S14_Mo_4 - x_T27_S14_Mo_5 - x_T27_S14_Tu_1 - x_T27_S14_Tu_2 - x_T27_S14_Tu_2 - x_T27_S14_Tu_3 - x_T27_S14_Tu_3 - x_T27_S14_Tu_4 - x_T27_S14_Tu_4 - x_T27_S14_Tu_5 - x_T27_S14_We_1 - x_T27_S14_We_2 - x_T27_S14_We_2 - x_T27_S14_We_3 - x_T27_S14_We_3 - x_T27_S14_We_4 - x_T27_S14_We_4 - x_T27_S14_We_5 - x_T27_S14_Th_1 - x_T27_S14_Th_2 - x_T27_S14_Th_2 - x_T27_S14_Th_3 - x_T27_S14_Th_3 - x_T27_S14_Th_4 - x_T27_S14_Th_4 - x_T27_S14_Th_5 - x_T27_S14_Fr_1 - x_T27_S14_Fr_2 - x_T27_S14_Fr_2 - x_T27_S14_Fr_3 - x_T27_S14_Fr_3 - x_T27_S14_Fr_4 - x_T27_S14_Fr_4 - x_T27_S14_Fr_5
+ double_lessons_T27_S17: g_T27_S17 >= 2 - x_T27_S17_Mo_1 - x_T27_S17_Mo_2 - x_T27_S17_Mo_2 - x_T27_S17_Mo_3 - x_T27_S17_Mo_3 - x_T27_S17_Mo_4 - x_T27_S17_Mo_4 - x_T27_S17_Mo_5 - x_T27_S17_Tu_1 - x_T27_S17_Tu_2 - x_T27_S17_Tu_2 - x_T27_S17_Tu_3 - x_T27_S17_Tu_3 - x_T27_S17_Tu_4 - x_T27_S17_Tu_4 - x_T27_S17_Tu_5 - x_T27_S17_We_1 - x_T27_S17_We_2 - x_T27_S17_We_2 - x_T27_S17_We_3 - x_T27_S17_We_3 - x_T27_S17_We_4 - x_T27_S17_We_4 - x_T27_S17_We_5 - x_T27_S17_Th_1 - x_T27_S17_Th_2 - x_T27_S17_Th_2 - x_T27_S17_Th_3 - x_T27_S17_Th_3 - x_T27_S17_Th_4 - x_T27_S17_Th_4 - x_T27_S17_Th_5 - x_T27_S17_Fr_1 - x_T27_S17_Fr_2 - x_T27_S17_Fr_2 - x_T27_S17_Fr_3 - x_T27_S17_Fr_3 - x_T27_S17_Fr_4 - x_T27_S17_Fr_4 - x_T27_S17_Fr_5
+ double_lessons_T27_S20: g_T27_S20 >= 2 - x_T27_S20_Mo_1 - x_T27_S20_Mo_2 - x_T27_S20_Mo_2 - x_T27_S20_Mo_3 - x_T27_S20_Mo_3 - x_T27_S20_Mo_4 - x_T27_S20_Mo_4 - x_T27_S20_Mo_5 - x_T27_S20_Tu_1 - x_T27_S20_Tu_2 - x_T27_S20_Tu_2 - x_T27_S20_Tu_3 - x_T27_S20_Tu_3 - x_T27_S20_Tu_4 - x_T27_S20_Tu_4 - x_T27_S20_Tu_5 - x_T27_S20_We_1 - x_T27_S20_We_2 - x_T27_S20_We_2 - x_T27_S20_We_3 - x_T27_S20_We_3 - x_T27_S20_We_4 - x_T27_S20_We_4 - x_T27_S20_We_5 - x_T27_S20_Th_1 - x_T27_S20_Th_2 - x_T27_S20_Th_2 - x_T27_S20_Th_3 - x_T27_S20_Th_3 - x_T27_S20_Th_4 - x_T27_S20_Th_4 - x_T27_S20_Th_5 - x_T27_S20_Fr_1 - x_T27_S20_Fr_2 - x_T27_S20_Fr_2 - x_T27_S20_Fr_3 - x_T27_S20_Fr_3 - x_T27_S20_Fr_4 - x_T27_S20_Fr_4 - x_T27_S20_Fr_5
+ double_lessons_T28_S3: g_T28_S3 >= 2 - x_T28_S3_Mo_1 - x_T28_S3_Mo_2 - x_T28_S3_Mo_2 - x_T28_S3_Mo_3 - x_T28_S3_Mo_3 - x_T28_S3_Mo_4 - x_T28_S3_Mo_4 - x_T28_S3_Mo_5 - x_T28_S3_Tu_1 - x_T28_S3_Tu_2 - x_T28_S3_Tu_2 - x_T28_S3_Tu_3 - x_T28_S3_Tu_3 - x_T28_S3_Tu_4 - x_T28_S3_Tu_4 - x_T28_S3_Tu_5 - x_T28_S3_We_1 - x_T28_S3_We_2 - x_T28_S3_We_2 - x_T28_S3_We_3 - x_T28_S3_We_3 - x_T28_S3_We_4 - x_T28_S3_We_4 - x_T28_S3_We_5 - x_T28_S3_Th_1 - x_T28_S3_Th_2 - x_T28_S3_Th_2 - x_T28_S3_Th_3 - x_T28_S3_Th_3 - x_T28_S3_Th_4 - x_T28_S3_Th_4 - x_T28_S3_Th_5 - x_T28_S3_Fr_1 - x_T28_S3_Fr_2 - x_T28_S3_Fr_2 - x_T28_S3_Fr_3 - x_T28_S3_Fr_3 - x_T28_S3_Fr_4 - x_T28_S3_Fr_4 - x_T28_S3_Fr_5
+ double_lessons_T28_S6: g_T28_S6 >= 2 - x_T28_S6_Mo_1 - x_T28_S6_Mo_2 - x_T28_S6_Mo_2 - x_T28_S6_Mo_3 - x_T28_S6_Mo_3 - x_T28_S6_Mo_4 - x_T28_S6_Mo_4 - x_T28_S6_Mo_5 - x_T28_S6_Tu_1 - x_T28_S6_Tu_2 - x_T28_S6_Tu_2 - x_T28_S6_Tu_3 - x_T28_S6_Tu_3 - x_T28_S6_Tu_4 - x_T28_S6_Tu_4 - x_T28_S6_Tu_5 - x_T28_S6_We_1 - x_T28_S6_We_2 - x_T28_S6_We_2 - x_T28_S6_We_3 - x_T28_S6_We_3 - x_T28_S6_We_4 - x_T28_S6_We_4 - x_T28_S6_We_5 - x_T28_S6_Th_1 - x_T28_S6_Th_2 - x_T28_S6_Th_2 - x_T28_S6_Th_3 - x_T28_S6_Th_3 - x_T28_S6_Th_4 - x_T28_S6_Th_4 - x_T28_S6_Th_5 - x_T28_S6_Fr_1 - x_T28_S6_Fr_2 - x_T28_S6_Fr_2 - x_T28_S6_Fr_3 - x_T28_S6_Fr_3 - x_T28_S6_Fr_4 - x_T28_S6_Fr_4 - x_T28_S6_Fr_5
+ double_lessons_T28_S9: g_T28_S9 >= 2 - x_T28_S9_Mo_1 - x_T28_S9_Mo_2 - x_T28_S9_Mo_2 - x_T28_S9_Mo_3 - x_T28_S9_Mo_3 - x_T28_S9_Mo_4 - x_T28_S9_Mo_4 - x_T28_S9_Mo_5 - x_T28_S9_Tu_1 - x_T28_S9_Tu_2 - x_T28_S9_Tu_2 - x_T28_S9_Tu_3 - x_T28_S9_Tu_3 - x_T28_S9_Tu_4 - x_T28_S9_Tu_4 - x_T28_S9_Tu_5 - x_T28_S9_We_1 - x_T28_S9_We_2 - x_T28_S9_We_2 - x_T28_S9_We_3 - x_T28_S9_We_3 - x_T28_S9_We_4 - x_T28_S9_We_4 - x_T28_S9_We_5 - x_T28_S9_Th_1 - x_T28_S9_Th_2 - x_T28_S9_Th_2 - x_T28_S9_Th_3 - x_T28_S9_Th_3 - x_T28_S9_Th_4 - x_T28_S9_Th_4 - x_T28_S9_Th_5 - x_T28_S9_Fr_1 - x_T28_S9_Fr_2 - x_T28_S9_Fr_2 - x_T28_S9_Fr_3 - x_T28_S9_Fr_3 - x_T28_S9_Fr_4 - x_T28_S9_Fr_4 - x_T28_S9_Fr_5
+ double_lessons_T28_S12: g_T28_S12 >= 2 - x_T28_S12_Mo_1 - x_T28_S12_Mo_2 - x_T28_S12_Mo_2 - x_T28_S12_Mo_3 - x_T28_S12_Mo_3 - x_T28_S12_Mo_4 - x_T28_S12_Mo_4 - x_T28_S12_Mo_5 - x_T28_S12_Tu_1 - x_T28_S12_Tu_2 - x_T28_S12_Tu_2 - x_T28_S12_Tu_3 - x_T28_S12_Tu_3 - x_T28_S12_Tu_4 - x_T28_S12_Tu_4 - x_T28_S12_Tu_5 - x_T28_S12_We_1 - x_T28_S12_We_2 - x_T28_S12_We_2 - x_T28_S12_We_3 - x_T28_S12_We_3 - x_T28_S12_We_4 - x_T28_S12_We_4 - x_T28_S12_We_5 - x_T28_S12_Th_1 - x_T28_S12_Th_2 - x_T28_S12_Th_2 - x_T28_S12_Th_3 - x_T28_S12_Th_3 - x_T28_S12_Th_4 - x_T28_S12_Th_4 - x_T28_S12_Th_5 - x_T28_S12_Fr_1 - x_T28_S12_Fr_2 - x_T28_S12_Fr_2 - x_T28_S12_Fr_3 - x_T28_S12_Fr_3 - x_T28_S12_Fr_4 - x_T28_S12_Fr_4 - x_T28_S12_Fr_5
+ double_lessons_T28_S15: g_T28_S15 >= 2 - x_T28_S15_Mo_1 - x_T28_S15_Mo_2 - x_T28_S15_Mo_2 - x_T28_S15_Mo_3 - x_T28_S15_Mo_3 - x_T28_S15_Mo_4 - x_T28_S15_Mo_4 - x_T28_S15_Mo_5 - x_T28_S15_Tu_1 - x_T28_S15_Tu_2 - x_T28_S15_Tu_2 - x_T28_S15_Tu_3 - x_T28_S15_Tu_3 - x_T28_S15_Tu_4 - x_T28_S15_Tu_4 - x_T28_S15_Tu_5 - x_T28_S15_We_1 - x_T28_S15_We_2 - x_T28_S15_We_2 - x_T28_S15_We_3 - x_T28_S15_We_3 - x_T28_S15_We_4 - x_T28_S15_We_4 - x_T28_S15_We_5 - x_T28_S15_Th_1 - x_T28_S15_Th_2 - x_T28_S15_Th_2 - x_T28_S15_Th_3 - x_T28_S15_Th_3 - x_T28_S15_Th_4 - x_T28_S15_Th_4 - x_T28_S15_Th_5 - x_T28_S15_Fr_1 - x_T28_S15_Fr_2 - x_T28_S15_Fr_2 - x_T28_S15_Fr_3 - x_T28_S15_Fr_3 - x_T28_S15_Fr_4 - x_T28_S15_Fr_4 - x_T28_S15_Fr_5
+ double_lessons_T28_S18: g_T28_S18 >= 2 - x_T28_S18_Mo_1 - x_T28_S18_Mo_2 - x_T28_S18_Mo_2 - x_T28_S18_Mo_3 - x_T28_S18_Mo_3 - x_T28_S18_Mo_4 - x_T28_S18_Mo_4 - x_T28_S18_Mo_5 - x_T28_S18_Tu_1 - x_T28_S18_Tu_2 - x_T28_S18_Tu_2 - x_T28_S18_Tu_3 - x_T28_S18_Tu_3 - x_T28_S18_Tu_4 - x_T28_S18_Tu_4 - x_T28_S18_Tu_5 - x_T28_S18_We_1 - x_T28_S18_We_2 - x_T28_S18_We_2 - x_T28_S18_We_3 - x_T28_S18_We_3 - x_T28_S18_We_4 - x_T28_S18_We_4 - x_T28_S18_We_5 - x_T28_S18_Th_1 - x_T28_S18_Th_2 - x_T28_S18_Th_2 - x_T28_S18_Th_3 - x_T28_S18_Th_3 - x_T28_S18_Th_4 - x_T28_S18_Th_4 - x_T28_S18_Th_5 - x_T28_S18_Fr_1 - x_T28_S18_Fr_2 - x_T28_S18_Fr_2 - x_T28_S18_Fr_3 - x_T28_S18_Fr_3 - x_T28_S18_Fr_4 - x_T28_S18_Fr_4 - x_T28_S18_Fr_5
+ double_lessons_T29_S1: g_T29_S1 >= 2 - x_T29_S1_Mo_1 - x_T29_S1_Mo_2 - x_T29_S1_Mo_2 - x_T29_S1_Mo_3 - x_T29_S1_Mo_3 - x_T29_S1_Mo_4 - x_T29_S1_Mo_4 - x_T29_S1_Mo_5 - x_T29_S1_Tu_1 - x_T29_S1_Tu_2 - x_T29_S1_Tu_2 - x_T29_S1_Tu_3 - x_T29_S1_Tu_3 - x_T29_S1_Tu_4 - x_T29_S1_Tu_4 - x_T29_S1_Tu_5 - x_T29_S1_We_1 - x_T29_S1_We_2 - x_T29_S1_We_2 - x_T29_S1_We_3 - x_T29_S1_We_3 - x_T29_S1_We_4 - x_T29_S1_We_4 - x_T29_S1_We_5 - x_T29_S1_Th_1 - x_T29_S1_Th_2 - x_T29_S1_Th_2 - x_T29_S1_Th_3 - x_T29_S1_Th_3 - x_T29_S1_Th_4 - x_T29_S1_Th_4 - x_T29_S1_Th_5 - x_T29_S1_Fr_1 - x_T29_S1_Fr_2 - x_T29_S1_Fr_2 - x_T29_S1_Fr_3 - x_T29_S1_Fr_3 - x_T29_S1_Fr_4 - x_T29_S1_Fr_4 - x_T29_S1_Fr_5
+ double_lessons_T29_S4: g_T29_S4 >= 2 - x_T29_S4_Mo_1 - x_T29_S4_Mo_2 - x_T29_S4_Mo_2 - x_T29_S4_Mo_3 - x_T29_S4_Mo_3 - x_T29_S4_Mo_4 - x_T29_S4_Mo_4 - x_T29_S4_Mo_5 - x_T29_S4_Tu_1 - x_T29_S4_Tu_2 - x_T29_S4_Tu_2 - x_T29_S4_Tu_3 - x_T29_S4_Tu_3 - x_T29_S4_Tu_4 - x_T29_S4_Tu_4 - x_T29_S4_Tu_5 - x_T29_S4_We_1 - x_T29_S4_We_2 - x_T29_S4_We_2 - x_T29_S4_We_3 - x_T29_S4_We_3 - x_T29_S4_We_4 - x_T29_S4_We_4 - x_T29_S4_We_5 - x_T29_S4_Th_1 - x_T29_S4_Th_2 - x_T29_S4_Th_2 - x_T29_S4_Th_3 - x_T29_S4_Th_3 - x_T29_S4_Th_4 - x_T29_S4_Th_4 - x_T29_S4_Th_5 - x_T29_S4_Fr_1 - x_T29_S4_Fr_2 - x_T29_S4_Fr_2 - x_T29_S4_Fr_3 - x_T29_S4_Fr_3 - x_T29_S4_Fr_4 - x_T29_S4_Fr_4 - x_T29_S4_Fr_5
+ double_lessons_T29_S7: g_T29_S7 >= 2 - x_T29_S7_Mo_1 - x_T29_S7_Mo_2 - x_T29_S7_Mo_2 - x_T29_S7_Mo_3 - x_T29_S7_Mo_3 - x_T29_S7_Mo_4 - x_T29_S7_Mo_4 - x_T29_S7_Mo_5 - x_T29_S7_Tu_1 - x_T29_S7_Tu_2 - x_T29_S7_Tu_2 - x_T29_S7_Tu_3 - x_T29_S7_Tu_3 - x_T29_S7_Tu_4 - x_T29_S7_Tu_4 - x_T29_S7_Tu_5 - x_T29_S7_We_1 - x_T29_S7_We_2 - x_T29_S7_We_2 - x_T29_S7_We_3 - x_T29_S7_We_3 - x_T29_S7_We_4 - x_T29_S7_We_4 - x_T29_S7_We_5 - x_T29_S7_Th_1 - x_T29_S7_Th_2 - x_T29_S7_Th_2 - x_T29_S7_Th_3 - x_T29_S7_Th_3 - x_T29_S7_Th_4 - x_T29_S7_Th_4 - x_T29_S7_Th_5 - x_T29_S7_Fr_1 - x_T29_S7_Fr_2 - x_T29_S7_Fr_2 - x_T29_S7_Fr_3 - x_T29_S7_Fr_3 - x_T29_S7_Fr_4 - x_T29_S7_Fr_4 - x_T29_S7_Fr_5
+ double_lessons_T29_S10: g_T29_S10 >= 2 - x_T29_S10_Mo_1 - x_T29_S10_Mo_2 - x_T29_S10_Mo_2 - x_T29_S10_Mo_3 - x_T29_S10_Mo_3 - x_T29_S10_Mo_4 - x_T29_S10_Mo_4 - x_T29_S10_Mo_5 - x_T29_S10_Tu_1 - x_T29_S10_Tu_2 - x_T29_S10_Tu_2 - x_T29_S10_Tu_3 - x_T29_S10_Tu_3 - x_T29_S10_Tu_4 - x_T29_S10_Tu_4 - x_T29_S10_Tu_5 - x_T29_S10_We_1 - x_T29_S10_We_2 - x_T29_S10_We_2 - x_T29_S10_We_3 - x_T29_S10_We_3 - x_T29_S10_We_4 - x_T29_S10_We_4 - x_T29_S10_We_5 - x_T29_S10_Th_1 - x_T29_S10_Th_2 - x_T29_S10_Th_2 - x_T29_S10_Th_3 - x_T29_S10_Th_3 - x_T29_S10_Th_4 - x_T29_S10_Th_4 - x_T29_S10_Th_5 - x_T29_S10_Fr_1 - x_T29_S10_Fr_2 - x_T29_S10_Fr_2 - x_T29_S10_Fr_3 - x_T29_S10_Fr_3 - x_T29_S10_Fr_4 - x_T29_S10_Fr_4 - x_T29_S10_Fr_5
+ double_lessons_T29_S13: g_T29_S13 >= 2 - x_T29_S13_Mo_1 - x_T29_S13_Mo_2 - x_T29_S13_Mo_2 - x_T29_S13_Mo_3 - x_T29_S13_Mo_3 - x_T29_S13_Mo_4 - x_T29_S13_Mo_4 - x_T29_S13_Mo_5 - x_T29_S13_Tu_1 - x_T29_S13_Tu_2 - x_T29_S13_Tu_2 - x_T29_S13_Tu_3 - x_T29_S13_Tu_3 - x_T29_S13_Tu_4 - x_T29_S13_Tu_4 - x_T29_S13_Tu_5 - x_T29_S13_We_1 - x_T29_S13_We_2 - x_T29_S13_We_2 - x_T29_S13_We_3 - x_T29_S13_We_3 - x_T29_S13_We_4 - x_T29_S13_We_4 - x_T29_S13_We_5 - x_T29_S13_Th_1 - x_T29_S13_Th_2 - x_T29_S13_Th_2 - x_T29_S13_Th_3 - x_T29_S13_Th_3 - x_T29_S13_Th_4 - x_T29_S13_Th_4 - x_T29_S13_Th_5 - x_T29_S13_Fr_1 - x_T29_S13_Fr_2 - x_T29_S13_Fr_2 - x_T29_S13_Fr_3 - x_T29_S13_Fr_3 - x_T29_S13_Fr_4 - x_T29_S13_Fr_4 - x_T29_S13_Fr_5
+ double_lessons_T29_S16: g_T29_S16 >= 2 - x_T29_S16_Mo_1 - x_T29_S16_Mo_2 - x_T29_S16_Mo_2 - x_T29_S16_Mo_3 - x_T29_S16_Mo_3 - x_T29_S16_Mo_4 - x_T29_S16_Mo_4 - x_T29_S16_Mo_5 - x_T29_S16_Tu_1 - x_T29_S16_Tu_2 - x_T29_S16_Tu_2 - x_T29_S16_Tu_3 - x_T29_S16_Tu_3 - x_T29_S16_Tu_4 - x_T29_S16_Tu_4 - x_T29_S16_Tu_5 - x_T29_S16_We_1 - x_T29_S16_We_2 - x_T29_S16_We_2 - x_T29_S16_We_3 - x_T29_S16_We_3 - x_T29_S16_We_4 - x_T29_S16_We_4 - x_T29_S16_We_5 - x_T29_S16_Th_1 - x_T29_S16_Th_2 - x_T29_S16_Th_2 - x_T29_S16_Th_3 - x_T29_S16_Th_3 - x_T29_S16_Th_4 - x_T29_S16_Th_4 - x_T29_S16_Th_5 - x_T29_S16_Fr_1 - x_T29_S16_Fr_2 - x_T29_S16_Fr_2 - x_T29_S16_Fr_3 - x_T29_S16_Fr_3 - x_T29_S16_Fr_4 - x_T29_S16_Fr_4 - x_T29_S16_Fr_5
+ double_lessons_T29_S19: g_T29_S19 >= 2 - x_T29_S19_Mo_1 - x_T29_S19_Mo_2 - x_T29_S19_Mo_2 - x_T29_S19_Mo_3 - x_T29_S19_Mo_3 - x_T29_S19_Mo_4 - x_T29_S19_Mo_4 - x_T29_S19_Mo_5 - x_T29_S19_Tu_1 - x_T29_S19_Tu_2 - x_T29_S19_Tu_2 - x_T29_S19_Tu_3 - x_T29_S19_Tu_3 - x_T29_S19_Tu_4 - x_T29_S19_Tu_4 - x_T29_S19_Tu_5 - x_T29_S19_We_1 - x_T29_S19_We_2 - x_T29_S19_We_2 - x_T29_S19_We_3 - x_T29_S19_We_3 - x_T29_S19_We_4 - x_T29_S19_We_4 - x_T29_S19_We_5 - x_T29_S19_Th_1 - x_T29_S19_Th_2 - x_T29_S19_Th_2 - x_T29_S19_Th_3 - x_T29_S19_Th_3 - x_T29_S19_Th_4 - x_T29_S19_Th_4 - x_T29_S19_Th_5 - x_T29_S19_Fr_1 - x_T29_S19_Fr_2 - x_T29_S19_Fr_2 - x_T29_S19_Fr_3 - x_T29_S19_Fr_3 - x_T29_S19_Fr_4 - x_T29_S19_Fr_4 - x_T29_S19_Fr_5
+ double_lessons_T30_S2: g_T30_S2 >= 2 - x_T30_S2_Mo_1 - x_T30_S2_Mo_2 - x_T30_S2_Mo_2 - x_T30_S2_Mo_3 - x_T30_S2_Mo_3 - x_T30_S2_Mo_4 - x_T30_S2_Mo_4 - x_T30_S2_Mo_5 - x_T30_S2_Tu_1 - x_T30_S2_Tu_2 - x_T30_S2_Tu_2 - x_T30_S2_Tu_3 - x_T30_S2_Tu_3 - x_T30_S2_Tu_4 - x_T30_S2_Tu_4 - x_T30_S2_Tu_5 - x_T30_S2_We_1 - x_T30_S2_We_2 - x_T30_S2_We_2 - x_T30_S2_We_3 - x_T30_S2_We_3 - x_T30_S2_We_4 - x_T30_S2_We_4 - x_T30_S2_We_5 - x_T30_S2_Th_1 - x_T30_S2_Th_2 - x_T30_S2_Th_2 - x_T30_S2_Th_3 - x_T30_S2_Th_3 - x_T30_S2_Th_4 - x_T30_S2_Th_4 - x_T30_S2_Th_5 - x_T30_S2_Fr_1 - x_T30_S2_Fr_2 - x_T30_S2_Fr_2 - x_T30_S2_Fr_3 - x_T30_S2_Fr_3 - x_T30_S2_Fr_4 - x_T30_S2_Fr_4 - x_T30_S2_Fr_5
+ double_lessons_T30_S5: g_T30_S5 >= 2 - x_T30_S5_Mo_1 - x_T30_S5_Mo_2 - x_T30_S5_Mo_2 - x_T30_S5_Mo_3 - x_T30_S5_Mo_3 - x_T30_S5_Mo_4 - x_T30_S5_Mo_4 - x_T30_S5_Mo_5 - x_T30_S5_Tu_1 - x_T30_S5_Tu_2 - x_T30_S5_Tu_2 - x_T30_S5_Tu_3 - x_T30_S5_Tu_3 - x_T30_S5_Tu_4 - x_T30_S5_Tu_4 - x_T30_S5_Tu_5 - x_T30_S5_We_1 - x_T30_S5_We_2 - x_T30_S5_We_2 - x_T30_S5_We_3 - x_T30_S5_We_3 - x_T30_S5_We_4 - x_T30_S5_We_4 - x_T30_S5_We_5 - x_T30_S5_Th_1 - x_T30_S5_Th_2 - x_T30_S5_Th_2 - x_T30_S5_Th_3 - x_T30_S5_Th_3 - x_T30_S5_Th_4 - x_T30_S5_Th_4 - x_T30_S5_Th_5 - x_T30_S5_Fr_1 - x_T30_S5_Fr_2 - x_T30_S5_Fr_2 - x_T30_S5_Fr_3 - x_T30_S5_Fr_3 - x_T30_S5_Fr_4 - x_T30_S5_Fr_4 - x_T30_S5_Fr_5
+ double_lessons_T30_S8: g_T30_S8 >= 2 - x_T30_S8_Mo_1 - x_T30_S8_Mo_2 - x_T30_S8_Mo_2 - x_T30_S8_Mo_3 - x_T30_S8_Mo_3 - x_T30_S8_Mo_4 - x_T30_S8_Mo_4 - x_T30_S8_Mo_5 - x_T30_S8_Tu_1 - x_T30_S8_Tu_2 - x_T30_S8_Tu_2 - x_T30_S8_Tu_3 - x_T30_S8_Tu_3 - x_T30_S8_Tu_4 - x_T30_S8_Tu_4 - x_T30_S8_Tu_5 - x_T30_S8_We_1 - x_T30_S8_We_2 - x_T30_S8_We_2 - x_T30_S8_We_3 - x_T30_S8_We_3 - x_T30_S8_We_4 - x_T30_S8_We_4 - x_T30_S8_We_5 - x_T30_S8_Th_1 - x_T30_S8_Th_2 - x_T30_S8_Th_2 - x_T30_S8_Th_3 - x_T30_S8_Th_3 - x_T30_S8_Th_4 - x_T30_S8_Th_4 - x_T30_S8_Th_5 - x_T30_S8_Fr_1 - x_T30_S8_Fr_2 - x_T30_S8_Fr_2 - x_T30_S8_Fr_3 - x_T30_S8_Fr_3 - x_T30_S8_Fr_4 - x_T30_S8_Fr_4 - x_T30_S8_Fr_5
+ double_lessons_T30_S11: g_T30_S11 >= 2 - x_T30_S11_Mo_1 - x_T30_S11_Mo_2 - x_T30_S11_Mo_2 - x_T30_S11_Mo_3 - x_T30_S11_Mo_3 - x_T30_S11_Mo_4 - x_T30_S11_Mo_4 - x_T30_S11_Mo_5 - x_T30_S11_Tu_1 - x_T30_S11_Tu_2 - x_T30_S11_Tu_2 - x_T30_S11_Tu_3 - x_T30_S11_Tu_3 - x_T30_S11_Tu_4 - x_T30_S11_Tu_4 - x_T30_S11_Tu_5 - x_T30_S11_We_1 - x_T30_S11_We_2 - x_T30_S11_We_2 - x_T30_S11_We_3 - x_T30_S11_We_3 - x_T30_S11_We_4 - x_T30_S11_We_4 - x_T30_S11_We_5 - x_T30_S11_Th_1 - x_T30_S11_Th_2 - x_T30_S11_Th_2 - x_T30_S11_Th_3 - x_T30_S11_Th_3 - x_T30_S11_Th_4 - x_T30_S11_Th_4 - x_T30_S11_Th_5 - x_T30_S11_Fr_1 - x_T30_S11_Fr_2 - x_T30_S11_Fr_2 - x_T30_S11_Fr_3 - x_T30_S11_Fr_3 - x_T30_S11_Fr_4 - x_T30_S11_Fr_4 - x_T30_S11_Fr_5
+ double_lessons_T30_S14: g_T30_S14 >= 2 - x_T30_S14_Mo_1 - x_T30_S14_Mo_2 - x_T30_S14_Mo_2 - x_T30_S14_Mo_3 - x_T30_S14_Mo_3 - x_T30_S14_Mo_4 - x_T30_S14_Mo_4 - x_T30_S14_Mo_5 - x_T30_S14_Tu_1 - x_T30_S14_Tu_2 - x_T30_S14_Tu_2 - x_T30_S14_Tu_3 - x_T30_S14_Tu_3 - x_T30_S14_Tu_4 - x_T30_S14_Tu_4 - x_T30_S14_Tu_5 - x_T30_S14_We_1 - x_T30_S14_We_2 - x_T30_S14_We_2 - x_T30_S14_We_3 - x_T30_S14_We_3 - x_T30_S14_We_4 - x_T30_S14_We_4 - x_T30_S14_We_5 - x_T30_S14_Th_1 - x_T30_S14_Th_2 - x_T30_S14_Th_2 - x_T30_S14_Th_3 - x_T30_S14_Th_3 - x_T30_S14_Th_4 - x_T30_S14_Th_4 - x_T30_S14_Th_5 - x_T30_S14_Fr_1 - x_T30_S14_Fr_2 - x_T30_S14_Fr_2 - x_T30_S14_Fr_3 - x_T30_S14_Fr_3 - x_T30_S14_Fr_4 - x_T30_S14_Fr_4 - x_T30_S14_Fr_5
+ double_lessons_T30_S17: g_T30_S17 >= 2 - x_T30_S17_Mo_1 - x_T30_S17_Mo_2 - x_T30_S17_Mo_2 - x_T30_S17_Mo_3 - x_T30_S17_Mo_3 - x_T30_S17_Mo_4 - x_T30_S17_Mo_4 - x_T30_S17_Mo_5 - x_T30_S17_Tu_1 - x_T30_S17_Tu_2 - x_T30_S17_Tu_2 - x_T30_S17_Tu_3 - x_T30_S17_Tu_3 - x_T30_S17_Tu_4 - x_T30_S17_Tu_4 - x_T30_S17_Tu_5 - x_T30_S17_We_1 - x_T30_S17_We_2 - x_T30_S17_We_2 - x_T30_S17_We_3 - x_T30_S17_We_3 - x_T30_S17_We_4 - x_T30_S17_We_4 - x_T30_S17_We_5 - x_T30_S17_Th_1 - x_T30_S17_Th_2 - x_T30_S17_Th_2 - x_T30_S17_Th_3 - x_T30_S17_Th_3 - x_T30_S17_Th_4 - x_T30_S17_Th_4 - x_T30_S17_Th_5 - x_T30_S17_Fr_1 - x_T30_S17_Fr_2 - x_T30_S17_Fr_2 - x_T30_S17_Fr_3 - x_T30_S17_Fr_3 - x_T30_S17_Fr_4 - x_T30_S17_Fr_4 - x_T30_S17_Fr_5
+ double_lessons_T31_S3: g_T31_S3 >= 2 - x_T31_S3_Mo_1 - x_T31_S3_Mo_2 - x_T31_S3_Mo_2 - x_T31_S3_Mo_3 - x_T31_S3_Mo_3 - x_T31_S3_Mo_4 - x_T31_S3_Mo_4 - x_T31_S3_Mo_5 - x_T31_S3_Tu_1 - x_T31_S3_Tu_2 - x_T31_S3_Tu_2 - x_T31_S3_Tu_3 - x_T31_S3_Tu_3 - x_T31_S3_Tu_4 - x_T31_S3_Tu_4 - x_T31_S3_Tu_5 - x_T31_S3_We_1 - x_T31_S3_We_2 - x_T31_S3_We_2 - x_T31_S3_We_3 - x_T31_S3_We_3 - x_T31_S3_We_4 - x_T31_S3_We_4 - x_T31_S3_We_5 - x_T31_S3_Th_1 - x_T31_S3_Th_2 - x_T31_S3_Th_2 - x_T31_S3_Th_3 - x_T31_S3_Th_3 - x_T31_S3_Th_4 - x_T31_S3_Th_4 - x_T31_S3_Th_5 - x_T31_S3_Fr_1 - x_T31_S3_Fr_2 - x_T31_S3_Fr_2 - x_T31_S3_Fr_3 - x_T31_S3_Fr_3 - x_T31_S3_Fr_4 - x_T31_S3_Fr_4 - x_T31_S3_Fr_5
+ double_lessons_T31_S6: g_T31_S6 >= 2 - x_T31_S6_Mo_1 - x_T31_S6_Mo_2 - x_T31_S6_Mo_2 - x_T31_S6_Mo_3 - x_T31_S6_Mo_3 - x_T31_S6_Mo_4 - x_T31_S6_Mo_4 - x_T31_S6_Mo_5 - x_T31_S6_Tu_1 - x_T31_S6_Tu_2 - x_T31_S6_Tu_2 - x_T31_S6_Tu_3 - x_T31_S6_Tu_3 - x_T31_S6_Tu_4 - x_T31_S6_Tu_4 - x_T31_S6_Tu_5 - x_T31_S6_We_1 - x_T31_S6_We_2 - x_T31_S6_We_2 - x_T31_S6_We_3 - x_T31_S6_We_3 - x_T31_S6_We_4 - x_T31_S6_We_4 - x_T31_S6_We_5 - x_T31_S6_Th_1 - x_T31_S6_Th_2 - x_T31_S6_Th_2 - x_T31_S6_Th_3 - x_T31_S6_Th_3 - x_T31_S6_Th_4 - x_T31_S6_Th_4 - x_T31_S6_Th_5 - x_T31_S6_Fr_1 - x_T31_S6_Fr_2 - x_T31_S6_Fr_2 - x_T31_S6_Fr_3 - x_T31_S6_Fr_3 - x_T31_S6_Fr_4 - x_T31_S6_Fr_4 - x_T31_S6_Fr_5
+ double_lessons_T31_S9: g_T31_S9 >= 2 - x_T31_S9_Mo_1 - x_T31_S9_Mo_2 - x_T31_S9_Mo_2 - x_T31_S9_Mo_3 - x_T31_S9_Mo_3 - x_T31_S9_Mo_4 - x_T31_S9_Mo_4 - x_T31_S9_Mo_5 - x_T31_S9_Tu_1 - x_T31_S9_Tu_2 - x_T31_S9_Tu_2 - x_T31_S9_Tu_3 - x_T31_S9_Tu_3 - x_T31_S9_Tu_4 - x_T31_S9_Tu_4 - x_T31_S9_Tu_5 - x_T31_S9_We_1 - x_T31_S9_We_2 - x_T31_S9_We_2 - x_T31_S9_We_3 - x_T31_S9_We_3 - x_T31_S9_We_4 - x_T31_S9_We_4 - x_T31_S9_We_5 - x_T31_S9_Th_1 - x_T31_S9_Th_2 - x_T31_S9_Th_2 - x_T31_S9_Th_3 - x_T31_S9_Th_3 - x_T31_S9_Th_4 - x_T31_S9_Th_4 - x_T31_S9_Th_5 - x_T31_S9_Fr_1 - x_T31_S9_Fr_2 - x_T31_S9_Fr_2 - x_T31_S9_Fr_3 - x_T31_S9_Fr_3 - x_T31_S9_Fr_4 - x_T31_S9_Fr_4 - x_T31_S9_Fr_5
+ double_lessons_T31_S12: g_T31_S12 >= 2 - x_T31_S12_Mo_1 - x_T31_S12_Mo_2 - x_T31_S12_Mo_2 - x_T31_S12_Mo_3 - x_T31_S12_Mo_3 - x_T31_S12_Mo_4 - x_T31_S12_Mo_4 - x_T31_S12_Mo_5 - x_T31_S12_Tu_1 - x_T31_S12_Tu_2 - x_T31_S12_Tu_2 - x_T31_S12_Tu_3 - x_T31_S12_Tu_3 - x_T31_S12_Tu_4 - x_T31_S12_Tu_4 - x_T31_S12_Tu_5 - x_T31_S12_We_1 - x_T31_S12_We_2 - x_T31_S12_We_2 - x_T31_S12_We_3 - x_T31_S12_We_3 - x_T31_S12_We_4 - x_T31_S12_We_4 - x_T31_S12_We_5 - x_T31_S12_Th_1 - x_T31_S12_Th_2 - x_T31_S12_Th_2 - x_T31_S12_Th_3 - x_T31_S12_Th_3 - x_T31_S12_Th_4 - x_T31_S12_Th_4 - x_T31_S12_Th_5 - x_T31_S12_Fr_1 - x_T31_S12_Fr_2 - x_T31_S12_Fr_2 - x_T31_S12_Fr_3 - x_T31_S12_Fr_3 - x_T31_S12_Fr_4 - x_T31_S12_Fr_4 - x_T31_S12_Fr_5
+ double_lessons_T31_S15: g_T31_S15 >= 2 - x_T31_S15_Mo_1 - x_T31_S15_Mo_2 - x_T31_S15_Mo_2 - x_T31_S15_Mo_3 - x_T31_S15_Mo_3 - x_T31_S15_Mo_4 - x_T31_S15_Mo_4 - x_T31_S15_Mo_5 - x_T31_S15_Tu_1 - x_T31_S15_Tu_2 - x_T31_S15_Tu_2 - x_T31_S15_Tu_3 - x_T31_S15_Tu_3 - x_T31_S15_Tu_4 - x_T31_S15_Tu_4 - x_T31_S15_Tu_5 - x_T31_S15_We_1 - x_T31_S15_We_2 - x_T31_S15_We_2 - x_T31_S15_We_3 - x_T31_S15_We_3 - x_T31_S15_We_4 - x_T31_S15_We_4 - x_T31_S15_We_5 - x_T31_S15_Th_1 - x_T31_S15_Th_2 - x_T31_S15_Th_2 - x_T31_S15_Th_3 - x_T31_S15_Th_3 - x_T31_S15_Th_4 - x_T31_S15_Th_4 - x_T31_S15_Th_5 - x_T31_S15_Fr_1 - x_T31_S15_Fr_2 - x_T31_S15_Fr_2 - x_T31_S15_Fr_3 - x_T31_S15_Fr_3 - x_T31_S15_Fr_4 - x_T31_S15_Fr_4 - x_T31_S15_Fr_5
+ double_lessons_T31_S18: g_T31_S18 >= 2 - x_T31_S18_Mo_1 - x_T31_S18_Mo_2 - x_T31_S18_Mo_2 - x_T31_S18_Mo_3 - x_T31_S18_Mo_3 - x_T31_S18_Mo_4 - x_T31_S18_Mo_4 - x_T31_S18_Mo_5 - x_T31_S18_Tu_1 - x_T31_S18_Tu_2 - x_T31_S18_Tu_2 - x_T31_S18_Tu_3 - x_T31_S18_Tu_3 - x_T31_S18_Tu_4 - x_T31_S18_Tu_4 - x_T31_S18_Tu_5 - x_T31_S18_We_1 - x_T31_S18_We_2 - x_T31_S18_We_2 - x_T31_S18_We_3 - x_T31_S18_We_3 - x_T31_S18_We_4 - x_T31_S18_We_4 - x_T31_S18_We_5 - x_T31_S18_Th_1 - x_T31_S18_Th_2 - x_T31_S18_Th_2 - x_T31_S18_Th_3 - x_T31_S18_Th_3 - x_T31_S18_Th_4 - x_T31_S18_Th_4 - x_T31_S18_Th_5 - x_T31_S18_Fr_1 - x_T31_S18_Fr_2 - x_T31_S18_Fr_2 - x_T31_S18_Fr_3 - x_T31_S18_Fr_3 - x_T31_S18_Fr_4 - x_T31_S18_Fr_4 - x_T31_S18_Fr_5
+ double_lessons_T31_S20: g_T31_S20 >= 2 - x_T31_S20_Mo_1 - x_T31_S20_Mo_2 - x_T31_S20_Mo_2 - x_T31_S20_Mo_3 - x_T31_S20_Mo_3 - x_T31_S20_Mo_4 - x_T31_S20_Mo_4 - x_T31_S20_Mo_5 - x_T31_S20_Tu_1 - x_T31_S20_Tu_2 - x_T31_S20_Tu_2 - x_T31_S20_Tu_3 - x_T31_S20_Tu_3 - x_T31_S20_Tu_4 - x_T31_S20_Tu_4 - x_T31_S20_Tu_5 - x_T31_S20_We_1 - x_T31_S20_We_2 - x_T31_S20_We_2 - x_T31_S20_We_3 - x_T31_S20_We_3 - x_T31_S20_We_4 - x_T31_S20_We_4 - x_T31_S20_We_5 - x_T31_S20_Th_1 - x_T31_S20_Th_2 - x_T31_S20_Th_2 - x_T31_S20_Th_3 - x_T31_S20_Th_3 - x_T31_S20_Th_4 - x_T31_S20_Th_4 - x_T31_S20_Th_5 - x_T31_S20_Fr_1 - x_T31_S20_Fr_2 - x_T31_S20_Fr_2 - x_T31_S20_Fr_3 - x_T31_S20_Fr_3 - x_T31_S20_Fr_4 - x_T31_S20_Fr_4 - x_T31_S20_Fr_5
+ double_lessons_T32_S1: g_T32_S1 >= 2 - x_T32_S1_Mo_1 - x_T32_S1_Mo_2 - x_T32_S1_Mo_2 - x_T32_S1_Mo_3 - x_T32_S1_Mo_3 - x_T32_S1_Mo_4 - x_T32_S1_Mo_4 - x_T32_S1_Mo_5 - x_T32_S1_Tu_1 - x_T32_S1_Tu_2 - x_T32_S1_Tu_2 - x_T32_S1_Tu_3 - x_T32_S1_Tu_3 - x_T32_S1_Tu_4 - x_T32_S1_Tu_4 - x_T32_S1_Tu_5 - x_T32_S1_We_1 - x_T32_S1_We_2 - x_T32_S1_We_2 - x_T32_S1_We_3 - x_T32_S1_We_3 - x_T32_S1_We_4 - x_T32_S1_We_4 - x_T32_S1_We_5 - x_T32_S1_Th_1 - x_T32_S1_Th_2 - x_T32_S1_Th_2 - x_T32_S1_Th_3 - x_T32_S1_Th_3 - x_T32_S1_Th_4 - x_T32_S1_Th_4 - x_T32_S1_Th_5 - x_T32_S1_Fr_1 - x_T32_S1_Fr_2 - x_T32_S1_Fr_2 - x_T32_S1_Fr_3 - x_T32_S1_Fr_3 - x_T32_S1_Fr_4 - x_T32_S1_Fr_4 - x_T32_S1_Fr_5
+ double_lessons_T32_S2: g_T32_S2 >= 2 - x_T32_S2_Mo_1 - x_T32_S2_Mo_2 - x_T32_S2_Mo_2 - x_T32_S2_Mo_3 - x_T32_S2_Mo_3 - x_T32_S2_Mo_4 - x_T32_S2_Mo_4 - x_T32_S2_Mo_5 - x_T32_S2_Tu_1 - x_T32_S2_Tu_2 - x_T32_S2_Tu_2 - x_T32_S2_Tu_3 - x_T32_S2_Tu_3 - x_T32_S2_Tu_4 - x_T32_S2_Tu_4 - x_T32_S2_Tu_5 - x_T32_S2_We_1 - x_T32_S2_We_2 - x_T32_S2_We_2 - x_T32_S2_We_3 - x_T32_S2_We_3 - x_T32_S2_We_4 - x_T32_S2_We_4 - x_T32_S2_We_5 - x_T32_S2_Th_1 - x_T32_S2_Th_2 - x_T32_S2_Th_2 - x_T32_S2_Th_3 - x_T32_S2_Th_3 - x_T32_S2_Th_4 - x_T32_S2_Th_4 - x_T32_S2_Th_5 - x_T32_S2_Fr_1 - x_T32_S2_Fr_2 - x_T32_S2_Fr_2 - x_T32_S2_Fr_3 - x_T32_S2_Fr_3 - x_T32_S2_Fr_4 - x_T32_S2_Fr_4 - x_T32_S2_Fr_5
+ double_lessons_T32_S3: g_T32_S3 >= 2 - x_T32_S3_Mo_1 - x_T32_S3_Mo_2 - x_T32_S3_Mo_2 - x_T32_S3_Mo_3 - x_T32_S3_Mo_3 - x_T32_S3_Mo_4 - x_T32_S3_Mo_4 - x_T32_S3_Mo_5 - x_T32_S3_Tu_1 - x_T32_S3_Tu_2 - x_T32_S3_Tu_2 - x_T32_S3_Tu_3 - x_T32_S3_Tu_3 - x_T32_S3_Tu_4 - x_T32_S3_Tu_4 - x_T32_S3_Tu_5 - x_T32_S3_We_1 - x_T32_S3_We_2 - x_T32_S3_We_2 - x_T32_S3_We_3 - x_T32_S3_We_3 - x_T32_S3_We_4 - x_T32_S3_We_4 - x_T32_S3_We_5 - x_T32_S3_Th_1 - x_T32_S3_Th_2 - x_T32_S3_Th_2 - x_T32_S3_Th_3 - x_T32_S3_Th_3 - x_T32_S3_Th_4 - x_T32_S3_Th_4 - x_T32_S3_Th_5 - x_T32_S3_Fr_1 - x_T32_S3_Fr_2 - x_T32_S3_Fr_2 - x_T32_S3_Fr_3 - x_T32_S3_Fr_3 - x_T32_S3_Fr_4 - x_T32_S3_Fr_4 - x_T32_S3_Fr_5
+ double_lessons_T32_S4: g_T32_S4 >= 2 - x_T32_S4_Mo_1 - x_T32_S4_Mo_2 - x_T32_S4_Mo_2 - x_T32_S4_Mo_3 - x_T32_S4_Mo_3 - x_T32_S4_Mo_4 - x_T32_S4_Mo_4 - x_T32_S4_Mo_5 - x_T32_S4_Tu_1 - x_T32_S4_Tu_2 - x_T32_S4_Tu_2 - x_T32_S4_Tu_3 - x_T32_S4_Tu_3 - x_T32_S4_Tu_4 - x_T32_S4_Tu_4 - x_T32_S4_Tu_5 - x_T32_S4_We_1 - x_T32_S4_We_2 - x_T32_S4_We_2 - x_T32_S4_We_3 - x_T32_S4_We_3 - x_T32_S4_We_4 - x_T32_S4_We_4 - x_T32_S4_We_5 - x_T32_S4_Th_1 - x_T32_S4_Th_2 - x_T32_S4_Th_2 - x_T32_S4_Th_3 - x_T32_S4_Th_3 - x_T32_S4_Th_4 - x_T32_S4_Th_4 - x_T32_S4_Th_5 - x_T32_S4_Fr_1 - x_T32_S4_Fr_2 - x_T32_S4_Fr_2 - x_T32_S4_Fr_3 - x_T32_S4_Fr_3 - x_T32_S4_Fr_4 - x_T32_S4_Fr_4 - x_T32_S4_Fr_5
+ double_lessons_T32_S5: g_T32_S5 >= 2 - x_T32_S5_Mo_1 - x_T32_S5_Mo_2 - x_T32_S5_Mo_2 - x_T32_S5_Mo_3 - x_T32_S5_Mo_3 - x_T32_S5_Mo_4 - x_T32_S5_Mo_4 - x_T32_S5_Mo_5 - x_T32_S5_Tu_1 - x_T32_S5_Tu_2 - x_T32_S5_Tu_2 - x_T32_S5_Tu_3 - x_T32_S5_Tu_3 - x_T32_S5_Tu_4 - x_T32_S5_Tu_4 - x_T32_S5_Tu_5 - x_T32_S5_We_1 - x_T32_S5_We_2 - x_T32_S5_We_2 - x_T32_S5_We_3 - x_T32_S5_We_3 - x_T32_S5_We_4 - x_T32_S5_We_4 - x_T32_S5_We_5 - x_T32_S5_Th_1 - x_T32_S5_Th_2 - x_T32_S5_Th_2 - x_T32_S5_Th_3 - x_T32_S5_Th_3 - x_T32_S5_Th_4 - x_T32_S5_Th_4 - x_T32_S5_Th_5 - x_T32_S5_Fr_1 - x_T32_S5_Fr_2 - x_T32_S5_Fr_2 - x_T32_S5_Fr_3 - x_T32_S5_Fr_3 - x_T32_S5_Fr_4 - x_T32_S5_Fr_4 - x_T32_S5_Fr_5
+ double_lessons_T32_S6: g_T32_S6 >= 2 - x_T32_S6_Mo_1 - x_T32_S6_Mo_2 - x_T32_S6_Mo_2 - x_T32_S6_Mo_3 - x_T32_S6_Mo_3 - x_T32_S6_Mo_4 - x_T32_S6_Mo_4 - x_T32_S6_Mo_5 - x_T32_S6_Tu_1 - x_T32_S6_Tu_2 - x_T32_S6_Tu_2 - x_T32_S6_Tu_3 - x_T32_S6_Tu_3 - x_T32_S6_Tu_4 - x_T32_S6_Tu_4 - x_T32_S6_Tu_5 - x_T32_S6_We_1 - x_T32_S6_We_2 - x_T32_S6_We_2 - x_T32_S6_We_3 - x_T32_S6_We_3 - x_T32_S6_We_4 - x_T32_S6_We_4 - x_T32_S6_We_5 - x_T32_S6_Th_1 - x_T32_S6_Th_2 - x_T32_S6_Th_2 - x_T32_S6_Th_3 - x_T32_S6_Th_3 - x_T32_S6_Th_4 - x_T32_S6_Th_4 - x_T32_S6_Th_5 - x_T32_S6_Fr_1 - x_T32_S6_Fr_2 - x_T32_S6_Fr_2 - x_T32_S6_Fr_3 - x_T32_S6_Fr_3 - x_T32_S6_Fr_4 - x_T32_S6_Fr_4 - x_T32_S6_Fr_5
+ double_lessons_T32_S7: g_T32_S7 >= 2 - x_T32_S7_Mo_1 - x_T32_S7_Mo_2 - x_T32_S7_Mo_2 - x_T32_S7_Mo_3 - x_T32_S7_Mo_3 - x_T32_S7_Mo_4 - x_T32_S7_Mo_4 - x_T32_S7_Mo_5 - x_T32_S7_Tu_1 - x_T32_S7_Tu_2 - x_T32_S7_Tu_2 - x_T32_S7_Tu_3 - x_T32_S7_Tu_3 - x_T32_S7_Tu_4 - x_T32_S7_Tu_4 - x_T32_S7_Tu_5 - x_T32_S7_We_1 - x_T32_S7_We_2 - x_T32_S7_We_2 - x_T32_S7_We_3 - x_T32_S7_We_3 - x_T32_S7_We_4 - x_T32_S7_We_4 - x_T32_S7_We_5 - x_T32_S7_Th_1 - x_T32_S7_Th_2 - x_T32_S7_Th_2 - x_T32_S7_Th_3 - x_T32_S7_Th_3 - x_T32_S7_Th_4 - x_T32_S7_Th_4 - x_T32_S7_Th_5 - x_T32_S7_Fr_1 - x_T32_S7_Fr_2 - x_T32_S7_Fr_2 - x_T32_S7_Fr_3 - x_T32_S7_Fr_3 - x_T32_S7_Fr_4 - x_T32_S7_Fr_4 - x_T32_S7_Fr_5
+ double_lessons_T32_S8: g_T32_S8 >= 2 - x_T32_S8_Mo_1 - x_T32_S8_Mo_2 - x_T32_S8_Mo_2 - x_T32_S8_Mo_3 - x_T32_S8_Mo_3 - x_T32_S8_Mo_4 - x_T32_S8_Mo_4 - x_T32_S8_Mo_5 - x_T32_S8_Tu_1 - x_T32_S8_Tu_2 - x_T32_S8_Tu_2 - x_T32_S8_Tu_3 - x_T32_S8_Tu_3 - x_T32_S8_Tu_4 - x_T32_S8_Tu_4 - x_T32_S8_Tu_5 - x_T32_S8_We_1 - x_T32_S8_We_2 - x_T32_S8_We_2 - x_T32_S8_We_3 - x_T32_S8_We_3 - x_T32_S8_We_4 - x_T32_S8_We_4 - x_T32_S8_We_5 - x_T32_S8_Th_1 - x_T32_S8_Th_2 - x_T32_S8_Th_2 - x_T32_S8_Th_3 - x_T32_S8_Th_3 - x_T32_S8_Th_4 - x_T32_S8_Th_4 - x_T32_S8_Th_5 - x_T32_S8_Fr_1 - x_T32_S8_Fr_2 - x_T32_S8_Fr_2 - x_T32_S8_Fr_3 - x_T32_S8_Fr_3 - x_T32_S8_Fr_4 - x_T32_S8_Fr_4 - x_T32_S8_Fr_5
+ double_lessons_T32_S9: g_T32_S9 >= 2 - x_T32_S9_Mo_1 - x_T32_S9_Mo_2 - x_T32_S9_Mo_2 - x_T32_S9_Mo_3 - x_T32_S9_Mo_3 - x_T32_S9_Mo_4 - x_T32_S9_Mo_4 - x_T32_S9_Mo_5 - x_T32_S9_Tu_1 - x_T32_S9_Tu_2 - x_T32_S9_Tu_2 - x_T32_S9_Tu_3 - x_T32_S9_Tu_3 - x_T32_S9_Tu_4 - x_T32_S9_Tu_4 - x_T32_S9_Tu_5 - x_T32_S9_We_1 - x_T32_S9_We_2 - x_T32_S9_We_2 - x_T32_S9_We_3 - x_T32_S9_We_3 - x_T32_S9_We_4 - x_T32_S9_We_4 - x_T32_S9_We_5 - x_T32_S9_Th_1 - x_T32_S9_Th_2 - x_T32_S9_Th_2 - x_T32_S9_Th_3 - x_T32_S9_Th_3 - x_T32_S9_Th_4 - x_T32_S9_Th_4 - x_T32_S9_Th_5 - x_T32_S9_Fr_1 - x_T32_S9_Fr_2 - x_T32_S9_Fr_2 - x_T32_S9_Fr_3 - x_T32_S9_Fr_3 - x_T32_S9_Fr_4 - x_T32_S9_Fr_4 - x_T32_S9_Fr_5
+ double_lessons_T32_S16: g_T32_S16 >= 2 - x_T32_S16_Mo_1 - x_T32_S16_Mo_2 - x_T32_S16_Mo_2 - x_T32_S16_Mo_3 - x_T32_S16_Mo_3 - x_T32_S16_Mo_4 - x_T32_S16_Mo_4 - x_T32_S16_Mo_5 - x_T32_S16_Tu_1 - x_T32_S16_Tu_2 - x_T32_S16_Tu_2 - x_T32_S16_Tu_3 - x_T32_S16_Tu_3 - x_T32_S16_Tu_4 - x_T32_S16_Tu_4 - x_T32_S16_Tu_5 - x_T32_S16_We_1 - x_T32_S16_We_2 - x_T32_S16_We_2 - x_T32_S16_We_3 - x_T32_S16_We_3 - x_T32_S16_We_4 - x_T32_S16_We_4 - x_T32_S16_We_5 - x_T32_S16_Th_1 - x_T32_S16_Th_2 - x_T32_S16_Th_2 - x_T32_S16_Th_3 - x_T32_S16_Th_3 - x_T32_S16_Th_4 - x_T32_S16_Th_4 - x_T32_S16_Th_5 - x_T32_S16_Fr_1 - x_T32_S16_Fr_2 - x_T32_S16_Fr_2 - x_T32_S16_Fr_3 - x_T32_S16_Fr_3 - x_T32_S16_Fr_4 - x_T32_S16_Fr_4 - x_T32_S16_Fr_5
+ double_lessons_T32_S17: g_T32_S17 >= 2 - x_T32_S17_Mo_1 - x_T32_S17_Mo_2 - x_T32_S17_Mo_2 - x_T32_S17_Mo_3 - x_T32_S17_Mo_3 - x_T32_S17_Mo_4 - x_T32_S17_Mo_4 - x_T32_S17_Mo_5 - x_T32_S17_Tu_1 - x_T32_S17_Tu_2 - x_T32_S17_Tu_2 - x_T32_S17_Tu_3 - x_T32_S17_Tu_3 - x_T32_S17_Tu_4 - x_T32_S17_Tu_4 - x_T32_S17_Tu_5 - x_T32_S17_We_1 - x_T32_S17_We_2 - x_T32_S17_We_2 - x_T32_S17_We_3 - x_T32_S17_We_3 - x_T32_S17_We_4 - x_T32_S17_We_4 - x_T32_S17_We_5 - x_T32_S17_Th_1 - x_T32_S17_Th_2 - x_T32_S17_Th_2 - x_T32_S17_Th_3 - x_T32_S17_Th_3 - x_T32_S17_Th_4 - x_T32_S17_Th_4 - x_T32_S17_Th_5 - x_T32_S17_Fr_1 - x_T32_S17_Fr_2 - x_T32_S17_Fr_2 - x_T32_S17_Fr_3 - x_T32_S17_Fr_3 - x_T32_S17_Fr_4 - x_T32_S17_Fr_4 - x_T32_S17_Fr_5
+ double_lessons_T32_S18: g_T32_S18 >= 2 - x_T32_S18_Mo_1 - x_T32_S18_Mo_2 - x_T32_S18_Mo_2 - x_T32_S18_Mo_3 - x_T32_S18_Mo_3 - x_T32_S18_Mo_4 - x_T32_S18_Mo_4 - x_T32_S18_Mo_5 - x_T32_S18_Tu_1 - x_T32_S18_Tu_2 - x_T32_S18_Tu_2 - x_T32_S18_Tu_3 - x_T32_S18_Tu_3 - x_T32_S18_Tu_4 - x_T32_S18_Tu_4 - x_T32_S18_Tu_5 - x_T32_S18_We_1 - x_T32_S18_We_2 - x_T32_S18_We_2 - x_T32_S18_We_3 - x_T32_S18_We_3 - x_T32_S18_We_4 - x_T32_S18_We_4 - x_T32_S18_We_5 - x_T32_S18_Th_1 - x_T32_S18_Th_2 - x_T32_S18_Th_2 - x_T32_S18_Th_3 - x_T32_S18_Th_3 - x_T32_S18_Th_4 - x_T32_S18_Th_4 - x_T32_S18_Th_5 - x_T32_S18_Fr_1 - x_T32_S18_Fr_2 - x_T32_S18_Fr_2 - x_T32_S18_Fr_3 - x_T32_S18_Fr_3 - x_T32_S18_Fr_4 - x_T32_S18_Fr_4 - x_T32_S18_Fr_5
+ double_lessons_T32_S19: g_T32_S19 >= 2 - x_T32_S19_Mo_1 - x_T32_S19_Mo_2 - x_T32_S19_Mo_2 - x_T32_S19_Mo_3 - x_T32_S19_Mo_3 - x_T32_S19_Mo_4 - x_T32_S19_Mo_4 - x_T32_S19_Mo_5 - x_T32_S19_Tu_1 - x_T32_S19_Tu_2 - x_T32_S19_Tu_2 - x_T32_S19_Tu_3 - x_T32_S19_Tu_3 - x_T32_S19_Tu_4 - x_T32_S19_Tu_4 - x_T32_S19_Tu_5 - x_T32_S19_We_1 - x_T32_S19_We_2 - x_T32_S19_We_2 - x_T32_S19_We_3 - x_T32_S19_We_3 - x_T32_S19_We_4 - x_T32_S19_We_4 - x_T32_S19_We_5 - x_T32_S19_Th_1 - x_T32_S19_Th_2 - x_T32_S19_Th_2 - x_T32_S19_Th_3 - x_T32_S19_Th_3 - x_T32_S19_Th_4 - x_T32_S19_Th_4 - x_T32_S19_Th_5 - x_T32_S19_Fr_1 - x_T32_S19_Fr_2 - x_T32_S19_Fr_2 - x_T32_S19_Fr_3 - x_T32_S19_Fr_3 - x_T32_S19_Fr_4 - x_T32_S19_Fr_4 - x_T32_S19_Fr_5
+ double_lessons_T32_S20: g_T32_S20 >= 2 - x_T32_S20_Mo_1 - x_T32_S20_Mo_2 - x_T32_S20_Mo_2 - x_T32_S20_Mo_3 - x_T32_S20_Mo_3 - x_T32_S20_Mo_4 - x_T32_S20_Mo_4 - x_T32_S20_Mo_5 - x_T32_S20_Tu_1 - x_T32_S20_Tu_2 - x_T32_S20_Tu_2 - x_T32_S20_Tu_3 - x_T32_S20_Tu_3 - x_T32_S20_Tu_4 - x_T32_S20_Tu_4 - x_T32_S20_Tu_5 - x_T32_S20_We_1 - x_T32_S20_We_2 - x_T32_S20_We_2 - x_T32_S20_We_3 - x_T32_S20_We_3 - x_T32_S20_We_4 - x_T32_S20_We_4 - x_T32_S20_We_5 - x_T32_S20_Th_1 - x_T32_S20_Th_2 - x_T32_S20_Th_2 - x_T32_S20_Th_3 - x_T32_S20_Th_3 - x_T32_S20_Th_4 - x_T32_S20_Th_4 - x_T32_S20_Th_5 - x_T32_S20_Fr_1 - x_T32_S20_Fr_2 - x_T32_S20_Fr_2 - x_T32_S20_Fr_3 - x_T32_S20_Fr_3 - x_T32_S20_Fr_4 - x_T32_S20_Fr_4 - x_T32_S20_Fr_5
+ double_lessons_T33_S16: g_T33_S16 >= 2 - x_T33_S16_Mo_1 - x_T33_S16_Mo_2 - x_T33_S16_Mo_2 - x_T33_S16_Mo_3 - x_T33_S16_Mo_3 - x_T33_S16_Mo_4 - x_T33_S16_Mo_4 - x_T33_S16_Mo_5 - x_T33_S16_Tu_1 - x_T33_S16_Tu_2 - x_T33_S16_Tu_2 - x_T33_S16_Tu_3 - x_T33_S16_Tu_3 - x_T33_S16_Tu_4 - x_T33_S16_Tu_4 - x_T33_S16_Tu_5 - x_T33_S16_We_1 - x_T33_S16_We_2 - x_T33_S16_We_2 - x_T33_S16_We_3 - x_T33_S16_We_3 - x_T33_S16_We_4 - x_T33_S16_We_4 - x_T33_S16_We_5 - x_T33_S16_Th_1 - x_T33_S16_Th_2 - x_T33_S16_Th_2 - x_T33_S16_Th_3 - x_T33_S16_Th_3 - x_T33_S16_Th_4 - x_T33_S16_Th_4 - x_T33_S16_Th_5 - x_T33_S16_Fr_1 - x_T33_S16_Fr_2 - x_T33_S16_Fr_2 - x_T33_S16_Fr_3 - x_T33_S16_Fr_3 - x_T33_S16_Fr_4 - x_T33_S16_Fr_4 - x_T33_S16_Fr_5
+ double_lessons_T33_S17: g_T33_S17 >= 2 - x_T33_S17_Mo_1 - x_T33_S17_Mo_2 - x_T33_S17_Mo_2 - x_T33_S17_Mo_3 - x_T33_S17_Mo_3 - x_T33_S17_Mo_4 - x_T33_S17_Mo_4 - x_T33_S17_Mo_5 - x_T33_S17_Tu_1 - x_T33_S17_Tu_2 - x_T33_S17_Tu_2 - x_T33_S17_Tu_3 - x_T33_S17_Tu_3 - x_T33_S17_Tu_4 - x_T33_S17_Tu_4 - x_T33_S17_Tu_5 - x_T33_S17_We_1 - x_T33_S17_We_2 - x_T33_S17_We_2 - x_T33_S17_We_3 - x_T33_S17_We_3 - x_T33_S17_We_4 - x_T33_S17_We_4 - x_T33_S17_We_5 - x_T33_S17_Th_1 - x_T33_S17_Th_2 - x_T33_S17_Th_2 - x_T33_S17_Th_3 - x_T33_S17_Th_3 - x_T33_S17_Th_4 - x_T33_S17_Th_4 - x_T33_S17_Th_5 - x_T33_S17_Fr_1 - x_T33_S17_Fr_2 - x_T33_S17_Fr_2 - x_T33_S17_Fr_3 - x_T33_S17_Fr_3 - x_T33_S17_Fr_4 - x_T33_S17_Fr_4 - x_T33_S17_Fr_5
+ double_lessons_T33_S18: g_T33_S18 >= 2 - x_T33_S18_Mo_1 - x_T33_S18_Mo_2 - x_T33_S18_Mo_2 - x_T33_S18_Mo_3 - x_T33_S18_Mo_3 - x_T33_S18_Mo_4 - x_T33_S18_Mo_4 - x_T33_S18_Mo_5 - x_T33_S18_Tu_1 - x_T33_S18_Tu_2 - x_T33_S18_Tu_2 - x_T33_S18_Tu_3 - x_T33_S18_Tu_3 - x_T33_S18_Tu_4 - x_T33_S18_Tu_4 - x_T33_S18_Tu_5 - x_T33_S18_We_1 - x_T33_S18_We_2 - x_T33_S18_We_2 - x_T33_S18_We_3 - x_T33_S18_We_3 - x_T33_S18_We_4 - x_T33_S18_We_4 - x_T33_S18_We_5 - x_T33_S18_Th_1 - x_T33_S18_Th_2 - x_T33_S18_Th_2 - x_T33_S18_Th_3 - x_T33_S18_Th_3 - x_T33_S18_Th_4 - x_T33_S18_Th_4 - x_T33_S18_Th_5 - x_T33_S18_Fr_1 - x_T33_S18_Fr_2 - x_T33_S18_Fr_2 - x_T33_S18_Fr_3 - x_T33_S18_Fr_3 - x_T33_S18_Fr_4 - x_T33_S18_Fr_4 - x_T33_S18_Fr_5
+ double_lessons_T33_S19: g_T33_S19 >= 2 - x_T33_S19_Mo_1 - x_T33_S19_Mo_2 - x_T33_S19_Mo_2 - x_T33_S19_Mo_3 - x_T33_S19_Mo_3 - x_T33_S19_Mo_4 - x_T33_S19_Mo_4 - x_T33_S19_Mo_5 - x_T33_S19_Tu_1 - x_T33_S19_Tu_2 - x_T33_S19_Tu_2 - x_T33_S19_Tu_3 - x_T33_S19_Tu_3 - x_T33_S19_Tu_4 - x_T33_S19_Tu_4 - x_T33_S19_Tu_5 - x_T33_S19_We_1 - x_T33_S19_We_2 - x_T33_S19_We_2 - x_T33_S19_We_3 - x_T33_S19_We_3 - x_T33_S19_We_4 - x_T33_S19_We_4 - x_T33_S19_We_5 - x_T33_S19_Th_1 - x_T33_S19_Th_2 - x_T33_S19_Th_2 - x_T33_S19_Th_3 - x_T33_S19_Th_3 - x_T33_S19_Th_4 - x_T33_S19_Th_4 - x_T33_S19_Th_5 - x_T33_S19_Fr_1 - x_T33_S19_Fr_2 - x_T33_S19_Fr_2 - x_T33_S19_Fr_3 - x_T33_S19_Fr_3 - x_T33_S19_Fr_4 - x_T33_S19_Fr_4 - x_T33_S19_Fr_5
+ double_lessons_T33_S20: g_T33_S20 >= 2 - x_T33_S20_Mo_1 - x_T33_S20_Mo_2 - x_T33_S20_Mo_2 - x_T33_S20_Mo_3 - x_T33_S20_Mo_3 - x_T33_S20_Mo_4 - x_T33_S20_Mo_4 - x_T33_S20_Mo_5 - x_T33_S20_Tu_1 - x_T33_S20_Tu_2 - x_T33_S20_Tu_2 - x_T33_S20_Tu_3 - x_T33_S20_Tu_3 - x_T33_S20_Tu_4 - x_T33_S20_Tu_4 - x_T33_S20_Tu_5 - x_T33_S20_We_1 - x_T33_S20_We_2 - x_T33_S20_We_2 - x_T33_S20_We_3 - x_T33_S20_We_3 - x_T33_S20_We_4 - x_T33_S20_We_4 - x_T33_S20_We_5 - x_T33_S20_Th_1 - x_T33_S20_Th_2 - x_T33_S20_Th_2 - x_T33_S20_Th_3 - x_T33_S20_Th_3 - x_T33_S20_Th_4 - x_T33_S20_Th_4 - x_T33_S20_Th_5 - x_T33_S20_Fr_1 - x_T33_S20_Fr_2 - x_T33_S20_Fr_2 - x_T33_S20_Fr_3 - x_T33_S20_Fr_3 - x_T33_S20_Fr_4 - x_T33_S20_Fr_4 - x_T33_S20_Fr_5
+ working_days_T27: x_T27_Mo_1 + x_T27_Mo_2 + x_T27_Mo_3 + x_T27_Mo_4 + x_T27_Mo_5 + x_T27_Tu_1 + x_T27_Tu_2 + x_T27_Tu_3 + x_T27_Tu_4 + x_T27_Tu_5 + x_T27_We_1 + x_T27_We_2 + x_T27_We_3 + x_T27_We_4 + x_T27_We_5 + x_T27_Th_1 + x_T27_Th_2 + x_T27_Th_3 + x_T27_Th_4 + x_T27_Th_5 + x_T27_Fr_1 + x_T27_Fr_2 + x_T27_Fr_3 + x_T27_Fr_4 + x_T27_Fr_5 >= 3
+ working_days_T31: x_T31_Mo_1 + x_T31_Mo_2 + x_T31_Mo_3 + x_T31_Mo_4 + x_T31_Mo_5 + x_T31_Tu_1 + x_T31_Tu_2 + x_T31_Tu_3 + x_T31_Tu_4 + x_T31_Tu_5 + x_T31_We_1 + x_T31_We_2 + x_T31_We_3 + x_T31_We_4 + x_T31_We_5 + x_T31_Th_1 + x_T31_Th_2 + x_T31_Th_3 + x_T31_Th_4 + x_T31_Th_5 + x_T31_Fr_1 + x_T31_Fr_2 + x_T31_Fr_3 + x_T31_Fr_4 + x_T31_Fr_5 >= 3
+ working_days_T2: x_T2_Mo_1 + x_T2_Mo_2 + x_T2_Mo_3 + x_T2_Mo_4 + x_T2_Mo_5 + x_T2_Tu_1 + x_T2_Tu_2 + x_T2_Tu_3 + x_T2_Tu_4 + x_T2_Tu_5 + x_T2_We_1 + x_T2_We_2 + x_T2_We_3 + x_T2_We_4 + x_T2_We_5 + x_T2_Th_1 + x_T2_Th_2 + x_T2_Th_3 + x_T2_Th_4 + x_T2_Th_5 + x_T2_Fr_1 + x_T2_Fr_2 + x_T2_Fr_3 + x_T2_Fr_4 + x_T2_Fr_5 >= 3
+ working_days_T14: x_T14_Mo_1 + x_T14_Mo_2 + x_T14_Mo_3 + x_T14_Mo_4 + x_T14_Mo_5 + x_T14_Tu_1 + x_T14_Tu_2 + x_T14_Tu_3 + x_T14_Tu_4 + x_T14_Tu_5 + x_T14_We_1 + x_T14_We_2 + x_T14_We_3 + x_T14_We_4 + x_T14_We_5 + x_T14_Th_1 + x_T14_Th_2 + x_T14_Th_3 + x_T14_Th_4 + x_T14_Th_5 + x_T14_Fr_1 + x_T14_Fr_2 + x_T14_Fr_3 + x_T14_Fr_4 + x_T14_Fr_5 >= 3
+ working_days_T16: x_T16_Mo_1 + x_T16_Mo_2 + x_T16_Mo_3 + x_T16_Mo_4 + x_T16_Mo_5 + x_T16_Tu_1 + x_T16_Tu_2 + x_T16_Tu_3 + x_T16_Tu_4 + x_T16_Tu_5 + x_T16_We_1 + x_T16_We_2 + x_T16_We_3 + x_T16_We_4 + x_T16_We_5 + x_T16_Th_1 + x_T16_Th_2 + x_T16_Th_3 + x_T16_Th_4 + x_T16_Th_5 + x_T16_Fr_1 + x_T16_Fr_2 + x_T16_Fr_3 + x_T16_Fr_4 + x_T16_Fr_5 >= 3
+ working_days_T15: x_T15_Mo_1 + x_T15_Mo_2 + x_T15_Mo_3 + x_T15_Mo_4 + x_T15_Mo_5 + x_T15_Tu_1 + x_T15_Tu_2 + x_T15_Tu_3 + x_T15_Tu_4 + x_T15_Tu_5 + x_T15_We_1 + x_T15_We_2 + x_T15_We_3 + x_T15_We_4 + x_T15_We_5 + x_T15_Th_1 + x_T15_Th_2 + x_T15_Th_3 + x_T15_Th_4 + x_T15_Th_5 + x_T15_Fr_1 + x_T15_Fr_2 + x_T15_Fr_3 + x_T15_Fr_4 + x_T15_Fr_5 >= 3
+ working_days_T8: x_T8_Mo_1 + x_T8_Mo_2 + x_T8_Mo_3 + x_T8_Mo_4 + x_T8_Mo_5 + x_T8_Tu_1 + x_T8_Tu_2 + x_T8_Tu_3 + x_T8_Tu_4 + x_T8_Tu_5 + x_T8_We_1 + x_T8_We_2 + x_T8_We_3 + x_T8_We_4 + x_T8_We_5 + x_T8_Th_1 + x_T8_Th_2 + x_T8_Th_3 + x_T8_Th_4 + x_T8_Th_5 + x_T8_Fr_1 + x_T8_Fr_2 + x_T8_Fr_3 + x_T8_Fr_4 + x_T8_Fr_5 >= 3
+ working_days_T19: x_T19_Mo_1 + x_T19_Mo_2 + x_T19_Mo_3 + x_T19_Mo_4 + x_T19_Mo_5 + x_T19_Tu_1 + x_T19_Tu_2 + x_T19_Tu_3 + x_T19_Tu_4 + x_T19_Tu_5 + x_T19_We_1 + x_T19_We_2 + x_T19_We_3 + x_T19_We_4 + x_T19_We_5 + x_T19_Th_1 + x_T19_Th_2 + x_T19_Th_3 + x_T19_Th_4 + x_T19_Th_5 + x_T19_Fr_1 + x_T19_Fr_2 + x_T19_Fr_3 + x_T19_Fr_4 + x_T19_Fr_5 >= 3
+ working_days_T20: x_T20_Mo_1 + x_T20_Mo_2 + x_T20_Mo_3 + x_T20_Mo_4 + x_T20_Mo_5 + x_T20_Tu_1 + x_T20_Tu_2 + x_T20_Tu_3 + x_T20_Tu_4 + x_T20_Tu_5 + x_T20_We_1 + x_T20_We_2 + x_T20_We_3 + x_T20_We_4 + x_T20_We_5 + x_T20_Th_1 + x_T20_Th_2 + x_T20_Th_3 + x_T20_Th_4 + x_T20_Th_5 + x_T20_Fr_1 + x_T20_Fr_2 + x_T20_Fr_3 + x_T20_Fr_4 + x_T20_Fr_5 >= 3
+ working_days_T7: x_T7_Mo_1 + x_T7_Mo_2 + x_T7_Mo_3 + x_T7_Mo_4 + x_T7_Mo_5 + x_T7_Tu_1 + x_T7_Tu_2 + x_T7_Tu_3 + x_T7_Tu_4 + x_T7_Tu_5 + x_T7_We_1 + x_T7_We_2 + x_T7_We_3 + x_T7_We_4 + x_T7_We_5 + x_T7_Th_1 + x_T7_Th_2 + x_T7_Th_3 + x_T7_Th_4 + x_T7_Th_5 + x_T7_Fr_1 + x_T7_Fr_2 + x_T7_Fr_3 + x_T7_Fr_4 + x_T7_Fr_5 >= 3
+ working_days_T17: x_T17_Mo_1 + x_T17_Mo_2 + x_T17_Mo_3 + x_T17_Mo_4 + x_T17_Mo_5 + x_T17_Tu_1 + x_T17_Tu_2 + x_T17_Tu_3 + x_T17_Tu_4 + x_T17_Tu_5 + x_T17_We_1 + x_T17_We_2 + x_T17_We_3 + x_T17_We_4 + x_T17_We_5 + x_T17_Th_1 + x_T17_Th_2 + x_T17_Th_3 + x_T17_Th_4 + x_T17_Th_5 + x_T17_Fr_1 + x_T17_Fr_2 + x_T17_Fr_3 + x_T17_Fr_4 + x_T17_Fr_5 >= 3
+ working_days_T18: x_T18_Mo_1 + x_T18_Mo_2 + x_T18_Mo_3 + x_T18_Mo_4 + x_T18_Mo_5 + x_T18_Tu_1 + x_T18_Tu_2 + x_T18_Tu_3 + x_T18_Tu_4 + x_T18_Tu_5 + x_T18_We_1 + x_T18_We_2 + x_T18_We_3 + x_T18_We_4 + x_T18_We_5 + x_T18_Th_1 + x_T18_Th_2 + x_T18_Th_3 + x_T18_Th_4 + x_T18_Th_5 + x_T18_Fr_1 + x_T18_Fr_2 + x_T18_Fr_3 + x_T18_Fr_4 + x_T18_Fr_5 >= 3
+ working_days_T32: x_T32_Mo_1 + x_T32_Mo_2 + x_T32_Mo_3 + x_T32_Mo_4 + x_T32_Mo_5 + x_T32_Tu_1 + x_T32_Tu_2 + x_T32_Tu_3 + x_T32_Tu_4 + x_T32_Tu_5 + x_T32_We_1 + x_T32_We_2 + x_T32_We_3 + x_T32_We_4 + x_T32_We_5 + x_T32_Th_1 + x_T32_Th_2 + x_T32_Th_3 + x_T32_Th_4 + x_T32_Th_5 + x_T32_Fr_1 + x_T32_Fr_2 + x_T32_Fr_3 + x_T32_Fr_4 + x_T32_Fr_5 >= 3
+ working_days_T24: x_T24_Mo_1 + x_T24_Mo_2 + x_T24_Mo_3 + x_T24_Mo_4 + x_T24_Mo_5 + x_T24_Tu_1 + x_T24_Tu_2 + x_T24_Tu_3 + x_T24_Tu_4 + x_T24_Tu_5 + x_T24_We_1 + x_T24_We_2 + x_T24_We_3 + x_T24_We_4 + x_T24_We_5 + x_T24_Th_1 + x_T24_Th_2 + x_T24_Th_3 + x_T24_Th_4 + x_T24_Th_5 + x_T24_Fr_1 + x_T24_Fr_2 + x_T24_Fr_3 + x_T24_Fr_4 + x_T24_Fr_5 >= 3
+ working_days_T28: x_T28_Mo_1 + x_T28_Mo_2 + x_T28_Mo_3 + x_T28_Mo_4 + x_T28_Mo_5 + x_T28_Tu_1 + x_T28_Tu_2 + x_T28_Tu_3 + x_T28_Tu_4 + x_T28_Tu_5 + x_T28_We_1 + x_T28_We_2 + x_T28_We_3 + x_T28_We_4 + x_T28_We_5 + x_T28_Th_1 + x_T28_Th_2 + x_T28_Th_3 + x_T28_Th_4 + x_T28_Th_5 + x_T28_Fr_1 + x_T28_Fr_2 + x_T28_Fr_3 + x_T28_Fr_4 + x_T28_Fr_5 >= 3
+ working_days_T22: x_T22_Mo_1 + x_T22_Mo_2 + x_T22_Mo_3 + x_T22_Mo_4 + x_T22_Mo_5 + x_T22_Tu_1 + x_T22_Tu_2 + x_T22_Tu_3 + x_T22_Tu_4 + x_T22_Tu_5 + x_T22_We_1 + x_T22_We_2 + x_T22_We_3 + x_T22_We_4 + x_T22_We_5 + x_T22_Th_1 + x_T22_Th_2 + x_T22_Th_3 + x_T22_Th_4 + x_T22_Th_5 + x_T22_Fr_1 + x_T22_Fr_2 + x_T22_Fr_3 + x_T22_Fr_4 + x_T22_Fr_5 >= 3
+ working_days_T9: x_T9_Mo_1 + x_T9_Mo_2 + x_T9_Mo_3 + x_T9_Mo_4 + x_T9_Mo_5 + x_T9_Tu_1 + x_T9_Tu_2 + x_T9_Tu_3 + x_T9_Tu_4 + x_T9_Tu_5 + x_T9_We_1 + x_T9_We_2 + x_T9_We_3 + x_T9_We_4 + x_T9_We_5 + x_T9_Th_1 + x_T9_Th_2 + x_T9_Th_3 + x_T9_Th_4 + x_T9_Th_5 + x_T9_Fr_1 + x_T9_Fr_2 + x_T9_Fr_3 + x_T9_Fr_4 + x_T9_Fr_5 >= 3
+ working_days_T4: x_T4_Mo_1 + x_T4_Mo_2 + x_T4_Mo_3 + x_T4_Mo_4 + x_T4_Mo_5 + x_T4_Tu_1 + x_T4_Tu_2 + x_T4_Tu_3 + x_T4_Tu_4 + x_T4_Tu_5 + x_T4_We_1 + x_T4_We_2 + x_T4_We_3 + x_T4_We_4 + x_T4_We_5 + x_T4_Th_1 + x_T4_Th_2 + x_T4_Th_3 + x_T4_Th_4 + x_T4_Th_5 + x_T4_Fr_1 + x_T4_Fr_2 + x_T4_Fr_3 + x_T4_Fr_4 + x_T4_Fr_5 >= 3
+ working_days_T21: x_T21_Mo_1 + x_T21_Mo_2 + x_T21_Mo_3 + x_T21_Mo_4 + x_T21_Mo_5 + x_T21_Tu_1 + x_T21_Tu_2 + x_T21_Tu_3 + x_T21_Tu_4 + x_T21_Tu_5 + x_T21_We_1 + x_T21_We_2 + x_T21_We_3 + x_T21_We_4 + x_T21_We_5 + x_T21_Th_1 + x_T21_Th_2 + x_T21_Th_3 + x_T21_Th_4 + x_T21_Th_5 + x_T21_Fr_1 + x_T21_Fr_2 + x_T21_Fr_3 + x_T21_Fr_4 + x_T21_Fr_5 >= 3
+ working_days_T1: x_T1_Mo_1 + x_T1_Mo_2 + x_T1_Mo_3 + x_T1_Mo_4 + x_T1_Mo_5 + x_T1_Tu_1 + x_T1_Tu_2 + x_T1_Tu_3 + x_T1_Tu_4 + x_T1_Tu_5 + x_T1_We_1 + x_T1_We_2 + x_T1_We_3 + x_T1_We_4 + x_T1_We_5 + x_T1_Th_1 + x_T1_Th_2 + x_T1_Th_3 + x_T1_Th_4 + x_T1_Th_5 + x_T1_Fr_1 + x_T1_Fr_2 + x_T1_Fr_3 + x_T1_Fr_4 + x_T1_Fr_5 >= 3
+ working_days_T33: x_T33_Mo_1 + x_T33_Mo_2 + x_T33_Mo_3 + x_T33_Mo_4 + x_T33_Mo_5 + x_T33_Tu_1 + x_T33_Tu_2 + x_T33_Tu_3 + x_T33_Tu_4 + x_T33_Tu_5 + x_T33_We_1 + x_T33_We_2 + x_T33_We_3 + x_T33_We_4 + x_T33_We_5 + x_T33_Th_1 + x_T33_Th_2 + x_T33_Th_3 + x_T33_Th_4 + x_T33_Th_5 + x_T33_Fr_1 + x_T33_Fr_2 + x_T33_Fr_3 + x_T33_Fr_4 + x_T33_Fr_5 >= 3
+ working_days_T12: x_T12_Mo_1 + x_T12_Mo_2 + x_T12_Mo_3 + x_T12_Mo_4 + x_T12_Mo_5 + x_T12_Tu_1 + x_T12_Tu_2 + x_T12_Tu_3 + x_T12_Tu_4 + x_T12_Tu_5 + x_T12_We_1 + x_T12_We_2 + x_T12_We_3 + x_T12_We_4 + x_T12_We_5 + x_T12_Th_1 + x_T12_Th_2 + x_T12_Th_3 + x_T12_Th_4 + x_T12_Th_5 + x_T12_Fr_1 + x_T12_Fr_2 + x_T12_Fr_3 + x_T12_Fr_4 + x_T12_Fr_5 >= 3
+ working_days_T26: x_T26_Mo_1 + x_T26_Mo_2 + x_T26_Mo_3 + x_T26_Mo_4 + x_T26_Mo_5 + x_T26_Tu_1 + x_T26_Tu_2 + x_T26_Tu_3 + x_T26_Tu_4 + x_T26_Tu_5 + x_T26_We_1 + x_T26_We_2 + x_T26_We_3 + x_T26_We_4 + x_T26_We_5 + x_T26_Th_1 + x_T26_Th_2 + x_T26_Th_3 + x_T26_Th_4 + x_T26_Th_5 + x_T26_Fr_1 + x_T26_Fr_2 + x_T26_Fr_3 + x_T26_Fr_4 + x_T26_Fr_5 >= 3
+ working_days_T10: x_T10_Mo_1 + x_T10_Mo_2 + x_T10_Mo_3 + x_T10_Mo_4 + x_T10_Mo_5 + x_T10_Tu_1 + x_T10_Tu_2 + x_T10_Tu_3 + x_T10_Tu_4 + x_T10_Tu_5 + x_T10_We_1 + x_T10_We_2 + x_T10_We_3 + x_T10_We_4 + x_T10_We_5 + x_T10_Th_1 + x_T10_Th_2 + x_T10_Th_3 + x_T10_Th_4 + x_T10_Th_5 + x_T10_Fr_1 + x_T10_Fr_2 + x_T10_Fr_3 + x_T10_Fr_4 + x_T10_Fr_5 >= 3
+ working_days_T25: x_T25_Mo_1 + x_T25_Mo_2 + x_T25_Mo_3 + x_T25_Mo_4 + x_T25_Mo_5 + x_T25_Tu_1 + x_T25_Tu_2 + x_T25_Tu_3 + x_T25_Tu_4 + x_T25_Tu_5 + x_T25_We_1 + x_T25_We_2 + x_T25_We_3 + x_T25_We_4 + x_T25_We_5 + x_T25_Th_1 + x_T25_Th_2 + x_T25_Th_3 + x_T25_Th_4 + x_T25_Th_5 + x_T25_Fr_1 + x_T25_Fr_2 + x_T25_Fr_3 + x_T25_Fr_4 + x_T25_Fr_5 >= 3
+ working_days_T29: x_T29_Mo_1 + x_T29_Mo_2 + x_T29_Mo_3 + x_T29_Mo_4 + x_T29_Mo_5 + x_T29_Tu_1 + x_T29_Tu_2 + x_T29_Tu_3 + x_T29_Tu_4 + x_T29_Tu_5 + x_T29_We_1 + x_T29_We_2 + x_T29_We_3 + x_T29_We_4 + x_T29_We_5 + x_T29_Th_1 + x_T29_Th_2 + x_T29_Th_3 + x_T29_Th_4 + x_T29_Th_5 + x_T29_Fr_1 + x_T29_Fr_2 + x_T29_Fr_3 + x_T29_Fr_4 + x_T29_Fr_5 >= 3
+ working_days_T5: x_T5_Mo_1 + x_T5_Mo_2 + x_T5_Mo_3 + x_T5_Mo_4 + x_T5_Mo_5 + x_T5_Tu_1 + x_T5_Tu_2 + x_T5_Tu_3 + x_T5_Tu_4 + x_T5_Tu_5 + x_T5_We_1 + x_T5_We_2 + x_T5_We_3 + x_T5_We_4 + x_T5_We_5 + x_T5_Th_1 + x_T5_Th_2 + x_T5_Th_3 + x_T5_Th_4 + x_T5_Th_5 + x_T5_Fr_1 + x_T5_Fr_2 + x_T5_Fr_3 + x_T5_Fr_4 + x_T5_Fr_5 >= 3
+ working_days_T13: x_T13_Mo_1 + x_T13_Mo_2 + x_T13_Mo_3 + x_T13_Mo_4 + x_T13_Mo_5 + x_T13_Tu_1 + x_T13_Tu_2 + x_T13_Tu_3 + x_T13_Tu_4 + x_T13_Tu_5 + x_T13_We_1 + x_T13_We_2 + x_T13_We_3 + x_T13_We_4 + x_T13_We_5 + x_T13_Th_1 + x_T13_Th_2 + x_T13_Th_3 + x_T13_Th_4 + x_T13_Th_5 + x_T13_Fr_1 + x_T13_Fr_2 + x_T13_Fr_3 + x_T13_Fr_4 + x_T13_Fr_5 >= 3
+ working_days_T30: x_T30_Mo_1 + x_T30_Mo_2 + x_T30_Mo_3 + x_T30_Mo_4 + x_T30_Mo_5 + x_T30_Tu_1 + x_T30_Tu_2 + x_T30_Tu_3 + x_T30_Tu_4 + x_T30_Tu_5 + x_T30_We_1 + x_T30_We_2 + x_T30_We_3 + x_T30_We_4 + x_T30_We_5 + x_T30_Th_1 + x_T30_Th_2 + x_T30_Th_3 + x_T30_Th_4 + x_T30_Th_5 + x_T30_Fr_1 + x_T30_Fr_2 + x_T30_Fr_3 + x_T30_Fr_4 + x_T30_Fr_5 >= 3
+ working_days_T3: x_T3_Mo_1 + x_T3_Mo_2 + x_T3_Mo_3 + x_T3_Mo_4 + x_T3_Mo_5 + x_T3_Tu_1 + x_T3_Tu_2 + x_T3_Tu_3 + x_T3_Tu_4 + x_T3_Tu_5 + x_T3_We_1 + x_T3_We_2 + x_T3_We_3 + x_T3_We_4 + x_T3_We_5 + x_T3_Th_1 + x_T3_Th_2 + x_T3_Th_3 + x_T3_Th_4 + x_T3_Th_5 + x_T3_Fr_1 + x_T3_Fr_2 + x_T3_Fr_3 + x_T3_Fr_4 + x_T3_Fr_5 >= 3
+ working_days_T23: x_T23_Mo_1 + x_T23_Mo_2 + x_T23_Mo_3 + x_T23_Mo_4 + x_T23_Mo_5 + x_T23_Tu_1 + x_T23_Tu_2 + x_T23_Tu_3 + x_T23_Tu_4 + x_T23_Tu_5 + x_T23_We_1 + x_T23_We_2 + x_T23_We_3 + x_T23_We_4 + x_T23_We_5 + x_T23_Th_1 + x_T23_Th_2 + x_T23_Th_3 + x_T23_Th_4 + x_T23_Th_5 + x_T23_Fr_1 + x_T23_Fr_2 + x_T23_Fr_3 + x_T23_Fr_4 + x_T23_Fr_5 >= 3
+ working_days_T6: x_T6_Mo_1 + x_T6_Mo_2 + x_T6_Mo_3 + x_T6_Mo_4 + x_T6_Mo_5 + x_T6_Tu_1 + x_T6_Tu_2 + x_T6_Tu_3 + x_T6_Tu_4 + x_T6_Tu_5 + x_T6_We_1 + x_T6_We_2 + x_T6_We_3 + x_T6_We_4 + x_T6_We_5 + x_T6_Th_1 + x_T6_Th_2 + x_T6_Th_3 + x_T6_Th_4 + x_T6_Th_5 + x_T6_Fr_1 + x_T6_Fr_2 + x_T6_Fr_3 + x_T6_Fr_4 + x_T6_Fr_5 >= 3
+ working_days_T11: x_T11_Mo_1 + x_T11_Mo_2 + x_T11_Mo_3 + x_T11_Mo_4 + x_T11_Mo_5 + x_T11_Tu_1 + x_T11_Tu_2 + x_T11_Tu_3 + x_T11_Tu_4 + x_T11_Tu_5 + x_T11_We_1 + x_T11_We_2 + x_T11_We_3 + x_T11_We_4 + x_T11_We_5 + x_T11_Th_1 + x_T11_Th_2 + x_T11_Th_3 + x_T11_Th_4 + x_T11_Th_5 + x_T11_Fr_1 + x_T11_Fr_2 + x_T11_Fr_3 + x_T11_Fr_4 + x_T11_Fr_5 >= 3
+Binary
+  x_T18_S5_Th_2
+  x_T27_S17_Tu_1
+  x_T1_S2_We_5
+  x_T28_S9_Fr_3
+  x_T8_S11_We_4
+  x_T32_S20_Tu_1
+  x_T12_S12_We_5
+  x_T27_S8_Mo_5
+  x_T17_S3_Fr_4
+  x_T20_S5_Fr_1
+  x_T12_S15_Mo_3
+  x_T16_S7_Tu_5
+  x_T15_S19_Th_2
+  x_T28_S3_Th_4
+  x_T14_S3_We_2
+  x_T8_S13_Fr_2
+  x_T26_S16_Tu_3
+  x_T19_S15_We_2
+  x_T20_S4_Tu_1
+  x_T15_S19_Th_5
+  x_T32_S7_We_5
+  x_T22_S19_Mo_5
+  x_T32_S9_Th_3
+  x_T21_S11_Mo_4
+  x_T24_S14_Fr_4
+  x_T5_S14_Mo_5
+  x_T30_S14_Tu_2
+  x_T12_S14_Tu_2
+  x_T23_S12_Th_2
+  x_T23_S3_Th_2
+  x_T28_S6_Th_3
+  x_T18_S6_Mo_5
+  x_T3_S13_Mo_1
+  x_T19_S9_Tu_4
+  x_T22_S18_Th_3
+  x_T19_S7_Tu_1
+  x_T26_S7_We_5
+  x_T7_S10_Fr_5
+  x_T22_S20_Th_3
+  x_T5_S3_We_3
+  x_T14_S17_Th_3
+  x_T15_S19_Mo_1
+  x_T32_S6_Mo_2
+  x_T28_S12_Tu_1
+  x_T23_S19_Tu_3
+  x_T27_S8_Th_5
+  x_T5_S4_Tu_5
+  x_T14_S1_We_2
+  x_T24_S5_We_4
+  x_T22_S19_We_1
+  x_T27_S17_Tu_3
+  x_T29_S7_We_4
+  x_T13_S16_Tu_3
+  x_T8_S13_We_5
+  x_T9_S20_Tu_5
+  x_T23_S2_Th_4
+  x_T18_S14_Tu_2
+  x_T15_S6_We_5
+  x_T9_S18_Fr_3
+  x_T10_S2_Fr_1
+  x_T7_S9_Mo_5
+  x_T33_S16_Th_1
+  x_T33_S19_Fr_2
+  x_T3_S14_Tu_1
+  x_T25_S9_We_3
+  x_T13_S18_Mo_1
+  x_T25_S16_Th_4
+  x_T24_S6_Fr_5
+  x_T13_S17_Th_5
+  x_T30_S2_Th_4
+  x_T28_S18_Mo_4
+  x_T31_S15_Mo_4
+  x_T21_S13_Th_5
+  x_T23_S10_Mo_5
+  x_T7_S12_Tu_5
+  x_T3_S14_We_4
+  x_T27_S14_Tu_5
+  x_T11_S9_Tu_3
+  x_T5_S2_Th_3
+  x_T9_S15_Fr_5
+  x_T30_S2_We_5
+  x_T3_S13_Mo_2
+  x_T8_S15_Fr_5
+  x_T31_S3_Tu_2
+  x_T22_S18_Th_1
+  x_T11_S7_Fr_2
+  x_T31_S9_Th_2
+  x_T1_S1_Tu_4
+  x_T4_S18_Mo_5
+  x_T16_S9_Tu_3
+  x_T28_S18_Fr_1
+  x_T26_S4_We_1
+  x_T10_S3_Tu_1
+  x_T11_S7_Tu_5
+  x_T15_S18_We_5
+  x_T33_S20_Fr_2
+  x_T16_S20_We_5
+  x_T21_S9_Tu_1
+  x_T5_S1_Th_5
+  x_T29_S19_Fr_4
+  y_T6
+  x_T29_S16_Fr_4
+  x_T20_S2_Th_1
+  x_T14_S13_Tu_4
+  x_T1_S17_Th_5
+  x_T10_S3_Mo_2
+  x_T22_S20_We_3
+  x_T5_S14_Th_1
+  x_T24_S4_Th_3
+  x_T7_S11_Fr_3
+  x_T1_S3_Th_3
+  x_T14_S1_Mo_4
+  x_T18_S19_Th_3
+  x_T25_S18_Mo_3
+  x_T32_S9_Th_2
+  x_T15_S14_We_5
+  x_T28_S12_Fr_3
+  x_T14_S3_Fr_2
+  x_T25_S9_Tu_4
+  x_T26_S19_Th_1
+  x_T30_S17_Mo_2
+  x_T16_S20_Tu_5
+  x_T27_S8_Mo_4
+  x_T23_S3_Fr_3
+  x_T15_S4_We_1
+  x_T20_S2_Fr_3
+  x_T20_S3_Fr_5
+  x_T1_S1_Th_1
+  x_T13_S19_Mo_1
+  x_T14_S3_Mo_4
+  x_T29_S10_Tu_5
+  x_T24_S14_Mo_1
+  x_T12_S14_We_2
+  x_T6_S8_Fr_2
+  x_T32_S20_We_2
+  x_T24_S6_Fr_1
+  x_T3_S12_We_1
+  x_T19_S12_Fr_3
+  x_T29_S13_Fr_2
+  x_T15_S11_Fr_3
+  x_T13_S18_Th_5
+  x_T17_S1_Tu_2
+  x_T16_S20_Th_3
+  x_T2_S9_Mo_2
+  x_T13_S20_We_1
+  x_T27_S17_We_2
+  x_T8_S11_Fr_4
+  x_T17_S1_Tu_5
+  x_T4_S19_We_1
+  x_T33_S17_Fr_5
+  x_T8_S15_Tu_2
+  x_T11_S9_Mo_1
+  x_T1_S16_We_5
+  x_T20_S1_We_1
+  x_T30_S2_Mo_3
+  x_T9_S18_Th_2
+  x_T15_S4_Tu_3
+  x_T23_S2_Mo_2
+  x_T17_S1_Mo_1
+  x_T32_S19_Fr_4
+  x_T17_S16_Mo_5
+  x_T5_S14_Fr_5
+  x_T13_S20_Fr_2
+  x_T28_S15_Mo_5
+  x_T28_S9_Th_1
+  x_T12_S11_Tu_3
+  x_T6_S5_We_4
+  x_T17_S1_Mo_3
+  x_T32_S9_Fr_5
+  x_T32_S6_Th_5
+  x_T19_S7_Th_3
+  x_T14_S13_Fr_5
+  x_T13_S16_Fr_4
+  x_T6_S12_Tu_1
+  x_T17_S3_Tu_5
+  x_T2_S10_We_4
+  x_T25_S18_Fr_4
+  x_T8_S16_Tu_4
+  x_T8_S13_Mo_2
+  x_T8_S16_Th_4
+  x_T10_S3_Mo_4
+  x_T23_S19_Mo_5
+  x_T17_S13_Tu_3
+  x_T5_S4_Mo_1
+  x_T27_S11_We_2
+  x_T30_S11_Tu_5
+  x_T12_S14_Fr_5
+  x_T27_S17_Th_5
+  x_T3_S14_Mo_1
+  x_T22_S20_Th_1
+  x_T32_S4_We_1
+  x_T31_S12_Fr_2
+  x_T33_S18_Tu_4
+  x_T8_S11_Mo_3
+  x_T7_S9_Mo_2
+  x_T21_S10_We_2
+  x_T18_S5_Fr_4
+  x_T5_S2_Fr_1
+  x_T18_S11_Tu_5
+  x_T14_S1_We_5
+  x_T15_S19_Mo_4
+  x_T30_S17_Th_2
+  x_T27_S20_Th_1
+  x_T7_S12_Fr_5
+  x_T8_S15_Fr_4
+  x_T6_S12_Fr_2
+  x_T7_S12_We_1
+  x_T30_S17_Fr_3
+  x_T3_S14_We_1
+  x_T16_S8_Th_5
+  x_T8_S11_Tu_1
+  x_T17_S10_We_1
+  x_T23_S19_Mo_1
+  x_T13_S16_Th_3
+  x_T11_S6_Mo_1
+  x_T15_S4_Fr_4
+  x_T15_S5_Fr_2
+  x_T26_S19_We_5
+  x_T30_S11_Tu_4
+  x_T20_S2_We_3
+  x_T28_S9_Th_4
+  x_T11_S6_Tu_5
+  x_T24_S15_Mo_1
+  x_T25_S18_Tu_3
+  x_T27_S11_We_5
+  x_T1_S16_We_3
+  x_T13_S17_Th_2
+  x_T4_S6_Th_4
+  x_T32_S16_Mo_3
+  x_T28_S6_Th_2
+  x_T27_S11_Th_4
+  x_T27_S2_Tu_1
+  x_T3_S15_Fr_5
+  x_T4_S18_Th_4
+  x_T30_S14_Th_2
+  x_T22_S17_Mo_3
+  x_T4_S5_Th_2
+  x_T31_S18_Mo_5
+  x_T14_S13_We_1
+  x_T9_S18_Mo_4
+  x_T31_S6_Mo_3
+  x_T4_S6_We_3
+  x_T17_S2_Fr_5
+  x_T16_S12_Mo_4
+  x_T1_S1_We_1
+  x_T4_S5_Th_5
+  x_T8_S13_We_4
+  x_T12_S12_Fr_3
+  x_T5_S3_Tu_1
+  x_T11_S10_Mo_2
+  x_T29_S16_We_4
+  x_T31_S18_Th_3
+  x_T32_S5_Tu_1
+  x_T5_S3_Fr_4
+  x_T24_S13_Mo_5
+  x_T12_S14_Fr_1
+  x_T30_S17_Th_5
+  x_T27_S14_Th_4
+  x_T30_S5_We_5
+  x_T27_S2_We_3
+  x_T29_S19_Fr_1
+  x_T26_S4_Mo_2
+  x_T4_S5_Mo_2
+  x_T4_S5_Mo_5
+  x_T4_S5_Fr_4
+  x_T31_S9_Tu_3
+  x_T27_S8_We_5
+  x_T13_S19_We_2
+  x_T20_S3_Th_2
+  x_T9_S19_Mo_5
+  x_T16_S7_Mo_4
+  x_T8_S16_Fr_5
+  x_T12_S12_Mo_4
+  x_T23_S3_Tu_1
+  x_T24_S14_Th_5
+  x_T2_S7_Th_4
+  x_T28_S15_Tu_3
+  x_T33_S20_Th_3
+  x_T32_S1_Fr_5
+  x_T18_S6_Th_1
+  x_T19_S9_Th_2
+  x_T1_S16_Mo_4
+  x_T33_S17_Th_2
+  x_T22_S19_Mo_2
+  x_T14_S1_Fr_2
+  x_T30_S2_We_1
+  x_T32_S3_Tu_4
+  x_T17_S10_Mo_3
+  x_T25_S18_Th_4
+  x_T28_S3_Th_2
+  x_T29_S10_Mo_4
+  x_T6_S8_We_4
+  x_T5_S2_Th_2
+  x_T33_S20_Th_4
+  x_T18_S19_Fr_5
+  x_T3_S13_Tu_2
+  x_T18_S6_We_4
+  x_T17_S2_Mo_1
+  x_T28_S15_Fr_3
+  x_T32_S20_Mo_4
+  x_T32_S16_Th_5
+  x_T13_S16_Fr_3
+  x_T8_S13_We_3
+  x_T11_S8_Tu_1
+  x_T2_S10_Fr_4
+  x_T32_S7_Mo_2
+  x_T21_S11_Th_2
+  x_T31_S18_Mo_2
+  x_T11_S10_We_4
+  x_T9_S19_Mo_1
+  x_T32_S2_We_1
+  x_T24_S4_Mo_1
+  x_T11_S8_Mo_5
+  x_T10_S4_Tu_5
+  x_T10_S2_We_1
+  x_T17_S16_Th_2
+  x_T33_S16_Th_5
+  x_T17_S1_We_4
+  x_T12_S15_Mo_4
+  x_T24_S15_We_4
+  x_T2_S7_We_3
+  x_T31_S9_Tu_1
+  x_T32_S18_Tu_1
+  x_T29_S1_Tu_1
+  x_T26_S7_Fr_4
+  x_T32_S6_Tu_1
+  x_T28_S15_Fr_4
+  x_T20_S4_Th_3
+  x_T32_S19_Th_3
+  x_T18_S14_Fr_3
+  x_T2_S7_Th_2
+  x_T29_S19_Tu_4
+  x_T32_S5_Fr_3
+  x_T1_S16_We_4
+  x_T9_S17_Mo_4
+  x_T17_S3_Th_3
+  x_T32_S19_Fr_2
+  x_T5_S14_We_2
+  x_T24_S15_We_1
+  x_T21_S8_Fr_2
+  x_T16_S15_Fr_1
+  x_T14_S2_We_1
+  x_T29_S13_Th_4
+  x_T19_S9_Fr_4
+  x_T22_S19_Tu_2
+  x_T29_S4_Mo_4
+  x_T32_S5_Th_3
+  x_T14_S3_We_4
+  x_T22_S18_Mo_5
+  x_T6_S5_Th_2
+  x_T30_S5_Th_2
+  x_T19_S20_We_4
+  x_T21_S9_We_3
+  x_T19_S12_Mo_3
+  x_T9_S17_We_4
+  x_T33_S18_Th_5
+  x_T15_S11_Th_3
+  x_T23_S12_Tu_5
+  x_T10_S4_Fr_4
+  x_T31_S12_We_4
+  x_T11_S9_Tu_5
+  x_T18_S11_Fr_4
+  x_T24_S13_Fr_4
+  y_T33
+  x_T29_S19_Th_3
+  x_T19_S7_We_4
+  x_T25_S9_We_2
+  x_T19_S9_Fr_2
+  x_T28_S18_Tu_5
+  x_T4_S20_Mo_3
+  x_T4_S18_Th_2
+  x_T16_S9_Tu_2
+  x_T22_S18_Th_4
+  x_T9_S20_Mo_1
+  x_T22_S17_We_5
+  x_T1_S16_Fr_4
+  x_T5_S4_Th_5
+  x_T19_S15_Fr_1
+  x_T20_S2_We_4
+  x_T17_S1_Fr_5
+  x_T7_S10_We_4
+  x_T32_S3_We_1
+  x_T8_S14_Fr_2
+  x_T12_S15_Tu_5
+  x_T17_S3_We_1
+  x_T9_S15_Mo_4
+  x_T32_S9_Th_5
+  x_T25_S8_Mo_3
+  x_T23_S3_We_5
+  x_T7_S10_We_3
+  x_T12_S11_Mo_3
+  x_T32_S8_Th_5
+  x_T29_S10_Tu_3
+  x_T1_S1_Tu_2
+  x_T15_S5_Tu_2
+  x_T23_S10_Tu_4
+  x_T8_S13_Mo_4
+  x_T5_S3_We_1
+  x_T11_S8_We_1
+  x_T32_S1_We_4
+  x_T2_S7_Tu_3
+  x_T32_S20_Fr_5
+  x_T25_S7_Mo_2
+  x_T32_S6_Mo_3
+  x_T30_S8_Fr_1
+  x_T28_S3_Mo_5
+  x_T1_S16_Mo_5
+  x_T6_S10_Tu_3
+  x_T4_S18_Mo_4
+  x_T5_S1_Fr_2
+  x_T24_S5_We_3
+  x_T19_S20_We_1
+  x_T13_S16_We_3
+  x_T31_S15_Fr_1
+  x_T30_S5_Th_5
+  x_T32_S8_We_4
+  x_T31_S9_We_4
+  x_T29_S1_We_2
+  x_T11_S9_Mo_2
+  x_T11_S6_Fr_5
+  x_T12_S15_We_1
+  x_T23_S3_Tu_5
+  x_T24_S5_Mo_2
+  x_T28_S6_We_1
+  x_T32_S1_We_3
+  x_T21_S9_We_4
+  x_T28_S15_Mo_4
+  x_T20_S7_We_1
+  x_T32_S1_Th_2
+  x_T11_S7_Tu_4
+  x_T13_S16_Mo_5
+  x_T30_S11_We_5
+  x_T1_S3_We_3
+  x_T3_S14_Th_5
+  x_T31_S20_Tu_4
+  x_T30_S11_Fr_3
+  x_T8_S15_Th_2
+  x_T4_S6_Tu_2
+  x_T10_S1_Fr_3
+  x_T10_S4_Th_5
+  x_T19_S7_Th_2
+  x_T32_S20_Th_4
+  x_T18_S11_Th_4
+  x_T25_S18_We_4
+  x_T28_S12_Fr_1
+  x_T7_S11_Th_5
+  x_T8_S13_Fr_5
+  x_T8_S14_We_3
+  x_T27_S14_Fr_2
+  x_T24_S5_Mo_5
+  x_T28_S18_Th_4
+  x_T15_S6_Tu_3
+  x_T7_S11_Fr_2
+  x_T20_S3_Tu_1
+  x_T22_S16_Th_2
+  x_T26_S10_We_1
+  x_T17_S2_Fr_1
+  x_T31_S12_Tu_1
+  x_T22_S20_Tu_3
+  x_T26_S4_Mo_4
+  x_T15_S6_Mo_4
+  x_T1_S2_Tu_5
+  x_T16_S9_Tu_1
+  x_T22_S16_Mo_5
+  x_T29_S4_Th_1
+  x_T27_S11_Mo_5
+  x_T6_S5_Tu_3
+  x_T3_S14_Mo_4
+  x_T21_S11_Tu_4
+  x_T30_S14_Tu_5
+  x_T14_S3_Th_4
+  x_T28_S12_Mo_5
+  x_T13_S17_Tu_4
+  x_T5_S2_Th_5
+  x_T31_S12_Mo_2
+  x_T15_S6_Tu_1
+  x_T19_S12_Mo_1
+  x_T9_S17_Tu_2
+  x_T27_S20_Th_5
+  x_T32_S19_Th_2
+  x_T10_S5_Th_1
+  x_T29_S10_Th_2
+  x_T11_S10_Tu_1
+  x_T32_S5_Mo_1
+  x_T12_S13_Tu_5
+  x_T29_S7_Th_5
+  x_T31_S20_Th_3
+  x_T12_S15_Fr_4
+  x_T15_S11_Tu_3
+  x_T19_S15_Fr_3
+  x_T18_S14_Tu_3
+  x_T32_S18_Mo_1
+  x_T6_S5_We_2
+  x_T16_S20_Th_5
+  x_T29_S4_We_1
+  x_T15_S6_We_3
+  x_T18_S14_We_1
+  x_T23_S10_Mo_2
+  x_T32_S8_Tu_5
+  x_T14_S16_Fr_1
+  x_T6_S6_Mo_5
+  x_T1_S4_Fr_2
+  x_T4_S5_Tu_3
+  x_T18_S6_Th_2
+  x_T18_S11_We_2
+  x_T4_S6_Fr_4
+  x_T15_S4_Fr_5
+  x_T21_S11_We_2
+  x_T26_S4_Tu_2
+  x_T16_S15_Mo_5
+  x_T17_S2_Th_4
+  x_T19_S20_Th_1
+  x_T25_S9_Th_1
+  x_T33_S16_Mo_5
+  x_T26_S10_Mo_4
+  x_T30_S17_Tu_4
+  x_T24_S13_Th_5
+  x_T30_S5_We_1
+  x_T32_S3_Tu_3
+  x_T27_S17_Fr_3
+  x_T32_S3_Fr_3
+  x_T14_S10_Th_5
+  x_T16_S12_Th_3
+  x_T15_S6_Tu_4
+  x_T12_S13_Th_4
+  x_T27_S5_Tu_1
+  x_T17_S13_Mo_3
+  x_T28_S18_Fr_3
+  x_T16_S12_Fr_1
+  x_T29_S7_Tu_5
+  x_T13_S18_Fr_3
+  x_T32_S6_Th_1
+  x_T13_S19_Th_3
+  x_T14_S16_Mo_5
+  x_T15_S5_Tu_1
+  x_T20_S2_Mo_1
+  x_T15_S5_Th_4
+  x_T6_S5_Fr_5
+  x_T9_S18_Tu_4
+  x_T4_S19_Tu_1
+  x_T19_S12_Th_1
+  x_T33_S16_We_5
+  x_T6_S8_We_1
+  x_T26_S1_Mo_4
+  x_T21_S8_Th_1
+  x_T27_S17_Th_3
+  x_T22_S19_Fr_3
+  x_T8_S16_Th_3
+  x_T27_S14_We_4
+  x_T23_S12_Th_4
+  x_T28_S3_Th_3
+  x_T31_S18_Fr_5
+  x_T17_S10_Tu_2
+  x_T1_S4_Tu_3
+  x_T33_S19_Th_5
+  x_T33_S20_Mo_5
+  x_T26_S7_Th_2
+  x_T10_S2_Fr_4
+  x_T25_S9_Fr_2
+  x_T26_S7_Fr_2
+  x_T20_S7_Fr_1
+  x_T32_S20_Th_3
+  x_T28_S3_We_3
+  x_T19_S9_We_3
+  x_T13_S17_We_5
+  x_T24_S6_Tu_5
+  x_T3_S14_Fr_1
+  x_T13_S18_Tu_1
+  x_T14_S16_Tu_4
+  x_T21_S8_Mo_5
+  x_T26_S16_Fr_3
+  x_T7_S9_Fr_1
+  x_T25_S9_Th_5
+  x_T19_S9_We_5
+  x_T32_S19_Fr_3
+  x_T12_S12_Mo_3
+  x_T26_S19_Th_4
+  x_T23_S1_Fr_4
+  x_T13_S19_Fr_4
+  x_T24_S4_We_3
+  x_T21_S10_We_5
+  x_T1_S2_Th_3
+  x_T24_S5_Tu_2
+  x_T24_S20_Th_3
+  x_T17_S3_Mo_3
+  x_T3_S13_Fr_5
+  x_T26_S7_Tu_2
+  x_T30_S8_We_2
+  x_T10_S4_Th_2
+  x_T11_S9_We_5
+  x_T22_S19_Fr_4
+  x_T5_S3_Mo_5
+  x_T21_S11_Fr_4
+  x_T10_S1_We_2
+  x_T1_S1_Fr_2
+  x_T19_S12_Tu_3
+  x_T14_S17_Th_5
+  x_T29_S7_Tu_1
+  x_T20_S7_Tu_1
+  x_T15_S19_Tu_1
+  x_T17_S13_Mo_4
+  x_T24_S13_Tu_5
+  x_T8_S13_We_2
+  x_T4_S5_Fr_1
+  x_T21_S12_Th_2
+  x_T20_S4_Mo_5
+  x_T17_S16_Mo_3
+  x_T24_S4_Fr_4
+  x_T9_S17_Fr_5
+  x_T18_S14_We_3
+  x_T33_S16_We_1
+  x_T7_S10_Fr_1
+  x_T6_S12_Th_3
+  x_T29_S16_Mo_3
+  x_T12_S11_We_5
+  x_T14_S1_Th_3
+  x_T24_S20_Tu_3
+  x_T32_S5_We_2
+  x_T28_S3_We_5
+  x_T28_S18_Tu_3
+  x_T28_S6_Mo_2
+  x_T28_S9_We_1
+  x_T25_S17_Fr_5
+  x_T16_S8_Fr_1
+  x_T17_S17_We_1
+  x_T23_S12_Fr_4
+  x_T26_S7_Fr_1
+  x_T15_S5_We_5
+  x_T5_S1_Mo_1
+  x_T3_S13_We_4
+  x_T20_S2_Mo_3
+  x_T18_S6_Tu_4
+  x_T27_S2_Mo_3
+  x_T20_S4_Tu_2
+  x_T28_S3_Fr_5
+  x_T6_S12_Tu_3
+  x_T8_S15_Tu_3
+  x_T32_S1_Tu_5
+  x_T30_S11_Fr_2
+  x_T23_S2_Fr_3
+  x_T14_S1_Mo_2
+  x_T7_S12_Tu_2
+  x_T26_S16_We_2
+  x_T14_S16_Fr_2
+  x_T16_S20_Th_4
+  x_T14_S1_Fr_3
+  x_T18_S4_Tu_5
+  x_T32_S16_Th_2
+  x_T28_S6_We_4
+  x_T16_S20_Mo_2
+  x_T23_S3_We_4
+  x_T27_S11_Mo_4
+  x_T13_S19_We_5
+  x_T32_S20_We_3
+  x_T32_S16_Tu_4
+  x_T18_S14_Fr_5
+  x_T8_S14_Tu_5
+  x_T31_S20_Mo_3
+  x_T26_S19_We_1
+  x_T27_S8_We_1
+  x_T17_S2_We_4
+  x_T26_S19_Th_3
+  x_T32_S2_Tu_1
+  x_T8_S14_Tu_1
+  x_T25_S7_Mo_5
+  x_T29_S13_Th_1
+  x_T21_S9_Fr_4
+  x_T32_S20_Th_1
+  x_T20_S7_Mo_1
+  x_T21_S12_Tu_4
+  x_T21_S14_Tu_1
+  x_T16_S7_Th_3
+  x_T3_S13_Fr_1
+  x_T12_S13_Mo_4
+  x_T18_S11_Mo_3
+  x_T16_S15_Fr_5
+  x_T12_S15_Fr_3
+  x_T22_S15_We_3
+  x_T19_S9_Tu_2
+  x_T26_S10_Mo_1
+  x_T9_S19_Mo_2
+  x_T6_S10_Mo_5
+  x_T16_S20_Mo_5
+  x_T9_S18_Fr_1
+  x_T32_S5_We_5
+  x_T27_S11_Tu_4
+  x_T28_S9_We_5
+  x_T30_S17_Th_3
+  x_T22_S15_Mo_5
+  x_T1_S1_Th_5
+  x_T12_S11_Th_4
+  x_T21_S10_Fr_1
+  x_T21_S13_We_5
+  x_T1_S2_Fr_5
+  x_T3_S12_Th_4
+  x_T4_S18_Mo_3
+  x_T11_S7_Mo_4
+  x_T24_S14_Th_3
+  x_T5_S2_We_4
+  x_T31_S12_Th_5
+  x_T11_S10_Th_2
+  x_T20_S5_Tu_2
+  x_T18_S11_Fr_5
+  x_T24_S4_Tu_3
+  x_T13_S17_Fr_3
+  x_T15_S18_Mo_5
+  x_T21_S10_Fr_3
+  x_T17_S2_Fr_3
+  x_T6_S12_We_2
+  x_T16_S8_We_4
+  x_T19_S8_Th_1
+  x_T18_S6_We_2
+  x_T32_S1_Fr_2
+  x_T14_S10_Tu_1
+  x_T32_S7_Tu_5
+  x_T20_S1_Tu_2
+  x_T23_S1_Th_2
+  x_T28_S6_Fr_5
+  x_T1_S3_Mo_5
+  x_T24_S5_Mo_1
+  x_T14_S17_Tu_5
+  x_T12_S13_We_5
+  x_T15_S6_Fr_2
+  x_T1_S3_Mo_4
+  x_T32_S2_Mo_3
+  x_T25_S9_Tu_3
+  x_T2_S11_We_2
+  x_T13_S18_Tu_5
+  x_T25_S18_We_5
+  x_T33_S16_We_3
+  x_T22_S16_We_4
+  x_T12_S11_Fr_2
+  x_T27_S14_Tu_2
+  x_T3_S12_Tu_1
+  x_T24_S4_We_2
+  x_T32_S16_Fr_1
+  x_T20_S5_We_3
+  x_T26_S19_Fr_2
+  x_T27_S20_Tu_3
+  x_T33_S18_Fr_5
+  x_T27_S14_Mo_2
+  x_T13_S18_Tu_4
+  x_T4_S6_Tu_4
+  x_T32_S2_Th_3
+  x_T2_S9_Th_2
+  x_T17_S13_We_4
+  x_T33_S17_Tu_4
+  x_T33_S17_Th_5
+  x_T21_S9_Th_4
+  x_T16_S20_We_3
+  x_T33_S20_Th_1
+  x_T19_S7_We_3
+  x_T9_S18_Tu_1
+  x_T11_S10_Fr_2
+  x_T14_S10_Th_3
+  x_T32_S7_We_4
+  x_T6_S5_Mo_1
+  x_T30_S8_Fr_2
+  x_T31_S9_Fr_2
+  x_T1_S2_Tu_1
+  x_T6_S6_Fr_1
+  x_T14_S2_We_2
+  x_T30_S11_We_4
+  x_T20_S2_Tu_1
+  x_T26_S13_We_2
+  x_T32_S17_Th_2
+  x_T19_S15_We_3
+  x_T5_S4_Tu_1
+  x_T22_S19_Tu_1
+  x_T6_S12_Mo_5
+  x_T25_S18_Tu_1
+  x_T20_S2_Mo_4
+  x_T27_S17_Fr_5
+  x_T5_S14_Tu_1
+  x_T12_S14_Fr_4
+  x_T26_S13_Th_4
+  x_T10_S3_Mo_3
+  x_T23_S2_Tu_1
+  x_T8_S11_Tu_5
+  x_T8_S14_Fr_3
+  x_T32_S4_We_4
+  x_T25_S9_Tu_2
+  x_T32_S16_We_2
+  x_T27_S20_Mo_2
+  x_T24_S5_Fr_1
+  x_T25_S8_Fr_1
+  x_T5_S14_Th_3
+  x_T1_S2_Fr_2
+  x_T23_S12_Th_3
+  x_T26_S13_Tu_1
+  x_T2_S8_Fr_3
+  x_T7_S12_Mo_5
+  x_T15_S11_Mo_5
+  x_T25_S18_Mo_1
+  x_T27_S2_Th_3
+  x_T10_S3_Fr_4
+  x_T6_S12_Th_5
+  x_T27_S11_Tu_3
+  x_T28_S6_Tu_2
+  x_T30_S17_Tu_5
+  x_T6_S7_We_3
+  x_T11_S6_Tu_4
+  x_T18_S6_Mo_4
+  x_T3_S14_Th_4
+  x_T26_S4_Fr_1
+  x_T32_S6_Fr_2
+  x_T24_S6_Tu_1
+  x_T27_S11_Tu_5
+  x_T22_S18_Tu_3
+  x_T2_S10_We_2
+  x_T28_S9_Fr_4
+  x_T23_S3_Mo_5
+  x_T20_S5_Tu_5
+  x_T22_S19_Mo_1
+  x_T8_S11_Tu_2
+  x_T16_S8_We_3
+  x_T17_S16_We_5
+  x_T23_S12_We_3
+  x_T2_S8_We_4
+  x_T1_S2_We_4
+  x_T1_S16_Th_1
+  x_T30_S2_Fr_1
+  x_T5_S4_Fr_2
+  x_T32_S16_Mo_4
+  x_T27_S5_Mo_4
+  x_T17_S2_Tu_5
+  x_T2_S7_Fr_3
+  x_T17_S3_Fr_3
+  x_T27_S8_Th_3
+  x_T11_S10_Th_5
+  x_T8_S14_Mo_5
+  x_T21_S11_Mo_1
+  y_T21
+  x_T33_S19_We_3
+  x_T17_S16_Fr_4
+  x_T32_S2_Tu_4
+  x_T22_S17_Fr_5
+  x_T13_S19_Mo_4
+  x_T15_S11_Tu_5
+  x_T10_S2_Th_2
+  x_T9_S15_Mo_2
+  x_T18_S5_Mo_1
+  x_T19_S8_Tu_5
+  x_T14_S16_We_5
+  x_T13_S19_We_4
+  x_T32_S17_Fr_4
+  x_T9_S18_Th_4
+  x_T25_S17_Fr_1
+  x_T32_S17_Th_5
+  x_T21_S10_Fr_4
+  x_T17_S1_Tu_3
+  x_T17_S17_We_3
+  x_T23_S12_Mo_1
+  x_T15_S6_We_1
+  x_T24_S14_We_3
+  x_T25_S7_Fr_3
+  x_T25_S18_Th_2
+  x_T15_S5_Tu_5
+  x_T24_S14_We_2
+  x_T8_S16_Fr_3
+  x_T18_S18_Th_2
+  x_T19_S20_Th_3
+  x_T28_S3_We_2
+  x_T8_S15_We_2
+  x_T31_S20_Th_2
+  x_T23_S1_We_1
+  x_T32_S20_We_4
+  x_T9_S15_Tu_2
+  x_T18_S11_Th_2
+  x_T16_S9_We_2
+  x_T13_S18_Tu_2
+  x_T22_S19_Th_3
+  x_T12_S15_Tu_2
+  x_T29_S16_We_1
+  x_T25_S7_We_1
+  x_T22_S15_We_4
+  x_T26_S19_Mo_1
+  x_T27_S14_Fr_4
+  x_T16_S7_We_1
+  x_T25_S17_Tu_4
+  x_T27_S8_Fr_4
+  x_T14_S13_Th_2
+  x_T21_S8_Fr_3
+  x_T19_S12_Mo_5
+  x_T12_S15_Fr_1
+  x_T22_S17_Th_5
+  x_T17_S13_Mo_5
+  x_T17_S16_We_4
+  x_T18_S18_Fr_2
+  x_T9_S17_Th_1
+  x_T2_S9_Mo_1
+  x_T25_S9_Tu_1
+  x_T17_S2_Tu_2
+  x_T15_S11_We_3
+  x_T16_S12_Mo_3
+  x_T30_S8_Tu_5
+  x_T21_S11_Fr_3
+  x_T28_S15_We_1
+  x_T25_S16_Th_2
+  x_T12_S13_Tu_2
+  x_T3_S14_We_2
+  x_T10_S5_Fr_5
+  x_T23_S10_Th_5
+  x_T26_S1_Th_5
+  x_T28_S9_Mo_4
+  x_T16_S12_Fr_3
+  x_T9_S20_Th_3
+  x_T20_S7_Tu_3
+  x_T14_S13_Mo_2
+  x_T17_S3_Th_1
+  x_T6_S8_Mo_2
+  x_T23_S3_Mo_1
+  x_T29_S19_Th_1
+  x_T32_S3_We_4
+  x_T21_S8_Mo_2
+  x_T7_S10_We_2
+  x_T31_S20_We_5
+  x_T10_S3_Th_2
+  x_T32_S4_Mo_4
+  x_T1_S4_Th_1
+  x_T12_S11_Tu_5
+  x_T4_S6_We_1
+  x_T15_S6_Th_5
+  x_T23_S2_Th_2
+  x_T33_S19_Mo_2
+  x_T11_S9_Fr_3
+  x_T17_S16_Mo_1
+  x_T28_S3_Tu_4
+  x_T16_S7_Fr_3
+  x_T24_S15_Fr_3
+  x_T7_S10_Fr_3
+  x_T15_S11_Th_5
+  x_T8_S15_Mo_2
+  x_T17_S10_Th_1
+  x_T8_S16_We_5
+  x_T31_S15_Th_2
+  x_T27_S5_We_1
+  x_T14_S1_Tu_1
+  x_T24_S6_We_5
+  x_T33_S20_Mo_3
+  x_T16_S9_Th_5
+  x_T22_S19_Tu_5
+  x_T21_S13_Th_1
+  x_T1_S3_Tu_3
+  x_T19_S8_Fr_4
+  x_T32_S18_We_2
+  x_T23_S11_Th_2
+  x_T24_S14_Mo_2
+  x_T33_S19_We_1
+  x_T11_S6_We_1
+  x_T4_S6_Mo_1
+  x_T16_S8_We_5
+  x_T4_S20_We_2
+  x_T20_S2_We_5
+  x_T24_S15_Fr_4
+  x_T29_S13_Mo_4
+  x_T18_S11_Fr_1
+  x_T20_S3_Tu_2
+  x_T30_S8_Fr_5
+  x_T24_S4_Tu_1
+  x_T13_S18_Th_1
+  x_T31_S20_Mo_1
+  x_T2_S7_Fr_1
+  x_T15_S6_Mo_5
+  x_T24_S14_Fr_1
+  x_T20_S4_Fr_2
+  x_T32_S20_Fr_2
+  x_T5_S14_Tu_5
+  x_T1_S1_Mo_2
+  x_T11_S6_Tu_2
+  x_T16_S20_Mo_4
+  x_T9_S18_Mo_5
+  x_T11_S8_We_5
+  x_T32_S8_Mo_5
+  x_T22_S16_Th_5
+  x_T12_S12_We_1
+  x_T25_S16_Mo_5
+  x_T1_S16_Th_5
+  x_T1_S4_Tu_4
+  x_T13_S19_Tu_2
+  x_T5_S4_Fr_5
+  x_T16_S15_Mo_4
+  x_T23_S11_Fr_2
+  x_T33_S19_We_4
+  x_T24_S13_Fr_5
+  x_T11_S9_Fr_1
+  x_T31_S20_Th_4
+  x_T9_S20_Tu_4
+  x_T16_S15_We_3
+  x_T13_S18_Th_2
+  x_T15_S19_Th_4
+  x_T15_S11_Fr_2
+  x_T26_S10_Th_2
+  x_T3_S12_Tu_4
+  x_T10_S3_Tu_3
+  x_T27_S2_Th_4
+  x_T13_S20_We_3
+  x_T15_S18_Fr_1
+  x_T20_S5_We_2
+  x_T20_S6_Fr_5
+  x_T28_S15_We_2
+  x_T33_S19_Th_2
+  x_T3_S12_Mo_5
+  x_T2_S11_Tu_3
+  x_T31_S6_Th_3
+  x_T6_S8_Tu_1
+  x_T20_S3_We_4
+  x_T32_S5_Fr_2
+  x_T5_S1_Mo_3
+  x_T13_S18_Mo_4
+  x_T2_S8_Th_4
+  x_T13_S17_We_3
+  x_T33_S16_Fr_1
+  x_T6_S8_Tu_4
+  x_T32_S5_Tu_5
+  x_T32_S6_We_5
+  x_T30_S11_We_2
+  x_T24_S6_Tu_4
+  x_T31_S3_We_1
+  x_T9_S18_Mo_2
+  x_T13_S16_Mo_3
+  x_T33_S19_Tu_4
+  x_T32_S4_Th_2
+  x_T30_S8_Th_2
+  x_T1_S17_Tu_5
+  x_T13_S20_Tu_2
+  x_T24_S14_Th_4
+  x_T5_S2_Fr_3
+  x_T23_S3_Mo_3
+  x_T6_S5_Th_5
+  x_T4_S20_Mo_5
+  x_T23_S2_Th_3
+  x_T24_S14_Th_1
+  x_T9_S18_Tu_3
+  x_T12_S11_Th_3
+  x_T30_S11_Mo_4
+  x_T30_S14_We_5
+  x_T29_S4_We_3
+  x_T3_S12_Th_5
+  x_T3_S13_Tu_3
+  x_T1_S16_Mo_1
+  x_T1_S16_Th_3
+  x_T26_S4_Th_3
+  x_T4_S20_We_4
+  x_T33_S18_We_1
+  x_T4_S20_Fr_2
+  x_T11_S8_Fr_5
+  x_T26_S1_We_3
+  x_T7_S9_Tu_4
+  x_T7_S13_We_2
+  x_T12_S14_We_5
+  x_T21_S12_Fr_2
+  x_T24_S5_We_5
+  x_T10_S2_Th_5
+  x_T26_S7_We_2
+  x_T9_S20_Fr_1
+  x_T25_S7_Tu_4
+  x_T4_S18_Tu_4
+  x_T24_S15_We_2
+  x_T6_S12_Mo_2
+  x_T17_S1_Tu_1
+  x_T29_S19_Mo_5
+  x_T20_S7_Th_3
+  x_T2_S7_Tu_2
+  x_T22_S20_Th_4
+  x_T13_S16_Fr_2
+  x_T20_S3_We_2
+  x_T19_S7_Tu_5
+  x_T6_S10_Mo_2
+  x_T2_S9_Tu_1
+  x_T30_S17_We_4
+  x_T30_S8_Fr_3
+  x_T25_S17_Th_4
+  x_T30_S14_Th_3
+  x_T20_S6_Mo_5
+  x_T14_S2_Tu_5
+  x_T23_S10_We_1
+  x_T10_S5_Tu_2
+  x_T17_S13_Th_3
+  x_T22_S20_Fr_2
+  x_T30_S2_Th_5
+  x_T26_S10_Fr_5
+  x_T31_S18_Fr_4
+  x_T27_S17_Tu_5
+  x_T32_S1_We_1
+  x_T8_S16_Th_5
+  x_T14_S2_Mo_5
+  x_T12_S11_Tu_1
+  x_T7_S12_We_5
+  x_T2_S10_Mo_4
+  x_T16_S15_Th_1
+  x_T1_S1_Fr_3
+  x_T33_S19_Fr_1
+  x_T31_S3_We_2
+  x_T32_S20_Th_5
+  x_T32_S7_Tu_3
+  x_T24_S6_Mo_3
+  x_T18_S6_Fr_4
+  x_T1_S1_Mo_1
+  x_T21_S14_We_3
+  x_T11_S9_Mo_3
+  x_T21_S9_Th_5
+  x_T24_S6_Mo_5
+  x_T31_S15_Fr_3
+  x_T2_S7_Fr_2
+  x_T33_S18_Fr_2
+  x_T32_S4_Mo_1
+  x_T7_S10_Tu_3
+  x_T23_S19_Th_5
+  x_T28_S3_We_4
+  x_T12_S14_Tu_5
+  x_T20_S1_Mo_5
+  x_T31_S12_Th_2
+  x_T1_S3_Tu_5
+  x_T16_S9_We_1
+  x_T10_S2_Mo_5
+  x_T8_S15_Mo_3
+  x_T33_S16_Th_2
+  x_T5_S1_Tu_2
+  x_T10_S2_Mo_4
+  x_T29_S1_Tu_4
+  x_T30_S8_Th_4
+  x_T23_S19_Tu_1
+  x_T8_S13_Fr_4
+  x_T27_S17_Fr_2
+  x_T20_S3_Tu_4
+  x_T14_S13_Tu_2
+  x_T10_S3_Th_3
+  x_T16_S12_Th_2
+  x_T6_S7_We_5
+  x_T25_S16_Tu_1
+  x_T12_S11_Fr_1
+  x_T17_S3_Tu_1
+  x_T4_S20_Fr_1
+  x_T13_S20_Fr_4
+  x_T6_S10_Tu_1
+  x_T14_S1_Mo_1
+  x_T6_S5_Tu_5
+  x_T10_S3_Fr_1
+  x_T28_S18_Mo_2
+  x_T6_S6_Th_1
+  x_T33_S18_Th_3
+  x_T26_S1_We_1
+  x_T12_S11_Mo_5
+  x_T9_S15_Th_3
+  x_T32_S1_Th_5
+  x_T3_S15_Th_4
+  x_T14_S17_Tu_1
+  x_T19_S7_Fr_2
+  x_T28_S3_Tu_2
+  x_T17_S3_Th_2
+  x_T18_S5_We_4
+  x_T14_S3_Tu_4
+  x_T20_S2_We_1
+  x_T23_S11_Mo_1
+  x_T11_S6_Fr_4
+  x_T13_S19_Fr_1
+  x_T29_S19_Fr_2
+  x_T10_S5_Fr_3
+  x_T18_S4_Mo_4
+  x_T11_S8_Fr_2
+  x_T24_S4_Fr_1
+  x_T32_S9_Th_1
+  x_T18_S11_Tu_2
+  x_T25_S7_Mo_4
+  x_T10_S5_Mo_1
+  x_T12_S14_Th_2
+  x_T32_S2_Th_2
+  x_T14_S2_We_3
+  x_T28_S9_Fr_2
+  x_T14_S10_Th_4
+  x_T29_S16_Tu_1
+  x_T21_S13_Th_2
+  x_T28_S18_Tu_4
+  x_T32_S9_Tu_2
+  x_T29_S13_We_2
+  x_T26_S4_Fr_4
+  x_T2_S8_Tu_3
+  x_T25_S17_Fr_3
+  x_T21_S8_Tu_4
+  x_T9_S17_Mo_5
+  x_T6_S12_Fr_4
+  x_T27_S8_We_4
+  x_T28_S3_Fr_3
+  x_T29_S4_We_5
+  x_T8_S15_Fr_2
+  x_T24_S4_Tu_5
+  x_T22_S18_Fr_4
+  x_T29_S16_Tu_2
+  x_T26_S16_Tu_5
+  x_T6_S6_Fr_3
+  x_T20_S3_Mo_1
+  x_T29_S1_Tu_5
+  x_T22_S18_Fr_1
+  x_T23_S1_We_4
+  x_T25_S17_We_2
+  x_T29_S7_We_2
+  x_T26_S1_Fr_4
+  x_T16_S20_Fr_2
+  x_T19_S15_Th_3
+  x_T30_S2_Fr_3
+  x_T27_S14_We_1
+  x_T4_S19_Tu_3
+  x_T15_S5_Tu_4
+  x_T8_S16_Th_1
+  x_T7_S10_Tu_1
+  x_T20_S1_Mo_3
+  x_T26_S4_Mo_3
+  x_T6_S10_Th_4
+  x_T26_S13_Th_3
+  x_T27_S17_We_1
+  x_T17_S3_Tu_3
+  x_T21_S13_Tu_2
+  x_T26_S13_Tu_2
+  x_T2_S11_Mo_1
+  x_T23_S19_Fr_2
+  x_T32_S5_Fr_5
+  x_T26_S19_Fr_1
+  x_T17_S1_Fr_4
+  x_T16_S7_We_3
+  x_T12_S15_Tu_3
+  x_T20_S1_Tu_3
+  x_T20_S5_Fr_4
+  x_T33_S17_We_4
+  x_T33_S18_Mo_3
+  x_T11_S9_Th_2
+  x_T14_S1_Th_2
+  x_T23_S12_Mo_5
+  x_T25_S8_We_1
+  x_T9_S17_We_2
+  x_T5_S3_Fr_2
+  x_T21_S8_Th_5
+  x_T27_S2_Tu_4
+  x_T15_S6_Mo_2
+  x_T11_S10_We_5
+  x_T16_S7_Fr_2
+  x_T19_S20_Th_5
+  x_T23_S3_Tu_2
+  x_T32_S19_Tu_4
+  x_T32_S9_Mo_4
+  x_T31_S18_Mo_4
+  x_T9_S19_Mo_3
+  x_T29_S16_Mo_1
+  x_T10_S4_We_1
+  x_T15_S19_Mo_3
+  x_T4_S18_Th_3
+  x_T28_S12_Tu_2
+  x_T10_S5_Fr_1
+  x_T20_S2_Fr_5
+  x_T18_S11_We_1
+  x_T15_S14_We_1
+  x_T8_S11_We_2
+  x_T10_S5_Th_5
+  x_T16_S12_Th_1
+  x_T30_S8_Fr_4
+  x_T15_S18_Fr_4
+  x_T15_S11_Th_2
+  x_T21_S8_We_1
+  x_T14_S1_Fr_1
+  x_T29_S1_Mo_4
+  x_T2_S7_Mo_4
+  x_T23_S1_Tu_3
+  x_T24_S20_Tu_2
+  x_T26_S7_Th_3
+  x_T5_S1_We_4
+  x_T27_S2_Mo_4
+  x_T2_S8_We_2
+  x_T28_S6_We_2
+  x_T24_S15_Th_1
+  x_T19_S8_Mo_5
+  x_T19_S7_Fr_5
+  x_T1_S16_Th_4
+  x_T9_S19_Fr_3
+  x_T15_S4_Tu_2
+  x_T18_S11_Mo_1
+  x_T30_S11_Th_4
+  x_T14_S10_We_3
+  x_T32_S4_Fr_2
+  x_T27_S8_Th_1
+  x_T23_S19_Mo_4
+  x_T29_S10_Tu_1
+  x_T28_S6_Fr_2
+  x_T11_S6_Tu_1
+  x_T32_S6_We_4
+  x_T25_S17_Tu_5
+  x_T1_S2_Mo_4
+  x_T29_S10_Th_5
+  x_T17_S10_We_3
+  x_T24_S15_Tu_3
+  x_T28_S15_Th_3
+  x_T31_S12_Fr_1
+  y_T15
+  x_T25_S16_We_5
+  x_T23_S19_We_4
+  x_T33_S17_Tu_5
+  x_T18_S5_Th_4
+  x_T19_S9_Th_3
+  x_T13_S19_We_3
+  x_T21_S9_Mo_1
+  x_T24_S4_Th_5
+  x_T15_S5_Fr_3
+  x_T15_S4_Tu_1
+  x_T12_S12_Fr_5
+  x_T26_S1_Mo_2
+  x_T28_S6_We_3
+  x_T25_S16_We_2
+  x_T27_S20_Fr_3
+  x_T28_S6_Th_1
+  y_T9
+  x_T26_S7_Tu_3
+  x_T22_S15_Fr_4
+  x_T7_S13_Tu_3
+  x_T6_S7_Fr_1
+  x_T5_S1_Th_3
+  x_T11_S7_Th_2
+  x_T24_S4_Th_4
+  x_T12_S14_Th_4
+  x_T26_S1_Mo_3
+  x_T5_S2_Tu_3
+  x_T32_S7_Th_4
+  x_T32_S6_Fr_4
+  x_T18_S19_Fr_3
+  x_T26_S1_Tu_3
+  x_T10_S4_Fr_3
+  x_T12_S14_Mo_4
+  x_T29_S4_Th_2
+  x_T23_S1_Mo_1
+  x_T21_S8_Mo_3
+  x_T21_S14_Fr_2
+  x_T32_S1_Fr_1
+  x_T9_S15_Th_2
+  x_T32_S5_Tu_3
+  x_T15_S5_Fr_5
+  x_T14_S16_Fr_4
+  x_T12_S12_Fr_1
+  x_T13_S20_Tu_5
+  x_T4_S5_Th_1
+  x_T15_S19_Th_1
+  x_T18_S14_Th_3
+  x_T32_S6_Tu_3
+  x_T31_S6_We_2
+  x_T15_S14_We_4
+  x_T5_S2_Mo_1
+  x_T31_S12_We_1
+  x_T31_S20_Fr_5
+  x_T23_S3_We_1
+  x_T22_S17_Tu_1
+  x_T30_S5_Th_3
+  x_T27_S8_Tu_4
+  x_T5_S3_Th_4
+  x_T5_S4_Th_4
+  x_T28_S15_Fr_5
+  x_T21_S14_Tu_3
+  x_T9_S18_Fr_4
+  x_T26_S10_Mo_5
+  x_T19_S15_We_4
+  x_T17_S10_Tu_1
+  x_T1_S1_Th_4
+  x_T32_S4_Tu_4
+  x_T23_S2_Tu_5
+  x_T9_S20_We_4
+  x_T32_S19_We_4
+  x_T20_S1_Fr_5
+  x_T7_S13_Tu_2
+  x_T21_S13_Mo_5
+  x_T28_S15_Fr_1
+  x_T23_S1_Mo_3
+  x_T10_S2_Mo_1
+  x_T14_S3_Th_1
+  x_T26_S1_Tu_1
+  x_T2_S11_Fr_4
+  x_T20_S4_Mo_3
+  x_T25_S16_Fr_5
+  x_T17_S13_Fr_4
+  x_T26_S19_Mo_2
+  x_T25_S17_Tu_2
+  x_T9_S18_We_3
+  x_T26_S19_We_4
+  x_T14_S10_Mo_1
+  x_T14_S16_Tu_1
+  x_T8_S14_Mo_2
+  x_T19_S15_Mo_5
+  x_T25_S18_Fr_1
+  x_T6_S8_Mo_1
+  x_T9_S20_Th_5
+  x_T14_S17_Th_1
+  x_T17_S1_We_1
+  x_T18_S11_Mo_4
+  x_T32_S1_We_2
+  x_T25_S17_Th_1
+  x_T10_S5_Tu_1
+  x_T1_S3_Th_4
+  x_T2_S7_Th_1
+  x_T18_S6_We_3
+  x_T15_S18_Tu_4
+  x_T22_S18_We_2
+  x_T7_S12_Mo_4
+  x_T16_S12_Fr_4
+  x_T21_S12_Th_5
+  x_T27_S2_Fr_1
+  x_T27_S8_Fr_5
+  x_T29_S16_Mo_2
+  x_T32_S9_We_1
+  x_T16_S7_Mo_2
+  x_T10_S2_Mo_2
+  x_T33_S19_We_2
+  x_T6_S8_We_5
+  x_T18_S19_Tu_2
+  x_T31_S6_We_3
+  x_T21_S12_Fr_5
+  x_T22_S19_We_4
+  x_T29_S4_Th_5
+  x_T27_S17_Tu_4
+  x_T15_S11_Fr_5
+  x_T20_S3_Tu_5
+  x_T8_S11_Fr_3
+  x_T9_S17_Fr_4
+  x_T5_S4_Fr_3
+  x_T12_S14_We_4
+  x_T22_S18_We_1
+  x_T31_S15_We_3
+  x_T1_S16_Fr_2
+  x_T26_S10_Th_3
+  x_T3_S15_We_2
+  x_T28_S9_Fr_5
+  x_T4_S5_We_5
+  x_T11_S7_Th_5
+  x_T32_S20_Mo_5
+  x_T10_S4_Tu_2
+  x_T11_S8_We_4
+  x_T14_S16_Mo_1
+  x_T19_S12_Tu_1
+  x_T23_S2_Tu_4
+  x_T9_S18_Fr_5
+  x_T24_S14_Mo_5
+  x_T21_S10_We_4
+  x_T32_S18_Fr_5
+  x_T8_S11_Fr_5
+  x_T10_S1_Tu_4
+  x_T21_S8_Th_4
+  x_T7_S11_Tu_5
+  x_T19_S7_Fr_3
+  x_T33_S20_We_3
+  x_T32_S8_Tu_3
+  x_T28_S15_Th_1
+  x_T4_S20_We_5
+  y_T7
+  x_T32_S4_Fr_5
+  x_T15_S11_Th_1
+  x_T32_S17_Fr_5
+  x_T15_S18_Mo_3
+  x_T18_S19_Mo_5
+  x_T14_S3_Fr_5
+  x_T27_S14_Mo_1
+  x_T32_S6_Th_3
+  x_T8_S11_Tu_3
+  x_T20_S1_Mo_4
+  x_T33_S17_Mo_1
+  x_T21_S8_Fr_1
+  x_T19_S8_Th_3
+  x_T16_S9_Th_3
+  x_T17_S16_Fr_3
+  x_T18_S4_Th_3
+  x_T29_S7_Tu_3
+  x_T2_S11_Mo_5
+  x_T11_S9_Th_1
+  x_T7_S10_Mo_2
+  x_T13_S16_Tu_5
+  x_T32_S16_Mo_2
+  x_T10_S2_We_5
+  x_T25_S17_Mo_3
+  x_T2_S7_Mo_5
+  x_T23_S10_We_3
+  x_T6_S10_Th_1
+  x_T19_S20_Fr_2
+  x_T19_S7_We_1
+  x_T28_S6_Fr_4
+  x_T29_S7_Mo_1
+  x_T31_S6_Fr_3
+  x_T31_S9_Mo_4
+  x_T32_S20_Th_2
+  x_T1_S2_Tu_2
+  x_T27_S5_Fr_1
+  x_T15_S11_Tu_1
+  x_T6_S7_We_1
+  x_T17_S17_Fr_5
+  x_T29_S7_Tu_2
+  x_T20_S5_We_4
+  x_T13_S19_Fr_2
+  x_T7_S11_We_2
+  x_T24_S5_Tu_3
+  x_T4_S6_Fr_5
+  x_T18_S5_Fr_2
+  x_T2_S9_Fr_4
+  x_T28_S18_We_3
+  x_T32_S4_Mo_5
+  x_T30_S17_Tu_2
+  x_T11_S10_Th_1
+  x_T25_S17_Th_2
+  x_T14_S16_Mo_2
+  x_T20_S1_Tu_1
+  x_T28_S12_Th_3
+  x_T7_S12_Mo_1
+  x_T23_S10_Fr_3
+  x_T33_S16_Mo_1
+  x_T32_S17_Tu_4
+  x_T30_S11_Th_1
+  x_T9_S15_Th_4
+  x_T11_S7_Fr_5
+  x_T14_S16_Th_4
+  x_T7_S13_Fr_2
+  x_T30_S5_Th_1
+  x_T17_S1_We_3
+  x_T25_S9_We_1
+  x_T30_S8_Mo_2
+  x_T1_S17_We_4
+  x_T13_S18_Fr_4
+  x_T15_S14_Tu_2
+  x_T6_S5_Fr_4
+  x_T25_S7_We_3
+  x_T4_S6_Mo_4
+  x_T29_S19_Th_2
+  x_T10_S5_Fr_4
+  x_T26_S4_Mo_1
+  x_T9_S15_We_5
+  x_T32_S7_We_2
+  x_T28_S3_Tu_3
+  x_T17_S1_Mo_4
+  x_T1_S16_Th_2
+  x_T15_S4_Fr_1
+  x_T27_S5_Mo_3
+  x_T21_S11_Tu_1
+  x_T22_S17_Mo_1
+  x_T22_S18_Fr_5
+  x_T25_S7_Mo_1
+  x_T29_S16_We_3
+  x_T20_S6_Th_2
+  x_T8_S16_Tu_5
+  x_T11_S6_Fr_1
+  x_T8_S14_Mo_1
+  y_T3
+  x_T3_S15_Mo_4
+  x_T28_S15_Tu_4
+  x_T16_S8_We_2
+  x_T20_S4_Th_4
+  x_T12_S14_Mo_5
+  x_T10_S1_We_3
+  x_T23_S11_We_2
+  x_T14_S13_Fr_2
+  x_T29_S13_Mo_2
+  x_T18_S5_Mo_4
+  x_T1_S17_Mo_1
+  x_T32_S3_Th_3
+  x_T12_S15_We_5
+  x_T1_S2_Th_4
+  x_T28_S9_Tu_4
+  x_T16_S12_Fr_5
+  x_T32_S20_Mo_1
+  x_T13_S17_We_1
+  x_T26_S4_We_5
+  x_T13_S20_Th_4
+  x_T30_S5_We_2
+  x_T21_S8_Tu_3
+  x_T31_S12_Tu_2
+  x_T6_S8_Th_3
+  x_T15_S18_Fr_5
+  x_T28_S3_Fr_2
+  x_T12_S14_We_3
+  x_T19_S15_Th_1
+  x_T2_S11_Tu_2
+  x_T32_S16_We_3
+  x_T25_S9_Mo_2
+  x_T1_S16_Mo_2
+  x_T27_S11_We_4
+  x_T1_S1_Tu_1
+  x_T7_S9_Th_2
+  x_T13_S16_Tu_4
+  x_T26_S1_Th_2
+  x_T6_S5_Th_3
+  x_T27_S20_Tu_1
+  x_T1_S4_Tu_2
+  x_T16_S15_Tu_1
+  x_T10_S3_We_4
+  x_T4_S6_Fr_1
+  x_T27_S2_Mo_1
+  x_T17_S17_We_2
+  x_T12_S13_Mo_5
+  x_T17_S13_Tu_1
+  x_T1_S2_Mo_2
+  x_T30_S5_Mo_3
+  x_T26_S1_We_2
+  x_T32_S3_We_2
+  x_T33_S18_Mo_1
+  x_T27_S20_Th_3
+  x_T19_S15_We_1
+  x_T27_S5_Tu_2
+  x_T33_S20_Tu_3
+  x_T4_S19_Tu_2
+  x_T20_S3_Fr_3
+  x_T15_S18_Fr_3
+  x_T31_S6_We_4
+  x_T5_S4_We_5
+  x_T22_S18_Tu_2
+  x_T28_S6_Tu_1
+  x_T22_S19_Tu_4
+  x_T14_S17_Tu_3
+  x_T13_S17_Fr_4
+  x_T14_S17_Mo_4
+  x_T16_S9_Mo_4
+  x_T4_S18_We_2
+  x_T24_S20_We_3
+  x_T28_S9_Tu_2
+  x_T11_S7_Tu_3
+  x_T26_S19_Tu_4
+  x_T7_S12_Tu_1
+  x_T14_S10_Fr_5
+  x_T19_S8_Fr_2
+  x_T30_S8_We_3
+  x_T31_S15_Th_1
+  x_T32_S9_Th_4
+  x_T3_S13_Th_2
+  x_T4_S18_Th_1
+  x_T12_S11_Mo_2
+  x_T21_S10_Tu_3
+  x_T17_S13_Th_4
+  x_T31_S15_Th_5
+  x_T20_S5_Tu_3
+  x_T26_S1_Th_4
+  x_T31_S12_Fr_3
+  x_T23_S10_Th_1
+  x_T17_S2_Th_2
+  x_T24_S6_Fr_3
+  x_T10_S2_Tu_4
+  x_T22_S16_We_1
+  x_T27_S17_Th_1
+  x_T31_S15_Tu_5
+  x_T3_S15_Tu_4
+  x_T16_S20_Mo_3
+  x_T10_S4_We_3
+  x_T29_S7_Fr_2
+  x_T16_S7_Tu_4
+  x_T20_S6_Th_4
+  x_T14_S13_We_2
+  x_T18_S19_Fr_4
+  x_T8_S11_We_3
+  x_T22_S18_Mo_3
+  x_T32_S16_Mo_5
+  x_T18_S11_Th_1
+  x_T14_S13_We_4
+  x_T14_S3_Tu_1
+  x_T9_S18_Th_1
+  x_T7_S9_Mo_1
+  x_T6_S6_We_1
+  x_T17_S13_Fr_5
+  x_T15_S11_Mo_3
+  x_T32_S8_Fr_5
+  x_T16_S7_Th_1
+  x_T23_S1_Fr_2
+  x_T10_S3_Mo_1
+  x_T11_S8_Mo_1
+  x_T8_S11_We_1
+  x_T5_S2_Fr_2
+  x_T28_S12_Tu_3
+  x_T26_S10_Fr_3
+  x_T33_S17_Mo_4
+  x_T30_S14_Mo_3
+  x_T26_S10_Tu_3
+  x_T18_S14_We_4
+  x_T6_S6_Th_3
+  x_T2_S7_Th_5
+  x_T10_S1_We_5
+  x_T31_S20_Tu_5
+  x_T16_S15_Th_3
+  x_T30_S11_Fr_4
+  x_T31_S6_Fr_4
+  x_T31_S9_Fr_4
+  x_T27_S11_Fr_1
+  x_T27_S17_We_3
+  x_T22_S15_We_5
+  x_T26_S19_Th_2
+  x_T22_S19_We_2
+  x_T6_S6_Tu_2
+  x_T15_S19_Tu_5
+  x_T15_S19_Mo_2
+  x_T6_S6_Th_5
+  x_T12_S12_Tu_2
+  x_T14_S17_Mo_2
+  x_T14_S2_Fr_4
+  x_T6_S6_Tu_3
+  x_T3_S12_Th_2
+  x_T24_S5_Mo_4
+  x_T2_S10_Th_3
+  x_T13_S18_We_3
+  x_T8_S15_Tu_5
+  x_T15_S18_We_3
+  x_T29_S16_Fr_2
+  x_T31_S6_We_1
+  x_T26_S19_Fr_5
+  x_T21_S9_Th_3
+  x_T18_S18_We_5
+  x_T32_S7_Fr_4
+  x_T16_S15_Fr_4
+  x_T11_S7_Fr_4
+  x_T17_S10_We_2
+  x_T17_S17_Mo_1
+  x_T24_S13_Fr_3
+  x_T24_S6_Mo_4
+  x_T8_S16_We_2
+  x_T21_S9_We_5
+  x_T31_S18_Tu_3
+  x_T26_S4_Fr_5
+  x_T24_S13_We_5
+  x_T31_S12_Fr_4
+  x_T21_S14_Mo_3
+  x_T13_S19_Mo_5
+  x_T27_S20_Fr_1
+  x_T9_S15_Fr_3
+  x_T18_S4_Mo_2
+  x_T22_S17_Tu_2
+  x_T32_S2_Fr_1
+  x_T32_S18_Mo_2
+  x_T7_S13_We_4
+  x_T15_S19_Tu_2
+  x_T1_S4_Th_3
+  x_T26_S16_Th_5
+  x_T4_S19_Tu_4
+  x_T29_S16_Tu_4
+  x_T25_S16_Th_5
+  x_T32_S6_Th_4
+  x_T27_S14_Th_1
+  x_T6_S7_Th_3
+  x_T18_S6_Tu_5
+  x_T25_S17_Tu_3
+  x_T33_S18_Tu_2
+  x_T13_S19_Tu_4
+  x_T32_S2_Tu_3
+  x_T7_S9_We_4
+  x_T20_S6_Th_1
+  x_T22_S19_Fr_5
+  x_T14_S3_Tu_5
+  x_T32_S16_Mo_1
+  x_T22_S17_Fr_2
+  x_T4_S5_Tu_1
+  x_T20_S1_Mo_1
+  x_T6_S8_Fr_4
+  x_T17_S17_Fr_1
+  x_T23_S11_Th_5
+  x_T18_S14_Th_2
+  x_T16_S12_Th_4
+  x_T15_S5_Fr_1
+  x_T31_S20_Tu_2
+  x_T21_S8_Mo_1
+  x_T11_S10_Tu_4
+  x_T33_S17_Mo_2
+  x_T2_S9_We_1
+  x_T10_S3_We_3
+  x_T31_S9_We_2
+  x_T26_S10_Th_5
+  x_T3_S13_We_1
+  x_T32_S2_Th_1
+  x_T32_S6_Fr_3
+  x_T18_S5_We_3
+  x_T31_S6_Tu_4
+  x_T24_S15_Th_3
+  x_T8_S14_Tu_4
+  x_T5_S1_Fr_4
+  x_T10_S5_We_3
+  x_T8_S16_Fr_4
+  x_T12_S12_Mo_5
+  x_T20_S5_Fr_2
+  x_T32_S16_Tu_5
+  x_T23_S19_Mo_3
+  x_T24_S4_Tu_2
+  x_T31_S6_Th_5
+  x_T18_S11_Mo_2
+  x_T5_S3_Fr_1
+  x_T1_S16_Mo_3
+  x_T1_S17_We_3
+  x_T5_S3_Tu_4
+  x_T19_S20_Fr_5
+  x_T16_S9_Mo_3
+  x_T32_S18_Tu_5
+  x_T4_S5_Tu_4
+  x_T7_S13_Tu_4
+  x_T13_S18_We_1
+  x_T1_S4_We_1
+  x_T17_S16_Tu_2
+  x_T18_S11_Tu_1
+  x_T1_S2_Tu_3
+  x_T1_S3_We_5
+  x_T13_S20_We_4
+  x_T32_S5_We_1
+  x_T9_S17_We_1
+  x_T22_S16_Fr_4
+  x_T22_S18_We_4
+  x_T16_S7_Tu_1
+  x_T24_S6_Th_2
+  x_T2_S11_Mo_4
+  x_T10_S1_Mo_5
+  x_T19_S20_Fr_1
+  x_T7_S9_Mo_3
+  x_T32_S8_We_2
+  x_T17_S10_Fr_4
+  x_T29_S4_Tu_5
+  x_T26_S16_We_3
+  x_T28_S9_We_4
+  x_T21_S11_Th_4
+  x_T19_S12_We_4
+  x_T29_S1_We_5
+  x_T26_S1_Fr_1
+  x_T7_S12_We_4
+  x_T9_S19_Th_3
+  x_T20_S4_Tu_5
+  x_T1_S17_Th_1
+  x_T5_S1_Tu_3
+  x_T16_S7_Th_2
+  x_T16_S7_Tu_3
+  x_T16_S9_Th_4
+  x_T14_S1_Mo_3
+  x_T16_S9_Th_2
+  x_T24_S6_Th_3
+  x_T5_S14_Mo_4
+  x_T25_S9_Tu_5
+  x_T8_S16_Tu_3
+  x_T18_S19_Tu_1
+  x_T1_S4_Mo_2
+  x_T32_S5_We_4
+  x_T17_S1_Th_1
+  x_T33_S18_Tu_1
+  x_T7_S10_Fr_4
+  x_T12_S11_Tu_4
+  x_T19_S12_Th_5
+  y_T25
+  x_T9_S17_Fr_1
+  x_T19_S9_Fr_3
+  x_T30_S17_We_1
+  x_T8_S13_Th_1
+  x_T27_S14_Fr_3
+  x_T30_S2_Fr_2
+  x_T10_S4_Th_4
+  x_T1_S1_We_4
+  x_T1_S1_Fr_4
+  x_T13_S17_Th_3
+  x_T22_S15_Fr_1
+  x_T9_S17_Mo_1
+  x_T20_S2_Th_4
+  x_T5_S4_Mo_4
+  x_T27_S8_Th_2
+  x_T21_S10_Mo_5
+  x_T17_S3_We_4
+  x_T6_S10_We_2
+  x_T17_S16_We_1
+  x_T10_S3_Tu_5
+  x_T15_S4_We_5
+  x_T32_S2_We_3
+  x_T7_S10_Th_1
+  x_T2_S8_Mo_4
+  x_T27_S17_Mo_5
+  x_T32_S6_We_3
+  x_T24_S15_Mo_4
+  x_T27_S5_Mo_1
+  x_T32_S3_Th_5
+  x_T4_S18_We_3
+  x_T31_S3_Th_5
+  x_T4_S5_We_3
+  x_T32_S8_Tu_4
+  x_T29_S13_Th_3
+  x_T15_S5_Th_2
+  x_T23_S19_Th_2
+  x_T6_S7_We_4
+  x_T8_S14_Th_2
+  x_T21_S10_We_3
+  x_T6_S10_Fr_4
+  x_T33_S16_Fr_5
+  x_T29_S4_Th_4
+  x_T14_S17_Fr_2
+  x_T13_S16_We_5
+  x_T12_S14_Th_5
+  x_T4_S5_We_2
+  x_T23_S11_Fr_3
+  x_T32_S9_Mo_2
+  x_T13_S18_We_2
+  x_T17_S10_Fr_5
+  x_T33_S20_Tu_1
+  x_T18_S19_Mo_1
+  x_T13_S17_Tu_1
+  x_T9_S20_Fr_3
+  x_T18_S4_Fr_5
+  x_T3_S15_Tu_5
+  x_T31_S18_We_3
+  x_T27_S8_Tu_3
+  x_T14_S3_Mo_3
+  x_T5_S2_We_3
+  x_T33_S18_Mo_5
+  x_T14_S17_Th_2
+  x_T19_S8_Tu_3
+  x_T14_S3_Th_3
+  x_T20_S6_Mo_3
+  x_T24_S15_Mo_5
+  x_T19_S20_Tu_3
+  x_T17_S3_Tu_4
+  x_T7_S12_Fr_4
+  x_T6_S8_Tu_2
+  x_T5_S14_Th_5
+  x_T11_S8_Tu_4
+  x_T27_S11_Mo_3
+  x_T15_S6_Th_2
+  x_T19_S8_We_3
+  x_T22_S20_Fr_1
+  x_T26_S7_We_4
+  x_T18_S6_Fr_1
+  x_T18_S6_Mo_2
+  x_T31_S9_We_3
+  x_T2_S10_Tu_5
+  x_T7_S9_Tu_3
+  x_T6_S12_Fr_3
+  x_T24_S20_Fr_4
+  x_T15_S18_Th_5
+  x_T13_S16_We_2
+  x_T32_S8_Fr_3
+  x_T5_S1_Tu_5
+  x_T7_S13_Mo_5
+  x_T31_S20_We_4
+  x_T29_S7_We_5
+  x_T18_S14_We_2
+  x_T10_S1_Mo_4
+  x_T20_S4_We_4
+  x_T28_S12_Th_1
+  x_T11_S9_We_3
+  x_T12_S13_Th_5
+  x_T3_S13_Mo_5
+  x_T29_S4_Th_3
+  x_T2_S9_Th_5
+  x_T18_S18_We_1
+  x_T22_S15_Mo_3
+  x_T30_S5_Fr_4
+  x_T13_S16_Fr_5
+  x_T30_S14_Th_4
+  x_T4_S18_Fr_2
+  x_T27_S5_Mo_2
+  x_T31_S3_Mo_3
+  x_T21_S9_We_2
+  x_T20_S3_We_5
+  x_T25_S8_Th_3
+  x_T23_S19_Mo_2
+  x_T18_S5_We_2
+  x_T16_S8_Th_3
+  x_T10_S1_Tu_3
+  x_T18_S19_Mo_2
+  x_T7_S13_Tu_1
+  x_T4_S20_Tu_4
+  x_T19_S9_Mo_4
+  x_T10_S3_Th_1
+  x_T31_S6_Mo_5
+  x_T2_S9_Fr_5
+  x_T27_S5_Th_1
+  x_T25_S7_Tu_1
+  x_T9_S19_We_2
+  x_T5_S2_Tu_1
+  x_T32_S7_Mo_1
+  x_T32_S1_Th_4
+  x_T5_S4_We_4
+  x_T23_S1_Tu_4
+  x_T24_S4_We_4
+  x_T27_S20_We_3
+  x_T6_S5_Mo_5
+  x_T16_S12_Tu_2
+  x_T3_S12_We_4
+  x_T23_S1_Th_3
+  x_T25_S17_Mo_2
+  x_T23_S3_We_2
+  x_T2_S9_Th_4
+  x_T17_S10_Tu_3
+  x_T16_S15_Mo_1
+  x_T12_S13_Th_1
+  x_T18_S14_Mo_3
+  x_T26_S1_Mo_1
+  x_T3_S15_We_3
+  x_T6_S10_Th_5
+  x_T22_S17_We_3
+  x_T20_S6_Th_5
+  x_T14_S1_Tu_4
+  x_T14_S1_We_1
+  x_T15_S19_Fr_1
+  x_T32_S4_Th_5
+  x_T21_S12_Tu_3
+  x_T26_S10_Tu_2
+  x_T7_S13_Th_5
+  x_T26_S13_We_3
+  x_T25_S16_Tu_3
+  x_T18_S6_We_1
+  x_T18_S5_Tu_3
+  x_T25_S8_Tu_5
+  x_T33_S19_Tu_1
+  x_T6_S12_We_1
+  x_T31_S12_Tu_3
+  x_T33_S17_Tu_1
+  x_T4_S6_We_4
+  x_T23_S3_Th_4
+  x_T6_S7_Tu_3
+  x_T4_S5_Th_3
+  x_T21_S13_Mo_1
+  x_T12_S12_We_3
+  x_T23_S11_Mo_4
+  x_T17_S16_Tu_4
+  x_T32_S5_Th_2
+  x_T23_S11_We_5
+  x_T11_S7_Tu_2
+  x_T28_S9_Mo_2
+  x_T32_S19_Th_4
+  x_T5_S14_Tu_2
+  x_T32_S18_Fr_2
+  x_T18_S4_We_3
+  x_T17_S13_We_1
+  x_T21_S10_Tu_4
+  x_T22_S16_Tu_1
+  x_T23_S10_Th_3
+  x_T1_S3_Th_5
+  x_T26_S16_Th_1
+  x_T26_S13_We_1
+  x_T18_S5_Fr_3
+  x_T14_S2_Th_2
+  x_T15_S6_Fr_3
+  x_T31_S18_We_4
+  x_T7_S10_Tu_5
+  x_T23_S10_Mo_3
+  x_T21_S12_Mo_4
+  x_T23_S19_Fr_4
+  x_T21_S13_Fr_5
+  x_T33_S18_Th_2
+  x_T28_S3_Th_1
+  x_T32_S17_Tu_3
+  x_T12_S12_Th_4
+  x_T19_S9_Tu_3
+  x_T14_S13_Th_4
+  x_T26_S13_Mo_5
+  x_T6_S8_Fr_1
+  x_T21_S13_Th_4
+  x_T29_S13_Mo_5
+  x_T4_S19_We_3
+  x_T18_S5_Tu_5
+  x_T27_S8_We_3
+  x_T15_S18_Mo_4
+  x_T24_S13_Tu_1
+  x_T21_S9_Tu_3
+  x_T20_S7_Th_5
+  x_T28_S18_We_5
+  x_T30_S2_We_2
+  x_T33_S20_Tu_2
+  x_T32_S5_Th_4
+  x_T21_S11_We_4
+  x_T32_S9_We_2
+  x_T32_S4_Th_1
+  x_T31_S12_Tu_4
+  x_T32_S3_We_3
+  x_T18_S4_Mo_5
+  x_T6_S10_We_3
+  x_T17_S13_Th_5
+  x_T32_S19_Tu_3
+  x_T7_S11_Tu_2
+  x_T8_S15_We_4
+  x_T6_S8_Mo_3
+  x_T12_S13_Fr_1
+  x_T28_S12_Th_5
+  x_T14_S17_Tu_4
+  x_T33_S17_Fr_4
+  x_T10_S3_Tu_4
+  x_T24_S5_Fr_3
+  x_T8_S13_Tu_2
+  x_T32_S9_Fr_4
+  x_T28_S6_Fr_1
+  x_T8_S14_Th_1
+  x_T22_S16_Fr_2
+  x_T25_S16_Mo_1
+  x_T33_S20_Th_2
+  x_T24_S15_Th_2
+  x_T8_S11_Mo_2
+  x_T31_S15_We_5
+  x_T10_S3_Th_4
+  x_T30_S14_Tu_1
+  x_T14_S2_Th_1
+  x_T30_S11_Mo_2
+  x_T31_S6_Mo_2
+  x_T12_S15_Tu_4
+  x_T6_S5_Tu_1
+  x_T18_S4_Th_5
+  x_T32_S2_Tu_5
+  x_T1_S3_Fr_4
+  x_T22_S15_Th_2
+  x_T24_S13_Th_2
+  x_T31_S3_Fr_3
+  x_T27_S5_Tu_4
+  x_T14_S13_Fr_1
+  x_T19_S9_Tu_1
+  x_T12_S12_Mo_2
+  x_T4_S19_Fr_1
+  x_T16_S8_Mo_4
+  x_T16_S8_Tu_5
+  x_T31_S3_Th_2
+  x_T18_S4_Th_4
+  x_T6_S5_We_1
+  x_T16_S8_Fr_4
+  x_T26_S16_Th_2
+  x_T19_S20_Fr_4
+  x_T16_S8_Tu_4
+  x_T20_S3_Fr_4
+  x_T23_S10_Tu_2
+  x_T33_S19_Tu_3
+  x_T20_S3_Mo_2
+  x_T13_S17_Fr_2
+  x_T14_S13_Mo_3
+  x_T14_S17_Fr_1
+  x_T3_S14_We_3
+  x_T8_S13_Th_4
+  x_T16_S15_Fr_2
+  x_T4_S20_Fr_5
+  x_T7_S12_Th_2
+  x_T20_S6_Tu_3
+  x_T11_S6_Tu_3
+  x_T18_S14_Mo_4
+  x_T4_S18_We_1
+  x_T24_S15_Fr_5
+  x_T2_S7_Tu_5
+  x_T31_S3_Fr_5
+  x_T1_S3_We_4
+  x_T6_S12_Mo_1
+  x_T18_S6_We_5
+  x_T16_S15_Mo_3
+  x_T6_S7_Fr_4
+  x_T32_S18_We_4
+  x_T32_S9_Tu_1
+  x_T18_S4_Mo_1
+  x_T30_S14_We_3
+  x_T9_S19_Tu_3
+  x_T30_S5_Th_4
+  x_T3_S15_Fr_2
+  x_T32_S7_Tu_1
+  x_T23_S10_Th_2
+  x_T21_S11_Th_1
+  x_T26_S13_Tu_3
+  x_T6_S12_Th_2
+  x_T29_S1_Mo_5
+  x_T30_S11_Tu_3
+  x_T31_S20_Mo_2
+  x_T14_S1_Th_5
+  x_T9_S20_Fr_5
+  x_T23_S2_Th_1
+  x_T7_S11_Th_4
+  x_T29_S16_Fr_3
+  x_T8_S13_Tu_1
+  x_T5_S14_Tu_4
+  x_T1_S16_Fr_1
+  x_T2_S7_We_4
+  x_T23_S2_Th_5
+  x_T27_S5_Tu_3
+  x_T23_S12_Mo_3
+  x_T24_S5_Th_5
+  x_T1_S3_Fr_5
+  x_T7_S9_Fr_3
+  x_T19_S15_We_5
+  x_T25_S18_We_3
+  x_T17_S1_Th_2
+  x_T17_S3_Mo_4
+  x_T21_S9_Fr_3
+  x_T21_S11_Tu_3
+  x_T24_S13_Mo_4
+  x_T15_S4_Mo_5
+  x_T32_S5_Th_1
+  y_T13
+  x_T17_S17_Th_1
+  x_T17_S16_Th_5
+  x_T7_S13_Th_2
+  x_T26_S13_Fr_1
+  x_T13_S16_Th_4
+  x_T10_S3_We_1
+  x_T20_S5_Mo_5
+  x_T18_S4_Tu_2
+  x_T18_S19_Mo_3
+  x_T19_S15_Tu_5
+  x_T14_S17_Tu_2
+  x_T18_S5_Th_3
+  x_T15_S14_Tu_5
+  x_T32_S1_Mo_5
+  x_T2_S7_We_2
+  x_T31_S3_We_3
+  x_T30_S14_We_4
+  x_T26_S16_We_5
+  x_T25_S7_Fr_1
+  x_T22_S15_Mo_4
+  x_T29_S19_Mo_3
+  x_T28_S15_Mo_3
+  x_T26_S16_Mo_4
+  x_T1_S1_Mo_3
+  x_T25_S16_We_1
+  x_T13_S20_Mo_3
+  x_T18_S18_Tu_5
+  x_T13_S18_Fr_1
+  x_T14_S1_Th_4
+  x_T25_S8_Tu_2
+  x_T25_S9_We_4
+  x_T11_S7_We_5
+  x_T15_S5_Mo_3
+  x_T31_S18_We_2
+  x_T3_S12_Fr_2
+  x_T31_S18_We_1
+  x_T20_S5_Mo_3
+  x_T18_S18_Mo_1
+  x_T26_S19_Mo_4
+  x_T32_S2_Mo_4
+  x_T24_S4_Tu_4
+  x_T24_S4_Th_2
+  x_T27_S20_Tu_4
+  x_T5_S3_Mo_3
+  x_T30_S8_We_4
+  x_T22_S16_Tu_4
+  x_T11_S6_Th_3
+  x_T7_S13_Mo_3
+  x_T30_S2_Tu_3
+  x_T23_S3_Fr_1
+  x_T7_S10_We_1
+  x_T6_S7_Tu_5
+  x_T16_S8_Tu_2
+  x_T21_S12_We_4
+  x_T26_S7_Tu_1
+  x_T6_S6_Mo_3
+  x_T1_S3_We_1
+  x_T2_S10_Mo_5
+  x_T21_S10_Mo_4
+  x_T33_S20_Tu_4
+  y_T32
+  x_T31_S3_Mo_5
+  x_T24_S6_Mo_2
+  x_T30_S2_Mo_2
+  x_T21_S10_Mo_3
+  x_T4_S19_Fr_4
+  x_T22_S15_Mo_2
+  x_T32_S3_Fr_2
+  x_T33_S19_Tu_2
+  x_T5_S3_Fr_5
+  x_T4_S20_Tu_5
+  x_T29_S19_Th_4
+  x_T28_S12_We_2
+  x_T22_S20_Tu_1
+  x_T20_S1_Th_3
+  x_T25_S9_We_5
+  x_T23_S3_Fr_4
+  x_T17_S16_Th_3
+  x_T13_S17_Fr_5
+  x_T18_S5_We_1
+  x_T29_S19_Mo_4
+  x_T22_S18_Tu_5
+  x_T30_S2_Mo_5
+  x_T15_S19_We_4
+  x_T33_S16_Mo_2
+  x_T8_S13_Mo_3
+  x_T17_S3_Th_5
+  x_T24_S20_Mo_3
+  x_T2_S11_Fr_1
+  x_T28_S6_Fr_3
+  x_T17_S10_Tu_5
+  x_T6_S12_Mo_4
+  x_T15_S14_Fr_5
+  x_T16_S20_Th_2
+  x_T18_S11_Mo_5
+  x_T2_S8_Fr_1
+  x_T18_S19_Th_2
+  x_T32_S16_Tu_2
+  x_T18_S4_We_2
+  x_T15_S19_We_2
+  x_T32_S2_Fr_3
+  x_T5_S3_Th_3
+  x_T24_S6_Tu_3
+  x_T33_S17_Fr_1
+  x_T20_S5_Th_4
+  x_T8_S15_We_1
+  x_T27_S20_Fr_4
+  x_T5_S1_Mo_2
+  x_T25_S16_Mo_4
+  x_T6_S10_Th_3
+  x_T27_S11_Th_1
+  x_T23_S10_We_5
+  x_T30_S17_Mo_5
+  x_T31_S9_Th_3
+  x_T33_S19_Fr_4
+  x_T30_S2_We_3
+  x_T2_S8_Th_1
+  x_T17_S17_Th_5
+  x_T8_S13_Tu_3
+  x_T24_S15_Tu_1
+  x_T27_S14_We_5
+  x_T21_S8_Th_3
+  x_T9_S19_We_1
+  x_T32_S7_Mo_4
+  x_T1_S17_Mo_5
+  x_T31_S3_Fr_4
+  x_T30_S14_Th_1
+  x_T18_S6_Tu_3
+  x_T14_S3_We_5
+  x_T33_S18_Fr_1
+  x_T27_S5_Fr_4
+  x_T13_S18_Fr_2
+  x_T29_S19_Fr_5
+  x_T12_S15_Mo_2
+  x_T27_S11_Th_5
+  x_T11_S8_Th_2
+  x_T26_S19_Fr_3
+  x_T1_S2_Th_1
+  x_T26_S10_We_3
+  x_T12_S14_Mo_2
+  x_T14_S10_Tu_2
+  x_T17_S10_We_4
+  x_T27_S20_Th_4
+  x_T9_S19_Th_2
+  x_T19_S9_Th_4
+  x_T33_S16_Fr_3
+  x_T2_S9_We_3
+  x_T20_S6_Fr_1
+  x_T11_S9_Th_3
+  x_T28_S9_We_2
+  x_T5_S14_Th_2
+  x_T20_S1_We_4
+  x_T21_S9_We_1
+  x_T12_S15_We_4
+  x_T20_S7_We_2
+  x_T21_S10_Th_5
+  x_T11_S6_Th_4
+  x_T23_S19_Tu_4
+  x_T31_S6_Th_1
+  x_T20_S6_We_5
+  x_T26_S13_Fr_4
+  x_T16_S15_We_5
+  x_T2_S9_Th_3
+  x_T30_S5_Tu_5
+  x_T24_S13_We_4
+  x_T23_S19_Fr_5
+  x_T15_S18_Mo_1
+  x_T30_S2_Tu_5
+  x_T10_S3_Fr_2
+  x_T30_S14_Tu_3
+  x_T23_S12_Fr_1
+  x_T14_S3_Fr_4
+  x_T19_S12_Tu_5
+  x_T8_S11_We_5
+  x_T19_S9_Mo_3
+  x_T32_S3_We_5
+  x_T22_S20_Mo_1
+  x_T27_S5_Fr_3
+  x_T3_S15_Th_2
+  x_T4_S18_We_5
+  x_T21_S8_Mo_4
+  x_T17_S3_Fr_2
+  x_T15_S5_Mo_1
+  x_T30_S8_Th_1
+  x_T29_S1_Fr_5
+  x_T3_S13_Fr_2
+  x_T20_S2_Tu_3
+  x_T4_S5_We_4
+  x_T11_S7_We_1
+  x_T1_S16_Tu_2
+  x_T32_S5_Th_5
+  x_T28_S18_Th_1
+  x_T33_S16_Th_4
+  x_T19_S8_Fr_1
+  x_T24_S5_Th_4
+  x_T21_S9_Mo_4
+  x_T11_S7_Mo_5
+  x_T27_S11_Mo_2
+  x_T11_S6_Th_2
+  x_T4_S19_We_2
+  x_T33_S18_Mo_4
+  x_T13_S17_Th_1
+  x_T27_S14_Th_2
+  x_T22_S17_We_4
+  x_T27_S5_Th_2
+  x_T27_S20_Tu_2
+  x_T26_S7_Th_4
+  x_T30_S11_Mo_5
+  x_T26_S19_Tu_1
+  x_T22_S15_Fr_2
+  x_T27_S14_Tu_4
+  x_T16_S7_Tu_2
+  x_T23_S19_We_5
+  x_T33_S19_Mo_3
+  x_T7_S10_Mo_3
+  x_T15_S19_Fr_2
+  x_T23_S2_Mo_1
+  x_T6_S8_Mo_4
+  x_T14_S1_Tu_2
+  x_T13_S19_Mo_2
+  x_T20_S6_We_4
+  x_T14_S2_We_4
+  x_T5_S14_Fr_1
+  x_T5_S1_Tu_4
+  x_T5_S1_Th_4
+  x_T17_S17_Th_4
+  x_T19_S8_Th_5
+  x_T25_S16_We_4
+  x_T7_S11_We_5
+  x_T19_S20_Mo_4
+  x_T28_S15_Tu_2
+  x_T23_S19_We_2
+  x_T28_S6_Tu_5
+  x_T19_S20_Mo_5
+  x_T2_S8_Tu_5
+  x_T23_S19_Th_4
+  x_T9_S15_We_2
+  x_T14_S2_Tu_2
+  x_T5_S4_We_3
+  x_T4_S19_Fr_5
+  x_T23_S3_Fr_5
+  x_T16_S9_Fr_3
+  x_T15_S19_We_1
+  x_T4_S18_We_4
+  x_T1_S17_We_2
+  x_T11_S6_We_2
+  x_T9_S20_Mo_4
+  x_T29_S10_Fr_3
+  x_T21_S11_We_3
+  x_T20_S5_Tu_4
+  x_T11_S7_Mo_2
+  x_T22_S19_Th_4
+  x_T12_S14_Th_1
+  x_T28_S3_Th_5
+  x_T27_S20_We_2
+  x_T25_S17_Tu_1
+  x_T33_S16_Tu_4
+  x_T24_S14_Tu_1
+  x_T25_S7_Fr_5
+  x_T12_S13_Fr_4
+  x_T32_S19_Th_1
+  x_T27_S5_We_2
+  x_T31_S9_Th_1
+  x_T14_S16_We_4
+  x_T26_S1_Tu_5
+  x_T5_S3_Th_5
+  x_T30_S5_Fr_3
+  x_T26_S1_Th_3
+  x_T32_S20_We_5
+  x_T29_S1_We_3
+  x_T5_S4_Mo_3
+  x_T33_S17_Th_1
+  x_T2_S10_Th_2
+  x_T24_S14_Tu_2
+  x_T21_S11_Fr_5
+  x_T26_S7_Fr_5
+  x_T11_S8_Tu_5
+  x_T15_S19_Fr_4
+  x_T2_S11_Tu_5
+  x_T19_S15_Tu_1
+  x_T22_S16_Mo_4
+  x_T21_S9_Mo_5
+  x_T32_S8_Fr_2
+  x_T13_S20_We_5
+  x_T17_S2_Th_5
+  x_T15_S18_Mo_2
+  x_T26_S7_Th_1
+  x_T6_S8_We_3
+  x_T4_S19_Tu_5
+  x_T24_S15_Fr_2
+  x_T12_S13_Th_2
+  x_T18_S6_Fr_3
+  x_T1_S17_Fr_1
+  x_T14_S10_We_5
+  x_T31_S3_Tu_1
+  x_T18_S11_Fr_2
+  x_T14_S10_We_4
+  x_T20_S6_Mo_4
+  x_T2_S11_Th_3
+  x_T33_S16_We_4
+  x_T29_S19_We_3
+  x_T23_S2_We_1
+  x_T27_S2_Mo_2
+  x_T32_S17_Mo_1
+  x_T3_S15_Th_1
+  x_T17_S1_Fr_1
+  x_T23_S11_Fr_5
+  x_T17_S17_Fr_2
+  x_T29_S7_Th_3
+  x_T22_S18_Th_5
+  x_T32_S8_Tu_1
+  x_T17_S16_Fr_2
+  x_T10_S2_Fr_2
+  x_T13_S18_Fr_5
+  x_T24_S5_Tu_1
+  x_T31_S3_We_4
+  x_T14_S3_Mo_1
+  x_T20_S3_We_3
+  x_T9_S17_Fr_3
+  x_T4_S19_Fr_2
+  x_T22_S17_Fr_3
+  x_T1_S1_Tu_5
+  x_T4_S18_Th_5
+  x_T12_S13_We_4
+  x_T1_S2_Tu_4
+  x_T28_S18_Th_3
+  x_T22_S20_Tu_5
+  x_T3_S12_Mo_1
+  x_T1_S16_Tu_1
+  x_T32_S7_Th_1
+  x_T27_S2_Fr_3
+  x_T3_S14_We_5
+  x_T12_S11_Fr_3
+  x_T15_S6_Tu_2
+  x_T26_S19_Tu_2
+  x_T14_S17_We_5
+  x_T27_S5_Mo_5
+  x_T11_S7_Th_3
+  x_T12_S12_Tu_4
+  x_T21_S9_Tu_4
+  x_T11_S6_We_3
+  x_T30_S2_Tu_2
+  x_T7_S11_Mo_3
+  x_T21_S10_Th_1
+  x_T32_S9_Mo_3
+  x_T20_S2_Fr_2
+  x_T14_S2_Th_4
+  x_T11_S10_Mo_3
+  x_T19_S8_Th_2
+  x_T29_S4_Tu_1
+  x_T32_S20_We_1
+  x_T31_S3_Tu_3
+  x_T15_S14_Th_5
+  x_T31_S6_Fr_2
+  x_T27_S5_Fr_5
+  x_T7_S13_Th_1
+  x_T25_S8_Fr_5
+  x_T2_S10_Tu_2
+  x_T22_S20_Th_2
+  x_T9_S19_Fr_2
+  x_T31_S9_Fr_1
+  x_T11_S9_Fr_2
+  x_T4_S19_Mo_3
+  x_T20_S7_Tu_4
+  x_T5_S3_Tu_5
+  x_T14_S3_We_3
+  x_T28_S9_We_3
+  x_T25_S9_Mo_1
+  x_T11_S10_Mo_5
+  x_T33_S17_Th_3
+  x_T13_S17_We_2
+  x_T23_S2_Fr_4
+  x_T7_S11_Fr_5
+  x_T10_S4_Mo_3
+  x_T2_S10_Tu_4
+  x_T10_S4_We_2
+  x_T1_S4_Th_2
+  x_T20_S4_Fr_4
+  x_T9_S15_Th_1
+  x_T21_S8_Tu_1
+  x_T5_S3_Th_1
+  x_T8_S13_Fr_1
+  x_T13_S16_Th_5
+  x_T21_S14_Tu_4
+  x_T26_S1_Fr_2
+  x_T11_S10_Tu_2
+  x_T20_S2_Tu_4
+  x_T20_S2_Tu_5
+  x_T31_S18_Fr_1
+  x_T20_S7_Th_1
+  x_T23_S12_Fr_2
+  x_T33_S16_We_2
+  x_T15_S5_Th_1
+  x_T1_S17_Th_4
+  x_T3_S12_Tu_3
+  x_T18_S18_Th_3
+  x_T23_S10_Fr_1
+  x_T12_S15_Fr_5
+  x_T29_S19_Tu_3
+  x_T32_S18_We_3
+  x_T17_S16_Tu_5
+  x_T23_S12_Tu_4
+  x_T24_S5_Th_2
+  x_T5_S14_Tu_3
+  x_T10_S2_Tu_5
+  x_T28_S6_Mo_1
+  x_T25_S8_Fr_4
+  x_T1_S17_Fr_5
+  x_T17_S1_Th_4
+  x_T30_S5_We_3
+  x_T19_S20_Mo_3
+  x_T21_S9_Fr_2
+  x_T9_S17_Th_3
+  x_T30_S2_Tu_1
+  x_T30_S8_Tu_1
+  x_T2_S7_Th_3
+  x_T23_S11_Mo_2
+  x_T14_S10_Mo_3
+  x_T8_S11_Th_1
+  x_T16_S8_Fr_3
+  x_T14_S2_Tu_3
+  x_T29_S7_Mo_3
+  y_T23
+  x_T32_S8_Mo_2
+  x_T14_S2_Fr_1
+  x_T19_S9_We_2
+  x_T26_S1_We_4
+  x_T6_S7_Mo_4
+  x_T10_S1_Th_4
+  x_T14_S3_Th_2
+  x_T20_S2_Th_5
+  x_T27_S14_Mo_3
+  x_T26_S13_Th_5
+  x_T23_S1_We_3
+  x_T8_S16_Tu_1
+  x_T4_S5_Tu_2
+  x_T16_S9_Mo_2
+  x_T7_S12_Mo_3
+  x_T11_S9_We_4
+  x_T22_S16_Th_1
+  x_T33_S17_We_2
+  x_T9_S15_Th_5
+  x_T15_S18_We_4
+  x_T29_S13_Tu_5
+  x_T11_S9_Fr_4
+  x_T25_S18_Mo_2
+  x_T12_S14_Tu_3
+  x_T17_S3_We_5
+  x_T31_S6_Mo_4
+  x_T19_S15_Fr_5
+  x_T32_S2_We_4
+  x_T26_S13_Mo_3
+  x_T32_S7_Tu_2
+  x_T18_S6_Th_3
+  x_T5_S14_We_4
+  x_T26_S16_Fr_5
+  x_T8_S16_Th_2
+  x_T1_S1_We_5
+  x_T32_S3_Th_1
+  x_T11_S9_Mo_4
+  x_T18_S5_Fr_1
+  x_T12_S15_Mo_1
+  x_T32_S17_We_2
+  x_T2_S7_We_1
+  x_T14_S16_Th_3
+  x_T11_S10_We_2
+  x_T17_S16_We_2
+  x_T15_S14_Th_2
+  x_T20_S4_Tu_4
+  x_T23_S11_Tu_1
+  x_T15_S18_Tu_2
+  x_T30_S17_We_5
+  x_T7_S9_Th_3
+  x_T32_S9_Mo_1
+  x_T5_S3_Tu_3
+  x_T19_S8_Fr_3
+  x_T12_S15_Mo_5
+  x_T7_S11_Mo_5
+  x_T21_S13_We_1
+  x_T25_S18_Fr_3
+  x_T13_S17_Tu_3
+  x_T32_S19_Mo_5
+  x_T33_S20_Mo_4
+  x_T6_S10_Tu_2
+  x_T20_S3_Th_1
+  x_T18_S18_Fr_4
+  x_T15_S18_Fr_2
+  y_T8
+  x_T14_S2_Th_5
+  x_T24_S14_Fr_2
+  x_T27_S20_Mo_4
+  x_T32_S19_Mo_2
+  x_T31_S3_Mo_2
+  x_T13_S19_Th_5
+  x_T25_S16_Tu_2
+  x_T1_S4_Mo_1
+  y_T4
+  x_T7_S13_Fr_5
+  x_T21_S10_Th_3
+  x_T18_S14_Th_5
+  x_T1_S4_Fr_3
+  x_T14_S10_Tu_5
+  x_T25_S18_Tu_2
+  x_T16_S15_We_2
+  x_T19_S15_Th_4
+  x_T31_S12_We_3
+  x_T2_S10_Th_1
+  x_T26_S10_Fr_2
+  x_T15_S5_Tu_3
+  x_T30_S5_Fr_2
+  x_T2_S9_Fr_3
+  x_T3_S15_We_4
+  x_T31_S18_Tu_5
+  x_T26_S16_Th_3
+  x_T15_S5_Mo_5
+  x_T18_S19_Th_5
+  x_T28_S6_Th_5
+  x_T28_S6_Mo_3
+  x_T33_S17_Mo_3
+  x_T28_S9_Mo_1
+  x_T20_S5_Th_5
+  x_T2_S10_Tu_1
+  x_T32_S18_Fr_4
+  x_T25_S18_Fr_2
+  x_T14_S10_Fr_1
+  x_T32_S16_Th_4
+  x_T16_S20_Tu_2
+  x_T26_S16_Fr_4
+  x_T10_S4_Tu_4
+  x_T32_S9_Tu_4
+  x_T15_S14_Tu_3
+  x_T20_S6_Th_3
+  x_T13_S18_Th_4
+  x_T31_S3_Fr_1
+  x_T2_S9_Mo_5
+  x_T16_S20_We_4
+  x_T33_S18_We_2
+  x_T6_S12_We_4
+  x_T32_S8_Mo_3
+  x_T27_S20_Th_2
+  x_T5_S14_We_5
+  x_T32_S6_Mo_1
+  x_T15_S19_Fr_5
+  x_T9_S15_Tu_3
+  x_T9_S20_Th_2
+  x_T19_S20_Mo_2
+  x_T14_S2_Mo_4
+  x_T10_S2_We_2
+  x_T29_S4_Tu_3
+  x_T10_S5_Th_3
+  x_T24_S20_Fr_1
+  x_T33_S18_We_4
+  x_T23_S11_Fr_1
+  x_T31_S6_Fr_1
+  x_T27_S8_Mo_3
+  x_T7_S10_Th_5
+  x_T14_S2_Mo_2
+  x_T14_S1_We_4
+  x_T23_S10_Mo_1
+  x_T12_S13_Fr_5
+  x_T23_S11_Tu_5
+  x_T32_S17_Mo_2
+  x_T12_S11_We_2
+  x_T15_S5_We_3
+  x_T32_S16_We_5
+  x_T28_S3_Tu_5
+  x_T23_S3_Th_3
+  x_T10_S5_Th_2
+  x_T23_S10_Th_4
+  x_T32_S9_Mo_5
+  x_T7_S11_Fr_1
+  x_T29_S19_Fr_3
+  x_T23_S12_We_1
+  x_T31_S15_Tu_4
+  x_T28_S18_We_1
+  x_T33_S16_Th_3
+  x_T2_S7_Mo_2
+  x_T22_S16_Tu_2
+  x_T23_S19_Tu_5
+  x_T25_S17_Mo_5
+  x_T32_S2_Th_4
+  x_T7_S13_Mo_4
+  x_T23_S1_Th_4
+  x_T32_S19_Mo_4
+  x_T20_S4_Mo_1
+  x_T7_S10_We_5
+  x_T8_S16_Mo_4
+  x_T32_S5_Mo_4
+  x_T13_S18_Tu_3
+  x_T10_S3_We_5
+  x_T22_S17_Fr_1
+  x_T11_S8_Mo_4
+  x_T13_S19_Fr_3
+  x_T16_S15_Fr_3
+  x_T13_S18_Mo_3
+  x_T10_S2_Th_4
+  x_T16_S20_Tu_3
+  x_T2_S11_Th_1
+  x_T2_S10_We_1
+  x_T20_S5_Th_2
+  x_T31_S18_Th_1
+  x_T7_S12_Th_1
+  x_T31_S12_Mo_4
+  x_T21_S13_Th_3
+  x_T13_S17_Mo_3
+  x_T21_S14_Th_1
+  x_T9_S20_We_1
+  x_T25_S18_Tu_5
+  x_T16_S12_We_3
+  x_T32_S1_Mo_4
+  x_T26_S16_Tu_2
+  x_T29_S10_Th_4
+  x_T23_S3_Mo_2
+  x_T6_S12_Mo_3
+  x_T24_S5_Mo_3
+  x_T31_S6_Mo_1
+  x_T32_S18_Th_5
+  x_T31_S15_Mo_5
+  x_T29_S4_Tu_2
+  x_T14_S1_Mo_5
+  x_T3_S15_Fr_1
+  x_T10_S5_We_4
+  x_T9_S18_We_5
+  x_T2_S7_Mo_1
+  x_T31_S20_Mo_5
+  x_T25_S16_Mo_3
+  x_T11_S10_Tu_5
+  x_T20_S4_Th_2
+  x_T5_S2_Tu_4
+  x_T33_S18_Fr_4
+  x_T12_S11_Th_5
+  x_T4_S6_Tu_3
+  x_T30_S17_Fr_4
+  x_T8_S15_Th_3
+  x_T32_S16_Th_1
+  x_T29_S19_Tu_1
+  x_T2_S10_We_3
+  x_T7_S9_Tu_5
+  x_T30_S5_Tu_3
+  x_T5_S1_We_3
+  x_T1_S2_We_3
+  x_T32_S8_Th_2
+  x_T9_S15_Mo_3
+  x_T17_S3_Fr_5
+  x_T11_S10_Mo_1
+  x_T16_S8_Th_4
+  x_T26_S4_Th_5
+  x_T23_S10_Tu_5
+  x_T32_S1_Mo_1
+  x_T32_S18_Mo_5
+  x_T25_S7_Tu_2
+  x_T24_S13_Tu_4
+  x_T24_S6_We_1
+  x_T29_S7_Fr_1
+  x_T4_S18_Tu_5
+  x_T5_S14_We_1
+  x_T17_S13_Fr_2
+  x_T20_S1_Tu_5
+  x_T19_S8_Tu_1
+  x_T32_S1_Tu_2
+  x_T5_S3_We_2
+  x_T28_S15_Th_4
+  x_T14_S13_Tu_1
+  x_T21_S13_Tu_4
+  x_T21_S12_Mo_5
+  x_T5_S2_We_1
+  x_T14_S10_Fr_2
+  x_T32_S7_Mo_5
+  x_T13_S20_Tu_4
+  x_T18_S19_We_1
+  x_T20_S3_Fr_2
+  x_T4_S19_Th_2
+  x_T32_S8_Mo_1
+  x_T2_S8_Fr_4
+  x_T31_S3_Th_1
+  x_T22_S20_Mo_3
+  x_T25_S17_Th_3
+  x_T29_S1_Fr_3
+  x_T2_S8_Tu_2
+  x_T15_S5_We_4
+  x_T23_S2_We_5
+  x_T9_S19_We_4
+  x_T16_S12_Mo_5
+  x_T7_S9_Fr_5
+  x_T20_S3_Fr_1
+  x_T29_S7_Th_1
+  x_T24_S4_We_5
+  x_T16_S20_We_2
+  x_T19_S12_Tu_2
+  x_T24_S5_Fr_2
+  x_T15_S14_Mo_1
+  x_T26_S4_Tu_4
+  x_T13_S17_Th_4
+  x_T24_S20_Tu_1
+  x_T29_S13_Fr_5
+  x_T2_S8_Th_2
+  x_T9_S18_Tu_5
+  x_T2_S8_We_3
+  x_T32_S18_Mo_4
+  x_T8_S14_We_2
+  x_T4_S5_Mo_4
+  x_T33_S17_We_1
+  x_T27_S2_Tu_5
+  x_T22_S19_We_3
+  x_T18_S19_Fr_1
+  x_T31_S3_Fr_2
+  x_T10_S3_Fr_3
+  x_T10_S4_We_4
+  x_T15_S4_Tu_4
+  x_T17_S13_Fr_1
+  x_T23_S1_Fr_5
+  x_T26_S19_Mo_5
+  x_T10_S1_Tu_5
+  x_T20_S3_Mo_3
+  x_T29_S10_Fr_5
+  x_T10_S1_We_4
+  x_T15_S11_Fr_1
+  x_T32_S6_Fr_1
+  x_T20_S2_Fr_1
+  x_T23_S2_We_4
+  x_T23_S1_Fr_3
+  x_T26_S1_Mo_5
+  x_T31_S20_Th_1
+  x_T1_S3_Th_1
+  x_T13_S19_Th_4
+  x_T7_S10_Th_3
+  x_T4_S20_We_1
+  x_T15_S11_We_1
+  x_T26_S13_We_5
+  x_T29_S1_Fr_2
+  y_T5
+  x_T5_S2_We_2
+  x_T24_S6_We_3
+  x_T14_S10_Th_2
+  x_T15_S5_Mo_2
+  x_T23_S2_Mo_5
+  x_T27_S17_Mo_2
+  x_T19_S8_We_4
+  x_T20_S1_Fr_4
+  x_T31_S9_We_5
+  x_T26_S1_Fr_3
+  x_T9_S19_Th_1
+  y_T24
+  x_T7_S11_Mo_2
+  x_T19_S15_Tu_2
+  x_T2_S8_We_1
+  x_T18_S19_We_5
+  x_T7_S10_Tu_2
+  x_T22_S16_Fr_5
+  x_T1_S4_We_3
+  x_T19_S15_Tu_4
+  x_T1_S2_Fr_3
+  x_T20_S6_Fr_4
+  x_T21_S14_Mo_2
+  x_T13_S20_Th_1
+  x_T24_S13_We_3
+  x_T10_S1_Mo_3
+  x_T5_S1_Tu_1
+  x_T13_S16_Mo_4
+  x_T4_S5_Mo_3
+  x_T11_S7_Mo_3
+  x_T30_S11_We_3
+  x_T22_S16_Fr_3
+  x_T21_S8_We_4
+  x_T17_S2_Tu_1
+  x_T32_S5_Fr_4
+  x_T16_S15_Tu_5
+  x_T28_S12_Mo_2
+  x_T27_S2_Mo_5
+  x_T23_S10_Fr_4
+  x_T24_S15_Mo_3
+  x_T32_S3_Mo_3
+  x_T32_S3_Th_4
+  x_T30_S5_We_4
+  x_T16_S8_Mo_3
+  x_T31_S6_We_5
+  x_T19_S7_Tu_4
+  x_T1_S1_Tu_3
+  x_T29_S10_Mo_3
+  x_T25_S9_Fr_1
+  x_T7_S13_Fr_1
+  x_T23_S2_Mo_4
+  x_T32_S2_Th_5
+  x_T22_S20_We_1
+  x_T16_S20_Mo_1
+  x_T25_S16_We_3
+  x_T22_S15_Tu_5
+  x_T28_S9_Tu_1
+  x_T11_S6_Mo_5
+  x_T5_S1_We_2
+  x_T21_S13_Mo_2
+  x_T17_S10_Mo_5
+  x_T6_S6_Th_2
+  x_T2_S11_We_5
+  x_T26_S4_Th_4
+  x_T30_S17_Fr_1
+  x_T22_S16_We_2
+  x_T30_S11_Th_5
+  x_T1_S3_Mo_2
+  x_T14_S17_Th_4
+  x_T9_S17_Tu_1
+  x_T26_S10_Tu_1
+  x_T25_S17_We_3
+  x_T26_S10_We_5
+  x_T20_S5_Mo_2
+  x_T22_S15_Th_4
+  x_T25_S9_Fr_5
+  x_T23_S12_Th_5
+  x_T24_S13_Fr_2
+  x_T16_S12_Th_5
+  x_T4_S18_Tu_3
+  x_T9_S19_Th_5
+  x_T26_S19_Fr_4
+  x_T13_S16_Tu_2
+  x_T29_S4_Fr_4
+  x_T18_S19_Mo_4
+  x_T29_S19_Mo_2
+  x_T5_S3_Tu_2
+  x_T18_S11_Th_3
+  x_T20_S4_Fr_5
+  x_T24_S14_Mo_4
+  x_T8_S15_Mo_4
+  x_T16_S9_We_5
+  x_T5_S2_Th_4
+  x_T32_S7_Mo_3
+  x_T29_S13_Tu_2
+  x_T10_S5_We_2
+  x_T25_S18_We_1
+  x_T2_S10_Fr_1
+  x_T27_S14_Tu_1
+  x_T25_S17_We_4
+  x_T17_S3_Mo_5
+  x_T24_S4_Fr_3
+  x_T16_S12_Tu_1
+  x_T23_S12_Tu_3
+  x_T29_S4_Fr_2
+  x_T16_S12_Tu_4
+  x_T29_S7_Fr_5
+  x_T14_S10_Tu_3
+  x_T29_S7_We_1
+  x_T24_S14_Fr_3
+  x_T25_S8_Fr_2
+  x_T12_S14_Fr_2
+  x_T4_S6_Th_3
+  x_T19_S7_Fr_4
+  x_T4_S5_Th_4
+  x_T22_S17_Tu_3
+  x_T3_S12_Th_3
+  x_T5_S4_Mo_2
+  x_T14_S13_Mo_1
+  x_T32_S3_Th_2
+  x_T29_S10_We_1
+  x_T14_S13_Th_1
+  x_T22_S17_We_1
+  x_T8_S15_Th_1
+  y_T2
+  x_T6_S5_Tu_4
+  x_T2_S10_Tu_3
+  x_T30_S17_Tu_3
+  x_T9_S17_We_5
+  x_T23_S10_We_2
+  x_T24_S14_Fr_5
+  x_T29_S4_We_2
+  x_T8_S11_Mo_5
+  x_T22_S18_Mo_1
+  x_T30_S2_We_4
+  x_T24_S6_Mo_1
+  x_T25_S9_Th_3
+  x_T15_S14_Fr_3
+  x_T8_S15_Tu_1
+  x_T15_S6_Mo_3
+  x_T12_S13_We_2
+  x_T21_S10_We_1
+  x_T24_S20_We_2
+  x_T32_S3_Mo_1
+  x_T6_S10_We_5
+  x_T15_S5_We_1
+  x_T2_S9_Fr_1
+  x_T11_S8_Fr_3
+  x_T10_S2_We_3
+  x_T10_S5_Tu_5
+  x_T25_S7_We_2
+  x_T3_S13_We_2
+  x_T4_S5_Tu_5
+  x_T30_S14_Fr_4
+  x_T5_S14_Fr_3
+  x_T30_S14_Fr_2
+  x_T4_S18_Fr_3
+  x_T26_S7_Tu_4
+  x_T32_S20_Fr_3
+  x_T27_S20_Mo_1
+  x_T26_S4_Th_2
+  x_T21_S14_We_1
+  x_T13_S17_Tu_5
+  x_T1_S16_Fr_3
+  x_T28_S3_Mo_3
+  x_T11_S10_We_3
+  x_T14_S2_Fr_5
+  x_T32_S1_Mo_3
+  x_T7_S10_Tu_4
+  x_T25_S8_Tu_1
+  x_T26_S19_Tu_3
+  x_T10_S1_Th_5
+  x_T17_S2_Fr_4
+  x_T21_S11_Fr_1
+  x_T28_S3_We_1
+  x_T33_S19_We_5
+  x_T29_S19_Th_5
+  x_T6_S12_Fr_1
+  x_T6_S10_Fr_5
+  x_T18_S4_Tu_1
+  x_T6_S10_Tu_4
+  x_T5_S4_Th_2
+  x_T28_S18_Fr_4
+  x_T11_S7_We_4
+  x_T12_S11_Th_1
+  x_T13_S20_Th_5
+  x_T32_S1_Th_1
+  x_T27_S8_Th_4
+  x_T2_S8_Mo_2
+  x_T15_S11_We_4
+  x_T29_S7_Mo_4
+  x_T17_S13_Th_1
+  x_T3_S15_Mo_2
+  x_T32_S7_Fr_2
+  x_T20_S7_Mo_5
+  x_T19_S9_We_4
+  x_T31_S9_Fr_5
+  x_T33_S19_Mo_5
+  x_T15_S5_We_2
+  x_T24_S14_We_4
+  x_T7_S10_Th_4
+  x_T2_S9_Fr_2
+  x_T13_S16_We_1
+  x_T15_S4_We_3
+  x_T6_S6_We_4
+  x_T21_S12_Fr_3
+  x_T32_S8_Mo_4
+  x_T19_S12_Fr_5
+  x_T16_S20_Fr_5
+  x_T19_S8_Tu_4
+  x_T27_S14_We_3
+  x_T8_S14_Th_5
+  x_T27_S11_Fr_5
+  x_T8_S11_Th_5
+  x_T32_S19_Tu_5
+  x_T33_S18_Tu_5
+  x_T5_S2_Mo_3
+  x_T4_S20_Mo_2
+  x_T12_S15_Th_2
+  x_T30_S11_Fr_5
+  x_T21_S13_We_3
+  x_T4_S19_We_5
+  x_T21_S12_Mo_1
+  x_T27_S14_We_2
+  x_T21_S13_Mo_4
+  x_T23_S19_Fr_1
+  x_T9_S19_Mo_4
+  x_T1_S17_Fr_3
+  x_T19_S20_Th_4
+  x_T3_S13_Tu_1
+  x_T9_S17_Tu_3
+  x_T22_S16_Th_3
+  x_T29_S16_Tu_5
+  x_T10_S4_Fr_2
+  x_T13_S17_Mo_2
+  x_T15_S14_Fr_1
+  x_T6_S8_Th_2
+  x_T19_S12_Mo_2
+  x_T13_S20_Th_2
+  x_T4_S20_Mo_4
+  x_T25_S17_Mo_4
+  x_T6_S12_Th_4
+  x_T6_S6_Fr_5
+  x_T18_S18_Tu_4
+  x_T20_S4_We_5
+  x_T5_S4_Tu_2
+  x_T19_S20_Fr_3
+  x_T23_S11_Th_1
+  x_T32_S7_Fr_1
+  x_T19_S20_Tu_1
+  x_T24_S4_Fr_5
+  x_T6_S5_Mo_4
+  x_T25_S8_Th_5
+  x_T29_S10_Tu_4
+  x_T23_S3_We_3
+  x_T6_S12_Tu_4
+  x_T24_S6_Th_4
+  x_T29_S4_Tu_4
+  x_T1_S17_Mo_4
+  x_T16_S15_Th_4
+  x_T10_S4_Tu_1
+  x_T3_S14_Th_3
+  x_T6_S8_Th_1
+  x_T23_S1_Tu_5
+  x_T24_S13_Tu_2
+  x_T23_S19_Th_1
+  x_T24_S4_Mo_3
+  x_T19_S9_Fr_5
+  x_T12_S12_Th_2
+  x_T22_S17_Th_4
+  x_T21_S12_Th_3
+  x_T9_S17_Fr_2
+  x_T4_S19_Mo_2
+  x_T15_S18_Tu_3
+  x_T5_S4_We_2
+  x_T18_S11_Tu_4
+  x_T24_S14_Mo_3
+  x_T22_S15_Fr_5
+  x_T10_S2_Tu_1
+  x_T2_S10_Th_4
+  x_T18_S5_Mo_5
+  x_T18_S4_Mo_3
+  x_T32_S9_Tu_3
+  x_T12_S14_Th_3
+  x_T8_S13_Th_3
+  x_T29_S4_Fr_3
+  x_T17_S13_Mo_2
+  x_T18_S19_We_4
+  x_T6_S10_We_4
+  x_T15_S5_Th_3
+  x_T9_S18_We_4
+  x_T32_S4_Tu_5
+  x_T11_S8_Th_4
+  x_T25_S16_Fr_4
+  x_T28_S12_Tu_5
+  x_T17_S17_Tu_3
+  x_T20_S3_Tu_3
+  x_T26_S7_Mo_4
+  x_T5_S14_Fr_4
+  x_T14_S3_Tu_3
+  x_T33_S17_We_3
+  x_T25_S8_We_2
+  x_T2_S11_Mo_3
+  x_T9_S18_Mo_1
+  x_T18_S18_Mo_2
+  x_T21_S9_Fr_1
+  x_T30_S17_Mo_4
+  x_T32_S4_We_2
+  x_T9_S15_Tu_5
+  x_T28_S18_Mo_3
+  x_T15_S4_Mo_2
+  x_T12_S15_Th_3
+  x_T17_S13_We_3
+  x_T18_S5_Mo_2
+  x_T24_S6_We_2
+  x_T28_S3_Mo_4
+  x_T18_S4_We_4
+  x_T8_S13_Mo_5
+  x_T28_S12_Fr_2
+  x_T31_S20_Fr_2
+  x_T4_S19_Th_1
+  x_T22_S19_Th_5
+  x_T20_S3_Mo_4
+  x_T22_S18_Tu_4
+  x_T4_S19_Th_5
+  x_T31_S3_Th_4
+  x_T27_S17_Mo_3
+  x_T24_S13_Tu_3
+  x_T7_S11_Mo_4
+  x_T5_S1_Mo_4
+  x_T27_S8_We_2
+  x_T4_S20_Tu_1
+  x_T15_S11_We_5
+  x_T14_S17_We_2
+  x_T21_S8_Tu_2
+  x_T31_S12_Th_4
+  x_T32_S17_Mo_5
+  x_T26_S16_Tu_1
+  x_T22_S16_We_5
+  x_T4_S20_Th_1
+  x_T8_S16_We_3
+  x_T12_S13_Mo_2
+  x_T6_S7_Mo_2
+  x_T31_S15_Fr_2
+  x_T26_S16_Mo_2
+  x_T24_S6_We_4
+  x_T30_S8_Mo_3
+  x_T15_S14_We_3
+  x_T25_S17_Fr_2
+  x_T4_S20_We_3
+  x_T2_S9_Tu_4
+  x_T31_S3_Tu_5
+  x_T28_S9_Th_5
+  x_T9_S19_Fr_5
+  x_T17_S16_Mo_2
+  x_T3_S13_Th_4
+  x_T18_S18_Mo_5
+  x_T30_S8_Th_5
+  x_T17_S1_Mo_2
+  x_T21_S8_Fr_4
+  x_T8_S15_Th_4
+  x_T29_S1_Th_2
+  x_T6_S7_Mo_3
+  x_T32_S1_Fr_3
+  x_T21_S11_Mo_5
+  x_T22_S19_Mo_3
+  x_T3_S14_Fr_5
+  x_T13_S17_We_4
+  x_T6_S5_Tu_2
+  x_T17_S2_We_3
+  x_T8_S14_Th_4
+  x_T19_S12_We_5
+  x_T19_S12_Th_4
+  x_T14_S16_We_2
+  x_T28_S3_Mo_2
+  x_T17_S16_Fr_5
+  x_T32_S4_Th_3
+  x_T30_S11_Tu_2
+  x_T5_S1_Fr_5
+  x_T12_S13_We_3
+  x_T19_S7_Mo_5
+  x_T17_S2_Tu_3
+  x_T30_S17_We_2
+  x_T4_S20_Th_2
+  x_T21_S12_We_2
+  x_T2_S11_Fr_3
+  x_T19_S12_We_1
+  x_T14_S3_Mo_5
+  x_T27_S17_Mo_4
+  x_T7_S11_Tu_3
+  x_T14_S1_Th_1
+  x_T20_S2_Mo_2
+  x_T33_S18_We_5
+  x_T24_S13_Th_3
+  x_T14_S3_Mo_2
+  x_T12_S13_Fr_2
+  x_T10_S5_Th_4
+  y_T30
+  x_T23_S11_Mo_3
+  x_T15_S14_Mo_5
+  x_T28_S15_We_5
+  x_T9_S20_Mo_5
+  x_T9_S19_Fr_4
+  x_T2_S10_Fr_5
+  x_T24_S20_We_1
+  x_T30_S14_Mo_4
+  x_T19_S8_We_5
+  x_T7_S10_Fr_2
+  x_T21_S13_Tu_5
+  x_T7_S9_Tu_2
+  x_T17_S2_Mo_5
+  x_T10_S2_We_4
+  x_T12_S14_Tu_4
+  x_T14_S16_Th_5
+  x_T8_S13_Tu_5
+  x_T2_S11_Fr_5
+  x_T21_S8_We_2
+  x_T6_S5_We_3
+  x_T21_S13_Fr_4
+  x_T28_S9_Tu_5
+  x_T11_S8_We_2
+  x_T14_S1_We_3
+  x_T9_S18_Mo_3
+  x_T22_S20_Mo_4
+  x_T8_S14_Tu_2
+  x_T11_S6_Mo_4
+  x_T1_S17_Tu_1
+  x_T21_S11_Mo_3
+  x_T6_S10_Tu_5
+  x_T17_S16_Th_4
+  x_T7_S9_Tu_1
+  x_T20_S3_Mo_5
+  x_T25_S8_Mo_4
+  x_T4_S6_Tu_1
+  x_T2_S9_Mo_3
+  x_T15_S5_Fr_4
+  x_T14_S13_We_5
+  x_T24_S14_Th_2
+  x_T26_S13_Fr_5
+  x_T3_S12_Mo_4
+  x_T26_S4_Th_1
+  x_T17_S10_Th_2
+  x_T19_S9_Th_5
+  x_T29_S7_Th_2
+  x_T6_S10_Fr_2
+  x_T19_S7_Tu_2
+  x_T33_S20_We_5
+  x_T7_S13_We_5
+  x_T14_S3_Th_5
+  x_T10_S5_Fr_2
+  x_T11_S6_Mo_3
+  x_T27_S2_We_2
+  x_T28_S6_Mo_4
+  x_T10_S4_Fr_5
+  x_T32_S6_Mo_4
+  x_T31_S15_We_2
+  x_T18_S18_Th_5
+  x_T9_S20_Tu_2
+  x_T21_S10_Mo_2
+  x_T27_S2_Th_2
+  x_T23_S11_Th_4
+  x_T28_S18_Mo_5
+  x_T23_S1_Tu_2
+  x_T5_S3_Mo_2
+  x_T17_S17_Tu_4
+  x_T22_S18_Tu_1
+  x_T2_S11_Th_2
+  x_T17_S10_We_5
+  x_T10_S1_Mo_1
+  x_T7_S11_Th_3
+  x_T29_S1_Mo_3
+  x_T8_S13_Th_5
+  x_T26_S13_We_4
+  x_T2_S11_Tu_4
+  x_T29_S4_Mo_2
+  x_T28_S18_Th_2
+  x_T14_S13_Th_3
+  x_T21_S12_We_1
+  x_T4_S19_Th_3
+  x_T19_S20_Th_2
+  x_T6_S10_Th_2
+  x_T27_S5_Tu_5
+  x_T2_S11_We_3
+  x_T25_S9_Mo_5
+  x_T7_S9_Th_1
+  x_T21_S14_Fr_5
+  x_T32_S18_Mo_3
+  x_T30_S14_Mo_2
+  x_T23_S11_We_4
+  x_T28_S18_Tu_1
+  x_T13_S19_We_1
+  x_T25_S17_We_1
+  x_T19_S12_Fr_4
+  x_T16_S15_Tu_4
+  x_T24_S5_Fr_5
+  x_T28_S9_Th_3
+  x_T27_S20_Fr_5
+  x_T4_S20_Th_4
+  x_T2_S10_Mo_2
+  x_T18_S11_Tu_3
+  x_T30_S2_Mo_1
+  x_T14_S17_We_4
+  x_T18_S14_We_5
+  x_T17_S3_Fr_1
+  x_T29_S19_We_5
+  x_T6_S12_We_5
+  x_T27_S2_Fr_2
+  x_T4_S20_Tu_3
+  x_T32_S17_Mo_4
+  x_T27_S8_Mo_2
+  x_T31_S12_Tu_5
+  x_T4_S19_Mo_4
+  x_T8_S13_Mo_1
+  x_T13_S16_Tu_1
+  x_T3_S12_Tu_5
+  x_T28_S6_Mo_5
+  x_T15_S19_Th_3
+  x_T7_S10_Th_2
+  x_T20_S7_Mo_3
+  x_T28_S15_Mo_2
+  x_T20_S5_Mo_1
+  x_T28_S9_Fr_1
+  x_T29_S10_Mo_2
+  x_T18_S18_Mo_3
+  x_T21_S11_Mo_2
+  x_T23_S11_Th_3
+  x_T29_S4_Fr_1
+  x_T9_S20_We_5
+  x_T18_S19_Th_1
+  x_T10_S2_Tu_2
+  x_T32_S20_Fr_1
+  x_T7_S12_We_3
+  x_T15_S11_We_2
+  x_T6_S6_Fr_4
+  x_T7_S13_We_1
+  x_T32_S18_We_1
+  x_T1_S2_We_1
+  x_T11_S10_Th_3
+  x_T9_S20_Th_1
+  x_T24_S20_Mo_2
+  x_T29_S1_Mo_1
+  x_T24_S6_Fr_4
+  x_T14_S10_Mo_2
+  x_T30_S2_Th_2
+  x_T32_S19_Tu_1
+  x_T18_S18_Fr_1
+  x_T13_S16_Mo_2
+  x_T22_S15_Mo_1
+  x_T8_S14_Fr_1
+  x_T33_S17_Th_4
+  x_T30_S5_Mo_4
+  x_T18_S18_Tu_3
+  x_T31_S9_Th_5
+  x_T32_S18_We_5
+  x_T32_S4_Mo_2
+  x_T8_S14_We_4
+  x_T24_S15_We_5
+  x_T26_S16_Mo_1
+  x_T14_S16_Fr_3
+  x_T32_S4_We_3
+  x_T25_S8_Th_4
+  x_T15_S4_Mo_1
+  x_T29_S4_Fr_5
+  x_T30_S8_We_1
+  x_T2_S7_Fr_5
+  x_T7_S9_We_5
+  x_T2_S9_Mo_4
+  x_T18_S5_Mo_3
+  x_T1_S4_Th_4
+  x_T17_S13_Mo_1
+  x_T29_S10_Fr_1
+  x_T20_S6_We_1
+  x_T21_S10_Fr_5
+  x_T31_S20_Fr_1
+  x_T1_S4_Fr_1
+  x_T11_S9_Tu_1
+  x_T14_S13_We_3
+  x_T32_S17_We_4
+  x_T29_S16_Mo_5
+  x_T26_S19_Mo_3
+  x_T12_S13_Mo_1
+  x_T3_S12_We_5
+  x_T15_S14_Th_1
+  x_T24_S20_Fr_5
+  x_T6_S7_Tu_4
+  x_T21_S12_We_5
+  x_T26_S13_Fr_2
+  x_T23_S10_Fr_2
+  x_T1_S1_Fr_5
+  x_T3_S15_Mo_3
+  x_T16_S12_Mo_2
+  x_T17_S13_We_2
+  x_T29_S10_Fr_4
+  x_T12_S12_Th_3
+  x_T11_S10_Tu_3
+  x_T7_S12_Th_3
+  x_T17_S3_Th_4
+  x_T15_S11_Fr_4
+  x_T11_S7_Fr_3
+  x_T25_S16_Fr_3
+  x_T30_S2_Th_3
+  x_T22_S17_Mo_4
+  x_T15_S18_Th_4
+  x_T21_S13_Fr_3
+  x_T9_S20_Tu_1
+  x_T12_S14_Mo_3
+  x_T18_S18_Fr_5
+  x_T24_S20_Mo_5
+  y_T10
+  x_T28_S15_Tu_5
+  x_T32_S18_Th_2
+  x_T21_S9_Th_1
+  x_T15_S4_Th_4
+  x_T15_S6_Fr_4
+  x_T32_S8_We_5
+  x_T30_S17_Mo_1
+  x_T4_S5_Fr_2
+  x_T25_S16_Fr_1
+  x_T30_S5_Tu_2
+  x_T33_S18_Tu_3
+  x_T11_S10_Fr_5
+  x_T11_S9_Fr_5
+  x_T11_S9_We_1
+  x_T29_S1_Th_1
+  x_T29_S16_Fr_1
+  x_T12_S13_Mo_3
+  x_T31_S18_Tu_4
+  x_T4_S6_Mo_2
+  x_T1_S4_Mo_4
+  x_T19_S20_Tu_5
+  x_T20_S4_Fr_1
+  x_T27_S14_Mo_4
+  x_T18_S6_Mo_3
+  x_T3_S15_Fr_3
+  x_T18_S11_We_4
+  x_T31_S18_Mo_1
+  x_T17_S3_Mo_2
+  x_T29_S10_We_4
+  x_T12_S13_Tu_1
+  x_T25_S18_Tu_4
+  x_T18_S18_We_2
+  x_T33_S19_Mo_4
+  x_T18_S5_We_5
+  x_T25_S9_Fr_3
+  x_T23_S2_Fr_5
+  x_T29_S4_Mo_1
+  x_T18_S14_Tu_1
+  x_T4_S6_We_2
+  x_T32_S5_Mo_3
+  x_T2_S9_Tu_5
+  x_T24_S20_Fr_2
+  x_T32_S3_Fr_5
+  x_T3_S15_Fr_4
+  x_T23_S12_Fr_3
+  x_T12_S11_We_3
+  x_T19_S15_Fr_4
+  x_T18_S14_Th_4
+  x_T25_S18_Fr_5
+  x_T32_S20_Mo_3
+  x_T21_S10_Tu_2
+  x_T9_S20_We_2
+  x_T3_S14_Th_2
+  x_T19_S8_Mo_4
+  x_T17_S17_Th_2
+  x_T18_S11_Th_5
+  x_T15_S18_Tu_5
+  x_T18_S18_Th_4
+  x_T32_S1_Mo_2
+  x_T19_S15_Mo_1
+  x_T6_S8_Fr_5
+  x_T22_S16_We_3
+  x_T31_S9_We_1
+  x_T27_S17_Mo_1
+  x_T32_S9_Fr_2
+  x_T13_S17_Tu_2
+  x_T10_S2_Tu_3
+  x_T10_S1_Tu_1
+  x_T21_S11_Tu_5
+  x_T9_S20_We_3
+  x_T1_S4_Fr_5
+  x_T31_S15_We_4
+  x_T24_S14_We_1
+  x_T20_S7_Tu_2
+  x_T21_S9_Th_2
+  x_T5_S14_Mo_2
+  x_T6_S6_Mo_2
+  x_T29_S13_We_5
+  x_T22_S17_Mo_2
+  x_T25_S8_Mo_1
+  y_T29
+  x_T25_S7_Th_5
+  x_T30_S11_Fr_1
+  x_T9_S19_Th_4
+  x_T7_S10_Mo_1
+  x_T26_S1_Fr_5
+  x_T12_S12_Tu_3
+  x_T15_S14_Fr_2
+  x_T26_S16_Tu_4
+  x_T32_S4_Th_4
+  x_T32_S8_We_3
+  x_T3_S12_We_3
+  x_T14_S13_Th_5
+  x_T14_S13_Tu_3
+  x_T26_S7_Mo_3
+  x_T2_S8_We_5
+  x_T19_S7_Mo_2
+  x_T32_S9_Fr_3
+  x_T11_S6_We_4
+  x_T32_S17_Fr_3
+  x_T8_S14_We_1
+  x_T17_S10_Fr_3
+  x_T20_S3_Th_4
+  x_T6_S7_Th_1
+  x_T21_S12_Tu_5
+  x_T23_S10_Mo_4
+  x_T33_S20_We_2
+  x_T10_S1_Fr_2
+  x_T5_S14_Mo_1
+  x_T23_S12_We_2
+  x_T27_S17_Th_4
+  x_T6_S6_Tu_1
+  x_T29_S10_Mo_5
+  x_T30_S2_Fr_5
+  x_T31_S6_Th_4
+  x_T29_S19_We_2
+  x_T10_S4_Tu_3
+  x_T32_S7_Th_5
+  x_T21_S13_We_2
+  x_T26_S10_Fr_4
+  x_T31_S3_Mo_1
+  x_T33_S20_Fr_3
+  x_T28_S9_Mo_5
+  x_T24_S6_Tu_2
+  x_T17_S16_Tu_3
+  x_T11_S9_Mo_5
+  x_T13_S19_Tu_3
+  x_T32_S8_Th_4
+  x_T27_S11_Mo_1
+  x_T29_S16_Th_5
+  x_T25_S8_Tu_3
+  x_T21_S13_We_4
+  x_T19_S7_Mo_3
+  x_T5_S2_Mo_5
+  x_T25_S8_Mo_2
+  x_T30_S17_Th_1
+  x_T27_S17_Fr_4
+  x_T32_S6_We_2
+  x_T20_S7_Th_2
+  x_T12_S15_Fr_2
+  x_T8_S16_Fr_2
+  x_T29_S10_We_3
+  x_T6_S5_Fr_1
+  x_T6_S6_Fr_2
+  x_T8_S15_Mo_5
+  x_T18_S11_Fr_3
+  x_T23_S12_Mo_4
+  x_T14_S2_Fr_3
+  x_T2_S9_Tu_3
+  x_T12_S13_Th_3
+  x_T9_S15_Fr_4
+  x_T15_S4_Mo_4
+  x_T26_S13_Mo_1
+  x_T2_S11_Th_4
+  x_T4_S18_Fr_1
+  x_T4_S19_Th_4
+  x_T15_S4_Mo_3
+  x_T11_S6_Fr_3
+  x_T1_S17_Fr_2
+  x_T15_S14_Tu_1
+  y_T28
+  x_T3_S14_Fr_2
+  x_T16_S15_Tu_2
+  x_T17_S17_Tu_2
+  y_T17
+  x_T31_S15_Tu_2
+  x_T17_S17_Mo_2
+  x_T10_S4_Mo_5
+  x_T4_S18_Fr_5
+  x_T28_S12_Mo_1
+  x_T30_S17_We_3
+  x_T32_S6_Fr_5
+  x_T6_S8_Fr_3
+  x_T5_S14_Mo_3
+  x_T25_S16_Mo_2
+  x_T21_S11_Tu_2
+  x_T24_S6_Th_5
+  x_T10_S1_Fr_5
+  x_T32_S1_Tu_3
+  x_T29_S7_Fr_3
+  x_T20_S5_We_1
+  x_T23_S2_We_3
+  x_T33_S16_Fr_4
+  x_T4_S19_We_4
+  x_T9_S17_Tu_4
+  x_T27_S2_Fr_5
+  x_T6_S7_Fr_3
+  x_T14_S1_Tu_5
+  x_T17_S17_Th_3
+  x_T13_S17_Fr_1
+  x_T33_S17_Tu_2
+  x_T31_S15_Fr_4
+  x_T33_S18_Th_1
+  x_T20_S7_Fr_5
+  x_T15_S18_We_2
+  x_T3_S14_Mo_2
+  x_T16_S7_We_4
+  x_T23_S1_Fr_1
+  x_T16_S12_We_2
+  x_T29_S19_We_1
+  x_T28_S9_Mo_3
+  x_T20_S2_Th_2
+  x_T17_S17_We_5
+  x_T7_S12_Tu_3
+  x_T31_S12_Mo_5
+  x_T20_S4_Fr_3
+  x_T3_S15_We_5
+  x_T3_S15_Tu_2
+  x_T8_S14_Mo_3
+  x_T15_S11_Mo_4
+  x_T29_S1_Mo_2
+  x_T21_S14_We_4
+  x_T13_S18_Mo_2
+  x_T16_S9_Tu_5
+  x_T33_S19_Fr_5
+  x_T12_S14_Mo_1
+  x_T28_S15_We_3
+  x_T7_S12_Th_5
+  x_T26_S7_Mo_1
+  x_T22_S20_We_4
+  x_T26_S16_Mo_5
+  x_T22_S16_Th_4
+  x_T29_S16_We_2
+  x_T3_S14_Tu_2
+  x_T21_S14_Mo_5
+  x_T10_S4_Th_3
+  x_T9_S17_Mo_3
+  x_T29_S16_Th_4
+  x_T23_S19_We_3
+  x_T17_S10_Mo_2
+  x_T24_S4_Mo_5
+  x_T20_S5_Th_1
+  x_T16_S15_Th_5
+  x_T9_S19_Tu_4
+  x_T33_S18_We_3
+  x_T18_S4_Fr_1
+  x_T15_S18_We_1
+  x_T10_S5_Mo_2
+  x_T18_S14_Mo_1
+  x_T9_S15_Tu_4
+  x_T18_S14_Fr_4
+  x_T18_S11_We_3
+  x_T32_S9_Tu_5
+  x_T32_S19_Mo_3
+  x_T25_S18_Th_1
+  x_T33_S20_Fr_5
+  x_T11_S7_We_3
+  x_T1_S1_We_2
+  x_T1_S4_Tu_5
+  x_T5_S14_Fr_2
+  x_T31_S18_Th_4
+  x_T13_S16_We_4
+  x_T1_S1_Fr_1
+  x_T1_S4_Tu_1
+  x_T14_S10_Fr_3
+  x_T7_S9_Th_4
+  x_T33_S16_Mo_3
+  x_T1_S16_We_2
+  x_T16_S8_Tu_3
+  x_T23_S3_Th_5
+  x_T16_S7_Mo_3
+  x_T32_S9_We_4
+  x_T2_S7_Mo_3
+  x_T19_S12_We_3
+  x_T4_S5_Fr_3
+  x_T13_S17_Mo_4
+  x_T10_S5_Mo_3
+  x_T8_S16_Mo_5
+  x_T32_S7_Fr_5
+  x_T29_S13_Tu_1
+  x_T18_S18_Tu_2
+  x_T17_S2_We_5
+  x_T5_S3_Mo_1
+  x_T10_S3_Fr_5
+  x_T32_S17_Fr_1
+  x_T16_S15_We_4
+  x_T4_S18_Fr_4
+  x_T7_S11_Mo_1
+  x_T20_S1_Th_1
+  x_T22_S17_Tu_5
+  x_T28_S6_Tu_4
+  x_T14_S2_We_5
+  x_T13_S19_Tu_1
+  x_T26_S4_Tu_3
+  x_T5_S2_We_5
+  x_T8_S11_Th_2
+  x_T32_S3_Fr_1
+  x_T2_S7_Tu_1
+  x_T14_S1_Fr_5
+  x_T23_S1_Tu_1
+  x_T29_S19_Tu_5
+  x_T22_S20_Fr_4
+  x_T6_S6_Mo_1
+  x_T5_S4_Th_1
+  x_T20_S7_Th_4
+  x_T9_S17_Th_2
+  x_T26_S4_Tu_1
+  x_T29_S4_We_4
+  x_T6_S12_Tu_5
+  x_T9_S15_We_3
+  x_T3_S13_We_5
+  x_T20_S7_Fr_3
+  x_T3_S13_Tu_4
+  x_T15_S4_Tu_5
+  x_T3_S12_Fr_3
+  x_T17_S13_Fr_3
+  x_T14_S10_Tu_4
+  x_T26_S10_Fr_1
+  x_T23_S1_Th_1
+  x_T15_S4_We_4
+  x_T11_S6_Mo_2
+  x_T18_S5_Tu_4
+  x_T2_S10_Mo_1
+  x_T7_S13_Fr_4
+  x_T16_S12_Fr_2
+  x_T20_S6_Tu_2
+  x_T17_S1_Fr_3
+  x_T30_S5_Mo_1
+  x_T21_S10_Th_4
+  x_T19_S20_We_2
+  x_T33_S19_Th_1
+  x_T33_S20_Mo_2
+  x_T26_S10_Mo_3
+  x_T20_S4_We_1
+  x_T27_S5_We_4
+  x_T17_S2_Mo_3
+  x_T27_S5_We_3
+  x_T1_S17_Tu_2
+  x_T20_S6_Tu_1
+  x_T30_S14_Fr_1
+  x_T15_S14_Tu_4
+  x_T19_S20_We_5
+  x_T33_S18_Mo_2
+  x_T29_S13_Mo_1
+  x_T5_S4_Mo_5
+  x_T8_S14_Fr_5
+  x_T14_S3_We_1
+  x_T28_S18_Tu_2
+  x_T23_S3_Tu_4
+  x_T8_S13_Tu_4
+  x_T23_S1_Mo_2
+  x_T16_S9_We_4
+  x_T1_S4_We_2
+  x_T21_S13_Mo_3
+  x_T23_S19_Tu_2
+  x_T32_S3_Mo_2
+  x_T8_S11_Th_3
+  x_T20_S1_We_3
+  x_T6_S7_We_2
+  x_T19_S12_Th_2
+  x_T21_S14_Fr_1
+  x_T12_S15_Th_1
+  x_T6_S6_Th_4
+  x_T32_S3_Tu_5
+  x_T23_S11_Tu_2
+  x_T17_S17_Mo_4
+  x_T18_S14_Mo_5
+  x_T23_S10_Tu_1
+  x_T8_S15_We_3
+  x_T13_S19_Fr_5
+  x_T4_S20_Th_5
+  x_T29_S4_Mo_5
+  x_T32_S3_Fr_4
+  x_T9_S18_We_2
+  x_T26_S4_Tu_5
+  x_T17_S2_We_2
+  x_T24_S20_We_4
+  x_T17_S3_We_2
+  x_T18_S19_Tu_3
+  x_T11_S7_Fr_1
+  x_T32_S19_We_5
+  x_T22_S15_We_2
+  x_T29_S1_Tu_2
+  x_T20_S7_We_5
+  x_T13_S20_Tu_3
+  x_T20_S2_Tu_2
+  x_T24_S5_Th_1
+  x_T31_S12_Mo_3
+  x_T32_S5_We_3
+  x_T27_S11_We_1
+  x_T27_S20_We_5
+  x_T30_S14_Mo_1
+  x_T19_S20_We_3
+  x_T21_S12_Tu_1
+  x_T24_S5_Tu_5
+  x_T29_S10_We_5
+  x_T11_S10_Mo_4
+  x_T21_S13_Tu_3
+  x_T22_S17_We_2
+  x_T25_S16_Tu_5
+  x_T18_S19_We_3
+  x_T29_S13_Th_5
+  y_T12
+  x_T31_S9_Tu_4
+  x_T21_S12_Th_4
+  x_T32_S5_Fr_1
+  x_T4_S6_We_5
+  x_T29_S13_Fr_1
+  x_T3_S12_Tu_2
+  x_T27_S5_Th_4
+  x_T28_S15_Th_2
+  x_T28_S12_Mo_4
+  x_T27_S8_Tu_1
+  x_T14_S16_Th_1
+  x_T3_S13_Fr_4
+  x_T18_S6_Fr_5
+  x_T20_S7_We_4
+  x_T24_S15_Th_5
+  x_T16_S9_Th_1
+  x_T21_S9_Tu_2
+  x_T14_S13_Fr_3
+  x_T29_S7_Th_4
+  x_T1_S17_Tu_3
+  x_T28_S3_Tu_1
+  x_T30_S11_Mo_1
+  y_T19
+  x_T7_S10_Mo_5
+  x_T18_S5_Th_1
+  x_T20_S3_We_1
+  x_T5_S1_Th_1
+  x_T12_S15_Th_5
+  x_T19_S15_Mo_3
+  x_T16_S7_Th_5
+  x_T12_S11_Tu_2
+  x_T11_S8_Mo_3
+  x_T16_S12_Mo_1
+  x_T21_S8_We_3
+  x_T8_S16_Fr_1
+  x_T30_S14_Fr_5
+  x_T14_S2_Mo_3
+  x_T30_S5_Tu_4
+  x_T11_S10_Fr_1
+  x_T27_S2_We_5
+  x_T8_S16_Mo_2
+  x_T22_S20_Tu_4
+  x_T32_S4_Tu_3
+  x_T7_S13_Mo_2
+  x_T19_S7_Th_4
+  x_T11_S6_Th_5
+  x_T32_S16_Tu_3
+  x_T15_S14_We_2
+  x_T10_S1_Th_3
+  x_T17_S10_Th_4
+  x_T13_S19_Tu_5
+  x_T22_S17_Fr_4
+  x_T21_S10_Tu_1
+  x_T24_S4_Mo_4
+  x_T15_S4_Fr_2
+  x_T25_S8_Mo_5
+  x_T19_S12_Fr_2
+  x_T31_S20_We_1
+  x_T17_S10_Tu_4
+  x_T18_S18_We_3
+  x_T32_S7_Fr_3
+  x_T4_S6_Th_1
+  x_T25_S8_Fr_3
+  x_T19_S20_Mo_1
+  x_T27_S2_We_4
+  x_T21_S9_Mo_2
+  x_T18_S4_Fr_4
+  x_T1_S2_Th_2
+  x_T11_S7_Tu_1
+  x_T27_S17_We_4
+  x_T18_S18_Mo_4
+  x_T18_S4_Tu_4
+  x_T21_S13_Tu_1
+  x_T10_S3_Th_5
+  x_T16_S20_Tu_1
+  x_T17_S17_Mo_5
+  x_T24_S13_We_2
+  x_T9_S19_We_5
+  x_T26_S13_Th_1
+  x_T1_S17_Th_2
+  x_T27_S14_Th_3
+  x_T22_S19_We_5
+  x_T8_S11_Th_4
+  x_T25_S7_Fr_4
+  x_T21_S11_Th_3
+  x_T18_S18_We_4
+  x_T13_S20_Fr_1
+  x_T1_S2_Mo_1
+  x_T20_S6_Mo_1
+  x_T20_S4_Th_5
+  x_T19_S15_Th_2
+  x_T3_S14_Mo_3
+  x_T4_S20_Fr_3
+  x_T20_S4_We_2
+  x_T29_S13_Tu_3
+  x_T11_S10_Fr_4
+  x_T24_S13_We_1
+  x_T28_S15_Fr_2
+  y_T22
+  x_T26_S4_Fr_3
+  x_T33_S20_Th_5
+  x_T19_S7_Mo_1
+  y_T14
+  x_T15_S6_Th_3
+  x_T21_S12_Tu_2
+  x_T31_S9_Th_4
+  x_T17_S2_Th_3
+  x_T30_S14_We_2
+  x_T24_S15_Fr_1
+  x_T14_S16_We_3
+  x_T31_S3_We_5
+  x_T29_S7_Fr_4
+  x_T26_S19_We_3
+  x_T24_S20_Mo_4
+  x_T6_S5_Mo_2
+  x_T24_S6_Fr_2
+  x_T22_S18_We_5
+  x_T26_S4_We_3
+  x_T5_S1_Fr_1
+  x_T8_S14_Th_3
+  x_T20_S6_Tu_5
+  x_T30_S5_Mo_2
+  x_T12_S15_We_3
+  x_T7_S9_Mo_4
+  x_T21_S8_Tu_5
+  x_T11_S8_Th_5
+  x_T6_S8_Tu_5
+  x_T25_S8_Th_1
+  x_T10_S3_Tu_2
+  x_T16_S9_Fr_2
+  x_T2_S8_Tu_1
+  x_T17_S17_We_4
+  x_T23_S1_Mo_4
+  x_T15_S19_We_3
+  x_T27_S8_Tu_2
+  x_T22_S17_Th_2
+  x_T15_S6_Fr_5
+  x_T20_S1_Fr_1
+  x_T24_S20_Tu_4
+  x_T16_S9_Tu_4
+  x_T27_S8_Fr_2
+  x_T32_S19_We_1
+  x_T4_S19_Mo_1
+  x_T8_S13_Th_2
+  x_T23_S3_Mo_4
+  x_T21_S14_Tu_5
+  x_T17_S2_Th_1
+  x_T14_S17_Mo_1
+  x_T10_S1_Tu_2
+  x_T7_S13_We_3
+  x_T3_S12_Th_1
+  x_T7_S12_Fr_3
+  x_T6_S5_Mo_3
+  x_T13_S19_Mo_3
+  x_T17_S16_Mo_4
+  x_T27_S8_Fr_3
+  x_T28_S6_We_5
+  x_T14_S16_Mo_3
+  x_T14_S16_Mo_4
+  x_T18_S14_Mo_2
+  x_T23_S11_Fr_4
+  x_T1_S3_Fr_2
+  x_T27_S11_Th_3
+  x_T17_S17_Tu_1
+  x_T20_S5_Th_3
+  x_T30_S8_Mo_1
+  x_T31_S20_Tu_3
+  x_T23_S11_We_1
+  x_T21_S12_Fr_1
+  x_T8_S15_Tu_4
+  x_T16_S8_Mo_5
+  x_T20_S6_Mo_2
+  x_T13_S20_Mo_1
+  x_T6_S10_Mo_3
+  x_T7_S12_Fr_1
+  x_T4_S19_Mo_5
+  x_T19_S7_Th_1
+  x_T33_S16_Tu_1
+  x_T2_S10_Fr_3
+  x_T9_S17_Tu_5
+  x_T3_S14_Tu_5
+  x_T19_S7_We_5
+  x_T29_S1_Th_4
+  x_T21_S9_Mo_3
+  x_T30_S14_Fr_3
+  x_T33_S16_Tu_2
+  x_T31_S20_We_2
+  x_T29_S16_Th_2
+  x_T32_S16_Fr_2
+  x_T11_S8_Fr_1
+  x_T27_S5_Fr_2
+  x_T8_S11_Tu_4
+  x_T27_S14_Tu_3
+  x_T31_S12_We_2
+  x_T15_S19_We_5
+  x_T12_S13_Tu_4
+  x_T2_S10_We_5
+  x_T23_S12_Mo_2
+  x_T13_S16_Mo_1
+  x_T26_S13_Mo_2
+  x_T25_S9_Th_2
+  x_T12_S14_We_1
+  x_T14_S13_Mo_5
+  x_T8_S15_Mo_1
+  x_T33_S20_We_4
+  x_T31_S6_Tu_5
+  x_T23_S12_We_4
+  x_T24_S20_Th_4
+  x_T15_S6_Fr_1
+  x_T20_S7_Mo_4
+  x_T23_S2_Tu_3
+  x_T22_S18_Th_2
+  x_T20_S4_Th_1
+  x_T18_S18_Tu_1
+  x_T30_S14_Mo_5
+  x_T7_S13_Th_3
+  x_T17_S17_Mo_3
+  x_T21_S8_Th_2
+  x_T27_S2_Th_5
+  x_T26_S13_Fr_3
+  x_T32_S2_Fr_2
+  x_T18_S4_Fr_3
+  x_T9_S15_Fr_2
+  x_T17_S10_Mo_1
+  x_T31_S18_Tu_1
+  x_T10_S1_Fr_4
+  x_T16_S9_Fr_5
+  x_T6_S10_Fr_3
+  x_T2_S8_Fr_2
+  x_T18_S5_Tu_1
+  x_T24_S15_Th_4
+  x_T32_S5_Tu_4
+  x_T32_S18_Tu_2
+  x_T27_S20_We_1
+  x_T24_S4_Mo_2
+  x_T10_S5_Tu_4
+  x_T32_S4_Tu_1
+  x_T17_S17_Fr_4
+  x_T9_S19_Tu_1
+  x_T27_S14_Fr_5
+  x_T17_S13_Th_2
+  x_T18_S14_Th_1
+  x_T33_S20_Fr_4
+  x_T23_S2_Tu_2
+  x_T32_S5_Mo_5
+  x_T29_S7_Mo_2
+  x_T30_S8_Mo_5
+  x_T23_S11_Tu_3
+  x_T20_S4_Tu_3
+  x_T31_S15_Mo_3
+  x_T4_S20_Mo_1
+  x_T33_S19_Th_3
+  x_T30_S11_Mo_3
+  x_T18_S6_Tu_1
+  x_T32_S17_We_1
+  x_T20_S6_We_3
+  x_T5_S2_Mo_2
+  x_T13_S16_Th_1
+  x_T33_S19_Th_4
+  x_T15_S4_Th_1
+  x_T2_S10_Mo_3
+  x_T21_S13_Fr_2
+  x_T32_S18_Fr_1
+  x_T10_S4_Fr_1
+  x_T13_S20_Mo_5
+  x_T24_S15_Tu_4
+  x_T23_S2_Fr_1
+  x_T24_S13_Mo_2
+  x_T24_S13_Mo_3
+  x_T21_S12_We_3
+  x_T23_S1_We_5
+  x_T1_S17_We_1
+  x_T7_S11_Tu_4
+  x_T7_S9_We_2
+  x_T16_S9_Fr_4
+  x_T22_S20_Fr_3
+  x_T5_S4_Fr_1
+  x_T30_S5_Fr_5
+  x_T18_S19_Th_4
+  x_T20_S6_Tu_4
+  x_T13_S20_Tu_1
+  x_T15_S14_Mo_2
+  x_T9_S15_Fr_1
+  x_T11_S9_Tu_4
+  x_T30_S5_Mo_5
+  x_T29_S16_We_5
+  x_T26_S7_Mo_2
+  x_T19_S20_Tu_4
+  x_T16_S9_Mo_5
+  x_T14_S10_We_2
+  x_T23_S11_We_3
+  x_T31_S12_Th_3
+  x_T20_S6_Fr_2
+  x_T7_S11_We_3
+  x_T32_S1_Tu_4
+  x_T28_S18_We_4
+  x_T25_S18_We_2
+  x_T27_S20_Tu_5
+  x_T29_S1_We_1
+  x_T9_S18_Th_5
+  x_T6_S5_Th_4
+  x_T23_S19_We_1
+  x_T17_S1_We_2
+  x_T18_S6_Th_5
+  x_T19_S7_Tu_3
+  x_T1_S1_Th_3
+  x_T21_S9_Tu_5
+  x_T22_S18_Fr_2
+  x_T32_S18_Tu_3
+  x_T24_S5_Th_3
+  x_T8_S14_We_5
+  y_T16
+  x_T17_S2_Mo_4
+  x_T12_S11_Th_2
+  x_T2_S11_Mo_2
+  x_T32_S2_Fr_4
+  x_T18_S4_Fr_2
+  x_T33_S16_Tu_5
+  x_T25_S7_Tu_3
+  x_T22_S20_Tu_2
+  x_T22_S15_Th_5
+  x_T2_S8_Th_3
+  x_T19_S12_Th_3
+  x_T32_S6_Tu_4
+  x_T32_S7_Th_3
+  x_T6_S10_We_1
+  x_T12_S12_Fr_4
+  x_T29_S1_Fr_4
+  x_T18_S19_Tu_5
+  x_T14_S16_Th_2
+  x_T15_S6_We_2
+  x_T22_S16_Mo_3
+  x_T7_S9_We_1
+  x_T12_S15_We_2
+  x_T17_S17_Tu_5
+  x_T26_S19_Th_5
+  x_T27_S5_We_5
+  x_T6_S7_Tu_2
+  x_T1_S3_Mo_1
+  x_T16_S20_Tu_4
+  x_T8_S11_Fr_1
+  x_T19_S9_Th_1
+  x_T27_S17_Fr_1
+  x_T22_S19_Th_1
+  x_T31_S9_Mo_3
+  x_T12_S12_Th_1
+  x_T26_S16_Fr_2
+  x_T31_S15_Mo_1
+  x_T28_S18_Fr_5
+  x_T25_S18_Th_3
+  x_T14_S3_Fr_1
+  x_T17_S17_Fr_3
+  y_T1
+  x_T3_S12_Mo_3
+  x_T21_S14_Th_5
+  x_T29_S4_Mo_3
+  x_T25_S8_We_3
+  x_T10_S1_Mo_2
+  x_T32_S8_Fr_1
+  x_T17_S2_Mo_2
+  x_T10_S4_Th_1
+  x_T22_S20_We_5
+  x_T18_S4_We_1
+  x_T9_S18_Fr_2
+  x_T4_S5_Mo_1
+  x_T27_S8_Fr_1
+  x_T1_S17_Mo_2
+  x_T28_S9_Th_2
+  x_T29_S1_Th_5
+  x_T28_S18_Mo_1
+  x_T21_S14_We_5
+  x_T13_S20_Fr_5
+  x_T18_S19_We_2
+  x_T2_S10_Fr_2
+  x_T23_S3_Fr_2
+  x_T31_S18_Mo_3
+  x_T25_S17_Fr_4
+  x_T5_S4_Th_3
+  x_T26_S7_We_1
+  x_T22_S15_Tu_4
+  x_T22_S15_Tu_2
+  x_T32_S8_Tu_2
+  x_T6_S7_Mo_5
+  x_T31_S18_Th_5
+  x_T33_S20_Tu_5
+  x_T20_S2_Mo_5
+  x_T9_S20_Th_4
+  x_T14_S2_Tu_1
+  x_T26_S16_Mo_3
+  x_T21_S12_Mo_2
+  x_T30_S8_Mo_4
+  x_T15_S5_Th_5
+  x_T22_S16_Tu_5
+  x_T9_S17_Th_4
+  x_T27_S5_Th_5
+  x_T28_S15_We_4
+  x_T5_S2_Tu_5
+  x_T20_S4_We_3
+  x_T33_S18_Fr_3
+  x_T32_S4_Fr_3
+  x_T8_S15_Th_5
+  x_T25_S16_Tu_4
+  x_T32_S8_Fr_4
+  x_T2_S11_Fr_2
+  x_T31_S15_Tu_3
+  x_T23_S12_We_5
+  x_T7_S9_Fr_4
+  x_T19_S8_We_2
+  x_T6_S12_Fr_5
+  x_T24_S4_Th_1
+  x_T32_S18_Th_3
+  x_T26_S13_Tu_5
+  x_T27_S14_Mo_5
+  x_T19_S15_Tu_3
+  x_T32_S1_Th_3
+  x_T21_S10_Th_2
+  x_T20_S1_Fr_2
+  x_T22_S17_Tu_4
+  x_T5_S2_Fr_4
+  x_T25_S9_Mo_3
+  x_T25_S16_Th_3
+  x_T30_S8_We_5
+  x_T1_S2_Fr_1
+  x_T4_S6_Fr_2
+  x_T6_S7_Fr_5
+  x_T2_S11_Tu_1
+  x_T26_S7_Fr_3
+  x_T18_S6_Mo_1
+  x_T28_S18_Th_5
+  x_T15_S4_Th_2
+  x_T31_S15_Tu_1
+  x_T32_S2_Mo_2
+  x_T15_S11_Tu_2
+  x_T13_S20_We_2
+  x_T9_S19_Fr_1
+  x_T3_S13_We_3
+  x_T27_S20_Mo_3
+  x_T9_S20_Mo_2
+  x_T3_S14_Th_1
+  x_T32_S20_Tu_4
+  x_T28_S12_We_3
+  x_T15_S14_Mo_3
+  x_T10_S2_Th_3
+  x_T24_S6_Th_1
+  x_T14_S13_Tu_5
+  x_T31_S15_Th_4
+  x_T20_S2_Fr_4
+  x_T28_S18_We_2
+  x_T31_S18_We_5
+  x_T14_S13_Mo_4
+  x_T13_S16_Th_2
+  x_T18_S4_Th_2
+  x_T1_S4_Mo_3
+  x_T32_S8_Th_1
+  x_T32_S18_Tu_4
+  x_T5_S4_Tu_4
+  x_T26_S16_Th_4
+  x_T12_S14_Tu_1
+  x_T23_S3_Tu_3
+  x_T20_S1_Tu_4
+  x_T10_S5_Mo_4
+  x_T13_S18_Mo_5
+  x_T29_S7_Tu_4
+  x_T28_S3_Mo_1
+  x_T15_S11_Mo_1
+  x_T29_S10_Th_3
+  x_T6_S5_Fr_3
+  x_T26_S19_We_2
+  x_T6_S7_Tu_1
+  x_T25_S16_Fr_2
+  x_T14_S2_Th_3
+  x_T16_S20_Fr_1
+  x_T17_S10_Th_5
+  x_T24_S15_We_3
+  x_T1_S4_Fr_4
+  x_T23_S11_Mo_5
+  x_T25_S7_We_4
+  x_T3_S15_Tu_1
+  x_T16_S7_Mo_1
+  x_T30_S8_Th_3
+  x_T16_S12_We_5
+  x_T31_S20_Fr_4
+  x_T15_S6_Th_1
+  x_T21_S9_Fr_5
+  x_T1_S4_Mo_5
+  x_T29_S13_Fr_3
+  x_T8_S13_Fr_3
+  x_T29_S10_Fr_2
+  x_T26_S16_We_1
+  x_T6_S8_Tu_3
+  x_T31_S15_We_1
+  x_T8_S16_We_1
+  x_T32_S19_Tu_2
+  x_T1_S2_Th_5
+  x_T14_S17_We_3
+  x_T31_S3_Th_3
+  x_T32_S19_We_3
+  x_T18_S6_Tu_2
+  x_T4_S19_Fr_3
+  x_T15_S11_Th_4
+  x_T27_S11_Tu_1
+  x_T6_S7_Th_2
+  x_T20_S7_Fr_2
+  x_T25_S8_We_5
+  x_T26_S1_We_5
+  x_T32_S17_We_5
+  x_T24_S15_Tu_2
+  x_T25_S16_Th_1
+  x_T15_S18_Th_2
+  x_T20_S7_Mo_2
+  x_T29_S10_Th_1
+  x_T30_S11_We_1
+  x_T1_S3_Fr_3
+  x_T30_S11_Th_2
+  x_T2_S11_Th_5
+  x_T32_S6_We_1
+  x_T28_S9_Tu_3
+  x_T6_S6_We_2
+  x_T25_S7_Th_3
+  x_T13_S20_Th_3
+  x_T7_S9_Fr_2
+  x_T25_S17_We_5
+  x_T21_S8_Fr_5
+  x_T32_S16_We_1
+  x_T20_S3_Th_3
+  x_T5_S2_Fr_5
+  x_T27_S8_Tu_5
+  x_T26_S10_Th_1
+  x_T27_S2_We_1
+  x_T11_S7_Th_1
+  x_T29_S7_We_3
+  x_T21_S8_We_5
+  x_T31_S9_Mo_2
+  x_T8_S15_Fr_3
+  x_T32_S2_Mo_5
+  x_T20_S2_Th_3
+  x_T1_S17_Th_3
+  x_T11_S6_Fr_2
+  x_T27_S11_Fr_4
+  x_T19_S12_We_2
+  x_T23_S19_Th_3
+  x_T24_S5_Tu_4
+  x_T7_S9_We_3
+  x_T10_S2_Fr_3
+  x_T22_S15_We_1
+  x_T18_S5_Th_5
+  x_T27_S5_Th_3
+  x_T7_S11_We_4
+  x_T6_S12_Th_1
+  x_T22_S15_Th_1
+  x_T24_S4_Fr_2
+  x_T22_S20_We_2
+  x_T19_S7_Mo_4
+  x_T16_S20_Th_1
+  x_T23_S3_Th_1
+  x_T23_S10_We_4
+  x_T4_S6_Mo_3
+  x_T7_S11_Fr_4
+  x_T22_S17_Th_3
+  x_T13_S17_Mo_1
+  x_T27_S17_Th_2
+  x_T1_S3_We_2
+  x_T29_S13_Th_2
+  x_T6_S7_Th_4
+  x_T20_S1_Th_2
+  x_T22_S19_Fr_2
+  x_T22_S15_Th_3
+  x_T22_S16_Tu_3
+  x_T19_S8_Tu_2
+  x_T24_S20_Th_2
+  x_T26_S10_Tu_4
+  x_T4_S5_We_1
+  x_T31_S15_Mo_2
+  x_T5_S3_We_4
+  x_T9_S20_Tu_3
+  x_T8_S13_We_1
+  x_T19_S8_Th_4
+  x_T16_S8_Th_2
+  x_T6_S5_Fr_2
+  x_T17_S2_Fr_2
+  x_T32_S17_Tu_1
+  x_T22_S18_Mo_2
+  x_T21_S12_Fr_4
+  x_T3_S12_Fr_5
+  x_T20_S1_Fr_3
+  x_T18_S18_Th_1
+  x_T4_S18_Mo_2
+  x_T6_S8_Mo_5
+  x_T23_S12_Th_1
+  x_T1_S17_We_5
+  x_T18_S6_Th_4
+  x_T29_S1_Fr_1
+  x_T5_S14_We_3
+  x_T13_S20_Mo_2
+  x_T11_S10_Th_4
+  x_T19_S8_Fr_5
+  x_T2_S8_Mo_5
+  x_T32_S19_Fr_1
+  x_T1_S2_We_2
+  x_T22_S17_Th_1
+  x_T3_S13_Mo_4
+  x_T18_S4_We_5
+  x_T8_S16_We_4
+  x_T14_S17_Fr_5
+  x_T13_S20_Fr_3
+  x_T16_S8_Th_1
+  x_T3_S12_Mo_2
+  x_T33_S18_Th_4
+  x_T14_S10_We_1
+  x_T5_S1_Th_2
+  x_T31_S9_Tu_2
+  x_T28_S15_Tu_1
+  x_T30_S2_Mo_4
+  x_T28_S3_Fr_4
+  x_T14_S10_Mo_5
+  x_T33_S20_Mo_1
+  x_T23_S1_Mo_5
+  x_T14_S17_Mo_5
+  x_T32_S17_Tu_2
+  x_T29_S10_We_2
+  x_T1_S17_Tu_4
+  x_T4_S20_Th_3
+  x_T16_S12_Tu_3
+  x_T12_S12_Th_5
+  x_T27_S20_Fr_2
+  x_T32_S20_Tu_3
+  x_T1_S16_Tu_3
+  x_T2_S9_We_5
+  x_T18_S6_Fr_2
+  x_T15_S4_Th_5
+  x_T13_S17_Mo_5
+  y_T11
+  x_T25_S17_Th_5
+  x_T5_S4_Tu_3
+  x_T5_S1_Mo_5
+  x_T22_S19_Th_2
+  x_T4_S6_Tu_5
+  x_T14_S2_Tu_4
+  x_T11_S10_We_1
+  x_T9_S19_Tu_2
+  x_T26_S7_Th_5
+  x_T24_S13_Th_1
+  x_T31_S20_Mo_4
+  x_T10_S3_Mo_5
+  x_T10_S2_Mo_3
+  x_T9_S15_We_4
+  x_T18_S4_Tu_3
+  x_T14_S17_We_1
+  x_T7_S12_Tu_4
+  x_T18_S5_Fr_5
+  x_T7_S12_Th_4
+  x_T27_S2_Fr_4
+  x_T8_S16_Mo_1
+  x_T17_S1_Th_3
+  x_T10_S5_Tu_3
+  x_T32_S16_Fr_3
+  x_T14_S1_Fr_4
+  x_T1_S3_Fr_1
+  x_T14_S16_Tu_3
+  x_T31_S12_Mo_1
+  x_T30_S5_Tu_1
+  x_T9_S20_Mo_3
+  x_T31_S6_Tu_3
+  x_T29_S13_We_1
+  x_T23_S10_Tu_3
+  x_T15_S4_Th_3
+  x_T26_S10_Mo_2
+  x_T12_S12_Tu_5
+  x_T15_S6_We_4
+  x_T32_S3_Mo_4
+  x_T31_S9_Tu_5
+  x_T29_S1_We_4
+  x_T21_S10_Fr_2
+  x_T31_S18_Th_2
+  x_T5_S3_Mo_4
+  x_T17_S3_Mo_1
+  x_T26_S1_Tu_4
+  x_T1_S1_Th_2
+  x_T23_S12_Tu_1
+  x_T16_S12_Tu_5
+  x_T14_S16_Tu_5
+  x_T25_S18_Mo_4
+  x_T27_S14_Fr_1
+  x_T27_S14_Th_5
+  x_T26_S13_Mo_4
+  x_T32_S4_We_5
+  x_T2_S8_Fr_5
+  x_T32_S7_Th_2
+  x_T16_S9_Mo_1
+  x_T2_S7_Tu_4
+  x_T32_S16_Fr_4
+  x_T29_S16_Mo_4
+  x_T15_S6_Mo_1
+  x_T24_S20_We_5
+  x_T31_S20_We_3
+  x_T31_S20_Fr_3
+  x_T12_S13_Fr_3
+  x_T9_S17_Th_5
+  x_T18_S14_Tu_4
+  x_T3_S15_Th_5
+  x_T11_S9_We_2
+  x_T8_S14_Fr_4
+  x_T25_S18_Th_5
+  x_T25_S7_Th_4
+  x_T31_S9_Mo_5
+  x_T28_S12_Fr_5
+  x_T18_S19_Tu_4
+  x_T28_S12_Th_4
+  x_T29_S13_Tu_4
+  x_T30_S8_Tu_2
+  x_T33_S17_Fr_3
+  x_T3_S14_Tu_4
+  x_T29_S1_Th_3
+  x_T31_S12_We_5
+  x_T21_S11_We_5
+  x_T20_S1_Mo_2
+  x_T24_S5_We_2
+  x_T14_S3_Fr_3
+  x_T7_S11_We_1
+  x_T32_S1_Fr_4
+  x_T21_S12_Mo_3
+  x_T14_S3_Tu_2
+  x_T33_S16_Mo_4
+  x_T10_S5_Mo_5
+  x_T15_S4_Fr_3
+  x_T7_S9_Th_5
+  x_T17_S1_Mo_5
+  x_T9_S20_Fr_4
+  x_T31_S18_Fr_2
+  x_T5_S2_Mo_4
+  x_T2_S9_Tu_2
+  x_T1_S3_Mo_3
+  x_T28_S18_Fr_2
+  x_T3_S15_Th_3
+  x_T3_S12_We_2
+  x_T32_S4_Mo_3
+  x_T3_S13_Tu_5
+  x_T19_S7_Fr_1
+  x_T13_S16_Fr_1
+  x_T32_S18_Fr_3
+  x_T15_S19_Tu_3
+  x_T6_S12_Tu_2
+  x_T14_S10_Fr_4
+  x_T19_S8_Mo_2
+  x_T12_S13_Tu_3
+  x_T10_S3_We_2
+  x_T32_S17_Fr_2
+  x_T32_S17_Tu_5
+  x_T27_S11_Fr_3
+  x_T12_S11_Mo_1
+  x_T25_S9_Th_4
+  x_T21_S14_Th_2
+  x_T23_S2_Mo_3
+  x_T12_S11_Fr_5
+  x_T26_S1_Tu_2
+  x_T29_S16_Th_1
+  x_T32_S16_We_4
+  x_T20_S1_We_2
+  x_T21_S14_Th_3
+  x_T15_S19_Tu_4
+  x_T15_S14_Th_4
+  x_T15_S6_Tu_5
+  x_T16_S7_Fr_1
+  x_T20_S3_Th_5
+  x_T30_S2_Th_1
+  x_T20_S2_We_2
+  x_T4_S6_Fr_3
+  x_T26_S19_Tu_5
+  x_T6_S7_Mo_1
+  x_T1_S3_Tu_1
+  x_T16_S7_Mo_5
+  x_T1_S4_We_4
+  x_T33_S17_We_5
+  x_T18_S19_Fr_2
+  x_T23_S12_Tu_2
+  x_T32_S2_Tu_2
+  x_T15_S18_Th_1
+  x_T30_S11_Tu_1
+  x_T11_S8_Th_1
+  x_T17_S3_We_3
+  x_T22_S19_Tu_3
+  x_T1_S1_Mo_4
+  x_T16_S15_Th_2
+  x_T15_S11_Mo_2
+  x_T23_S12_Fr_5
+  x_T25_S8_Th_2
+  x_T7_S12_We_2
+  x_T20_S1_We_5
+  x_T32_S20_Tu_2
+  x_T17_S10_Mo_4
+  x_T26_S7_We_3
+  x_T10_S2_Th_1
+  x_T23_S2_We_2
+  x_T6_S7_Fr_2
+  x_T10_S4_Mo_1
+  x_T1_S2_Mo_3
+  x_T22_S18_Fr_3
+  x_T16_S15_Mo_2
+  x_T5_S2_Th_1
+  x_T17_S3_Tu_2
+  x_T27_S20_We_4
+  x_T22_S20_Fr_5
+  x_T32_S9_We_5
+  x_T22_S18_We_3
+  x_T32_S6_Th_2
+  x_T7_S12_Mo_2
+  x_T25_S8_Tu_4
+  x_T10_S4_Mo_4
+  x_T17_S13_Tu_5
+  x_T17_S13_Tu_4
+  x_T15_S4_We_2
+  x_T11_S8_Mo_2
+  x_T25_S7_Tu_5
+  x_T31_S12_Fr_5
+  x_T3_S14_Mo_5
+  x_T1_S16_Fr_5
+  x_T14_S10_Th_1
+  x_T28_S12_Fr_4
+  x_T20_S5_Tu_1
+  x_T7_S12_Fr_2
+  x_T25_S7_Th_2
+  x_T10_S1_Fr_1
+  x_T6_S6_We_5
+  x_T23_S1_Th_5
+  x_T12_S12_We_2
+  x_T3_S14_Fr_3
+  x_T28_S15_Th_5
+  x_T11_S8_Fr_4
+  x_T28_S12_Th_2
+  x_T1_S16_Tu_5
+  x_T26_S10_Tu_5
+  x_T3_S13_Mo_3
+  x_T19_S15_Th_5
+  x_T3_S15_Mo_1
+  x_T9_S20_Fr_2
+  x_T17_S2_Tu_4
+  x_T22_S20_Mo_5
+  x_T2_S11_We_4
+  x_T24_S13_Fr_1
+  x_T14_S17_Fr_3
+  x_T33_S20_We_1
+  x_T31_S6_Tu_1
+  x_T32_S3_Tu_2
+  x_T24_S14_Tu_4
+  x_T13_S19_Th_2
+  x_T32_S9_We_3
+  x_T7_S13_Fr_3
+  x_T32_S20_Mo_2
+  x_T21_S11_We_1
+  x_T8_S11_Fr_2
+  x_T32_S19_Mo_1
+  x_T6_S8_Th_4
+  x_T20_S5_Fr_3
+  x_T30_S11_Th_3
+  x_T1_S4_We_5
+  x_T13_S20_Mo_4
+  x_T9_S18_Tu_2
+  x_T17_S13_Tu_2
+  x_T4_S6_Th_5
+  x_T9_S15_We_1
+  x_T9_S19_Tu_5
+  x_T14_S16_Fr_5
+  x_T20_S5_We_5
+  x_T32_S2_Fr_5
+  x_T19_S12_Tu_4
+  x_T14_S1_Tu_3
+  x_T22_S15_Tu_1
+  x_T4_S6_Th_2
+  x_T24_S14_Tu_5
+  x_T16_S9_Fr_1
+  x_T8_S11_Mo_4
+  x_T2_S7_We_5
+  x_T29_S13_Mo_3
+  x_T19_S9_Mo_1
+  x_T32_S7_We_1
+  x_T1_S17_Fr_4
+  x_T8_S14_Mo_4
+  x_T31_S3_Mo_4
+  x_T2_S8_Th_5
+  x_T23_S11_Tu_4
+  y_T18
+  x_T27_S17_We_5
+  x_T23_S19_Fr_3
+  x_T1_S2_Mo_5
+  x_T11_S9_Tu_2
+  x_T1_S1_Mo_5
+  x_T6_S12_We_3
+  x_T21_S12_Th_1
+  x_T16_S7_We_2
+  x_T32_S19_Th_5
+  x_T30_S2_Tu_4
+  x_T33_S19_Mo_1
+  x_T5_S1_We_1
+  x_T14_S10_Mo_4
+  x_T27_S11_Fr_2
+  x_T27_S8_Mo_1
+  x_T16_S8_Mo_1
+  x_T16_S20_Fr_3
+  x_T6_S6_We_3
+  x_T27_S11_Tu_2
+  x_T31_S6_Tu_2
+  x_T27_S2_Tu_2
+  x_T32_S20_Tu_5
+  x_T8_S14_Tu_3
+  x_T5_S4_Fr_4
+  x_T19_S20_Tu_2
+  x_T19_S15_Fr_2
+  x_T18_S11_We_5
+  x_T29_S16_Fr_5
+  x_T32_S20_Fr_4
+  x_T33_S16_Tu_3
+  x_T32_S9_Fr_1
+  x_T12_S12_Mo_1
+  x_T32_S18_Th_4
+  x_T30_S2_Fr_4
+  x_T3_S14_Fr_4
+  x_T26_S16_Fr_1
+  x_T30_S17_Fr_2
+  x_T19_S12_Fr_1
+  x_T21_S10_Tu_5
+  x_T7_S13_Th_4
+  x_T24_S14_Tu_3
+  x_T32_S2_We_5
+  x_T22_S16_Mo_2
+  x_T30_S17_Fr_5
+  x_T16_S8_Fr_2
+  x_T7_S13_Mo_1
+  x_T10_S4_We_5
+  x_T26_S4_We_2
+  x_T32_S16_Fr_5
+  x_T5_S1_We_5
+  x_T17_S1_Tu_4
+  x_T5_S3_Fr_3
+  x_T24_S5_Fr_4
+  x_T11_S9_Th_4
+  x_T11_S7_We_2
+  x_T18_S14_Tu_5
+  x_T26_S4_Fr_2
+  x_T21_S13_Fr_1
+  x_T19_S15_Mo_4
+  x_T24_S20_Th_5
+  x_T1_S3_Th_2
+  x_T12_S14_Fr_3
+  x_T14_S17_Mo_3
+  x_T15_S14_Th_3
+  x_T1_S4_Th_5
+  x_T6_S10_Fr_1
+  x_T6_S8_We_2
+  x_T24_S5_We_1
+  x_T17_S10_Fr_1
+  x_T16_S7_Fr_5
+  x_T5_S1_Fr_3
+  x_T33_S17_Tu_3
+  x_T19_S8_Mo_3
+  x_T14_S2_Fr_2
+  x_T27_S11_Th_2
+  x_T22_S19_Fr_1
+  x_T32_S19_Fr_5
+  x_T4_S20_Fr_4
+  x_T30_S8_Tu_3
+  x_T28_S15_Mo_1
+  x_T16_S8_We_1
+  x_T26_S16_We_4
+  x_T20_S6_We_2
+  x_T6_S6_Tu_5
+  x_T19_S7_Th_5
+  x_T16_S8_Tu_1
+  x_T28_S12_We_1
+  x_T28_S12_Mo_3
+  x_T12_S12_Tu_1
+  x_T16_S7_Fr_4
+  x_T23_S2_Fr_2
+  x_T12_S12_We_4
+  x_T32_S2_Mo_1
+  x_T5_S3_We_5
+  x_T24_S14_We_5
+  x_T31_S9_Mo_1
+  x_T32_S18_Th_1
+  x_T15_S19_Mo_5
+  x_T5_S4_We_1
+  x_T22_S20_Th_5
+  x_T1_S17_Mo_3
+  x_T21_S14_Th_4
+  x_T6_S10_Mo_4
+  x_T17_S2_We_1
+  x_T10_S1_Th_1
+  x_T27_S20_Mo_5
+  x_T7_S11_Th_1
+  x_T11_S7_Th_4
+  x_T25_S7_Fr_2
+  x_T25_S17_Mo_1
+  x_T26_S13_Th_2
+  x_T22_S17_Mo_5
+  x_T24_S13_Mo_1
+  x_T29_S19_Mo_1
+  x_T24_S15_Mo_2
+  x_T26_S4_We_4
+  x_T13_S18_We_4
+  x_T19_S15_Mo_2
+  x_T6_S7_Th_5
+  x_T26_S4_Mo_5
+  x_T22_S18_Mo_4
+  x_T16_S20_Fr_4
+  x_T32_S6_Tu_5
+  x_T2_S8_Tu_4
+  x_T25_S8_We_4
+  x_T3_S13_Th_1
+  x_T32_S17_Th_3
+  x_T9_S17_We_3
+  x_T21_S14_Fr_4
+  x_T19_S9_We_1
+  x_T7_S13_Tu_5
+  x_T5_S2_Tu_2
+  x_T13_S18_Th_3
+  x_T9_S17_Mo_2
+  x_T11_S8_Tu_2
+  x_T25_S7_We_5
+  x_T1_S16_Tu_4
+  x_T9_S15_Mo_5
+  x_T20_S7_We_3
+  x_T20_S7_Fr_4
+  x_T32_S16_Tu_1
+  x_T21_S14_Mo_4
+  x_T20_S6_Fr_3
+  x_T28_S12_We_4
+  x_T20_S1_Th_5
+  x_T24_S13_Th_4
+  x_T28_S3_Fr_1
+  x_T30_S14_Th_5
+  x_T8_S16_Tu_2
+  x_T26_S10_We_2
+  x_T31_S20_Tu_1
+  x_T29_S13_Fr_4
+  x_T17_S16_Fr_1
+  x_T20_S7_Tu_5
+  x_T12_S11_Fr_4
+  x_T22_S16_Fr_1
+  x_T31_S18_Fr_3
+  x_T6_S6_Tu_4
+  x_T26_S7_Tu_5
+  x_T3_S15_We_1
+  x_T9_S18_We_1
+  x_T17_S16_We_3
+  x_T9_S19_We_3
+  x_T15_S5_Mo_4
+  x_T5_S3_Th_2
+  x_T3_S12_Fr_4
+  x_T3_S15_Tu_3
+  x_T19_S8_We_1
+  x_T16_S9_We_3
+  x_T32_S19_We_2
+  x_T3_S13_Th_5
+  x_T31_S20_Th_5
+  x_T12_S11_We_1
+  x_T2_S9_We_4
+  x_T1_S1_We_3
+  x_T3_S13_Fr_3
+  x_T16_S7_Th_4
+  x_T21_S11_Th_5
+  x_T17_S10_Fr_2
+  x_T25_S7_Th_1
+  x_T10_S2_Fr_5
+  x_T16_S8_Fr_5
+  x_T2_S8_Mo_1
+  x_T15_S6_Th_4
+  x_T2_S10_Th_5
+  x_T7_S10_Mo_4
+  x_T33_S20_Fr_1
+  y_T20
+  x_T32_S17_Th_1
+  x_T27_S2_Tu_3
+  x_T18_S4_Th_1
+  x_T27_S2_Th_1
+  x_T26_S1_Th_1
+  x_T29_S13_We_4
+  x_T14_S16_Tu_2
+  x_T6_S5_Th_1
+  x_T11_S7_Mo_1
+  x_T3_S13_Th_3
+  x_T31_S15_Th_3
+  x_T32_S17_Th_4
+  y_T27
+  x_T31_S6_Th_2
+  x_T4_S18_Mo_1
+  x_T9_S15_Tu_1
+  x_T32_S8_Th_3
+  x_T13_S18_We_5
+  x_T15_S14_Mo_4
+  x_T19_S9_Fr_1
+  x_T29_S1_Tu_3
+  x_T14_S2_Mo_1
+  x_T15_S18_Th_3
+  x_T26_S13_Tu_4
+  x_T17_S1_Th_5
+  x_T6_S6_Mo_4
+  x_T18_S14_Fr_1
+  x_T8_S11_Mo_1
+  x_T31_S18_Tu_2
+  x_T16_S7_We_5
+  x_T32_S6_Mo_5
+  x_T2_S9_We_2
+  x_T14_S13_Fr_4
+  x_T24_S4_We_1
+  x_T29_S13_We_3
+  x_T28_S12_Tu_4
+  x_T29_S7_Mo_5
+  x_T8_S16_Mo_3
+  x_T32_S4_Tu_2
+  x_T32_S7_Tu_4
+  x_T11_S10_Fr_3
+  x_T29_S10_Tu_2
+  x_T6_S5_We_5
+  x_T2_S8_Mo_3
+  x_T22_S20_Mo_2
+  x_T1_S2_Fr_4
+  x_T32_S3_Mo_5
+  x_T28_S6_Th_4
+  x_T3_S12_Fr_1
+  x_T32_S16_Th_3
+  x_T17_S1_We_5
+  x_T14_S16_We_1
+  x_T22_S15_Fr_3
+  x_T32_S5_Mo_2
+  x_T28_S12_We_5
+  x_T30_S14_We_1
+  x_T10_S5_We_5
+  x_T3_S14_Tu_3
+  x_T32_S6_Tu_2
+  y_T31
+  x_T19_S7_We_2
+  x_T16_S8_Mo_2
+  x_T21_S14_Tu_2
+  x_T29_S10_Mo_1
+  x_T15_S19_Fr_3
+  x_T10_S1_We_1
+  x_T32_S1_Tu_1
+  x_T1_S16_We_1
+  x_T21_S14_Fr_3
+  x_T19_S9_Mo_5
+  x_T19_S8_Mo_1
+  x_T4_S18_Tu_2
+  x_T10_S1_Th_2
+  x_T1_S3_Tu_4
+  x_T18_S14_Fr_2
+  x_T24_S15_Tu_5
+  x_T16_S15_Tu_3
+  x_T15_S14_Fr_4
+  x_T33_S17_Fr_2
+  x_T17_S16_Tu_1
+  x_T23_S10_Fr_5
+  x_T32_S3_Tu_1
+  x_T21_S11_Fr_2
+  x_T30_S8_Tu_4
+  x_T33_S19_Tu_5
+  x_T6_S8_Th_5
+  x_T21_S14_We_2
+  x_T17_S16_Th_1
+  x_T7_S11_Tu_1
+  x_T26_S10_We_4
+  x_T5_S14_Th_4
+  x_T19_S9_Tu_5
+  x_T32_S4_Fr_1
+  x_T11_S9_Th_5
+  x_T20_S4_Mo_2
+  x_T15_S18_Tu_1
+  x_T4_S18_Tu_1
+  x_T20_S5_Fr_5
+  x_T8_S15_We_5
+  x_T25_S18_Mo_5
+  x_T11_S8_We_3
+  x_T3_S15_Mo_5
+  y_T26
+  x_T6_S10_Mo_1
+  x_T4_S20_Tu_2
+  x_T32_S1_We_5
+  x_T12_S11_Mo_4
+  x_T26_S10_Th_4
+  x_T11_S6_We_5
+  x_T19_S9_Mo_2
+  x_T20_S4_Mo_4
+  x_T32_S2_We_2
+  x_T29_S16_Th_3
+  x_T31_S15_Fr_5
+  x_T16_S12_We_4
+  x_T28_S6_Tu_3
+  x_T18_S18_Fr_3
+  x_T7_S11_Th_2
+  x_T12_S15_Th_4
+  x_T32_S5_Tu_2
+  x_T18_S5_Tu_2
+  x_T29_S16_Tu_3
+  x_T4_S6_Mo_5
+  x_T17_S10_Th_3
+  x_T17_S1_Fr_2
+  x_T30_S14_Tu_4
+  x_T32_S4_Fr_4
+  x_T4_S5_Fr_5
+  x_T27_S17_Tu_2
+  x_T2_S9_Th_1
+  x_T11_S8_Tu_3
+  x_T9_S15_Mo_1
+  x_T25_S9_Mo_4
+  x_T13_S19_Th_1
+  x_T21_S10_Mo_1
+  x_T33_S19_Fr_3
+  x_T31_S6_Fr_5
+  x_T8_S15_Fr_1
+  x_T32_S8_We_1
+  x_T27_S11_We_3
+  x_T31_S9_Fr_3
+  x_T22_S16_Mo_1
+  x_T29_S19_Tu_2
+  x_T24_S20_Fr_3
+  x_T12_S11_We_4
+  x_T30_S17_Th_4
+  x_T31_S3_Tu_4
+  x_T11_S8_Th_3
+  x_T15_S11_Tu_4
+  x_T20_S5_Mo_4
+  x_T24_S20_Th_1
+  x_T22_S19_Mo_4
+  x_T32_S17_Mo_3
+  x_T11_S6_Th_1
+  x_T24_S20_Mo_1
+  x_T12_S12_Fr_2
+  x_T32_S17_We_3
+  x_T31_S12_Th_1
+  x_T33_S16_Fr_2
+  x_T12_S13_We_1
+  x_T30_S5_Fr_1
+  x_T10_S4_Mo_2
+  x_T30_S17_Mo_3
+  x_T1_S3_Tu_2
+  x_T25_S9_Fr_4
+  x_T25_S7_Mo_3
+  x_T14_S17_Fr_4
+  x_T24_S20_Tu_5
+  x_T16_S12_We_1
+  x_T17_S13_We_5
+  x_T22_S15_Tu_3
+  x_T26_S7_Mo_5
+  x_T12_S15_Tu_1
+  x_T32_S7_We_3
+  x_T33_S17_Mo_5
+  x_T16_S15_We_1
+  x_T9_S18_Th_3
+  x_T19_S12_Mo_4
+  x_T2_S11_We_1
+  x_T20_S1_Th_4
+  x_T21_S14_Mo_1
+  x_T16_S20_We_1
+  x_T23_S1_We_2
+  x_T10_S5_We_1
+  x_T2_S7_Fr_4
+  x_T30_S17_Tu_1
+  x_T29_S19_We_4
+General
+  g_T12_S15
+  g_T23_S2
+  g_T19_S7
+  g_T5_S2
+  g_T12_S14
+  g_T32_S7
+  g_T20_S5
+  g_T14_S17
+  g_T2_S9
+  g_T26_S13
+  g_T21_S14
+  g_T4_S19
+  g_T28_S12
+  g_T28_S6
+  g_T33_S19
+  g_T13_S18
+  g_T7_S11
+  g_T23_S1
+  g_T14_S13
+  g_T9_S15
+  g_T8_S14
+  g_T25_S17
+  g_T20_S4
+  g_T29_S19
+  g_T5_S3
+  g_T24_S6
+  g_T4_S5
+  g_T17_S10
+  g_T9_S20
+  g_T15_S18
+  g_T16_S8
+  g_T6_S7
+  g_T32_S17
+  g_T32_S5
+  g_T17_S13
+  g_T26_S10
+  g_T31_S15
+  g_T18_S4
+  g_T23_S12
+  g_T32_S8
+  g_T1_S17
+  g_T16_S12
+  g_T31_S20
+  g_T19_S20
+  g_T17_S3
+  g_T21_S11
+  g_T17_S16
+  g_T19_S12
+  g_T24_S14
+  g_T19_S15
+  g_T13_S20
+  g_T4_S6
+  g_T14_S2
+  g_T23_S3
+  g_T27_S14
+  g_T30_S17
+  g_T13_S16
+  g_T9_S18
+  g_T17_S17
+  g_T6_S12
+  g_T32_S1
+  g_T20_S7
+  g_T24_S13
+  g_T8_S11
+  g_T14_S10
+  g_T22_S20
+  g_T26_S19
+  g_T9_S19
+  g_T31_S3
+  g_T2_S10
+  g_T17_S1
+  g_T6_S8
+  g_T18_S11
+  g_T3_S13
+  g_T3_S14
+  g_T24_S15
+  g_T13_S19
+  g_T30_S8
+  g_T25_S18
+  g_T18_S19
+  g_T2_S8
+  g_T12_S12
+  g_T13_S17
+  g_T18_S14
+  g_T22_S18
+  g_T10_S3
+  g_T28_S9
+  g_T12_S11
+  g_T11_S6
+  g_T11_S8
+  g_T22_S15
+  g_T15_S4
+  g_T33_S17
+  g_T16_S20
+  g_T20_S3
+  g_T29_S1
+  g_T22_S19
+  g_T5_S4
+  g_T4_S18
+  g_T16_S15
+  g_T29_S7
+  g_T30_S14
+  g_T14_S1
+  g_T5_S14
+  g_T28_S18
+  g_T20_S1
+  g_T16_S7
+  g_T32_S19
+  g_T21_S8
+  g_T9_S17
+  g_T10_S1
+  g_T4_S20
+  g_T20_S2
+  g_T27_S11
+  g_T10_S4
+  g_T1_S1
+  g_T27_S8
+  g_T31_S6
+  g_T23_S11
+  g_T2_S11
+  g_T27_S5
+  g_T32_S2
+  g_T33_S16
+  g_T18_S6
+  g_T28_S3
+  g_T19_S9
+  g_T10_S5
+  g_T16_S9
+  g_T25_S7
+  g_T11_S9
+  g_T32_S4
+  g_T24_S20
+  g_T22_S16
+  g_T7_S12
+  g_T5_S1
+  g_T8_S16
+  g_T15_S19
+  g_T29_S13
+  g_T18_S18
+  g_T6_S10
+  g_T24_S5
+  g_T27_S2
+  g_T3_S15
+  g_T2_S7
+  g_T3_S12
+  g_T21_S13
+  g_T15_S5
+  g_T10_S2
+  g_T32_S18
+  g_T11_S7
+  g_T24_S4
+  g_T1_S3
+  g_T32_S6
+  g_T32_S16
+  g_T31_S18
+  g_T26_S7
+  g_T27_S17
+  g_T22_S17
+  g_T29_S10
+  g_T29_S16
+  g_T7_S10
+  g_T30_S5
+  g_T32_S20
+  g_T1_S16
+  g_T15_S6
+  g_T19_S8
+  g_T14_S16
+  g_T30_S2
+  g_T28_S15
+  g_T25_S16
+  g_T26_S1
+  g_T25_S9
+  g_T15_S14
+  g_T26_S4
+  g_T31_S9
+  g_T20_S6
+  g_T23_S19
+  g_T21_S12
+  g_T1_S2
+  g_T8_S15
+  g_T6_S5
+  g_T21_S10
+  g_T26_S16
+  g_T31_S12
+  g_T25_S8
+  g_T29_S4
+  g_T17_S2
+  g_T21_S9
+  g_T15_S11
+  g_T33_S20
+  g_T11_S10
+  g_T7_S13
+  g_T32_S3
+  g_T33_S18
+  g_T23_S10
+  g_T27_S20
+  g_T12_S13
+  g_T1_S4
+  g_T18_S5
+  g_T30_S11
+  g_T32_S9
+  g_T6_S6
+  g_T7_S9
+  g_T14_S3
+  g_T8_S13
 End
