@@ -1,0 +1,50 @@
+---
+
+### **Função Objetivo**
+O objetivo do problema é minimizar o custo total associado à criação de horários escolares, considerando três tipos de custos:
+1. **Custo por aulas duplas não atendidas** (\( \delta g_{tc} \)): Cada aula dupla não atendida adiciona um custo fixo ao total.
+2. **Custo por períodos ociosos** (\( \omega x_{ta} \)): Cada período em que o professor está ocioso gera um custo adicional.
+3. **Custo por dias de trabalho** (\( \gamma x_{ta} \)): Cada dia em que o professor trabalha gera um custo fixo.
+
+A função objetivo pode ser lida como:
+"Minimizar a soma dos custos de aulas duplas não atendidas, períodos ociosos e dias de trabalho de todos os professores."
+
+---
+
+### **Restrições**
+As restrições representam as condições que precisam ser atendidas para criar um cronograma válido. Vamos interpretá-las:
+
+1. **Conservação de Fluxo**:
+   Para cada professor (\( t \)) e nó (\( v \)), a diferença entre o número de arcos que entram e saem deve ser igual a um valor específico (\( b_v \)):
+   - \( b_v = 1 \) se o nó é a origem (início do trajeto do professor).
+   - \( b_v = -1 \) se o nó é o destino (final do trajeto do professor).
+   - Caso contrário, \( b_v = 0 \).
+
+   Isso garante que os professores só percorrem trajetos válidos entre aulas, sem interrupções ou nós desconectados.
+
+2. **Cada Aula é Atribuída no Máximo Uma Vez**:
+   Uma aula para uma turma (\( c \)), em um dia (\( d \)) e período (\( p \)), pode ser alocada no máximo uma vez. Isso impede que a mesma aula seja atribuída múltiplas vezes.
+
+3. **Número de Aulas Obrigatórias**:
+   Para cada professor (\( t \)) e turma (\( c \)), o número total de aulas alocadas deve ser igual ao número de aulas planejadas (\( H_{tc} \)).
+
+4. **Máximo de Aulas Diárias**:
+   Para cada professor (\( t \)) e turma (\( c \)), o número de aulas em um único dia não pode ultrapassar o limite diário permitido (\( L_{tc} \)).
+
+5. **Aulas no Primeiro Período do Dia**:
+   Para o primeiro período do dia (\( h = 1 \)), apenas uma aula pode ser atribuída, respeitando a regra de inicialização de horários.
+
+6. **Aulas Duplas Não Atendidas**:
+   O número de aulas duplas não atendidas para cada professor (\( t \)) e turma (\( c \)) deve ser maior ou igual à diferença entre o número mínimo necessário (\( M_{tc} \)) e o número de aulas duplas efetivamente atribuídas.
+
+7. **Mínimo de Dias de Trabalho**:
+   Para cada professor (\( t \)), o número de dias de trabalho efetivos deve ser maior ou igual ao mínimo exigido (\( Y'_t \)).
+
+8. **Variáveis de Decisão**:
+   As variáveis \( x_{ta} \) são binárias, indicando se o professor (\( t \)) utiliza um arco (\( a \)) ou não.
+   Já \( g_{tc} \) é uma variável contínua que indica o número de aulas duplas não atendidas.
+
+---
+
+### **Resumo Verbal**
+"O problema busca criar um cronograma escolar que minimize os custos totais de aulas duplas não atendidas, períodos ociosos e dias de trabalho dos professores, enquanto respeita as seguintes restrições: os professores percorrem trajetos válidos entre aulas, cada aula é atribuída no máximo uma vez, o número total de aulas e o máximo diário são respeitados, aulas duplas e dias de trabalho mínimos são garantidos, e variáveis de decisão seguem suas definições."

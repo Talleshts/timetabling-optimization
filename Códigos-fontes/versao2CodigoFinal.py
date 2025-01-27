@@ -86,6 +86,7 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                 terms_out = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
                 
                 # Determinar o valor de b_v
+                # PERGUNTAR GERALDO SOBRE ESSE PONTO
                 if time["id"].endswith("_1"):  # Supondo que o primeiro período do dia seja a origem
                     b_v = 1
                 elif time["id"].endswith("_5"):  # Supondo que o último período do dia seja o destino
