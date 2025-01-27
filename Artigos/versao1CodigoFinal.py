@@ -4,6 +4,12 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     tree = ET.parse(input_file)
     root = tree.getroot()
 
+    # Encontrar a tag <Instances>
+    instances = root.find(".//Instances")
+    if instances is None:
+        print("Erro: Nenhuma tag <Instances> encontrada.")
+        return
+
     # Dicionários para armazenar os dados
     times = []
     rooms = []
@@ -13,30 +19,31 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     time_groups = {}
 
     print("Lendo os tempos...")
-    for time in root.findall(".//Time"):
+    for time in instances.findall(".//Time"):
         time_id = time.attrib.get("Id")
         ref = time.find(".//Day").attrib.get("Reference") if time.find(".//Day") is not None else None
         if time_id and ref:
             times.append({"id": time_id, "group": ref})
+    print(f"Tempos lidos: {times}")
 
     print("Lendo os grupos de tempo...")
-    for group in root.findall(".//TimeGroups/*"):
+    for group in instances.findall(".//TimeGroups/*"):
         ref = group.attrib.get("Id")
         name_elem = group.find("Name")
         name = name_elem.text if name_elem is not None else ref
         if ref and name:
             time_groups[ref] = name
+    print(f"Grupos de tempo lidos: {time_groups}")
 
     print("Lendo as salas...")
-    for resource in root.findall(".//Resource"):
+    for resource in instances.findall(".//Resource"):
         res_type = resource.find("ResourceType")
         if res_type is not None and res_type.attrib.get("Reference") == "Room":
             rooms.append(resource.attrib.get("Reference"))
+    print(f"Salas lidas: {rooms}")
 
     print("Lendo os eventos...")
-    for idx, event in enumerate(root.findall(".//Event"), start=1):
-        if event.tag == "Instances":
-            break
+    for idx, event in enumerate(instances.findall(".//Event"), start=1):
         event_id = f"E{idx}"  # Abreviação numérica para o ID do evento
         duration_elem = event.find("Duration")
         if duration_elem is not None and duration_elem.text.isdigit():
@@ -46,8 +53,15 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
             continue
 
         resources = [res.attrib.get("Reference") for res in event.findall(".//Resource")]
-        teacher = next((res for res in resources if "T" in res), None)
-        class_group = next((res for res in resources if "C" in res), None)
+        print(f"Recursos do evento {event_id}: {resources}")
+        teacher = next((res for res in resources if res.startswith("T")), None)
+        class_group = next((res for res in resources if res.startswith("S")), None)
+        print(f"Professor: {teacher}, Classe: {class_group}")
+
+        if not teacher:
+            print(f"Aviso: Evento {event_id} ignorado. Professor ausente.")
+        if not class_group:
+            print(f"Aviso: Evento {event_id} ignorado. Classe ausente.")
 
         if teacher and class_group:
             events.append({
@@ -56,8 +70,7 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
                 "teacher": teacher,
                 "class": class_group
             })
-        else:
-            print(f"Aviso: Evento {event_id} ignorado. Classe ou professor ausentes.")
+    print(f"Eventos lidos: {events}")
 
     if not rooms:
         print("Erro: Nenhum elemento <Room> válido foi encontrado.")
