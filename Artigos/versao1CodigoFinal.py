@@ -35,13 +35,6 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
             time_groups[ref] = name
     print(f"Grupos de tempo lidos: {time_groups}")
 
-    print("Lendo as salas...")
-    for resource in instances.findall(".//Resource"):
-        res_type = resource.find("ResourceType")
-        if res_type is not None and res_type.attrib.get("Reference") == "Room":
-            rooms.append(resource.attrib.get("Reference"))
-    print(f"Salas lidas: {rooms}")
-
     print("Lendo os eventos...")
     for idx, event in enumerate(instances.findall(".//Event"), start=1):
         event_id = f"E{idx}"  # Abreviação numérica para o ID do evento
@@ -72,10 +65,6 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
             })
     print(f"Eventos lidos: {events}")
 
-    if not rooms:
-        print("Erro: Nenhum elemento <Room> válido foi encontrado.")
-        return
-
     print("Gerando arquivo LP...")
     with open(output_file, "w") as lp_file:
         lp_file.write("Minimize\n")
@@ -93,113 +82,76 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
         lp_file.write(" + ".join(objective_terms) + "\n")
         lp_file.write("Subject To\n")
 
-        # Restrições: cada evento deve ocorrer em apenas um timeslot
-        for event in events:
-            constraint_name = f"event_{event['id']}_timeslot"
-            lp_file.write(f""" {constraint_name}: {' + '.join([f'x_{event["teacher"]}_{event["class"]}_{time["id"]}' for time in times])} = {event['duration']}\n""")
-
-        # Restrições de sala: uma sala só pode ser usada por um evento por vez
-        for time in times:
-            for room in rooms:
-                if room:
-                    constraint_name = f"room_{room}_time_{time['id']}"
-                    lp_file.write(f""" {constraint_name}: {' + '.join([f'x_{event["teacher"]}_{event["class"]}_{time["id"]}' for event in events])} <= 1\n""")
-
-        # H1: Carga horária
-        for event in events:
-            if event["teacher"] and event["class"]:
-                terms = [f"x_{event['teacher']}_{event['class']}_{time['id']}" for time in times]
-                if terms:  # Verifica se há termos na restrição
-                    constraint_name = f"H1_{event['teacher']}_{event['class']}"
-                    lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" = {event['duration']}\n")
-
-        # H2: Conflito de horário por professor
+        # Restrição 2: Fluxo de entrada e saída nos nós
         for teacher in {e["teacher"] for e in events if e["teacher"]}:
             for time in times:
-                terms = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
-                if terms:
-                    constraint_name = f"H2_{teacher}_time_{time['id']}"
-                    lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 1\n")
+                terms_in = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
+                terms_out = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
+                if terms_in or terms_out:
+                    constraint_name = f"flow_{teacher}_{time['id']}"
+                    lp_file.write(f" {constraint_name}: " + " + ".join(terms_in) + " - " + " - ".join(terms_out) + " = 0\n")
 
-        # H3: Conflito de horário por turma
+        # Restrição 3: Capacidade unitária dos arcos de aula
         for cls in {e["class"] for e in events if e["class"]}:
             for time in times:
                 terms = [f"x_{event['teacher']}_{cls}_{time['id']}" for event in events if event["class"] == cls and event["teacher"]]
                 if terms:
-                    constraint_name = f"H3_{cls}_time_{time['id']}"
+                    constraint_name = f"capacity_{cls}_{time['id']}"
                     lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 1\n")
 
-        # H4: Indisponibilidade dos professores
-        for constraint in constraints:
-            if constraint["name"] == "AvoidUnavailableTimes":
-                for time in times:
-                    terms = [f"x_{constraint['id']}_{event['class']}_{time['id']}" for event in events if event["teacher"] == constraint["id"] and event["class"]]
-                    if terms:
-                        constraint_name = f"H4_{constraint['id']}_time_{time['id']}"
-                        lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " = 0\n")
-
-        # H5: Máximo de aulas diárias
+        # Restrição 4: Carga horária
         for event in events:
-            if event["teacher"] and event["class"] and event.get("max_daily"):
+            if event["teacher"] and event["class"]:
+                terms = [f"x_{event['teacher']}_{event['class']}_{time['id']}" for time in times]
+                if terms:
+                    constraint_name = f"workload_{event['teacher']}_{event['class']}"
+                    lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" = {event['duration']}\n")
+
+        # Restrição 5: Máximo de aulas diárias
+        for event in events:
+            if event["teacher"] and event["class"]:
                 daily_terms = {}
                 for time in times:
-                    group = time_groups.get(time["group"], time["group"])  # Usar o nome do grupo se disponível, caso contrário, usar o ID
+                    group = time_groups.get(time["group"], time["group"])
                     if group not in daily_terms:
                         daily_terms[group] = []
                     daily_terms[group].append(f"x_{event['teacher']}_{event['class']}_{time['id']}")
                 for group, terms in daily_terms.items():
                     if terms:
-                        constraint_name = f"H5_{event['teacher']}_{event['class']}_group_{group}"
-                        lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" <= {event['max_daily']}\n")
+                        constraint_name = f"max_daily_{event['teacher']}_{event['class']}_{group}"
+                        lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 2\n")
 
-        # H6: Lições duplas
+        # Restrição 6: Conflito de horário por professor
+        for teacher in {e["teacher"] for e in events if e["teacher"]}:
+            for time in times:
+                terms = [f"x_{teacher}_{event['class']}_{time['id']}" for event in events if event["teacher"] == teacher and event["class"]]
+                if terms:
+                    constraint_name = f"conflict_teacher_{teacher}_{time['id']}"
+                    lp_file.write(f" {constraint_name}: " + " + ".join(terms) + " <= 1\n")
+
+        # Restrição 7: Lições duplas
         for event in events:
-            if event["teacher"] and event["class"] and event.get("double_lessons"):
+            if event["teacher"] and event["class"]:
                 for i, time in enumerate(times[:-1]):
                     current_time = time["id"]
                     next_time = times[i + 1]["id"]
-                    if time["group"] == times[i + 1]["group"]:  # Verificar se estão no mesmo grupo
+                    if time["group"] == times[i + 1]["group"]:
                         double_var = f"double_{event['id']}_{current_time}"
                         terms = [
                             f"x_{event['teacher']}_{event['class']}_{current_time}",
                             f"x_{event['teacher']}_{event['class']}_{next_time}"
                         ]
                         if terms:
-                            constraint_name = f"H6_{event['teacher']}_{event['class']}_time_{current_time}"
+                            constraint_name = f"double_lessons_{event['teacher']}_{event['class']}_{current_time}"
                             lp_file.write(f" {constraint_name}: " + double_var + " - " + " - ".join(terms) + " >= -1\n")
 
-        # S1: Períodos ociosos
-        for teacher in {e["teacher"] for e in events if e["teacher"]}:
-            for group in time_groups.values():
-                group_periods = [time for time in times if time_groups.get(time["group"], time["group"]) == group]
-                for i in range(len(group_periods) - 1):
-                    current = group_periods[i]["id"]
-                    next_period = group_periods[i + 1]["id"]
-                    idle_var = f"idle_{teacher}_{current}"
-                    terms = []
-                    for event in events:
-                        if event["teacher"] == teacher:
-                            terms.append(f"x_{teacher}_{event['class']}_{current}")
-                            terms.append(f"x_{teacher}_{event['class']}_{next_period}")
-                    if terms:
-                        constraint_name = f"S1_{teacher}_time_{current}"
-                        lp_file.write(f" {constraint_name}: " + idle_var + " - " + " - ".join(terms) + " >= 0\n")
-
-        # S2: Dias de trabalho
+        # Restrição 8: Dias de trabalho
         for teacher in {e["teacher"] for e in events if e["teacher"]}:
             for group in time_groups.values():
                 terms = [f"x_{teacher}_{time['id']}" for time in times if time_groups.get(time["group"], time["group"]) == group]
                 if terms:
-                    constraint_name = f"S2_{teacher}_group_{group}"
+                    constraint_name = f"working_days_{teacher}_{group}"
                     lp_file.write(f" {constraint_name}: " + f"days_{teacher}" + " - " + " - ".join(terms) + " >= 0\n")
-
-        # S3: Lições duplas solicitadas
-        for event in events:
-            if event.get("double_lessons"):
-                terms = [f"double_{event['id']}_{time['id']}" for time in times]
-                if terms:
-                    constraint_name = f"S3_{event['teacher']}_{event['class']}"
-                    lp_file.write(f" {constraint_name}: " + " + ".join(terms) + f" >= {event['double_lessons']}\n")
 
         lp_file.write("Binary\n")
         binary_vars = set()
@@ -216,4 +168,4 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     print(f"Arquivo LP gerado em {output_file}")
 
 # Exemplo de chamada da função
-read_xml_and_generate_lp_with_weights("Instâncias\ArtificialAbramson15.xml", "./outputs/lps/AAAAAAAAAAAA.lp")
+read_xml_and_generate_lp_with_weights("Instâncias/BrazilInstance2.xml", "./outputs/lps/AAAAAAAAAAAA.lp")
