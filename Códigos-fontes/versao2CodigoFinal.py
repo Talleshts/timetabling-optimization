@@ -43,10 +43,10 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
             print(f"Aviso: Evento {event_id} ignorado. Duração ausente ou inválida.")
             continue
 
-        resources = [res.attrib.get("Reference") for res in event.findall(".//Resource")]
+        resources = [res.attrib.get("Reference") for res in event.findall(".//Resource") if res.attrib.get("Reference") is not None]
         print(f"Recursos do evento {event_id}: {resources}")
-        teacher = next((res for res in resources if res.startswith("T")), None)
-        class_group = next((res for res in resources if res.startswith("S")), None)
+        teacher = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType").attrib.get("Reference") == "Teacher"), None)
+        class_group = next((res.attrib.get("Reference") for res in event.findall(".//Resource") if res.find("ResourceType").attrib.get("Reference") == "Class"), None)
         max_daily_elem = event.find("MaxDaily")
         max_daily = int(max_daily_elem.text) if max_daily_elem is not None and max_daily_elem.text.isdigit() else 2
         print(f"Professor: {teacher}, Classe: {class_group}, MaxDaily: {max_daily}")
@@ -142,9 +142,9 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
 
         # Restrição 6: Aulas duplas não atendidas
         for event in events:
-            if event["teacher"] and event["class"]:
+            if event["teacher"] and event["class"] and event.get("double_lessons"):
                 ## PERGUNTAR PARA O GERALDO SOBRE ESSA RESTRIÇÃO
-                double_lessons_needed = 2  # VOU SUPOR QUE o número mínimo necessário de aulas duplas é 2
+                double_lessons_needed = event["double_lessons"]
                 terms = []
                 for i, time in enumerate(times[:-1]):
                     current_time = time["id"]
@@ -185,4 +185,4 @@ def read_xml_and_generate_lp_with_weights(input_file, output_file):
     print(f"Arquivo LP gerado em {output_file}")
 
 # Exemplo de chamada da função
-read_xml_and_generate_lp_with_weights("Instâncias/BrazilInstance7.xml", "./outputs/lps/BrazilInstance7.lp")
+read_xml_and_generate_lp_with_weights("Instâncias/ArtificialSudoku4x4.xml", "./outputs/lps/ArtificialSudoku4x4.lp")
